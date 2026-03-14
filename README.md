@@ -207,7 +207,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new events or correctio
 © 2017–2025 under [Creative Commons Attribution 4.0 International](LICENSE).
 
 Attribution:
-> *Indonesian J-Culture Event Archive* — https://github.com/YOUR_USERNAME/indonesian-jculture-archive
+> *Indonesian J-Culture Event Archive* — https://github.com/harbhum25-sys/indonesian-jculture-archive
 
 ### Citation
 
