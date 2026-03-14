@@ -214,10 +214,10 @@ Attribution:
 ```bibtex
 @dataset{indonesian_jculture_archive_2025,
   title     = {Indonesian J-Culture Event Archive},
-  author    = {[Your Name]},
+  author    = Harbhum,
   year      = {2025},
   publisher = {GitHub},
-  url       = {https://github.com/YOUR_USERNAME/indonesian-jculture-archive},
+  url       = {https://github.com/harbhum25-sys/indonesian-jculture-archive},
   note      = {Structured dataset of Japanese pop-culture events in Indonesia, 1973--2026}
 }
 ```
