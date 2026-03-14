@@ -214,7 +214,7 @@ Attribution:
 ```bibtex
 @dataset{indonesian_jculture_archive_2025,
   title     = {Indonesian J-Culture Event Archive},
-  author    = Harbhum,
+  author    = {Harbhum},
   year      = {2025},
   publisher = {GitHub},
   url       = {https://github.com/harbhum25-sys/indonesian-jculture-archive},
