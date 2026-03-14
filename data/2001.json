@@ -1,0 +1,588 @@
+[
+    {
+        "Start Date": "20010422",
+        "Start Time": "8:00 AM",
+        "End Date": "20010422",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20040401",
+        "Reminder Time": "7:30 AM",
+        "Importance": "Normal",
+        "Subject": "Gelar Jepang UI 2001",
+        "Location": "Kansas FSUI, Depok",
+        "Comment": "Seleksi tanggal 21 April 2001, biaya 40rb",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "gelarj_1",
+        "location_address": "Jl. Margonda Raya, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.363897999547883, 106.82703493739692",
+        "location_gmaps": "https://goo.gl/maps/HXTgyuCfzArznVYy5",
+        "links": [
+            "https://web.facebook.com/ali.haydar57/posts/pfbid0FNVk34ubt72qX4qH22h2TAmS8c8cQRE8FndKDrzQH6DyYmaoGxKXKFMyxpcCxVTyl",
+            "https://twitter.com/rohani_alip/status/1605733277100347393"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Budaya Jepang - Seni Tradisional",
+                "Talkshow / Seminar / Workshop",
+                "Anime - Screening / Nobar"
+            ],
+            "organizer": "Mahasiswa Jurusan Sastra Jepang [S1] Universitas Indonesia",
+            "activities": [
+                "Memasak makanan Jepang",
+                "Diskusi terbuka",
+                "Demo origami",
+                "Demo tarian Jepang",
+                "Bon Odori"
+            ],
+            "performers": {
+                "music": "Band-band tamu (Lagu Jepang dan lagu Barat)"
+            },
+            "screening": {
+                "title": "Neon Genesis Evangelion",
+                "location": "Aula tertutup"
+            },
+            "guest_stars": {
+                "speakers": [
+                    "Joe Lesmana (Animonster)",
+                    "Ibu Stanny Sibbald (Programming RCTI)",
+                    "Ibu Rahayu Hidayat (Pusat Kajian Komik UI)"
+                ]
+            },
+            "collaborators": [
+                "Kedutaan Jepang",
+                "Japan Foundation"
+            ],
+            "source": "Animonster 28 - Juni 2001"
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010605",
+        "Start Time": "10:00",
+        "End Date": "20010607",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Otaku Kansei Party",
+        "Location": "Aula Serba Guna Universitas Padjadjaran",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "fcdzbq_3",
+        "location_address": "Universitas Padjadjaran, Bandung",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Mahasiswa Sastra Jepang Universitas Padjadjaran (Unpad)",
+            "collaborators": {
+                "partner_1": "Kedutaan Besar Jepang",
+                "partner_2": "The Japan Foundation",
+                "partner_3": "TORA"
+            },
+            "media_partners": {
+                "media_1": "Radio Garuda",
+                "media_2": "Radio MGT",
+                "media_3": "Majalah Animonster"
+            },
+            "judges": {
+                "judge_1": "Bpk. Batara Sihombing",
+                "judge_2": "Ibu Chie Yoshida (Dosen Fakultas Sastra Jepang Unpad)",
+                "judge_3": "Bpk. Mursidi"
+            },
+            "speakers_discussion": {
+                "speaker_1": "Andi Yudha (Divisi Anak & Remaja Penerbit Mizan)",
+                "speaker_2": "Joe Lesmana (Majalah Animonster)"
+            },
+            "event_schedule": {
+                "day_1": "05 Juni 2001: Pembukaan, penyisihan lomba nyanyi solo, demo tari Jepang, origami, pemakaian yukata, pemutaran anime Clamp Gakuen Tanteidan dan Cardcaptor Sakura Movie.",
+                "day_2": "06 Juni 2001: Diskusi anime & manga, demo aikido, origami, pembuatan mochitsuki, penyisihan hari ke-2, pemutaran Evangelion, OVA Saint Seiya, Blood: The Last Vampire.",
+                "day_3": "07 Juni 2001: Final lomba nyanyi solo dan grup, pemutaran Love Hina, Rurouni Kenshin, Sakura Taisen."
+            },
+            "winners_solo_category": {
+                "winner_1": "Cania Cancerra (Bandung) - Lagu: Mirai e, Kimi no tame ni",
+                "winner_2": "Zulfan (Bandung) - Lagu: True Love, Get Back in Love",
+                "winner_3": "Susan Purwasusanti (Bandung) - Lagu: First Love, Mirai e",
+                "favorite_winner": "Fradittia Anggreini F. (Jakarta) - Lagu: First Love, Mirai e"
+            },
+            "winners_vocal_group_category": {
+                "winner_1": "Kantate Choir (Bandung)",
+                "winner_2": "Talika Voice (Ujungberung, Bandung)"
+            },
+            "merchandise_and_stands": {
+                "description": "Stand penjualan merchandise anime, manga, J-Culture, VCD anime, J-Music, dan J-Drama.",
+                "promo": "Stand Animonster memberikan diskon hingga 50 persen pada hari terakhir."
+            },
+            "category": [
+                "Gathering / Komunitas"
+            ]
+        },
+        "source": "Animonster 29 - Juli 2001",
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010630",
+        "Start Time": "10:00",
+        "End Date": "20010701",
+        "End Time": "18:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Promo Off-Air Doraemon The Movie",
+        "Location": "Atrium Plaza Senayan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Success",
+        "attended": "Yes",
+        "_id": "fijcwk_3",
+        "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.225372987375036, 106.79907421283555",
+        "location_gmaps": "https://maps.app.goo.gl/iTi1qVYfNA9c4Fum6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "PT. Perdana IMMG Indonesia",
+            "collaborators": {
+                "partner_1": "Chuo Senko Team",
+                "partner_2": "Paras Team",
+                "cinema_partner": "Studio 21"
+            },
+            "event_schedule": {
+                "session_1": "10:00 - 12:00",
+                "session_2": "13:00 - 15:00",
+                "session_3": "16:00 - 18:00"
+            },
+            "activities": {
+                "screening": "Doraemon Movie Preview",
+                "competition": "Lomba puzzle untuk ibu dan anak",
+                "interaction": "Kesempatan berbicara dengan para tokoh Doraemon",
+                "mascot_appearance": "Pemunculan maskot Doraemon",
+                "photo_session": "Sesi foto bersama Doraemon"
+            },
+            "event_details": {
+                "purpose": "Memperkenalkan keberadaan Doraemon The Movie kepada pengunjung mal dan menumbuhkan rasa cinta pada karakter Doraemon",
+                "target_audience": "Anak-anak, remaja, dan orang tua",
+                "attendance_stats": {
+                    "saturday_count": "Lebih dari 480 orang",
+                    "sunday_peak": "Lebih dari 500 orang",
+                    "theater_occupancy": "80-85% dari kapasitas bangku"
+                },
+                "project_cost": "Lebih dari 2 milyar rupiah"
+            },
+            "category": []
+        },
+        "source": "Animonster 30 - Agustus 2001",
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010722",
+        "Start Time": "16:30",
+        "End Date": "20010722",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "YUUSUZUMIKAI (PESTA MUSIM PANAS JEPANG)",
+        "Location": "Bandung Japanese School (BJS)",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "oafdeu_7",
+        "location_address": "Jl. Ciumbuleuit No. 199",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": [
+                "PTA Bandung Japanese School (BJS)",
+                "Sensei BJS"
+            ],
+            "presenter": [
+                "Murid-murid BJS (usia 5-12 tahun)",
+                "Tengu Lady (Animonster)"
+            ],
+            "activities": [
+                "Kingyo-sukui (memancing ikan)",
+                "Mizu-yoyo (memancing balon)",
+                "Shateki (menembak sasaran)",
+                "Wanage (lempar gelang)",
+                "Suika-wari (memecahkan semangka)",
+                "Demo tarian Korikoribushi",
+                "Bon Odori (Tari Bon)"
+            ],
+            "food_and_drinks": [
+                "Yakisoba (mie goreng)",
+                "Takoyaki",
+                "Inarizushi",
+                "Yaki-toumorokoshi (jagung bakar)",
+                "Ayam goreng",
+                "Sosis bakar",
+                "Soft drink",
+                "Bir"
+            ],
+            "ticketing": [
+                "Nyuujyo-ken (tiket masuk): Rp 1.000",
+                "Tiket makanan/permainan: Rp 1.000 - Rp 6.000",
+                "Warna tiket: Oranye (makanan), Hijau (minuman), Biru (permainan)"
+            ],
+            "attire_noted": [
+                "Yukata",
+                "Hitoe",
+                "Happi",
+                "Hachimaki"
+            ],
+            "source_info": [
+                "Animonster #31 - September 2001",
+                "Halaman 48"
+            ],
+            "category": [
+                "Party / Night Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010729",
+        "Start Time": "",
+        "End Date": "20010729",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JAF-CON10 - Hobby Expo 2001",
+        "Location": "Jepang",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ainclx_3",
+        "location_address": "",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "full_name": "Japan Fantastic Convention",
+            "organizer": "Hobby Japan",
+            "event_type": "Model Kit Contest and Exhibition",
+            "total_participants": "1.092 orang",
+            "participant_breakdown": {
+                "gundam_modelers": "659 orang",
+                "non_genre_modelers": "332 orang",
+                "custom_zoids_modelers": "101 orang"
+            },
+            "competition_categories": {
+                "category_1": "Kategori GUNDAM (Termasuk SD GUNDAM)",
+                "category_2": "Kategori Non-Genre (Termasuk Custom Zoids)"
+            },
+            "prize_structure": {
+                "first_place": "100.000 yen",
+                "second_place": "30.000 yen",
+                "third_place": "20.000 yen",
+                "consolation_prize": "5.000 yen"
+            },
+            "special_awards": {
+                "guest_stars_choice": "10.000 yen untuk 6 peserta terpilih"
+            },
+            "guest_stars": {
+                "star_1": "Max Watanabe",
+                "star_2": "Yamada Takushi",
+                "star_3": "Ageta Yukiwo",
+                "star_4": "Hajime Kokaku",
+                "star_5": "Ouetsu Tomoe",
+                "star_6": "Bandai Hobby"
+            },
+            "main_winner": {
+                "name": "Koube Shomei",
+                "origin": "Kyoto",
+                "age": "33 tahun",
+                "work_title": "MSA-0011 [Ext] Ex-S GUNDAM",
+                "work_details": "Skala 1:60, modifikasi dari Perfect Grade Zeta Gundam menjadi Sentinel Gundam"
+            },
+            "source": "Animonster 36 - Februari 2002",
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Toy / Figure / Hobby"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010805",
+        "Start Time": "10:00",
+        "End Date": "20010805",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wonder Festival 2001 Restart for Garage Kit Spirit Lovers",
+        "Location": "Tokyo Big Sight",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ydhctb_4",
+        "location_address": "",
+        "location_city": "Tokyo",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Kaiyodo dan Wonder Festival Project Office",
+            "theme": "Garage Kit Spirit",
+            "event_description": "Event bursa jual beli model kit dan garage kit yang dibuat oleh kelompok tertentu dalam jumlah terbatas, biasanya terbuat dari bahan resin.",
+            "activities": "Jual beli garage kit, pameran hasil karya modeller, promosi film atau mainan baru, demo pembuatan diorama, dan demo mewarnai.",
+            "competition_winners": {
+                "gundam_category_3rd_place": {
+                    "modeller": "Konuma Shinsi",
+                    "origin": "Tokyo",
+                    "age": "20 tahun",
+                    "work_title": "Master Grade Z-plus",
+                    "scale": "1:60",
+                    "description": "Modifikasi dari kit Master Grade MSZ-006 Zeta Gundam skala 1:100 keluaran Bandai dengan detail ide original."
+                },
+                "non_genre_category_3rd_place": {
+                    "modeller": "Uchisima Yasukou",
+                    "origin": "Shinnagawa",
+                    "age": "26 tahun",
+                    "work_title": "nana7",
+                    "material": "Resin",
+                    "description": "Model karakter original yang dibuat dengan detail tinggi."
+                }
+            },
+            "source": "Animonster 36 - Februari 2002",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Japan"
+    },
+    {
+        "Start Date": "20010910",
+        "Start Time": "10:00",
+        "End Date": "20010914",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Animation Fair & Bazaar (AFB)",
+        "Location": "Auditorium Gedung IX Fakultas Sastra UI",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "qiboam_5",
+        "location_address": "Kampus UI Depok, Fakultas Ilmu Pengetahuan Budaya (dulu Fakultas Sastra)",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Mahasiswa Sastra Prancis angkatan 2000, Universitas Indonesia",
+            "committee_chair": "Kristi",
+            "ticket_price": {
+                "single_screening": "Rp 2.000",
+                "full_festival_pass": "Rp 25.000"
+            },
+            "screenings": {
+                "japanese_anime": [
+                    "Blood: The Last Vampire",
+                    "Slam Dunk",
+                    "Rurouni Kenshin The Movie",
+                    "Tokyo Babylon",
+                    "Conan The 1st Movie",
+                    "City Hunter the Movie",
+                    "Card Captor Sakura Movie 2"
+                ],
+                "western_animation": [
+                    "Asterix & Obelix",
+                    "Tintin",
+                    "South Park"
+                ]
+            },
+            "activities": [
+                "Bazaar buku (Gramedia & Elex Media)",
+                "Bazaar VCD Anime & CD J-Music",
+                "Pemutaran Film Animasi"
+            ],
+            "reporters": "Ryuu Nagareboshi dan Tyas Patar",
+            "category": [
+                "Bazaar / Market"
+            ]
+        },
+        "source": "Animonster 32 - Oktober 2001",
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20010912",
+        "Start Time": "",
+        "End Date": "20010916",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "21st Indonesia Book Fair 2001",
+        "Location": "Balai Sidang Jakarta Convention Center",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "xtsxcg_8",
+        "location_address": "Balai Sidang Jakarta Convention Center",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Dyandra",
+            "co_events": {
+                "photography_exhibition": "FOCUS",
+                "cultural_exhibition": "Pameran Budaya Indonesia"
+            },
+            "participants": {
+                "featured_publisher": "MEGINDO",
+                "major_stand": "Gramedia-Kompas Grup",
+                "international_participants": "Penerbit dari Malaysia",
+                "other_publishers": "Elex Media Komputindo"
+            },
+            "megindo_featured_products": {
+                "magazine_1": "GameStation",
+                "magazine_2": "Cinemags",
+                "magazine_3": "Animonster",
+                "magazine_4": "Game Guide"
+            },
+            "visitor_trends": {
+                "most_searched_books": "Buku Hiburan (Anak) dan Buku Agama",
+                "secondary_searched_books": "Buku Sastra, Buku Pengetahuan, dan Politik"
+            },
+            "promotions": "Diskon besar hingga 50% untuk 90% produk",
+            "special_mention": "Rencana Terbitan Komik Elex Bulan Oktober 2001",
+            "category": []
+        },
+        "source": "Animonster 32 - Oktober 2001",
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20011001",
+        "Start Time": "",
+        "End Date": "20011031",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Jakarta International Film Festival (JiFFest) 2001",
+        "Location": "Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "iqchvp_5",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Yayasan Masyarakat Mandiri Film Indonesia",
+            "main_feature_anime": "Jin-Roh: The Wolf Brigade",
+            "director": "Mamoru Oshii",
+            "other_anime_titles": {
+                "uk_animation": "Get Animated!",
+                "china_animation": "Lotus Lantern"
+            },
+            "historical_context": "JiFFest merupakan kegiatan tahunan yang dimulai sejak tahun 1999.",
+            "movie_details": {
+                "title": "Jin-Roh",
+                "genre": "Sci-fi, Fairy Tales, Political Drama",
+                "duration": "98 menit",
+                "synopsis": "Berlatar Jepang tahun 50-an pasca PD II, mengisahkan Fuse Kazuki, anggota satuan Panzer Corps yang mengalami trauma setelah insiden bom bunuh diri seorang kurir wanita dari organisasi pemberontak The Sect."
+            },
+            "source": "Animonster 34 - Desember 2001",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020501",
+        "Start Time": "",
+        "End Date": "20020505",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pekan Komik Nasional 5",
+        "Location": "FSUI Depok",
+        "Comment": "Sumber data: Majalah Animonster #28, halaman 32. Terdapat perbedaan tahun pelaksanaan antara PKN 5 (2002) dan Gelar Jepang UI (tertulis 2001) meskipun teks menyebutkan keduanya berlangsung bersamaan.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "pekan_komik_nasional_5_2002",
+        "location_address": "Kampus Fakultas Sastra Universitas Indonesia, Depok",
+        "location_city": "Depok",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Anime - Convention / Fan Event"
+            ],
+            "organizer": "MKI (Masyarakat Komik Indonesia)",
+            "edition": "5",
+            "description": "Pameran komik nasional yang menampilkan karya komikus dan studio lokal baik yang sudah mapan maupun pemula.",
+            "exhibitors": [
+                "Karpet Biru",
+                "Format",
+                "Weker"
+            ],
+            "featured_work": {
+                "title": "Ashtar",
+                "creator": "Dedy",
+                "studio": "Fatal Studio, Bandung"
+            },
+            "merchandise": {
+                "provider": "C59",
+                "item": "Kaos bergambar karakter komik indie",
+                "total_designs": "12"
+            },
+            "source": "Animonster 28 - Juni 2001"
+        }
+    }
+]

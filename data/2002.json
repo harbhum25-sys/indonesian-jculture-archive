@@ -1,0 +1,724 @@
+[
+    {
+        "Start Date": "20020320",
+        "Start Time": "",
+        "End Date": "20020320",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Launching Komik Archi & Meidy",
+        "Location": "Hotel Borobudur",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Launching / Grand Opening",
+            "Talkshow / Seminar / Workshop"
+          ],
+          "presenter": "Megindo dan Saraswati Pariwara",
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45",
+          "notable_guests": [
+            "Yohanes Surya, Ph.D.",
+            "Wendy Vega"
+          ],
+          "event_details": "Press conference peluncuran komik misteri ilmu pengetahuan fisika Archi & Meidy.",
+          "duration": "2 jam"
+        }
+      },
+      {
+        "Start Date": "20020301",
+        "Start Time": "",
+        "End Date": "20020331",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pekan Anime",
+        "Location": "Fakultas Psikologi Universitas Indonesia",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Anime - Screening / Nobar",
+            "Bazaar / Market",
+            "Talkshow / Seminar / Workshop",
+            "Musik - Band / Live Performance"
+          ],
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45",
+          "activities": [
+            "Pemutaran film anime",
+            "Bazaar",
+            "Workshop komik",
+            "Panggung musik"
+          ],
+          "notes": "Dilaksanakan bulan Maret 2002 (bulan lalu dari terbitan majalah)."
+        }
+      },
+      {
+        "Start Date": "20020501",
+        "Start Time": "",
+        "End Date": "20020503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gelar Jepang 2002",
+        "Location": "Fakultas Sastra Jepang Universitas Indonesia",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+              "Festival / Matsuri",
+              "Bazaar / Market",
+              "Anime - Screening / Nobar",
+              "Game / Esports Tournament",
+              "Talkshow / Seminar / Workshop",
+              "Budaya Jepang - Seni Tradisional",
+              "Musik - Band / Live Performance"
+            ],
+            "organizer": "Himpunan Mahasiswa Japanologi (HMJ) Sastra Jepang UI",
+            "description": "Rangkaian acara tiga hari yang memperkenalkan kebudayaan Jepang kepada masyarakat sekaligus meningkatkan kreativitas mahasiswa melalui bazaar, pemutaran film, lomba, dan workshop.",
+            "performers": {
+              "band": ["Japanese Heroes"],
+              "theater": ["Rashomon"]
+            },
+            "guest_stars": {
+              "talkshow": [
+                "Bens Leo (Pimred Majalah NewsMusik)",
+                "Japanese Heroes",
+                "Perwakilan Animonster"
+              ]
+            },
+            "competition": {
+              "categories": [
+                "Storytelling",
+                "PlayStation",
+                "Komik strip gaya manga"
+              ]
+            },
+            "rundown": {
+              "01 Mei 2002": [
+                "Bazaar",
+                "Pemutaran film anime",
+                "Upacara pembukaan",
+                "Lomba storytelling",
+                "Lomba PlayStation"
+              ],
+              "Hari Kedua": [
+                "Lomba pembuatan komik strip gaya manga",
+                "Workshop gambar anime",
+                "Diskusi: Perkembangan Musik J-Pop di Indonesia Saat Ini dan Prospeknya di Masa Mendatang"
+              ],
+              "03 Mei 2002": [
+                "Demo pembuatan boneka dari washi",
+                "Demo masak",
+                "Demo permainan tradisional Jepang",
+                "Pertunjukan drama Rashomon"
+              ]
+            },
+            "source": [{
+                          "magazine": "Animonster",
+                          "issue": "39",
+                          "page": "53"
+                        }, {"magazine":  "Animonster 38 - April Mei 2002",
+                        "page": "45"}],
+          "activities": {
+            "workshops": [
+              "Washi",
+              "Gambar anime"
+            ],
+            "demonstrations": [
+              "Demo masak",
+              "Demo permainan tradisional Jepang"
+            ],
+            "other_activities": [
+              "Pemutaran film",
+              "Lomba membuat komik strip",
+              "Pertunjukan drama",
+              "Bazaar"
+            ],
+            "discussion": "Perkembangan Musik J-pop di Indonesia Saat Ini dan Prospeknya di Masa Mendatang"
+          }
+        }
+      },
+      {
+        "Start Date": "20020417",
+        "Start Time": "",
+        "End Date": "20020421",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment EXPO 2002",
+        "Location": "Gedung Landmark, Braga",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Convention / Expo / Comic Market",
+            "Game / Esports Tournament",
+            "Toy / Figure / Hobby",
+            "Bazaar / Market"
+          ],
+          "organizer": "Bhatara Organizer",
+          "collaborators": [
+            "GameStation",
+            "Animonster"
+          ],
+          "main_sponsor": "LG",
+          "activities": [
+            "Lomba PS Winning Eleven",
+            "Pemutaran anime",
+            "Workshop modelling",
+            "Pengadaan merchandise anime"
+          ],
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45"
+        }
+      },
+      {
+        "Start Date": "20020502",
+        "Start Time": "",
+        "End Date": "20020507",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment EXPO 2002",
+        "Location": "Mal Malioboro",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Convention / Expo / Comic Market",
+            "Toy / Figure / Hobby",
+            "Bazaar / Market"
+          ],
+          "organizer": "Bhatara Organizer",
+          "main_sponsor": "LG",
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45"
+        }
+      },
+      {
+        "Start Date": "20020529",
+        "Start Time": "",
+        "End Date": "20020603",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment EXPO 2002",
+        "Location": "Atrium Tunjungan Plaza I & II",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Convention / Expo / Comic Market",
+            "Toy / Figure / Hobby",
+            "Bazaar / Market"
+          ],
+          "organizer": "Bhatara Organizer",
+          "main_sponsor": "LG",
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45"
+        }
+      },
+      {
+        "Start Date": "20020605",
+        "Start Time": "",
+        "End Date": "20020609",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment EXPO 2002",
+        "Location": "Mal Citraland",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "",
+        "attended": "",
+        "_id": "",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "location_country": "Indonesia",
+        "links": [
+          ""
+        ],
+        "Content": {
+          "category": [
+            "Convention / Expo / Comic Market",
+            "Toy / Figure / Hobby",
+            "Bazaar / Market"
+          ],
+          "organizer": "Bhatara Organizer",
+          "main_sponsor": "LG",
+          "note": "Acara Puncak Road-event",
+          "source": "Animonster 38 - April Mei 2002",
+          "page": "45"
+        }
+      },
+    {
+        "Start Date": "20020203",
+        "Start Time": "08:00",
+        "End Date": "20020204",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "SEKOIN (Seyogyanya Komik Indonesia)",
+        "Location": "Benteng Vredeburg",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "lbxfzl_8",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Studio komik Swacomsta bekerja sama dengan Indonesia Marketing Association dan WIPI",
+            "description": "Event yang bertujuan memenuhi kebutuhan masyarakat Indonesia akan komik lokal yang sedang dalam proses kebangkitan.",
+            "mascot": "Ismut (Semut)",
+            "participants": {
+                "studios": "Studio Format (Jakarta), Masyarakat Komik Indonesia (Jakarta), Bengkel Qomik (Solo), Komunitas Komik Mizan (Bandung), Daging Tumbuh, The Jahe, Komplikasi, Komikaze, Swacomsta, Komunitas Minggiran (Yogyakarta)",
+                "merchants": "Tabloid komik KomiKka, Tabloid komik Komik Karya Anak Negeri (KOMRAN), C59"
+            },
+            "activities": {
+                "day_1": "Upacara pembukaan, penancapan bendera Sekoin, pembacaan pernyataan komikus Indonesia oleh Beng dari studio Daging Tumbuh, peresmian oleh Walikota Yogyakarta.",
+                "day_2": "Lomba lukis dan mewarnai anak-anak (pagi hari).",
+                "general": "Pameran komik, bazar, Festival Animasi, presentasi studio animasi, sarasehan komik, penampilan musik keroncong lokal."
+            },
+            "collaboration": "Jogja Heritage Year 2002 - Forum Jogja",
+            "source": "Animonster 37 - Maret 2002",
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020417",
+        "Start Time": "",
+        "End Date": "20020421",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment Expo 2002 - Bandung",
+        "Location": "Landmark Building",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "tqhtis_7",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Grupbhatara (Bhatara Organizer)",
+            "co_organizer": "Miwindo 2000",
+            "main_sponsor": "LG",
+            "co_sponsor": "RCTI",
+            "special_event": "LG - National Games Competition 2002 (LG-FIFA Soccer & Winning Eleven 2002)",
+            "grand_prize": "Total Hadiah 15 Juta",
+            "activities": "Digivice Exhibition, Animonster Modeling Workshop, Action Figure & Toy, Nonton Bareng Anime, Console Game History, Hobbies",
+            "product_categories": "Personal Computer (PC Games), Toys, Console Games, Notebook, Anime, Digivice, Multimedia, Movie, CD/VCD/DVD, Home Theatre, Sound System, Video Projector, Digital Camera, Asesoris",
+            "official_media": "CHIP, PC Plus, PLAY, GameStation, Info Komputer, Animonster",
+            "contact_info": "(022) 203 0179",
+            "source": "Animonster 37 - Maret 2002",
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020502",
+        "Start Time": "",
+        "End Date": "20020507",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment Expo 2002 - Yogyakarta",
+        "Location": "Mal Malioboro",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "wqbexh_2",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Grupbhatara (Bhatara Organizer)",
+            "co_organizer": "Miwindo 2000",
+            "main_sponsor": "LG",
+            "co_sponsor": "RCTI",
+            "special_event": "LG - National Games Competition 2002 (LG-FIFA Soccer & Winning Eleven 2002)",
+            "grand_prize": "Total Hadiah 15 Juta",
+            "activities": "Digivice Exhibition, Animonster Modeling Workshop, Action Figure & Toy, Nonton Bareng Anime, Console Game History, Hobbies",
+            "product_categories": "Personal Computer (PC Games), Toys, Console Games, Notebook, Anime, Digivice, Multimedia, Movie, CD/VCD/DVD, Home Theatre, Sound System, Video Projector, Digital Camera, Asesoris",
+            "official_media": "CHIP, PC Plus, PLAY, GameStation, Info Komputer, Animonster",
+            "contact_info": "(0274) 511 717",
+            "source": "Animonster 37 - Maret 2002",
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020529",
+        "Start Time": "",
+        "End Date": "20020603",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment Expo 2002 - Surabaya",
+        "Location": "Atrium Tunjungan Plaza I & II",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ckpxum_7",
+        "location_address": "",
+        "location_city": "Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Grupbhatara (Bhatara Organizer)",
+            "co_organizer": "IMP Promosindo",
+            "main_sponsor": "LG",
+            "co_sponsor": "RCTI",
+            "special_event": "LG - National Games Competition 2002 (LG-FIFA Soccer & Winning Eleven 2002)",
+            "grand_prize": "Total Hadiah 15 Juta",
+            "activities": "Digivice Exhibition, Animonster Modeling Workshop, Action Figure & Toy, Nonton Bareng Anime, Console Game History, Hobbies",
+            "product_categories": "Personal Computer (PC Games), Toys, Console Games, Notebook, Anime, Digivice, Multimedia, Movie, CD/VCD/DVD, Home Theatre, Sound System, Video Projector, Digital Camera, Asesoris",
+            "official_media": "CHIP, PC Plus, PLAY, GameStation, Info Komputer, Animonster",
+            "contact_info": "(031) 568 9446",
+            "source": "Animonster 37 - Maret 2002",
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020605",
+        "Start Time": "",
+        "End Date": "20020609",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Games, Toys & Electronic Entertainment Expo 2002 - Jakarta",
+        "Location": "Mal Ciputra / Citra Land",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "vjlohs_7",
+        "location_address": "",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Grupbhatara (Bhatara Organizer)",
+            "source": "Animonster 38 - April Mei 2002",
+            "main_sponsor": "LG",
+            "co_sponsor": "RCTI",
+            "special_event": "LG - National Games Competition 2002 (LG-FIFA Soccer & Winning Eleven 2002)",
+            "grand_prize": "Total Hadiah 15 Juta",
+            "activities": "Digivice Exhibition, Animonster Modeling Workshop, Action Figure & Toy, Nonton Bareng Anime, Console Game History, Hobbies",
+            "product_categories": "Personal Computer (PC Games), Toys, Console Games, Notebook, Anime, Digivice, Multimedia, Movie, CD/VCD/DVD, Home Theatre, Sound System, Video Projector, Digital Camera, Asesoris",
+            "official_media": "CHIP, PC Plus, PLAY, GameStation, Info Komputer, Animonster",
+            "contact_info": "(021) 314 9273",
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020810",
+        "Start Time": "",
+        "End Date": "20020823",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Meet & Greet Kamen Rider Kuuga - Jakarta",
+        "Location": "Matahari Taman Anggrek dan Toy City Pondok Indah",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "eaeaew_6",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "presenter": "Kamen Rider Kuuga (Kostum Original Jepang)",
+            "organized_by": "Animonster",
+            "collaboration": "Bandai & Anaka Toys",
+            "activities": {
+                "interaction": "Melihat, menyentuh, dan berfoto bareng Kuuga",
+                "costume": "Peminjaman gratis kostum original Kuuga dari Jepang"
+            },
+            "duration": "2 Minggu",
+            "source": "Animonster 42 - September 2002",
+            "category": [
+                "Tokusatsu / Kamen Rider"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20020810",
+        "Start Time": "",
+        "End Date": "20020823",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Meet & Greet Kamen Rider Kuuga - Bandung",
+        "Location": "Vega Ranggamalela dan Vega BSM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "rndtpv_6",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "presenter": "Kamen Rider Kuuga (Kostum Original Jepang)",
+            "organized_by": "Animonster",
+            "collaboration": "Bandai & Anaka Toys",
+            "activities": {
+                "interaction": "Melihat, menyentuh, dan berfoto bareng Kuuga",
+                "costume": "Peminjaman gratis kostum original Kuuga dari Jepang"
+            },
+            "duration": "2 Minggu",
+            "source": "Animonster 42 - September 2002",
+            "category": [
+                "Musik - Band / Live Performance",
+                "Tokusatsu / Kamen Rider"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20021102",
+        "Start Time": "",
+        "End Date": "20021103",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ANIME WEEKEND FAIR: Mencari Solusi Menghadapi Pornografi",
+        "Location": "Kampus FISIP Unair dan Lapangan Rektorat",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "hsruek_8",
+        "location_address": "Jl. Airlangga No.4-6",
+        "location_city": "Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Kine Klub FISIP Unair",
+            "motto": "Anime, Uniting the World",
+            "theme": "Pornografi dalam Anime [Hentai]",
+            "activities": {
+                "day_1": "Peragaan budaya Jepang, Taiko (Japan Club UNESA), Demo pemakaian Yukata (NICE), Bon Odori, Demo Origami (Izawa-sensei), Peragaan Jujitsu, Pemutaran anime Rurouni Kenshin OVA II",
+                "day_2": "Penampilan band lokal (Otaku, Geng Oni, Arashi, Get The Freshest Thing), Pemutaran anime (Rurouni Kenshin OVA I dan City Hunter), Diskusi Panel"
+            },
+            "discussion_details": {
+                "topic": "Pornografi Dalam Anime [Hentai]",
+                "speaker": "Mas Ray dari Defeksi",
+                "summary": "Diskusi membahas kekhawatiran masyarakat terhadap manga porno dan perlunya kesamaan persepsi serta pengaturan yang tepat tanpa harus menangkal kreativitas."
+            },
+            "special_quiz": {
+                "title": "Treasure Planet",
+                "prizes": "6 set hadiah (Poster set, 3D mouse pad, Laser sticker atau 3D magnet set, Calendar card, dan Notepad)",
+                "deadline": "02 Desember 2002",
+                "address": "Redaksi Animonster, Jl. Moh. Iskat 15A, Bandung 40171"
+            },
+            "source": "Animonster 45 - Desember 2002",
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20021102",
+        "Start Time": "08:00",
+        "End Date": "20021102",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Lomba Menggambar & Mewarnai Karakter Animasi Tingkat Nasional & Free Seminar Animasi 2D Nasional",
+        "Location": "Audiatorium Dinas Kebudayaan & Permuseuman DKI Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "vlazyz_9",
+        "location_address": "Gedung Nyi Ageng Serang Lt. 6, Jl. Rasuna Said, Kuningan",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "pembicara_utama": "M.S Gumelar, MA (Bapak Animasi Indonesia)",
+            "moderator_seminar": "Denada Tambunan",
+            "bintang_tamu": "Kusumo Priyono (Raja Dongeng)",
+            "kategori_lomba": {
+                "mewarnai": "Usia 4 - 6 Tahun",
+                "menggambar_karakter_gasa": "Pelajar SMP & SMU",
+                "menggambar_karakter_ciptaan_sendiri": "Mahasiswa & Umum"
+            },
+            "hadiah": "Trophy Menteri Pariwisata Seni & Kebudayaan, Trophy Gubernur Propinsi DKI Jakarta, Trophy PARFI, Uang Tunai, dan Hadiah Menarik Lainnya",
+            "biaya_pendaftaran": "Rp. 15.000,- per orang per kategori",
+            "pendaftaran_dan_informasi": "Sekretariat Sekolah Animasi GASA Film & Animasi TV, Gedung Nyi Ageng Serang Lt. 6",
+            "kontak": "Telp. 021-5263235, 5263314 Ext: 344, Fax. 021-5263235",
+            "jadwal_acara": {
+                "lomba": "08:00 WIB - Selesai",
+                "seminar_gratis": "13:00 WIB - Selesai"
+            },
+            "sponsor_dan_pendukung": "GASA, NEC, Annida, Saksi, Animoster",
+            "category": [
+                "Anime - Convention / Fan Event",
+                "Talkshow / Seminar / Workshop"
+            ]
+        },
+        "source": "Animonster 44 - November 2002",
+        "location_country": "Indonesia"
+    }
+]

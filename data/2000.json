@@ -1,0 +1,258 @@
+[
+    {
+        "Start Date": "20000618",
+        "Start Time": "",
+        "End Date": "20000624",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pekan Komik Nasional 4",
+        "Location": "Galeri Cipta II, Taman Ismail Marzuki",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "pkn4_20000618_tim_jakarta",
+        "location_address": "Taman Ismail Marzuki No.73, Jl. Cikini Raya No.73, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
+        "location_city": "Jakarta",
+        "location_coordinate": "-6.188785160397791, 106.83959991172641",
+        "location_gmaps": "https://maps.app.goo.gl/1VSXYrqdd7exE1Uf6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "theme": "Bangunkan Naga yang Tertidur",
+            "edition": "4",
+            "organizer": "Masyarakat Komik Indonesia",
+            "collaboration": "Mahasiswa FSUI",
+            "venue_detail": "Galeri Cipta II, Taman Ismail Marzuki",
+            "background": {
+                "purpose": "Membangkitkan kembali komik Indonesia dan memperkuat regenerasi komikus muda",
+                "historical_context": "Komik Indonesia mengalami masa kejayaan pada era 1960-1970an dan mulai terdesak komik impor pada era 1980an",
+                "issues_highlighted": "Distribusi, pendanaan, dan dominasi komik luar negeri"
+            },
+            "activities": {
+                "exhibition": "Pameran karya komikus dan studio komik Indonesia",
+                "bazaar": "Bazar komik",
+                "auction": "Lelang karya",
+                "live_drawing": "Demo dan sarasehan komik",
+                "meet_and_greet": "Temu komikus",
+                "competition": "Lomba gambar dan pemilihan film",
+                "workshop": "Bengkel komik"
+            },
+            "participants": {
+                "studios": {
+                    "Karpet Biru": {
+                        "founded": "1997",
+                        "base": "Tebet Utara IV-A no.17, Jakarta",
+                        "members": "8 komikus muda"
+                    },
+                    "ArsComics": {
+                        "founded": "1995",
+                        "background": "Didirikan oleh lulusan Arsitektur FTUI"
+                    },
+                    "SelotStudio": {
+                        "base": "Bogor"
+                    },
+                    "Kabin": {
+                        "type": "Kelompok mahasiswa pecinta komik",
+                        "base": "Jl. Pulo Cempaka no.29, Jakarta 12240"
+                    }
+                }
+            },
+            "notes": {
+                "attendance_observation": "Sebagian stan belum terisi penuh pada hari kedua",
+                "industry_comparison": "Komik Indonesia dinilai tertinggal dibanding Thailand dan Singapura dalam akses internasional",
+                "future_outlook": "Diharapkan menjadi momentum kebangkitan komik nasional"
+            },
+            "source": "Animonster 14 - Juli 2000 Edisi Pertama",
+            "category": [
+                "Festival / Matsuri",
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20000909",
+        "Start Time": "18:00",
+        "End Date": "20000910",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Indonesia Japan Week 2000 - Bon Odori",
+        "Location": "Jakarta Hilton International",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "indonesia-japan-week-2000-bon-odori",
+        "location_address": "Jl MH Thamrin No 1",
+        "location_city": "Jakarta",
+        "location_coordinate": "-6.1951,106.8228",
+        "location_gmaps": "https://maps.google.com/?q=-6.1951,106.8228",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "source": {
+                "magazine": "Animonster",
+                "edition": "20",
+                "publication_month": "October",
+                "publication_year": "2000",
+                "pages": "48-50"
+            },
+            "event_background": {
+                "description": "Cultural festival celebrating 30th anniversary of Japan Club",
+                "anniversary": "30th",
+                "organizer": "Japan Club",
+                "public_access": "Open to public",
+                "notes": "High visitor turnout causing traffic congestion and full parking area on first day"
+            },
+            "day_1": {
+                "date": "20000909",
+                "activities": {
+                    "handicraft_exhibition": {
+                        "room": "Anggrek",
+                        "description": "Japanese handicrafts and paintings including Indonesian themed works and miniatures"
+                    },
+                    "traditional_performance": {
+                        "room": "Mawar",
+                        "activities": [
+                            "Tea ceremony",
+                            "Kimono wearing demonstration"
+                        ],
+                        "refreshments": [
+                            "Japanese dry cake",
+                            "Japanese soft cake",
+                            "Green tea"
+                        ]
+                    },
+                    "origami_washi_doll": {
+                        "room": "Cempaka",
+                        "description": "Origami workshop and washi doll making with limited participants"
+                    },
+                    "martial_arts": {
+                        "room": "Gemini",
+                        "performances": [
+                            "Judo",
+                            "Kendo"
+                        ],
+                        "visitor_participation": "Visitors allowed to try holding shinai"
+                    },
+                    "arts_performance": {
+                        "room": "Libra",
+                        "indonesia": [
+                            "Gamelan",
+                            "Angklung",
+                            "Balinese dance"
+                        ],
+                        "japan": [
+                            "Satsuki Ryu dance",
+                            "Duo Marimba and Piano",
+                            "Taiko performance by Oedo Sukeroku Daiko"
+                        ]
+                    }
+                },
+                "main_event": {
+                    "name": "Bon Odori",
+                    "start_time": "18:00",
+                    "end_time": "21:00",
+                    "songs": [
+                        "Tanko Bushi",
+                        "Wa Ni Natte Odoro",
+                        "Doraemon Ondo",
+                        "Odoru Ponpokorin",
+                        "Tokyo Ondo"
+                    ],
+                    "food_stalls": [
+                        "Yakitori",
+                        "Yakisoba",
+                        "Sushi",
+                        "Oden",
+                        "Yakimorokoshi",
+                        "Okonomiyaki"
+                    ],
+                    "description": "Large circular group dance with more than ten layers of participants including Indonesian and Japanese visitors"
+                }
+            },
+            "day_2": {
+                "date": "20000910",
+                "description": "Lower attendance compared to first day and no Bon Odori session"
+            },
+            "cultural_significance": {
+                "summary": "Symbol of cultural exchange and unity between Indonesian and Japanese communities",
+                "frequency": "Annual event"
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20001030",
+        "Start Time": "",
+        "End Date": "20001104",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pekan Anime 2+",
+        "Location": "Fakultas Psikologi UI Depok",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "qxefkq_1",
+        "location_address": "Jl. Lkr. Kampus Raya Jl. Prof. DR. R Slamet Iman Santoso, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.3626735999132045, 106.83051952080919",
+        "location_gmaps": "https://maps.app.goo.gl/CFB31ZTDZjCYb3jt5",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Mahasiswa Fakultas Psikologi UI Depok",
+            "event_description": "Gathering Otaku yang berlangsung selama 6 hari dengan berbagai rangkaian acara bertema anime.",
+            "event_segments": {
+                "AniSale": "Bazaar merchandise dan produk anime yang diadakan di areal parkir terbuka Fakultas Psikologi.",
+                "AniMusic": "Panggung pertunjukan musik tempat band-band anime beraksi.",
+                "Film_Screenings": "Pemutaran film anime setiap petang dengan tema Animes not just for kids."
+            },
+            "performers": {
+                "Japanese_Hero": "Band utama yang vokalisnya menggunakan kostum Sailormoon dan membawakan lagu-lagu animetal.",
+                "Megindo": "Band tamu asal Bandung yang ikut memeriahkan acara.",
+                "Kattleen": "Penyanyi yang membawakan lagu Zankoku na Tenshi no Thesis dari soundtrack Evangelion.",
+                "Other_Bands": "Sekitar 10 band membawakan lagu dari Doraemon, CCS, Saint Seiya, hingga L-Arc-en-Ciel."
+            },
+            "screened_movies": {
+                "movie_1": "Perfect Blue",
+                "movie_2": "Rurouni Kenshin The Movie",
+                "movie_3": "Nadesico The Movie",
+                "movie_4": "Card Captor Sakura 1st Movie",
+                "movie_5": "Tonari no Totoro"
+            },
+            "activities": {
+                "competitions": "Lomba gambar karakter anime.",
+                "demonstrations": "Demo gambar komik oleh studio Karpet Biru, Kabin, dan Format.",
+                "cosplay": "Kehadiran para cosplayer yang memerankan berbagai tokoh anime."
+            },
+            "media_and_support": {
+                "media_partners": "Animonster, GameStation, Cinemags, dan Game Guide.",
+                "atmosphere": "Acara tetap meriah meski sempat diguyur hujan dan bertepatan dengan masa UTS mahasiswa."
+            },
+            "category": [
+                "Festival / Matsuri",
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "source": "Animonster 22 - Desember 2000",
+        "location_country": "Indonesia"
+    }
+]

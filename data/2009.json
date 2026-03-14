@@ -1,0 +1,1973 @@
+[
+    {
+        "Start Date": "20081112",
+        "Start Time": "16:30",
+        "End Date": "20081116",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Indonesia Game Show (IGS) 2008",
+        "Location": "Plenary Hall, Jakarta Convention Center",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "awqkga_5",
+        "location_address": "Jl. Jend. Gatot Subroto",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "presenter": [
+                "MC Nissa"
+            ],
+            "organizer": [
+                "Association of National Gaming (ANG)",
+                "Electronic Sport",
+                "Departemen Komunikasi dan Informatika"
+            ],
+            "activities": [
+                "Pameran Game",
+                "Seminar Manajemen Bandwidth",
+                "Talkshow Game Development",
+                "Lomba Game",
+                "Lomba Cosplay",
+                "Live Music Performance"
+            ],
+            "game_tournaments": [
+                "Winning Eleven 10",
+                "Counter Strike",
+                "DotA",
+                "Dance Jam",
+                "King of The Hill"
+            ],
+            "musical_performers": [
+                "Shiroi Hana"
+            ],
+            "cosplay_performers": [
+                "Orochi",
+                "Pinky Luxun"
+            ],
+            "cosplay_judges": [
+                "Animonster",
+                "Elex",
+                "m&c!"
+            ],
+            "cosplay_winners_anime_manga": [
+                "Sadhe (Juara 1 - Esther Blanchett)",
+                "Rui (Juara 2 - Allen Walker)"
+            ],
+            "cosplay_winners_game": [
+                "Epi (Juara 1 - La Risht)",
+                "Nina (Juara 2 - Silmeria)"
+            ],
+            "cosplay_winners_tokusatsu": [
+                "David Winarta (Juara 1 - Kamen Rider Kuuga Ultimate)",
+                "Tetsuya Bowo (Juara 2 - Kamen Rider Hibiki)"
+            ],
+            "cosplay_winners_original": [
+                "Mariana (Juara 1 - The Fox)",
+                "Bonita (Juara 2)"
+            ],
+            "overall_winner": [
+                "Eduard (The Samurai)"
+            ],
+            "prize_details": [
+                "Juara 1: Rp 1.000.000",
+                "Juara 2: Rp 750.000",
+                "Juara Umum: Rp 2.000.000"
+            ],
+            "source": "Animonster 118 - Januari 2009, Halaman 094-097",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20081115",
+        "Start Time": "",
+        "End Date": "20081115",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yahya Open House",
+        "Location": "SMPK Yahya",
+        "Comment": "Acara sekolah yang melibatkan pameran seni, karya ilmiah, dan konsultasi karir.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "rdddbf_8",
+        "location_address": "",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "agenda_kegiatan": [
+                "Debat",
+                "Pameran siswa",
+                "Konsultasi karir dan bakat gratis"
+            ],
+            "penyelenggara": "SMPK Yahya",
+            "partisipan": "Animonster School",
+            "sumber_artikel": {
+                "majalah": "Animonster",
+                "edisi": "118 - Januari 2009",
+                "halaman": "Tidak tertulis"
+            },
+            "topik_tambahan": "Perbedaan desainer grafis dan ilustrator",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20081202",
+        "Start Time": "15:00",
+        "End Date": "20081203",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ITB Digital Media Festival 2008",
+        "Location": "Campus Center ITB",
+        "Comment": "Acara festival digital media yang mencakup lomba game, cosplay, dan pentas musik.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "onkhko_1",
+        "location_address": "Bandung, West Java, Indonesia",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": [
+                "Fakultas Seni Rupa dan Desain (FSRD) ITB",
+                "Sekolah Teknik Elektro dan Informatika (STEI) ITB",
+                "DEPDIKNAS"
+            ],
+            "sub_events": [
+                "Game contest (develop and design)",
+                "Game competition",
+                "Animation festival",
+                "Cosplay competition",
+                "Photo cosplay competition",
+                "Seminar",
+                "Music performances"
+            ],
+            "bands_performed": [
+                "Voice of June",
+                "Xyzo",
+                "Highpop Little Choo Choo"
+            ],
+            "cosplay_winners": {
+                "Juara 1": "Sakti Yudha P. (Kamen Rider Faiz)",
+                "Juara 2": "Ichsann Auties (Trunks)",
+                "Juara 3": "Mei (Hyde L'Arc-en-Ciel)",
+                "Juara Favorit": "Rizal Algreen (Kamen Rider Femme)"
+            },
+            "photo_cosplay_winners": [
+                "Rizal Fahlevi H.",
+                "Fathah Noor P.",
+                "Geronimo Jimmy"
+            ],
+            "source": "Animonster 118 - Januari 2009, Halaman 102-103",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20081206",
+        "Start Time": "14:45",
+        "End Date": "20081207",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cosplay Black Party (2009)",
+        "Location": "Plenary Hall JCC, Senayan, Jakarta",
+        "Comment": "Acara bagian dari Djarum Black Autoblockthrough - The Hottest Hi-Tech Modified Motorshow. Sumber: Animonster 118 - Januari 2009, halaman 100-101.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "yhxojk_1",
+        "location_address": "Jakarta",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": [
+                "Djarum Black",
+                "Animonster"
+            ],
+            "performers": [
+                "Maliq & D'essential",
+                "Yovie & Nuno",
+                "Maia",
+                "Mulan Jameela",
+                "Andra & The Backbone",
+                "Ran"
+            ],
+            "MC": [
+                "Nissa"
+            ],
+            "competition_categories": [
+                "Anime/Manga",
+                "Game/Tokusatsu",
+                "Original Black"
+            ],
+            "winners": {
+                "Anime_Manga": [
+                    "Kevin Cevo (Juara 1 - Ion Fortuna)",
+                    "Rion Cevo (Juara 2 - Yagami Light)"
+                ],
+                "Game_Tokusatsu": [
+                    "Dedi S. (Juara 1 - Kamen Rider Ichigo)",
+                    "Afrizal (Juara 2 - Kamen Rider Black RX)"
+                ],
+                "Original_Black": [
+                    "Mariska (Juara 1 - DB's Gothic)",
+                    "Echow (Juara 2 - Froid the Dark Knight)"
+                ],
+                "Favorit": [
+                    "Bonita (Gothic Lolita Original Black)"
+                ]
+            },
+            "prizes": {
+                "juara_1": "1.000.000 rupiah",
+                "juara_2": "750.000 rupiah"
+            },
+            "category": [
+                "Party / Night Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20081210",
+        "Start Time": "19:30",
+        "End Date": "20081210",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Malam Anugerah Indonesia Creative Idol 2008",
+        "Location": "Sudirman City Walk",
+        "Comment": "Acara penutupan dan pemberian penghargaan Indonesia Creative Idol 2008.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "qrzies_6",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": [
+                "Animonster 119 - Februari 2009, halaman 105"
+            ],
+            "figures_present": [
+                "Bapak Cecep Soeparman (Mewakili Menteri Budaya dan Pariwisata)",
+                "Bapak Richard Mengko",
+                "Riza Ali Rahman",
+                "Mas Icha"
+            ],
+            "winners": [
+                "Digital Comic: Kusteguh Prasetyo (Malang) - Mbah Suro",
+                "Spektrum Digital Music: Gatut Puji Santoso (Tangerang) - Ulan Andung-Andung",
+                "Klaster Creative Performance/Music: Dhestian Wahyu Setiaji (Jawa Tengah) - Njathil",
+                "Spektrum Creative Product/Craft: Kelik Tananto (DIY) - Picture Frame",
+                "Klaster Creative Product/Fashion: Sri Wahyu Rini (DIY) - Ramening Ngayogyakarto",
+                "Spektrum Applied Science: Ujang Solikhin (Ciamis) - Alat Pengolah Sampah Terpadu, Briket Sampah",
+                "Games: Hendranto Pratama (Bandung) - Pemenang WCG",
+                "Klaster Creative Digital Content/Animation: Andi Rusmana (Tangerang) - Sketsa Budaya"
+            ],
+            "prizes": [
+                "Wisata budaya ke Singapura selama 4 hari",
+                "Pengalaman tinggal di Rumah Orang Tua Asuh"
+            ],
+            "event_rundown": [
+                "Penayangan video sindiran untuk kaum muda",
+                "Dialog budaya mengenai hak kekayaan intelektual",
+                "Penampilan tari perpaduan Amerika Latin dan Aceh",
+                "Lagu penutup Rayuan Pulau Kelapa"
+            ],
+            "category": [
+                "Party / Night Event",
+                "Musik - Idol / VTuber"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090116",
+        "Start Time": "",
+        "End Date": "20090117",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090118",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Tamagochi",
+        "Location": "SMAN 5",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tamago_1",
+        "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.911944369256297, 107.61552869644652",
+        "location_gmaps": "https://goo.gl/maps/SPHRdLNtVkGTz7638",
+        "links": [
+            "https://web.facebook.com/photo.php?fbid=1079064552931&set=pb.1715801691.-2207520000.&type=3"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090116",
+        "Start Time": "",
+        "End Date": "20090117",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Talenta IT Cup 09",
+        "Location": "Talenta School",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "pcktzd_6",
+        "location_address": "Kopo",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Acolyte",
+                "Animonster School"
+            ],
+            "organizer": [
+                "Acolyte",
+                "Animonster School"
+            ],
+            "event_activities": [
+                "Presentasi",
+                "Bazaar",
+                "Lomba Desain Wallpaper",
+                "Lomba Animasi Flash",
+                "Lomba Web Design",
+                "Lomba Powerpoint",
+                "Lomba merakit robot remote control"
+            ],
+            "participants": [
+                "Sekolah di wilayah Kopo",
+                "Yayasan Salib Suci"
+            ],
+            "collaborations": [
+                "Akademi seni di Singapura",
+                "Akademi seni di Australia"
+            ],
+            "total_students": "1500",
+            "school_level": "Playgrup sampai SMA",
+            "source": "Animonster 120 - Maret 2009",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090118",
+        "Start Time": "06:00 PM",
+        "End Date": "20090118",
+        "End Time": "12:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090118",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Harajaku Night",
+        "Location": "Score Ciwalk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "haraja_1",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.89427559398959, 107.60556192104656",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Organizer": "Minion Space",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090201",
+        "Start Time": "11:00 AM",
+        "End Date": "20090201",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090201",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Festival Band Maranatha",
+        "Location": "Maranatha",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "festiv_2",
+        "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.886322772047325, 107.58090566761265",
+        "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090206",
+        "Start Time": "19:00",
+        "End Date": "20090206",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Megindo Gathering 2009",
+        "Location": "Beyond Bar Resto & Wine",
+        "Comment": "Acara gathering klien dan kolega PT. Megindo Tunggal Sejahtera.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "abmfwk_5",
+        "location_address": "Graha Iskandar Syah Lobby Level",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "organizer": "PT. Megindo Tunggal Sejahtera",
+            "presenter_details": {
+                "opening_speech": "Wendy Chandra (CEO)",
+                "presentation": "Charly Himawan (Product Director)",
+                "team_introduction": "Ibu Brenda (Marketing Director)"
+            },
+            "event_highlights": [
+                "Makan malam bersama",
+                "Penampilan home band akustik Beyond",
+                "Presentasi konten majalah (Animonster, Gamestation, Gadget, Kiddo, Macworld)",
+                "Pengenalan tim marketing dan marketing communications",
+                "Penyerahan doorprize unit motor Honda Blade"
+            ],
+            "doorprize_winner": "Randu Zulmi (Smart Telecom)",
+            "source": "Animonster 121 - April 2009, Halaman 062",
+            "category": [
+                "Gathering / Komunitas"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090219",
+        "Start Time": "",
+        "End Date": "20090221",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Kriyasana Mahasiswa Desain Grafis Indonesia (KMDGI) ke-8",
+        "Location": "Taman Budaya Surakarta",
+        "Comment": "Source: Animonster 121 - April 2009, halaman 064",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "Not Specified",
+        "_id": "ztfcpp_6",
+        "location_address": "Surakarta, Jawa Tengah",
+        "location_city": "Surakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "Tema": "SHARE LOCAL PROBLEM, SO LOCAL SOLUTION",
+            "Penyelenggara": [
+                "Universitas Sebelas Maret Surakarta"
+            ],
+            "Kegiatan": [
+                "Pameran",
+                "Bazaar",
+                "Workshop",
+                "Sarasehan"
+            ],
+            "Workshop": [
+                "Character Design oleh Indieguerillaz",
+                "Coloring Comic oleh Imaginary Friends Studio"
+            ],
+            "Pembicara": [
+                "Andy Surya Budiman (Strategic Planner Admire)",
+                "Djoko Hartanto (Pemilik Majalah Desain Grafis Concept)"
+            ],
+            "Moderator": [
+                "Bambang Nugroho (Praktisi Periklanan dan Dosen Komunikasi Fisip UNS)"
+            ],
+            "Peserta": [
+                "Delegasi dari 27 Perguruan Tinggi yang memiliki jurusan desain komunikasi visual se-Indonesia"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090227",
+        "Start Time": "18:00",
+        "End Date": "20090308",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "Medium",
+        "Subject": "Festival Komik & Seni Urban Surabaya Cergamboree",
+        "Location": "CCCL Surabaya dan C2O",
+        "Comment": "Acara festival komik yang mencakup pameran, workshop, dan forum.",
+        "Online/Offline": "Offline",
+        "status": "Past Event",
+        "attended": "",
+        "_id": "nildng_6",
+        "location_address": "Jl. Darmokali 10 (CCCL) dan Jl. Dr. Cipto 20 (C2O)",
+        "location_city": "Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.ccclsurabaya.com",
+            "http://www.c2o.coffee-cat.net"
+        ],
+        "Content": {
+            "presenter": [
+                "CCCL Surabaya",
+                "CASS (Comic Artist Society of Surabaya)",
+                "C2O"
+            ],
+            "organizer": [
+                "Pusat Kebudayaan Prancis",
+                "Comic Artist Society of Surabaya",
+                "C2O Library & Collabtive"
+            ],
+            "program_detail": [
+                "Pembukaan pada 27 Februari pukul 18:00 di CCCL",
+                "Penutupan (Mural) pada 8 Maret di C2O",
+                "Pameran, Workshop, Forum, Komik, Animasi, dan Urban Art"
+            ],
+            "artists": [
+                "Sylvain Moizie",
+                "Alfi Zachryelle",
+                "Alia",
+                "Azizah Noor",
+                "Bajingan Comic",
+                "Beng Rahadian",
+                "Bunuh Diri",
+                "Grafis Darurart",
+                "Karya Anak Bangsa",
+                "Komikpalsu",
+                "Kuro",
+                "Nasi Putih",
+                "Neo Paradigm",
+                "Outline Reborn",
+                "Syndicate",
+                "Tita Larasati",
+                "Virgin Is Suck",
+                "Wind Rider",
+                "Wipe"
+            ],
+            "source": "Animonster 120 - Maret 2009",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090301",
+        "Start Time": "",
+        "End Date": "20090315",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gundam Exhibition",
+        "Location": "Plaza Senayan, Atrium Utama",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "xoouwv_3",
+        "location_address": "Plaza Senayan",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Bandai"
+            ],
+            "organizer": [
+                "Multi Toys"
+            ],
+            "activities": [
+                "Displays of Gundam models",
+                "Competition",
+                "Special merchandise"
+            ],
+            "source": [
+                "Animonster 120 - Maret 2009",
+                "Halaman 48"
+            ],
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090308",
+        "Start Time": "11:00 AM",
+        "End Date": "20090308",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090308",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Shinobi Shiawase no Hibi (Shinobi)",
+        "Location": "SMAN 3 Bandung",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "shinob_2",
+        "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.912122425343767, 107.61500855227105",
+        "location_gmaps": "https://goo.gl/maps/nhpJwpBE879b5AX39",
+        "links": [
+            "https://selfishnessmarch.blogspot.com/2009/03/sman3-shinobi-shiawase-no-hibi-ame.html",
+            "https://www.youtube.com/watch?v=ElsxxsBr6B0"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090312",
+        "Start Time": "",
+        "End Date": "20090314",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Crea-Expotivity 2009",
+        "Location": "Gedung Serba Guna UKM",
+        "Comment": "Acara expo yang memperkenalkan kebudayaan Amerika, Jepang, dan China kepada masyarakat Indonesia.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "bdhfdv_6",
+        "location_address": "Universitas Kristen Maranatha",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "Organizer": [
+                "Fakultas Sastra Universitas Kristen Maranatha"
+            ],
+            "Sub_Faculties": [
+                "S1 Sastra Jepang",
+                "S1 Sastra Inggris",
+                "S1 Sastra Mandarin",
+                "S1 Sastra China",
+                "Maranatha Language Center"
+            ],
+            "Highlights": [
+                "Tarian tradisional Jepang, China, dan Amerika",
+                "Talk show fashion dan musik bersama Ivan Gunawan dan Gail (Yovie & Nuno)",
+                "Lomba cosplay",
+                "Workshop memasak (sandwich, salad, sushi)",
+                "Pertunjukan musik (Visual Blood, band d'Noir, band Suicide Maya)",
+                "Demo seni bela diri (shoudo, shufo, kendo, aikidou, gongfu)"
+            ],
+            "Source": "Animonster 121 - April 2009, Halaman 063",
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090314",
+        "Start Time": "",
+        "End Date": "20090314",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sashimi Widyatama 2009",
+        "Location": "GSG Widyatama",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "rvxmjq_7",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/groups/106351800018/?multi_permalinks=10151299882880019"
+        ],
+        "Content": {
+            "performer": "Pochi Monchi",
+            "event_series": "Sashimi Widyatama 09",
+            "event_type": "Live Music Performance",
+            "description": "Live performance by Pochi Monchi at Sashimi Widyatama 09 event",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090321",
+        "Start Time": "",
+        "End Date": "20090322",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yamato Damashii 2009 STBA Bandung",
+        "Location": "STBA Yapari Aba Jl Cihampelas Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "oxmtvv_3",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/GammaCorleone/posts/1079519361164",
+            "https://web.facebook.com/hotarunza/videos/1065971900905/",
+            "https://www.youtube.com/watch?v=JfaPAYyANf8",
+            "https://www.youtube.com/watch?v=fPnpPu9X1I8"
+        ],
+        "Content": {
+            "event_type": "Annual cosplay and Japanese culture event",
+            "organizer": "STBA Yapari Aba Bandung",
+            "ticket_price": "7500",
+            "programs": {
+                "j_band_festival": {
+                    "registration_fee": "50000",
+                    "requirement": "Submit demo track CD",
+                    "registration_deadline": "20090312"
+                },
+                "cosplay_contest": {
+                    "registration_fee": "15000",
+                    "registration_deadline": "20090314"
+                },
+                "cosplay_cabaret": {
+                    "registration_fee": "100000",
+                    "registration_deadline": "20090314"
+                }
+            },
+            "technical_meeting": {
+                "date": "20090316"
+            },
+            "contact_person": {
+                "faisal": "081802162006",
+                "yani": "081572524221",
+                "ismi": "02291269945"
+            },
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090401",
+        "Start Time": "",
+        "End Date": "20090430",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Kompetisi Menggambar Manga: Let's Make Your Own Character Hero",
+        "Location": "Jakarta",
+        "Comment": "Acara diadakan di 16 sekolah di Jakarta.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "kvggoy_1",
+        "location_address": "Jakarta",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": [
+                "Dojo Education & Training"
+            ],
+            "event_details": [
+                "Kompetisi mewarnai kelas 1-3 SD",
+                "Kompetisi menggambar manga kelas 3-6 SD"
+            ],
+            "participants": [
+                "220 peserta lomba"
+            ],
+            "rewards": [
+                "Uang total Rp 2.500.000",
+                "Trophy",
+                "Sertifikat"
+            ],
+            "announcement": [
+                "34 finalis",
+                "Pengumuman pemenang Juli 2009"
+            ],
+            "additional_merchandise": [
+                "Animonster Photobook 1st Edition",
+                "Harga Rp 38.000",
+                "100 halaman",
+                "6 poster besar"
+            ],
+            "source": "Animonster 123 - Juni 2009",
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090411",
+        "Start Time": "11:00",
+        "End Date": "20090411",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "KAT-TUN's Fans Gathering: Care of Kizuna",
+        "Location": "Wisma Bidakara Taruma Sakti",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "gmvrrb_1",
+        "location_address": "Jl. Tawakal Ujung Raya, Tomang-Grogol",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.kattunesia.com"
+        ],
+        "Content": {
+            "presenter": [
+                "Animonster",
+                "KAT-TUNesia"
+            ],
+            "dresscode": "Black or Red",
+            "ticket_price": {
+                "public": "Rp 70.000",
+                "forum_member": "Rp 65.000",
+                "official_member": "Rp 60.000"
+            },
+            "doorprize": "One drop limited edition KAT-TUN school calendar",
+            "contact_info": {
+                "phone": "081230594492",
+                "email": "kattunesia@yahoo.com"
+            },
+            "source": "Animonster 120 - Maret 2009, Halaman 26",
+            "category": [
+                "Gathering / Komunitas"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090425",
+        "Start Time": "",
+        "End Date": "20090425",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "Normal",
+        "Subject": "UKJ Weekend Playlist",
+        "Location": "Sunken Court, ITB",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "ukjwee_2",
+        "location_address": "Jl. X, Lebak Siliwangi, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888114661546407, 107.61039635411883",
+        "location_gmaps": "https://goo.gl/maps/ntb1F1cQhnxvpN8J8",
+        "links": [
+            "https://web.facebook.com/agilnajib/videos/1829199580313/",
+            "https://web.facebook.com/photo/?fbid=1117607264046"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090510",
+        "Start Time": "9:00 AM",
+        "End Date": "20090510",
+        "End Time": "9:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090510",
+        "Reminder Time": "8:30 AM",
+        "Importance": "Normal",
+        "Subject": "Poppish Lovish",
+        "Location": "Ciwalk",
+        "Comment": "Foto Ajo bersama Bayu dan Lingga Gahara yang cosplay DMC :\n\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "poppis_1",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090524",
+        "Start Time": "",
+        "End Date": "20090524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ni Seiki No Hi 3",
+        "Location": "SMAN 1 Bekasi",
+        "Comment": "Diselenggarakan di SMAN 1 Bekasi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "zonuxr_3",
+        "location_address": "Jl. KH Agus Salim No. 181",
+        "location_city": "Bekasi",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Nihon Club SMAN 1 Bekasi"
+            ],
+            "band_performance": [
+                "Black Lavender",
+                "Caramel Soup",
+                "Mikan",
+                "Monalisa",
+                "Obake",
+                "Cybershocks"
+            ],
+            "j_culture_demo": [
+                "Taiko",
+                "Sanshin",
+                "Obake",
+                "Pameran Mainan",
+                "Pemutaran Film",
+                "Bon Odori"
+            ],
+            "competition": [
+                "Doujinshi",
+                "Cosplay",
+                "Cabaret"
+            ],
+            "htm": [
+                "Pre-sale: 5.000",
+                "On The Spot: 10.000"
+            ],
+            "contact_person": [
+                "Taire: 085691698933",
+                "Indah: 085782066369"
+            ],
+            "source": [
+                "Animonster 122 - Mei 2009"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090530",
+        "Start Time": "",
+        "End Date": "20090531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Animonster Spring Festival 2009",
+        "Location": "Jakarta",
+        "Comment": "Acara dibatalkan karena kendala teknis.",
+        "Online/Offline": "Offline",
+        "status": "Cancelled",
+        "attended": "",
+        "_id": "cbnpyn_4",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "organizer": "Kru dan staf Animonster",
+            "status_event": "Dibatalkan",
+            "alasan_pembatalan": "Kendala teknis",
+            "pengisi_acara": [
+                "Lunatic Tokyo",
+                "Nadeshiko",
+                "Shiroi Hana",
+                "Colafloat",
+                "U-Maku Eisa Shinka Indonesia",
+                "AAC Indonesia"
+            ],
+            "sumber": "Animonster 123 - Juni 2009",
+            "halaman": "Tidak disebutkan",
+            "category": [
+                "Festival / Matsuri",
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090602",
+        "Start Time": "8:00 AM",
+        "End Date": "20090603",
+        "End Time": "9:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090602",
+        "Reminder Time": "7:30 AM",
+        "Importance": "Normal",
+        "Subject": "E3 2009",
+        "Location": "Los Angeles Convention Center",
+        "Comment": "E3 2009 was the 15th Electronic Entertainment Expo held. It was held June 24 at the Los Angeles Convention Center. Attendance of E3 2009 had attendance which was similar to that of E3 summits from before 2007. The attendance was up by 820% on the previous years summit (E3 2008) to 41,000 attendees, which itself is only a decline of 32% on E3 2006's attendance.\nNew motion sensing devices were revealed for the PlayStation 3 and Xbox 360, the PlayStation Move and Kinect first known as Project Natal respectively. Crysis 2, Halo: Reach, New Super Mario Bros. Wii, Golden Sun: Dark Dawn, Wii Vitality Sensor, WarioWare D.I.Y., Wii Fit Plus, Super Mario Galaxy 2, Metroid: Other M, Final Fantasy XIV, ModNation Racers, and Metal Gear Solid: Peace Walker were announced at the show. Sony's new portable device, the PSP Go, was also announced.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "eecvrm_1",
+        "location_address": "1201 S Figueroa St, Los Angeles, CA 90015, Amerika Serikat",
+        "location_city": "Los Angeles",
+        "location_coordinate": "34.04051626882755, -118.26955167415021",
+        "location_gmaps": "https://goo.gl/maps/CsSCaGk5kiRJ3ZBV8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "United States"
+    },
+    {
+        "Start Date": "20090606",
+        "Start Time": "10:00",
+        "End Date": "20090606",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fashion Show Anime Beyond Imagination",
+        "Location": "BPPT Building",
+        "Comment": "Event by Fashion Design 2005 UNJ",
+        "Offline/Online": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "accxry_6",
+        "location_address": "M.H. Thamrin No. 8",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "animebeyondimagination@yahoo.com"
+        ],
+        "Content": {
+            "presenter": [
+                "Dj Mahesa Utara",
+                "Mc Rendy (J-Sekai)",
+                "Ozenk Percussion",
+                "De-Luv Band"
+            ],
+            "organizer": [
+                "Fashion Design 2005 UNJ"
+            ],
+            "ticket_price": {
+                "VIP": "100.000",
+                "Reguler": "70.000",
+                "Festival": "35.000"
+            },
+            "dress_code": [
+                "Harajuku",
+                "Cosplay"
+            ],
+            "activities": [
+                "Japanese Traditional Dance",
+                "Modern Dance",
+                "The Best Dress Code Competition"
+            ],
+            "source": "Animonster 122 - Mei 2009",
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090613",
+        "Start Time": "",
+        "End Date": "20090614",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gelar Jepang 2009",
+        "Location": "Pusat Studi Jepang & Lapangan Parkir Dosen Fakultas Ilmu Pengetahuan Budaya Universitas Indonesia",
+        "Comment": "Acara tahunan yang diselenggarakan oleh HIMAJA FIB UI. Informasi bersumber dari Animonster 123, Juni 2009.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "togtxr_8",
+        "location_address": "Kampus Universitas Indonesia, Depok, Indonesia",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "HIMAJA FIB UI",
+            "guest_star": [
+                "ZEAL",
+                "Murasaki X-Shibuya"
+            ],
+            "special_performance": [
+                "Jakarta KEION Club"
+            ],
+            "band_performances": [
+                "Cosplay",
+                "Bon Odori",
+                "Hanabi",
+                "Kolaborasi Arumba - Sanshin",
+                "Taiko Okinawa",
+                "Yosakoi & Omikoshi",
+                "Omochitsuki",
+                "Japanese Modern Dance",
+                "Demo Bela Diri"
+            ],
+            "lomba_and_workshop": [
+                "Karaoke",
+                "Igo",
+                "Komik",
+                "DDR",
+                "Doujinshi",
+                "Yu-Gi-Oh!",
+                "Makan Takoyaki",
+                "Gundam",
+                "Origami",
+                "Washi"
+            ],
+            "entry_fee": "Free Entry",
+            "contact_person": [
+                "Tata (0813 8134 5881)",
+                "Ranti (0813 1109 2700)"
+            ],
+            "source": "Animonster 123 - Juni 2009",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090619",
+        "Start Time": "",
+        "End Date": "20090621",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HOBBY & TOYS FAIR '09",
+        "Location": "BE MALL BANDUNG",
+        "Comment": "Event featuring various hobby and toy activities, including consultations for school and work in New Zealand and Australia.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dkrikn_3",
+        "location_address": "Bandung",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": "Animonster",
+            "organizer": "Mozaic Production",
+            "activities": [
+                "Cosplay",
+                "Drawing Contest",
+                "Vandaria Wars Contest",
+                "Warhammer & Model Kit Workshop",
+                "Designer Toys Workshop",
+                "Tamiya racing",
+                "Manga",
+                "Anime",
+                "Action figure exhibition"
+            ],
+            "consultation": "Education and work opportunities in New Zealand and Australia",
+            "source": "Animonster 122 - Mei 2009, page 104",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090701",
+        "Start Time": "",
+        "End Date": "20090831",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pond's Teen Concert",
+        "Location": "Medan, Jakarta, Surabaya",
+        "Comment": "Kompetisi band, mading sekolah, dan konsep kreatif.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "vfokel_7",
+        "location_address": "",
+        "location_city": "Medan, Jakarta, Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "www.myponds.net/pondsteensconcert"
+        ],
+        "Content": {
+            "target_peserta": [
+                "Remaja SMA"
+            ],
+            "bintang_tamu": [
+                "Ungu",
+                "Afgan",
+                "Alexa",
+                "Nidji",
+                "Kerispatih",
+                "The Changcuters",
+                "RAN",
+                "Ello",
+                "Hijau Daun",
+                "Pee Wee Gaskins"
+            ],
+            "source": [
+                "Animonster 122 - Mei 2009"
+            ],
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090703",
+        "Start Time": "",
+        "End Date": "20090704",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanese Culture Festival: Misteriously Japan",
+        "Location": "Jl. Pengadegan Timur Raya no. 3 Pancoran",
+        "Comment": "Source: Animonster 124 - Juli 2009, page 10",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "myygju_7",
+        "location_address": "Jl. Pengadegan Timur Raya no. 3 Pancoran",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "sponsors": [
+                "Sekolah Tinggi Bahasa Asing LIA"
+            ],
+            "performances": [
+                "Lagu-Lagu Kai",
+                "Arumba",
+                "Kazu (Jakarta Ondo)",
+                "Southern Cross Choir",
+                "Angklung Melodi Manis",
+                "Demo Masakan Jepang",
+                "Minimoni",
+                "Karate (Internasional Kyoku Shinkai White Eagle Indonesia Karate Club)",
+                "Chanoyu",
+                "Demo Shodou",
+                "Puffy Dance",
+                "Demo Aikido",
+                "Idol Performance",
+                "Talko Japan Club",
+                "Bon Odori",
+                "Hanabi",
+                "Obakeyashiki",
+                "Giri Giri Dance",
+                "Cosplay Contest",
+                "Cabaret"
+            ],
+            "bands": [
+                "Shuriken",
+                "Obake",
+                "Karaleva",
+                "X-Shibuya",
+                "Chiken Katsu",
+                "Caramel Soup",
+                "Arya and The Backstabber",
+                "Kite Kudasai",
+                "Achi Kochi"
+            ],
+            "contact_persons": [
+                "Aya: 021 950 88 747",
+                "Echii: 08999 8133 25"
+            ],
+            "entry_fee": "Free Entrance For Everyone",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090704",
+        "Start Time": "10:00 AM",
+        "End Date": "20090704",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090704",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Japan Movie Paradise",
+        "Location": "Jl. Jawa No.6",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "japanm_1",
+        "location_address": "Jl. Jawa No.6, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.914888465303349, 107.61147112517368",
+        "location_gmaps": "https://goo.gl/maps/QebdtFLTQ85k9suv9",
+        "links": [
+            "https://web.facebook.com/photo.php?fbid=1022690823623&set=pb.1715801691.-2207520000.&type=3"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090715",
+        "Start Time": "",
+        "End Date": "20090719",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "WCG 2009 (World Cyber Games)",
+        "Location": "Taman Anggrek Mal",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "tcdiar_1",
+        "location_address": "Taman Anggrek Mall, Jakarta",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "www.angelsfrag.com",
+            "www.indomog.com"
+        ],
+        "Content": {
+            "organizer": [
+                "GameStation"
+            ],
+            "official_games": [
+                "Warcraft 3: Frozen Throne (DotA)",
+                "Counterstrike 1.6 steam",
+                "Guitar Hero: World Tour",
+                "FIFA 2009",
+                "Asphalt 4",
+                "Game Online"
+            ],
+            "game_exhibition": [
+                "Street Fighter 4"
+            ],
+            "sponsors": [
+                "Plantronics",
+                "Recharge"
+            ],
+            "media_partners": [
+                "Cinemags",
+                "Kiddo",
+                "Animonster",
+                "G",
+                "Meoo",
+                "Game TV",
+                "Cam Solutions",
+                "Fle",
+                "88.4 Global Radio",
+                "98.7 Gen FM"
+            ],
+            "special_offer": [
+                "Free voucher n-Gage at stand indomog"
+            ],
+            "presenter": [
+                "Samsung"
+            ],
+            "exhibition_game": [
+                "Street Fighter 4"
+            ],
+            "event_schedule": [
+                "Yogyakarta: 27-31 Mei @ Bloop Gamecenter",
+                "Semarang: 20-24 Mei @ Pegasus Gamecenter",
+                "Surabaya: 6-7 Juni @ Atrium Tunjungan Plaza 2",
+                "Bandung: 10-14 Juni @ Digigames Gamecenter",
+                "Jakarta: 17-21 Juni @ Gamesphere Gamecenter"
+            ],
+            "source": [
+                "Animonster 124 - Juli 2009",
+                "Animonster 123 - Juni 2009, halaman tidak tercantum secara spesifik di gambar"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090719",
+        "Start Time": "11:00 AM",
+        "End Date": "20090719",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090719",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Event Kebudayaan Jepang - Indonesia Persada",
+        "Location": "Ciwalk",
+        "Comment": "Foto Girlfriends yang kuambil pakai SE K660i :\n\nfoto teman-teman :\n\nSummer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "eventk_1",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "links": [
+            "https://web.facebook.com/media/set/?vanity=tanera.pro&set=a.1026830047235",
+            "http://www.ykbi.com"
+        ],
+        "Content": {
+            "description": "Acara kolaborasi antara Bandung dan Hamamatsu yang menampilkan pertukaran seni dan budaya.",
+            "presenter": [
+                "Perhimpunan Alumni dari Jepang daerah Jawa Barat",
+                "Lembaga Persahabatan Indonesia Jepang"
+            ],
+            "organizer": [
+                "Yayasan Kerjasama Budaya Internasional (YKBI)",
+                "Perhimpunan Alumni dari Jepang (PERSADA) daerah Jawa Barat"
+            ],
+            "program": [
+                "Pentas Musik Jepang",
+                "Band Audisi",
+                "Lomba Manga",
+                "Lomba Menggambar dan Mewarnai",
+                "Lomba Cosplay",
+                "Demo Masakan Jepang",
+                "Ikebana",
+                "Chanoyu",
+                "Tarian Jepang",
+                "Bon Odori",
+                "Rampak Kendang",
+                "Jaipongan"
+            ],
+            "contact": [
+                "(022) 7300 315",
+                "081586130130"
+            ],
+            "source": "Animonster 124 - Juli 2009",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090725",
+        "Start Time": "4:00 PM",
+        "End Date": "20090726",
+        "End Time": "4:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090725",
+        "Reminder Time": "3:30 PM",
+        "Importance": "Normal",
+        "Subject": "MMI Gath Bandung 2009",
+        "Location": "Rumah Lama Jeff dekat Salman Alfaritsi",
+        "Comment": "Foto diriku yang diambil oleh kamera Helmi :\n\nFoto sebelum acara dimulai :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "mmigat_1",
+        "location_address": "Jl. Tubagus Ismail VIII No.44, Sekeloa, Kecamatan Coblong, Kota Bandung, Jawa Barat 40134",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.881528957541867, 107.62114436346548",
+        "location_gmaps": "https://goo.gl/maps/VvmtPD7WYUA9CeVq9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090820",
+        "Start Time": "11:00 AM",
+        "End Date": "20090820",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090820",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Ohayou Event",
+        "Location": "E-Plex",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ohayou_1",
+        "location_address": "Jl. Sukajadi No.131-139, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8899887726168645, 107.59651029779474",
+        "location_gmaps": "https://goo.gl/maps/SAMR8qtEyz8cyC8h9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090830",
+        "Start Time": "11:00 AM",
+        "End Date": "20090830",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090830",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Ngabuburit Jepang YKBI",
+        "Location": "BEC",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ngabub_1",
+        "location_address": "Jl. Purnawarman No.3-13, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.908570540313212, 107.60915575577258",
+        "location_gmaps": "https://goo.gl/maps/r89hqVcC4xRBD2iA7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090904",
+        "Start Time": "11:00 AM",
+        "End Date": "20090904",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090904",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Ngabuburit Ohayou",
+        "Location": "E-Plex",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ngabub_2",
+        "location_address": "Jl. Sukajadi No.131-139, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8899887726168645, 107.59651029779474",
+        "location_gmaps": "https://goo.gl/maps/SAMR8qtEyz8cyC8h9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20090927",
+        "Start Time": "11:00 AM",
+        "End Date": "20090927",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20090927",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Oriental Lucky Idol Day",
+        "Location": "Lucky Square",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "orient_1",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Musik - Idol / VTuber"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091003",
+        "Start Time": "11:00 AM",
+        "End Date": "20091003",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091003",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Nikuma No Washi",
+        "Location": "Depok Town Square",
+        "Comment": "Foto dari facebook Summer Sound :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nikuma_1",
+        "location_address": "Jl. Margonda Raya No.1, Kemiri Muka, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.372329656815822, 106.83163310993814",
+        "location_gmaps": "https://goo.gl/maps/7iPLBrhBc5tUnNfc6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091025",
+        "Start Time": "4:30 PM",
+        "End Date": "20091025",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091025",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Road To Star Artvaganza Cosplay Competition",
+        "Location": "Bandung Trade Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "roadto_1",
+        "location_address": "Jl. Ibrahim Adjie No.47, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40283",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.9112521248933, 107.64440706363794",
+        "location_gmaps": "https://goo.gl/maps/uzeYs35g6MWHW2gd9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091106",
+        "Start Time": "4:30 PM",
+        "End Date": "20091108",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091106",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "IMPACT",
+        "Location": "Maranatha",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "impact_1",
+        "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.886322772047325, 107.58090566761265",
+        "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091114",
+        "Start Time": "4:30 PM",
+        "End Date": "20091114",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091114",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Maranatha Celebration 2009",
+        "Location": "Maranatha",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "marana_1",
+        "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.886322772047325, 107.58090566761265",
+        "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091122",
+        "Start Time": "4:30 PM",
+        "End Date": "20091122",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091122",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Pasar Komik Bandung",
+        "Location": "Sekolah Tinggi Desain Indonesia (STDI)",
+        "Comment": "Snowflake tampil.\nada Samuel Tampubolon dan teman-teman. Agil datang.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "pasark_1",
+        "location_address": "Jl. Wastukencana No.52, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.903741325173599, 107.6046509964482",
+        "location_gmaps": "https://goo.gl/maps/8z6hJuM7QojxpT4a6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Bazaar / Market",
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091122",
+        "Start Time": "",
+        "End Date": "20091122",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20131207",
+        "Reminder Time": "6:30 PM",
+        "Importance": "Normal",
+        "Subject": "Jiyuu Eno Shotai : Invitation to Freedom",
+        "Location": "Kampus A UNJ Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jiyuue_1",
+        "location_address": "Jl. R.Mangun Muka Raya No.11, RW.14, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.19339405452142, 106.88004002326086",
+        "location_gmaps": "https://goo.gl/maps/wNecT2U7bfRfT1zi9",
+        "links": [
+            "https://web.facebook.com/tanera.pro/posts/1061277548401"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091129",
+        "Start Time": "11:00 AM",
+        "End Date": "20091129",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091129",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Cosplax X-PRESS",
+        "Location": "BeMall",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "cospla_1",
+        "location_address": "Jl. Naripan No.89, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.920368981614356, 107.61613092528373",
+        "location_gmaps": "https://g.page/clicksquare_id",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091213",
+        "Start Time": "11:00 AM",
+        "End Date": "20091213",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091213",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Charity Event",
+        "Location": "Miko Mall Kopo",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "charit_1",
+        "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.959920899029212, 107.58084641179033",
+        "location_gmaps": "https://g.page/mikomallkopo_bdg",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20091226",
+        "Start Time": "4:30 PM",
+        "End Date": "20091226",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20091226",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Nihon No Matsuri vol 3",
+        "Location": "Ciwalk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "nihonn_3",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "CEO": "Agung Dermawan",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    }
+]
