@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A structured dataset documenting 50+ years of Japanese pop-culture events in Indonesia. 6,145 events · 183 cities · 1973–2026.">
+<meta property="og:title" content="Indonesian J-Culture Event Archive">
+<meta property="og:description" content="6,145 events · 183 cities · 1973–2026. Open dataset documenting Japanese pop-culture history in Indonesia.">
+<meta property="og:type" content="website">
+<title>Indonesian J-Culture Event Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;900&family=Noto+Serif+JP:wght@400;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:    #1A0F0A;
+    --cream:  #F5EDD6;
+    --paper:  #EDE2C4;
+    --red:    #C0392B;
+    --dkred:  #8B1A10;
+    --gold:   #C9972B;
+    --gold2:  #E8B94A;
+    --teal:   #1A6B6B;
+    --rust:   #A0430A;
+    --dim:    rgba(26,15,10,0.55);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--ink);
+    color: var(--cream);
+    font-family: 'DM Mono', monospace;
+    overflow-x: hidden;
+  }
+
+  /* ── Noise texture overlay ── */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 1000;
+    opacity: 0.5;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 60px 24px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Rising sun */
+  .sun {
+    position: absolute;
+    top: -180px; left: 50%;
+    transform: translateX(-50%);
+    width: 700px; height: 700px;
+    z-index: 0;
+    opacity: 0.05;
+    animation: sunrise 3s ease-out forwards;
+  }
+  @keyframes sunrise {
+    from { opacity: 0; transform: translateX(-50%) translateY(60px); }
+    to   { opacity: 0.05; transform: translateX(-50%) translateY(0); }
+  }
+  .sun-inner {
+    width: 100%; height: 100%;
+    border-radius: 50%;
+    background: conic-gradient(
+      var(--red) 0deg, transparent 5deg,
+      var(--red) 10deg, transparent 15deg,
+      var(--red) 20deg, transparent 25deg,
+      var(--red) 30deg, transparent 35deg,
+      var(--red) 40deg, transparent 45deg,
+      var(--red) 50deg, transparent 55deg,
+      var(--red) 60deg, transparent 65deg,
+      var(--red) 70deg, transparent 75deg,
+      var(--red) 80deg, transparent 85deg,
+      var(--red) 90deg, transparent 95deg,
+      var(--red) 100deg, transparent 105deg,
+      var(--red) 110deg, transparent 115deg,
+      var(--red) 120deg, transparent 125deg,
+      var(--red) 130deg, transparent 135deg,
+      var(--red) 140deg, transparent 145deg,
+      var(--red) 150deg, transparent 155deg,
+      var(--red) 160deg, transparent 165deg,
+      var(--red) 170deg, transparent 175deg,
+      var(--red) 180deg, transparent 185deg,
+      var(--red) 190deg, transparent 195deg,
+      var(--red) 200deg, transparent 205deg,
+      var(--red) 210deg, transparent 215deg,
+      var(--red) 220deg, transparent 225deg,
+      var(--red) 230deg, transparent 235deg,
+      var(--red) 240deg, transparent 245deg,
+      var(--red) 250deg, transparent 255deg,
+      var(--red) 260deg, transparent 265deg,
+      var(--red) 270deg, transparent 275deg,
+      var(--red) 280deg, transparent 285deg,
+      var(--red) 290deg, transparent 295deg,
+      var(--red) 300deg, transparent 305deg,
+      var(--red) 310deg, transparent 315deg,
+      var(--red) 320deg, transparent 325deg,
+      var(--red) 330deg, transparent 335deg,
+      var(--red) 340deg, transparent 345deg,
+      var(--red) 350deg, transparent 355deg,
+      var(--red) 360deg
+    );
+  }
+
+  /* Horizontal scan lines */
+  .scanlines {
+    position: absolute; inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      rgba(26,15,10,0.06) 3px,
+      rgba(26,15,10,0.06) 4px
+    );
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* Vertical kanji */
+  .kanji-side {
+    position: absolute;
+    writing-mode: vertical-rl;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 88px;
+    font-weight: 700;
+    color: var(--red);
+    opacity: 0.06;
+    letter-spacing: 12px;
+    z-index: 2;
+    user-select: none;
+  }
+  .kanji-left  { left: 16px; top: 80px; }
+  .kanji-right { right: 16px; top: 80px; }
+
+  .hero-content { position: relative; z-index: 5; max-width: 780px; }
+
+  .eyebrow {
+    font-size: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 20px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.2s forwards;
+  }
+
+  h1 {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: clamp(36px, 7vw, 76px);
+    line-height: 1;
+    letter-spacing: -2px;
+    color: var(--cream);
+    margin-bottom: 6px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.35s forwards;
+  }
+  h1 .accent { color: var(--red); }
+
+  .subtitle-jp {
+    font-family: 'Noto Serif JP', serif;
+    font-size: clamp(12px, 2vw, 18px);
+    color: var(--gold2);
+    opacity: 0;
+    margin-bottom: 28px;
+    animation: fadeUp 0.6s ease 0.5s forwards;
+  }
+
+  .desc {
+    font-size: clamp(12px, 1.5vw, 14px);
+    line-height: 1.8;
+    color: rgba(245,237,214,0.7);
+    max-width: 580px;
+    margin: 0 auto 40px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.65s forwards;
+  }
+
+  /* ── Stats strip ── */
+  .stats {
+    display: flex;
+    gap: 0;
+    border: 1px solid rgba(201,151,43,0.3);
+    margin: 0 auto 44px;
+    max-width: 600px;
+    width: 100%;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.8s forwards;
+  }
+  .stat {
+    flex: 1;
+    padding: 16px 10px;
+    text-align: center;
+    border-right: 1px solid rgba(201,151,43,0.3);
+    position: relative;
+  }
+  .stat:last-child { border-right: none; }
+  .stat-num {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: clamp(18px, 3vw, 26px);
+    color: var(--gold2);
+    display: block;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .stat-label {
+    font-size: 9px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(245,237,214,0.45);
+  }
+
+  /* ── CTA Buttons ── */
+  .cta-group {
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    flex-wrap: wrap;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.95s forwards;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 28px;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: transform 0.2s ease, background 0.2s ease;
+    cursor: pointer;
+  }
+  .btn:hover { transform: translateY(-2px); }
+
+  .btn-primary {
+    background: var(--red);
+    color: var(--cream);
+    border: 2px solid var(--red);
+  }
+  .btn-primary:hover { background: var(--dkred); border-color: var(--dkred); }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--gold2);
+    border: 2px solid rgba(201,151,43,0.5);
+  }
+  .btn-ghost:hover { border-color: var(--gold2); color: var(--cream); }
+
+  /* ── Divider ── */
+  .divider {
+    width: 100%;
+    height: 4px;
+    background: repeating-linear-gradient(
+      90deg,
+      var(--red) 0px, var(--red) 24px,
+      var(--dkred) 24px, var(--dkred) 48px
+    );
+    position: relative;
+    z-index: 5;
+  }
+
+  /* ── Section ── */
+  section {
+    position: relative;
+    z-index: 5;
+  }
+
+  /* ── Timeline section ── */
+  .timeline-section {
+    background: var(--paper);
+    padding: 72px 24px;
+    color: var(--ink);
+  }
+
+  .section-inner {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .section-label {
+    font-size: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: var(--rust);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--rust);
+    opacity: 0.3;
+  }
+
+  .section-title {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: clamp(24px, 4vw, 40px);
+    color: var(--ink);
+    line-height: 1.1;
+    margin-bottom: 48px;
+    letter-spacing: -1px;
+  }
+
+  /* Spark chart */
+  .spark-wrap {
+    margin-bottom: 48px;
+  }
+  .spark-label-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--rust);
+    margin-bottom: 6px;
+  }
+  .spark-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 80px;
+  }
+  .spark-bar {
+    flex: 1;
+    background: var(--ink);
+    opacity: 0.15;
+    position: relative;
+    transition: opacity 0.2s;
+    cursor: default;
+    min-width: 4px;
+  }
+  .spark-bar.has-data { opacity: 1; background: var(--red); }
+  .spark-bar.has-data:hover { opacity: 0.8; }
+  .spark-bar.peak { background: var(--gold); }
+
+  /* Notable series cards */
+  .series-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+    margin-top: 40px;
+  }
+  .series-card {
+    border: 1.5px solid rgba(26,15,10,0.2);
+    padding: 20px;
+    position: relative;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+  .series-card:hover {
+    border-color: var(--red);
+    transform: translateY(-2px);
+  }
+  .series-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px; height: 100%;
+    background: var(--red);
+  }
+  .card-years {
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--rust);
+    margin-bottom: 6px;
+  }
+  .card-name {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: var(--ink);
+    line-height: 1.3;
+    margin-bottom: 4px;
+  }
+  .card-venue {
+    font-size: 11px;
+    color: rgba(26,15,10,0.55);
+    line-height: 1.5;
+  }
+  .card-badge {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 9px;
+    letter-spacing: 1px;
+    padding: 3px 8px;
+    background: var(--ink);
+    color: var(--cream);
+    text-transform: uppercase;
+  }
+
+  /* ── About section ── */
+  .about-section {
+    background: var(--ink);
+    padding: 72px 24px;
+    border-top: 1px solid rgba(245,237,214,0.08);
+  }
+
+  .about-grid {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 640px) {
+    .about-grid { grid-template-columns: 1fr; gap: 36px; }
+    .kanji-side { display: none; }
+  }
+
+  .about-text .section-label { color: var(--gold); }
+  .about-text .section-label::after { background: var(--gold); opacity: 0.2; }
+
+  .about-title {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: clamp(22px, 3vw, 32px);
+    color: var(--cream);
+    line-height: 1.2;
+    margin-bottom: 20px;
+    letter-spacing: -0.5px;
+  }
+
+  .about-body {
+    font-size: 13px;
+    line-height: 1.9;
+    color: rgba(245,237,214,0.65);
+    margin-bottom: 14px;
+  }
+
+  .about-body strong { color: var(--gold2); font-weight: 500; }
+
+  /* Data breakdown */
+  .data-breakdown { }
+  .breakdown-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(245,237,214,0.07);
+    font-size: 12px;
+  }
+  .breakdown-row:first-child { border-top: 1px solid rgba(245,237,214,0.07); }
+  .breakdown-key { color: rgba(245,237,214,0.5); }
+  .breakdown-val {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: var(--gold2);
+  }
+
+  /* City pills */
+  .city-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 24px;
+  }
+  .city-pill {
+    padding: 5px 12px;
+    border: 1px solid rgba(201,151,43,0.3);
+    font-size: 11px;
+    color: rgba(245,237,214,0.6);
+    letter-spacing: 1px;
+  }
+  .city-pill strong {
+    color: var(--gold2);
+    font-weight: 500;
+    font-family: 'Unbounded', sans-serif;
+    font-size: 12px;
+  }
+
+  /* ── Open data section ── */
+  .opendata-section {
+    background: var(--cream);
+    color: var(--ink);
+    padding: 72px 24px;
+  }
+  .opendata-section .section-label { color: var(--teal); }
+  .opendata-section .section-label::after { background: var(--teal); }
+  .opendata-section .section-title { color: var(--ink); }
+
+  .code-block {
+    background: var(--ink);
+    color: var(--gold2);
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    padding: 20px 24px;
+    line-height: 2;
+    margin: 24px 0;
+    border-left: 3px solid var(--red);
+    overflow-x: auto;
+  }
+  .code-block .comment { color: rgba(232,185,74,0.4); }
+  .code-block .keyword { color: var(--red); }
+  .code-block .string  { color: #7ec8a0; }
+
+  .license-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border: 1.5px solid rgba(26,15,10,0.2);
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: var(--teal);
+    margin-top: 16px;
+  }
+  .license-dot {
+    width: 8px; height: 8px;
+    background: var(--teal);
+    border-radius: 50%;
+  }
+
+  /* ── Footer ── */
+  footer {
+    background: var(--ink);
+    border-top: 4px solid var(--red);
+    padding: 36px 24px;
+    text-align: center;
+    position: relative;
+    z-index: 5;
+  }
+  .footer-inner { max-width: 900px; margin: 0 auto; }
+  .footer-logo {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: var(--gold2);
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .footer-links a {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(245,237,214,0.45);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover { color: var(--gold2); }
+  .footer-copy {
+    font-size: 10px;
+    color: rgba(245,237,214,0.25);
+    letter-spacing: 1px;
+  }
+
+  /* ── Animations ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* scroll reveal */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  /* ── Scroll indicator ── */
+  .scroll-hint {
+    position: absolute;
+    bottom: 28px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 1.4s forwards;
+    z-index: 5;
+  }
+  .scroll-hint span {
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(245,237,214,0.35);
+  }
+  .scroll-arrow {
+    width: 1px;
+    height: 36px;
+    background: linear-gradient(to bottom, rgba(245,237,214,0.4), transparent);
+    animation: scrollPulse 1.8s ease-in-out infinite;
+  }
+  @keyframes scrollPulse {
+    0%, 100% { opacity: 0.3; }
+    50%       { opacity: 1; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ HERO ════════════════════════════════════════════════════════ -->
+<section class="hero">
+  <div class="sun"><div class="sun-inner"></div></div>
+  <div class="scanlines"></div>
+  <div class="kanji-side kanji-left">記録</div>
+  <div class="kanji-side kanji-right">文化</div>
+
+  <div class="hero-content">
+    <p class="eyebrow">◈ Open Dataset · Arsip Terbuka ◈</p>
+    <h1>Indonesian<br><span class="accent">J-Culture</span><br>Event Archive</h1>
+    <p class="subtitle-jp">インドネシア日本文化イベント記録</p>
+    <p class="desc">
+      Dokumentasi terstruktur sejarah acara budaya pop Jepang di Indonesia —
+      dari bunkasai pertama di Unpad tahun 1973 hingga festival-festival yang berlangsung hari ini.
+      <br><br>
+      A structured record of Japanese pop-culture events across Indonesia,
+      spanning five decades of community history.
+    </p>
+
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-num" id="cnt-events">6,145</span>
+        <span class="stat-label">Events</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">183</span>
+        <span class="stat-label">Cities / Kota</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">1973</span>
+        <span class="stat-label">Since / Sejak</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">3,944</span>
+        <span class="stat-label">GPS Points</span>
+      </div>
+    </div>
+
+    <div class="cta-group">
+      <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank">
+        ↗ View on GitHub
+      </a>
+      <a class="btn btn-ghost" href="https://github.com/harbhum25-sys/indonesian-jculture-archive/tree/main/data" target="_blank">
+        ↓ Download Dataset
+      </a>
+    </div>
+  </div>
+
+  <div class="scroll-hint">
+    <span>Scroll</span>
+    <div class="scroll-arrow"></div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══ TIMELINE ════════════════════════════════════════════════════ -->
+<section class="timeline-section">
+  <div class="section-inner">
+    <p class="section-label reveal">Pertumbuhan · Growth</p>
+    <h2 class="section-title reveal">50+ Tahun<br>Scene Jejepangan Indonesia</h2>
+
+    <!-- Spark chart -->
+    <div class="spark-wrap reveal">
+      <div class="spark-label-row">
+        <span>1973</span>
+        <span>— jumlah acara per tahun / events per year —</span>
+        <span>2026</span>
+      </div>
+      <div class="spark-bars" id="sparkBars"></div>
+    </div>
+
+    <!-- Notable series -->
+    <p class="section-label reveal" style="margin-top:52px;">Seri Bersejarah · Historic Series</p>
+    <div class="series-grid">
+      <div class="series-card reveal">
+        <div class="card-years">1973 – present</div>
+        <div class="card-name">Nihongo Nihon Bunkasai / Bunkasai Unpad</div>
+        <div class="card-venue">Fakultas Sastra Universitas Padjadjaran, Bandung</div>
+        <div class="card-badge">Earliest on record</div>
+      </div>
+      <div class="series-card reveal">
+        <div class="card-years">2006 – 2025</div>
+        <div class="card-name">Yamato Damashii</div>
+        <div class="card-venue">STBA YAPARI-ABA, Jl. Cihampelas, Bandung</div>
+        <div class="card-badge">Ed. I – XVIII</div>
+      </div>
+      <div class="series-card reveal">
+        <div class="card-years">1995 – 2023</div>
+        <div class="card-name">Gelar Jepang UI</div>
+        <div class="card-venue">Universitas Indonesia, Depok</div>
+        <div class="card-badge">Ed. 1 – 29</div>
+      </div>
+      <div class="series-card reveal">
+        <div class="card-years">2012 – 2018</div>
+        <div class="card-name">Fesbukan</div>
+        <div class="card-venue">PSBJ FIB UNPAD, Jatinangor, Sumedang</div>
+        <div class="card-badge">Ed. 1 – 7</div>
+      </div>
+      <div class="series-card reveal">
+        <div class="card-years">2013 – 2024</div>
+        <div class="card-name">Anime Festival Asia Indonesia</div>
+        <div class="card-venue">Jakarta Convention Center</div>
+        <div class="card-badge">Annual</div>
+      </div>
+      <div class="series-card reveal">
+        <div class="card-years">2009 – 2022</div>
+        <div class="card-name">Jak-Japan Matsuri</div>
+        <div class="card-venue">Gelora Bung Karno, Jakarta</div>
+        <div class="card-badge">Annual</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══ ABOUT ═══════════════════════════════════════════════════════ -->
+<section class="about-section">
+  <div class="about-grid section-inner">
+    <div class="about-text">
+      <p class="section-label reveal">Tentang · About</p>
+      <h2 class="about-title reveal">Arsip yang<br>dibangun dari<br>komunitas</h2>
+      <p class="about-body reveal">
+        Proyek ini mendokumentasikan sejarah komunitas J-culture Indonesia —
+        konvensi anime, gathering cosplay, bunkasai, pertunjukan idol, dan konser J-music.
+      </p>
+      <p class="about-body reveal">
+        Pengumpulan data dimulai tahun 2017, menggabungkan catatan kehadiran pribadi,
+        arsip majalah <strong>Animonster</strong>, dokumentasi komunitas, dan media sosial.
+      </p>
+      <p class="about-body reveal">
+        This archive is built by a photographer and graphic designer with a focus on
+        <strong>visual culture, cultural documentation, and digital archives</strong>.
+      </p>
+    </div>
+
+    <div class="reveal">
+      <p class="section-label" style="color:var(--gold);margin-bottom:20px;">
+        Data breakdown
+        <span style="flex:1;height:1px;background:var(--gold);opacity:0.2;display:inline-block;margin-left:12px;vertical-align:middle;"></span>
+      </p>
+      <div class="data-breakdown">
+        <div class="breakdown-row">
+          <span class="breakdown-key">Total events</span>
+          <span class="breakdown-val">6,145</span>
+        </div>
+        <div class="breakdown-row">
+          <span class="breakdown-key">Year span</span>
+          <span class="breakdown-val">1973 – 2026</span>
+        </div>
+        <div class="breakdown-row">
+          <span class="breakdown-key">Unique cities</span>
+          <span class="breakdown-val">183</span>
+        </div>
+        <div class="breakdown-row">
+          <span class="breakdown-key">GPS coordinates</span>
+          <span class="breakdown-val">3,944</span>
+        </div>
+        <div class="breakdown-row">
+          <span class="breakdown-key">Rich content data</span>
+          <span class="breakdown-val">1,371</span>
+        </div>
+        <div class="breakdown-row">
+          <span class="breakdown-key">JSON files</span>
+          <span class="breakdown-val">28</span>
+        </div>
+      </div>
+
+      <div class="city-pills" style="margin-top:28px;">
+        <div class="city-pill"><strong>841</strong> Bandung</div>
+        <div class="city-pill"><strong>262</strong> Surabaya</div>
+        <div class="city-pill"><strong>252</strong> Jkt Selatan</div>
+        <div class="city-pill"><strong>246</strong> Jakarta</div>
+        <div class="city-pill"><strong>225</strong> Yogyakarta</div>
+        <div class="city-pill"><strong>176</strong> Bekasi</div>
+        <div class="city-pill" style="color:rgba(245,237,214,0.3);">+ 177 kota lainnya</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══ OPEN DATA ════════════════════════════════════════════════════ -->
+<section class="opendata-section">
+  <div class="section-inner">
+    <p class="section-label reveal">Pakai Datanya · Use the Data</p>
+    <h2 class="section-title reveal">Open Data,<br>Gratis untuk Semua</h2>
+
+    <div class="about-grid" style="margin-top:0;">
+      <div class="reveal">
+        <p style="font-size:13px;line-height:1.9;color:rgba(26,15,10,0.65);margin-bottom:16px;">
+          Dataset tersedia sebagai JSON di GitHub, satu file per tahun.
+          Bebas digunakan untuk riset, visualisasi, atau pengembangan aplikasi komunitas.
+        </p>
+        <p style="font-size:13px;line-height:1.9;color:rgba(26,15,10,0.65);margin-bottom:16px;">
+          Available as JSON on GitHub, one file per year.
+          Free to use for research, visualization, or community applications.
+        </p>
+        <div class="license-badge">
+          <div class="license-dot"></div>
+          CC BY 4.0 — Creative Commons Attribution
+        </div>
+      </div>
+
+      <div class="reveal">
+        <div class="code-block">
+<span class="comment"># Load semua event / Load all events</span>
+<span class="keyword">import</span> json, glob
+
+events = []
+<span class="keyword">for</span> f <span class="keyword">in</span> sorted(glob.glob(<span class="string">"data/*.json"</span>)):
+  <span class="keyword">with</span> open(f) <span class="keyword">as</span> fp:
+    events.extend(json.load(fp))
+
+<span class="comment"># 6,145 events ready</span>
+print(len(events))
+        </div>
+        <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank" style="margin-top:8px;">
+          ↗ GitHub Repository
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ═══════════════════════════════════════════════════════ -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-logo">Indonesian J-Culture Event Archive</div>
+    <div class="footer-links">
+      <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank">GitHub</a>
+      <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/blob/main/docs/SCHEMA.md" target="_blank">Schema Docs</a>
+      <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/blob/main/CONTRIBUTING.md" target="_blank">Contributing</a>
+      <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/blob/main/LICENSE" target="_blank">CC BY 4.0</a>
+    </div>
+    <p class="footer-copy">
+      © 2017–2025 · Independent archival project · Not affiliated with any event organizer
+    </p>
+  </div>
+</footer>
+
+<script>
+// ── Spark chart ──────────────────────────────────────────────────
+const yearData = {
+  1973:1,2000:3,2001:9,2002:18,2003:14,2004:36,2005:41,
+  2006:58,2007:59,2008:42,2009:41,2010:37,2011:54,2012:40,
+  2013:86,2014:49,2015:66,2016:61,2017:75,2018:63,2019:101,
+  2020:35,2021:10,2022:772,2023:2088,2024:1704,2025:467,2026:115
+};
+
+const container = document.getElementById('sparkBars');
+const allYears = [];
+for (let y = 1973; y <= 2026; y++) allYears.push(y);
+const maxVal = Math.max(...Object.values(yearData));
+
+allYears.forEach(yr => {
+  const bar = document.createElement('div');
+  bar.className = 'spark-bar';
+  const val = yearData[yr] || 0;
+  const h = val ? Math.max(3, (val / maxVal) * 80) : 2;
+  bar.style.height = h + 'px';
+  if (val) {
+    bar.classList.add('has-data');
+    if (val === maxVal) bar.classList.add('peak');
+    bar.title = `${yr}: ${val} events`;
+  }
+  container.appendChild(bar);
+});
+
+// ── Scroll reveal ───────────────────────────────────────────────
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('visible');
+      observer.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+// ── Animated counter ────────────────────────────────────────────
+function animateCount(el, target, duration = 1500) {
+  const start = performance.now();
+  const update = (now) => {
+    const progress = Math.min((now - start) / duration, 1);
+    const ease = 1 - Math.pow(1 - progress, 3);
+    el.textContent = Math.floor(ease * target).toLocaleString();
+    if (progress < 1) requestAnimationFrame(update);
+    else el.textContent = target.toLocaleString();
+  };
+  requestAnimationFrame(update);
+}
+
+const countEl = document.getElementById('cnt-events');
+const io = new IntersectionObserver(([e]) => {
+  if (e.isIntersecting) { animateCount(countEl, 6145); io.disconnect(); }
+}, { threshold: 0.5 });
+io.observe(countEl);
+</script>
+</body>
+</html>
