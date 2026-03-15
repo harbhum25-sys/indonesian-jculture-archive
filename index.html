@@ -6,619 +6,378 @@
 <meta name="description" content="A structured dataset documenting 50+ years of Japanese pop-culture events in Indonesia. 6,145 events · 183 cities · 1973–2026.">
 <meta property="og:title" content="Indonesian J-Culture Event Archive">
 <meta property="og:description" content="6,145 events · 183 cities · 1973–2026. Open dataset documenting Japanese pop-culture history in Indonesia.">
-<meta property="og:type" content="website">
 <title>Indonesian J-Culture Event Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;900&family=Noto+Serif+JP:wght@400;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --ink:    #1A0F0A;
-    --cream:  #F5EDD6;
-    --paper:  #EDE2C4;
-    --red:    #C0392B;
-    --dkred:  #8B1A10;
-    --gold:   #C9972B;
-    --gold2:  #E8B94A;
-    --teal:   #1A6B6B;
-    --rust:   #A0430A;
-    --dim:    rgba(26,15,10,0.55);
+    --ink:    #0D1B2A;
+    --ink2:   #152436;
+    --cream:  #F0E8D5;
+    --paper:  #E8DFC8;
+    --red:    #C1272D;
+    --dkred:  #8B1A1E;
+    --teal:   #1A5F6B;
+    --lteal:  #2A8A9A;
+    --navy:   #0D2B45;
+    --silver: #A8B8C8;
+    --gold:   #B8953A;
+    --gold2:  #D4A84B;
   }
-
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
-
-  body {
-    background: var(--ink);
-    color: var(--cream);
-    font-family: 'DM Mono', monospace;
-    overflow-x: hidden;
-  }
-
-  /* ── Noise texture overlay ── */
+  body { background: var(--ink); color: var(--cream); font-family: 'DM Mono', monospace; overflow-x: hidden; }
   body::before {
-    content: '';
-    position: fixed; inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
-    pointer-events: none;
-    z-index: 1000;
-    opacity: 0.5;
+    content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 1000; opacity: 0.45;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
   }
 
-  /* ── HERO ── */
+  /* ── HERO ─────────────────────────────────────────────────────── */
   .hero {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 60px 24px;
-    position: relative;
-    overflow: hidden;
+    min-height: 100vh; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    text-align: center; padding: 60px 24px;
+    position: relative; overflow: hidden;
   }
-
-  /* Rising sun */
   .sun {
-    position: absolute;
-    top: -180px; left: 50%;
-    transform: translateX(-50%);
-    width: 700px; height: 700px;
-    z-index: 0;
-    opacity: 0.05;
-    animation: sunrise 3s ease-out forwards;
+    position: absolute; top: -200px; left: 50%; transform: translateX(-50%);
+    width: 720px; height: 720px; z-index: 0; opacity: 0;
+    animation: sunRise 2.5s ease-out 0.1s forwards;
   }
-  @keyframes sunrise {
-    from { opacity: 0; transform: translateX(-50%) translateY(60px); }
-    to   { opacity: 0.05; transform: translateX(-50%) translateY(0); }
-  }
+  @keyframes sunRise { to { opacity: 0.05; } }
   .sun-inner {
-    width: 100%; height: 100%;
-    border-radius: 50%;
+    width: 100%; height: 100%; border-radius: 50%;
     background: conic-gradient(
-      var(--red) 0deg, transparent 5deg,
-      var(--red) 10deg, transparent 15deg,
-      var(--red) 20deg, transparent 25deg,
-      var(--red) 30deg, transparent 35deg,
-      var(--red) 40deg, transparent 45deg,
-      var(--red) 50deg, transparent 55deg,
-      var(--red) 60deg, transparent 65deg,
-      var(--red) 70deg, transparent 75deg,
-      var(--red) 80deg, transparent 85deg,
-      var(--red) 90deg, transparent 95deg,
-      var(--red) 100deg, transparent 105deg,
-      var(--red) 110deg, transparent 115deg,
-      var(--red) 120deg, transparent 125deg,
-      var(--red) 130deg, transparent 135deg,
-      var(--red) 140deg, transparent 145deg,
-      var(--red) 150deg, transparent 155deg,
-      var(--red) 160deg, transparent 165deg,
-      var(--red) 170deg, transparent 175deg,
-      var(--red) 180deg, transparent 185deg,
-      var(--red) 190deg, transparent 195deg,
-      var(--red) 200deg, transparent 205deg,
-      var(--red) 210deg, transparent 215deg,
-      var(--red) 220deg, transparent 225deg,
-      var(--red) 230deg, transparent 235deg,
-      var(--red) 240deg, transparent 245deg,
-      var(--red) 250deg, transparent 255deg,
-      var(--red) 260deg, transparent 265deg,
-      var(--red) 270deg, transparent 275deg,
-      var(--red) 280deg, transparent 285deg,
-      var(--red) 290deg, transparent 295deg,
-      var(--red) 300deg, transparent 305deg,
-      var(--red) 310deg, transparent 315deg,
-      var(--red) 320deg, transparent 325deg,
-      var(--red) 330deg, transparent 335deg,
-      var(--red) 340deg, transparent 345deg,
-      var(--red) 350deg, transparent 355deg,
-      var(--red) 360deg
+      var(--teal) 0deg, transparent 5.5deg, var(--teal) 11deg, transparent 16.5deg,
+      var(--teal) 22deg, transparent 27.5deg, var(--teal) 33deg, transparent 38.5deg,
+      var(--teal) 44deg, transparent 49.5deg, var(--teal) 55deg, transparent 60.5deg,
+      var(--teal) 66deg, transparent 71.5deg, var(--teal) 77deg, transparent 82.5deg,
+      var(--teal) 88deg, transparent 93.5deg, var(--teal) 99deg, transparent 104.5deg,
+      var(--teal) 110deg, transparent 115.5deg, var(--teal) 121deg, transparent 126.5deg,
+      var(--teal) 132deg, transparent 137.5deg, var(--teal) 143deg, transparent 148.5deg,
+      var(--teal) 154deg, transparent 159.5deg, var(--teal) 165deg, transparent 170.5deg,
+      var(--teal) 176deg, transparent 181.5deg, var(--teal) 187deg, transparent 192.5deg,
+      var(--teal) 198deg, transparent 203.5deg, var(--teal) 209deg, transparent 214.5deg,
+      var(--teal) 220deg, transparent 225.5deg, var(--teal) 231deg, transparent 236.5deg,
+      var(--teal) 242deg, transparent 247.5deg, var(--teal) 253deg, transparent 258.5deg,
+      var(--teal) 264deg, transparent 269.5deg, var(--teal) 275deg, transparent 280.5deg,
+      var(--teal) 286deg, transparent 291.5deg, var(--teal) 297deg, transparent 302.5deg,
+      var(--teal) 308deg, transparent 313.5deg, var(--teal) 319deg, transparent 324.5deg,
+      var(--teal) 330deg, transparent 335.5deg, var(--teal) 341deg, transparent 346.5deg,
+      var(--teal) 352deg, transparent 357.5deg, var(--teal) 360deg
     );
   }
-
-  /* Horizontal scan lines */
   .scanlines {
-    position: absolute; inset: 0;
-    background: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 3px,
-      rgba(26,15,10,0.06) 3px,
-      rgba(26,15,10,0.06) 4px
-    );
-    pointer-events: none;
-    z-index: 1;
+    position: absolute; inset: 0; pointer-events: none; z-index: 1;
+    background: repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(13,27,42,0.06) 3px,rgba(13,27,42,0.06) 4px);
   }
-
-  /* Vertical kanji */
   .kanji-side {
-    position: absolute;
-    writing-mode: vertical-rl;
+    position: absolute; writing-mode: vertical-rl;
     font-family: 'Noto Serif JP', serif;
-    font-size: 88px;
-    font-weight: 700;
-    color: var(--red);
-    opacity: 0.06;
-    letter-spacing: 12px;
-    z-index: 2;
-    user-select: none;
+    font-size: 96px; font-weight: 700; color: var(--teal);
+    opacity: 0.06; letter-spacing: 14px; z-index: 2; user-select: none;
   }
-  .kanji-left  { left: 16px; top: 80px; }
-  .kanji-right { right: 16px; top: 80px; }
-
-  .hero-content { position: relative; z-index: 5; max-width: 780px; }
-
+  .kanji-left { left: 12px; top: 80px; }
+  .kanji-right { right: 12px; top: 80px; }
+  .hero-content { position: relative; z-index: 5; max-width: 800px; }
   .eyebrow {
-    font-size: 10px;
-    letter-spacing: 5px;
-    text-transform: uppercase;
-    color: var(--gold);
-    margin-bottom: 20px;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 0.2s forwards;
+    font-size: 10px; letter-spacing: 5px; text-transform: uppercase;
+    color: var(--lteal); margin-bottom: 22px;
+    opacity: 0; animation: fadeUp 0.6s ease 0.2s forwards;
   }
-
   h1 {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 900;
-    font-size: clamp(36px, 7vw, 76px);
-    line-height: 1;
-    letter-spacing: -2px;
-    color: var(--cream);
-    margin-bottom: 6px;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 0.35s forwards;
+    font-family: 'Unbounded', sans-serif; font-weight: 900;
+    font-size: clamp(34px, 7vw, 74px); line-height: 1;
+    letter-spacing: -2px; color: var(--cream); margin-bottom: 8px;
+    opacity: 0; animation: fadeUp 0.6s ease 0.35s forwards;
   }
   h1 .accent { color: var(--red); }
-
   .subtitle-jp {
-    font-family: 'Noto Serif JP', serif;
-    font-size: clamp(12px, 2vw, 18px);
-    color: var(--gold2);
-    opacity: 0;
-    margin-bottom: 28px;
+    font-family: 'Noto Serif JP', serif; font-size: clamp(12px, 2vw, 17px);
+    color: var(--silver); opacity: 0; margin-bottom: 30px;
     animation: fadeUp 0.6s ease 0.5s forwards;
   }
-
   .desc {
-    font-size: clamp(12px, 1.5vw, 14px);
-    line-height: 1.8;
-    color: rgba(245,237,214,0.7);
-    max-width: 580px;
-    margin: 0 auto 40px;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 0.65s forwards;
+    font-size: clamp(11px, 1.4vw, 13px); line-height: 1.9;
+    color: rgba(240,232,213,0.6); max-width: 580px; margin: 0 auto 44px;
+    opacity: 0; animation: fadeUp 0.6s ease 0.65s forwards;
   }
-
-  /* ── Stats strip ── */
   .stats {
-    display: flex;
-    gap: 0;
-    border: 1px solid rgba(201,151,43,0.3);
-    margin: 0 auto 44px;
-    max-width: 600px;
-    width: 100%;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 0.8s forwards;
+    display: flex; border: 1px solid rgba(26,95,107,0.4);
+    margin: 0 auto 44px; max-width: 600px; width: 100%;
+    opacity: 0; animation: fadeUp 0.6s ease 0.8s forwards;
   }
-  .stat {
-    flex: 1;
-    padding: 16px 10px;
-    text-align: center;
-    border-right: 1px solid rgba(201,151,43,0.3);
-    position: relative;
-  }
+  .stat { flex: 1; padding: 16px 8px; text-align: center; border-right: 1px solid rgba(26,95,107,0.4); }
   .stat:last-child { border-right: none; }
   .stat-num {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 900;
-    font-size: clamp(18px, 3vw, 26px);
-    color: var(--gold2);
-    display: block;
-    line-height: 1;
-    margin-bottom: 4px;
+    font-family: 'Unbounded', sans-serif; font-weight: 900;
+    font-size: clamp(16px, 3vw, 24px); color: var(--lteal);
+    display: block; line-height: 1; margin-bottom: 5px;
   }
-  .stat-label {
-    font-size: 9px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: rgba(245,237,214,0.45);
-  }
-
-  /* ── CTA Buttons ── */
+  .stat-label { font-size: 9px; letter-spacing: 2px; text-transform: uppercase; color: rgba(240,232,213,0.35); }
   .cta-group {
-    display: flex;
-    gap: 14px;
-    justify-content: center;
-    flex-wrap: wrap;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 0.95s forwards;
+    display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;
+    opacity: 0; animation: fadeUp 0.6s ease 0.95s forwards;
   }
-
   .btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 14px 28px;
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    text-decoration: none;
-    transition: transform 0.2s ease, background 0.2s ease;
-    cursor: pointer;
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 13px 26px; font-family: 'DM Mono', monospace;
+    font-size: 11px; letter-spacing: 2px; text-transform: uppercase;
+    text-decoration: none; transition: transform 0.2s, background 0.2s, border-color 0.2s;
   }
   .btn:hover { transform: translateY(-2px); }
-
-  .btn-primary {
-    background: var(--red);
-    color: var(--cream);
-    border: 2px solid var(--red);
-  }
+  .btn-primary { background: var(--red); color: var(--cream); border: 2px solid var(--red); }
   .btn-primary:hover { background: var(--dkred); border-color: var(--dkred); }
-
-  .btn-ghost {
-    background: transparent;
-    color: var(--gold2);
-    border: 2px solid rgba(201,151,43,0.5);
-  }
-  .btn-ghost:hover { border-color: var(--gold2); color: var(--cream); }
-
-  /* ── Divider ── */
-  .divider {
-    width: 100%;
-    height: 4px;
-    background: repeating-linear-gradient(
-      90deg,
-      var(--red) 0px, var(--red) 24px,
-      var(--dkred) 24px, var(--dkred) 48px
-    );
-    position: relative;
-    z-index: 5;
-  }
-
-  /* ── Section ── */
-  section {
-    position: relative;
-    z-index: 5;
-  }
-
-  /* ── Timeline section ── */
-  .timeline-section {
-    background: var(--paper);
-    padding: 72px 24px;
-    color: var(--ink);
-  }
-
-  .section-inner {
-    max-width: 900px;
-    margin: 0 auto;
-  }
-
-  .section-label {
-    font-size: 10px;
-    letter-spacing: 5px;
-    text-transform: uppercase;
-    color: var(--rust);
-    margin-bottom: 8px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  .section-label::after {
-    content: '';
-    flex: 1;
-    height: 1px;
-    background: var(--rust);
-    opacity: 0.3;
-  }
-
-  .section-title {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 900;
-    font-size: clamp(24px, 4vw, 40px);
-    color: var(--ink);
-    line-height: 1.1;
-    margin-bottom: 48px;
-    letter-spacing: -1px;
-  }
-
-  /* Spark chart */
-  .spark-wrap {
-    margin-bottom: 48px;
-  }
-  .spark-label-row {
-    display: flex;
-    justify-content: space-between;
-    font-size: 10px;
-    color: var(--rust);
-    margin-bottom: 6px;
-  }
-  .spark-bars {
-    display: flex;
-    align-items: flex-end;
-    gap: 3px;
-    height: 80px;
-  }
-  .spark-bar {
-    flex: 1;
-    background: var(--ink);
-    opacity: 0.15;
-    position: relative;
-    transition: opacity 0.2s;
-    cursor: default;
-    min-width: 4px;
-  }
-  .spark-bar.has-data { opacity: 1; background: var(--red); }
-  .spark-bar.has-data:hover { opacity: 0.8; }
-  .spark-bar.peak { background: var(--gold); }
-
-  /* Notable series cards */
-  .series-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 16px;
-    margin-top: 40px;
-  }
-  .series-card {
-    border: 1.5px solid rgba(26,15,10,0.2);
-    padding: 20px;
-    position: relative;
-    transition: border-color 0.2s, transform 0.2s;
-  }
-  .series-card:hover {
-    border-color: var(--red);
-    transform: translateY(-2px);
-  }
-  .series-card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0;
-    width: 3px; height: 100%;
-    background: var(--red);
-  }
-  .card-years {
-    font-size: 10px;
-    letter-spacing: 2px;
-    color: var(--rust);
-    margin-bottom: 6px;
-  }
-  .card-name {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 700;
-    font-size: 13px;
-    color: var(--ink);
-    line-height: 1.3;
-    margin-bottom: 4px;
-  }
-  .card-venue {
-    font-size: 11px;
-    color: rgba(26,15,10,0.55);
-    line-height: 1.5;
-  }
-  .card-badge {
-    display: inline-block;
-    margin-top: 10px;
-    font-size: 9px;
-    letter-spacing: 1px;
-    padding: 3px 8px;
-    background: var(--ink);
-    color: var(--cream);
-    text-transform: uppercase;
-  }
-
-  /* ── About section ── */
-  .about-section {
-    background: var(--ink);
-    padding: 72px 24px;
-    border-top: 1px solid rgba(245,237,214,0.08);
-  }
-
-  .about-grid {
-    max-width: 900px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 60px;
-    align-items: start;
-  }
-  @media (max-width: 640px) {
-    .about-grid { grid-template-columns: 1fr; gap: 36px; }
-    .kanji-side { display: none; }
-  }
-
-  .about-text .section-label { color: var(--gold); }
-  .about-text .section-label::after { background: var(--gold); opacity: 0.2; }
-
-  .about-title {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 900;
-    font-size: clamp(22px, 3vw, 32px);
-    color: var(--cream);
-    line-height: 1.2;
-    margin-bottom: 20px;
-    letter-spacing: -0.5px;
-  }
-
-  .about-body {
-    font-size: 13px;
-    line-height: 1.9;
-    color: rgba(245,237,214,0.65);
-    margin-bottom: 14px;
-  }
-
-  .about-body strong { color: var(--gold2); font-weight: 500; }
-
-  /* Data breakdown */
-  .data-breakdown { }
-  .breakdown-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 0;
-    border-bottom: 1px solid rgba(245,237,214,0.07);
-    font-size: 12px;
-  }
-  .breakdown-row:first-child { border-top: 1px solid rgba(245,237,214,0.07); }
-  .breakdown-key { color: rgba(245,237,214,0.5); }
-  .breakdown-val {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 700;
-    font-size: 13px;
-    color: var(--gold2);
-  }
-
-  /* City pills */
-  .city-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 24px;
-  }
-  .city-pill {
-    padding: 5px 12px;
-    border: 1px solid rgba(201,151,43,0.3);
-    font-size: 11px;
-    color: rgba(245,237,214,0.6);
-    letter-spacing: 1px;
-  }
-  .city-pill strong {
-    color: var(--gold2);
-    font-weight: 500;
-    font-family: 'Unbounded', sans-serif;
-    font-size: 12px;
-  }
-
-  /* ── Open data section ── */
-  .opendata-section {
-    background: var(--cream);
-    color: var(--ink);
-    padding: 72px 24px;
-  }
-  .opendata-section .section-label { color: var(--teal); }
-  .opendata-section .section-label::after { background: var(--teal); }
-  .opendata-section .section-title { color: var(--ink); }
-
-  .code-block {
-    background: var(--ink);
-    color: var(--gold2);
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    padding: 20px 24px;
-    line-height: 2;
-    margin: 24px 0;
-    border-left: 3px solid var(--red);
-    overflow-x: auto;
-  }
-  .code-block .comment { color: rgba(232,185,74,0.4); }
-  .code-block .keyword { color: var(--red); }
-  .code-block .string  { color: #7ec8a0; }
-
-  .license-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 10px 16px;
-    border: 1.5px solid rgba(26,15,10,0.2);
-    font-size: 11px;
-    letter-spacing: 1px;
-    color: var(--teal);
-    margin-top: 16px;
-  }
-  .license-dot {
-    width: 8px; height: 8px;
-    background: var(--teal);
-    border-radius: 50%;
-  }
-
-  /* ── Footer ── */
-  footer {
-    background: var(--ink);
-    border-top: 4px solid var(--red);
-    padding: 36px 24px;
-    text-align: center;
-    position: relative;
-    z-index: 5;
-  }
-  .footer-inner { max-width: 900px; margin: 0 auto; }
-  .footer-logo {
-    font-family: 'Unbounded', sans-serif;
-    font-weight: 900;
-    font-size: 11px;
-    letter-spacing: 3px;
-    color: var(--gold2);
-    text-transform: uppercase;
-    margin-bottom: 12px;
-  }
-  .footer-links {
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-  }
-  .footer-links a {
-    font-size: 11px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: rgba(245,237,214,0.45);
-    text-decoration: none;
-    transition: color 0.2s;
-  }
-  .footer-links a:hover { color: var(--gold2); }
-  .footer-copy {
-    font-size: 10px;
-    color: rgba(245,237,214,0.25);
-    letter-spacing: 1px;
-  }
-
-  /* ── Animations ── */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  /* scroll reveal */
-  .reveal {
-    opacity: 0;
-    transform: translateY(24px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
-  }
-  .reveal.visible {
-    opacity: 1;
-    transform: none;
-  }
-
-  /* ── Scroll indicator ── */
+  .btn-ghost { background: transparent; color: var(--lteal); border: 2px solid rgba(26,95,107,0.5); }
+  .btn-ghost:hover { border-color: var(--lteal); color: var(--cream); }
   .scroll-hint {
-    position: absolute;
-    bottom: 28px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
-    opacity: 0;
-    animation: fadeUp 0.6s ease 1.4s forwards;
-    z-index: 5;
+    position: absolute; bottom: 28px; left: 50%; transform: translateX(-50%);
+    display: flex; flex-direction: column; align-items: center; gap: 6px;
+    opacity: 0; animation: fadeUp 0.6s ease 1.5s forwards; z-index: 5;
   }
-  .scroll-hint span {
-    font-size: 9px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: rgba(245,237,214,0.35);
-  }
+  .scroll-hint span { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; color: rgba(240,232,213,0.25); }
   .scroll-arrow {
-    width: 1px;
-    height: 36px;
-    background: linear-gradient(to bottom, rgba(245,237,214,0.4), transparent);
-    animation: scrollPulse 1.8s ease-in-out infinite;
+    width: 1px; height: 36px;
+    background: linear-gradient(to bottom, rgba(26,95,107,0.6), transparent);
+    animation: pulse 2s ease-in-out infinite;
   }
-  @keyframes scrollPulse {
-    0%, 100% { opacity: 0.3; }
-    50%       { opacity: 1; }
+
+  /* ── COMMON ───────────────────────────────────────────────────── */
+  .divider {
+    width: 100%; height: 4px; position: relative; z-index: 5;
+    background: repeating-linear-gradient(90deg,
+      var(--red) 0px, var(--red) 20px, var(--dkred) 20px, var(--dkred) 40px,
+      var(--teal) 40px, var(--teal) 60px, var(--ink2) 60px, var(--ink2) 80px);
   }
+  section { position: relative; z-index: 5; }
+  .section-inner { max-width: 920px; margin: 0 auto; }
+  .section-label {
+    font-size: 10px; letter-spacing: 5px; text-transform: uppercase;
+    color: var(--lteal); margin-bottom: 8px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--lteal); opacity: 0.25; }
+  .section-title {
+    font-family: 'Unbounded', sans-serif; font-weight: 900;
+    font-size: clamp(22px, 4vw, 38px); line-height: 1.1;
+    letter-spacing: -1px; margin-bottom: 44px;
+  }
+
+  /* ── CHART ────────────────────────────────────────────────────── */
+  .chart-section { background: var(--ink2); padding: 72px 24px; }
+  .chart-section .section-title { color: var(--cream); }
+  .spark-wrap { margin-bottom: 12px; }
+  .spark-header {
+    display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;
+  }
+  .spark-years { font-size: 10px; color: var(--silver); opacity: 0.5; }
+  .toggle-btn {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    letter-spacing: 2px; text-transform: uppercase;
+    padding: 6px 14px; border: 1px solid rgba(26,95,107,0.5);
+    background: transparent; color: var(--lteal); cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+  }
+  .toggle-btn:hover, .toggle-btn.active { background: var(--teal); color: var(--cream); border-color: var(--teal); }
+
+  /* nums row sits ABOVE bars, fixed 52px, hidden by default */
+  .spark-nums-row {
+    display: flex; gap: 3px; height: 0; overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  .spark-nums-row.show { height: 54px; }
+  .spark-num-cell {
+    flex: 1; min-width: 4px;
+    display: flex; align-items: flex-end; justify-content: center;
+  }
+  .spark-num {
+    font-size: 7px; color: var(--gold2);
+    white-space: nowrap; writing-mode: vertical-rl;
+    text-orientation: mixed; line-height: 1;
+    transform: rotate(180deg);
+    opacity: 0; transition: opacity 0.25s ease;
+  }
+  .spark-nums-row.show .spark-num { opacity: 1; }
+
+  /* bars */
+  .spark-bars {
+    display: flex; align-items: flex-end; gap: 3px; height: 100px;
+    border-bottom: 1px solid rgba(240,232,213,0.08); padding-bottom: 6px;
+  }
+  .spark-col { flex: 1; display: flex; flex-direction: column; align-items: center; min-width: 4px; }
+  .spark-bar {
+    width: 100%; background: rgba(240,232,213,0.07);
+    transition: opacity 0.2s, background 0.2s;
+  }
+  .spark-bar.has-data { background: var(--teal); opacity: 0.6; }
+  .spark-bar.has-data:hover { opacity: 1; }
+  .spark-bar.peak { background: var(--red); opacity: 1; }
+  .spark-bar.high { background: var(--lteal); opacity: 0.85; }
+  .spark-yr {
+    font-size: 8px; color: rgba(240,232,213,0.18);
+    writing-mode: vertical-rl; text-orientation: mixed;
+    transform: rotate(180deg); margin-top: 4px; line-height: 1; white-space: nowrap;
+  }
+  .spark-yr.label { color: rgba(240,232,213,0.5); }
+
+  /* ── MAP ──────────────────────────────────────────────────────── */
+  .map-section { background: var(--paper); padding: 72px 24px; color: var(--ink); }
+  .map-section .section-label { color: var(--teal); }
+  .map-section .section-label::after { background: var(--teal); opacity: 0.25; }
+  .map-section .section-title { color: var(--ink); }
+  .map-tabs {
+    display: flex; margin-bottom: 24px;
+    border-bottom: 2px solid rgba(13,27,42,0.15);
+  }
+  .map-tab {
+    font-family: 'DM Mono', monospace; font-size: 11px;
+    letter-spacing: 2px; text-transform: uppercase;
+    padding: 10px 20px; background: transparent; border: none;
+    color: rgba(13,27,42,0.4); cursor: pointer; transition: color 0.2s;
+    border-bottom: 2px solid transparent; margin-bottom: -2px;
+  }
+  .map-tab.active { color: var(--teal); border-bottom-color: var(--teal); }
+  .map-container { position: relative; }
+  .map-panel { display: none; }
+  .map-panel.active { display: block; }
+
+  /* SVG wrapper: relative container for base SVG + dot overlay */
+  .svg-map-wrap { position: relative; width: 100%; }
+  .svg-map-wrap svg.base-map { width: 100%; height: auto; display: block; }
+
+  /* Paths in the loaded SVGs */
+  .svg-map-wrap svg.base-map path,
+  .svg-map-wrap svg.base-map polygon {
+    fill: rgba(13,27,42,0.13);
+    stroke: rgba(13,27,42,0.30);
+    stroke-width: 0.6;
+    transition: fill 0.15s;
+  }
+  /* Province highlight on hover */
+  .svg-map-wrap svg.base-map path:hover,
+  .svg-map-wrap svg.base-map polygon:hover {
+    fill: rgba(26,95,107,0.22);
+  }
+
+  /* Dot overlay SVG: absolutely stacked on top, same viewBox */
+  .svg-map-wrap svg.dot-overlay {
+    position: absolute; top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none; overflow: visible;
+  }
+  .svg-map-wrap svg.dot-overlay circle { pointer-events: all; }
+
+  .map-dot  { fill: var(--red); opacity: 0.78; transition: opacity 0.2s; cursor: pointer; }
+  .map-dot:hover { opacity: 1; }
+
+  .map-tooltip {
+    position: absolute; background: var(--navy); color: var(--cream);
+    font-family: 'DM Mono', monospace; font-size: 11px;
+    padding: 7px 13px; pointer-events: none;
+    border-left: 3px solid var(--red);
+    opacity: 0; transition: opacity 0.15s;
+    white-space: nowrap; z-index: 10;
+  }
+  .map-tooltip.show { opacity: 1; }
+
+  /* Loading skeleton */
+  .map-loading {
+    display: flex; align-items: center; justify-content: center;
+    height: 200px; font-size: 10px; letter-spacing: 3px;
+    text-transform: uppercase; color: rgba(13,27,42,0.3);
+  }
+
+  .map-legend { display: flex; gap: 20px; margin-top: 16px; flex-wrap: wrap; align-items: center; }
+  .legend-item { display: flex; align-items: center; gap: 7px; font-size: 10px; color: rgba(13,27,42,0.5); }
+  .legend-dot { border-radius: 50%; background: var(--red); opacity: 0.78; flex-shrink: 0; }
+
+  /* ── SERIES ───────────────────────────────────────────────────── */
+  .series-section { background: var(--ink2); padding: 72px 24px; }
+  .series-section .section-title { color: var(--cream); }
+  .series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+  .series-card {
+    border: 1px solid rgba(26,95,107,0.25); padding: 22px;
+    position: relative; transition: border-color 0.2s, transform 0.2s;
+    background: rgba(255,255,255,0.02);
+  }
+  .series-card:hover { border-color: var(--teal); transform: translateY(-2px); }
+  .series-card::before {
+    content: ''; position: absolute; top: 0; left: 0;
+    width: 3px; height: 100%; background: var(--red);
+  }
+  .card-years { font-size: 10px; letter-spacing: 2px; color: var(--lteal); margin-bottom: 7px; }
+  .card-name { font-family: 'Unbounded', sans-serif; font-weight: 700; font-size: 12px; color: var(--cream); line-height: 1.4; margin-bottom: 5px; }
+  .card-venue { font-size: 11px; color: rgba(240,232,213,0.4); line-height: 1.6; }
+  .card-badge {
+    display: inline-block; margin-top: 12px; font-size: 9px; letter-spacing: 1px;
+    padding: 3px 8px; background: rgba(26,95,107,0.2); color: var(--lteal);
+    border: 1px solid rgba(26,95,107,0.3); text-transform: uppercase;
+  }
+
+  /* ── ABOUT ────────────────────────────────────────────────────── */
+  .about-section { background: var(--ink); padding: 72px 24px; }
+  .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: start; }
+  @media (max-width: 640px) { .about-grid { grid-template-columns: 1fr; gap: 36px; } .kanji-side { display: none; } }
+  .about-title {
+    font-family: 'Unbounded', sans-serif; font-weight: 900;
+    font-size: clamp(20px, 3vw, 30px); color: var(--cream);
+    line-height: 1.2; margin-bottom: 20px; letter-spacing: -0.5px;
+  }
+  .about-body { font-size: 13px; line-height: 1.9; color: rgba(240,232,213,0.55); margin-bottom: 14px; }
+  .about-body strong { color: var(--lteal); font-weight: 500; }
+  .data-breakdown { margin-top: 4px; }
+  .breakdown-row {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 10px 0; border-bottom: 1px solid rgba(240,232,213,0.06); font-size: 12px;
+  }
+  .breakdown-row:first-child { border-top: 1px solid rgba(240,232,213,0.06); }
+  .breakdown-key { color: rgba(240,232,213,0.38); }
+  .breakdown-val { font-family: 'Unbounded', sans-serif; font-weight: 700; font-size: 13px; color: var(--lteal); }
+  .city-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 24px; }
+  .city-pill { padding: 5px 12px; border: 1px solid rgba(26,95,107,0.3); font-size: 11px; color: rgba(240,232,213,0.45); letter-spacing: 1px; }
+  .city-pill strong { color: var(--lteal); font-weight: 500; font-family: 'Unbounded', sans-serif; font-size: 11px; }
+
+  /* ── OPEN DATA ────────────────────────────────────────────────── */
+  .opendata-section { background: var(--paper); color: var(--ink); padding: 72px 24px; }
+  .opendata-section .section-label { color: var(--teal); }
+  .opendata-section .section-label::after { background: var(--teal); opacity: 0.2; }
+  .opendata-section .section-title { color: var(--ink); }
+  .opendata-section .about-body { color: rgba(13,27,42,0.6); }
+  .opendata-section .about-body strong { color: var(--teal); }
+  .code-block {
+    background: var(--navy); color: var(--gold2); font-family: 'DM Mono', monospace;
+    font-size: 12px; padding: 20px 24px; line-height: 2;
+    margin: 20px 0; border-left: 3px solid var(--red); overflow-x: auto;
+  }
+  .code-block .comment { color: rgba(212,168,75,0.35); }
+  .code-block .keyword { color: var(--red); }
+  .code-block .string { color: #7EC8A0; }
+  .license-badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 10px 16px; border: 1.5px solid rgba(13,27,42,0.2);
+    font-size: 11px; letter-spacing: 1px; color: var(--teal); margin-top: 16px;
+  }
+  .license-dot { width: 8px; height: 8px; background: var(--teal); border-radius: 50%; }
+
+  /* ── FOOTER ───────────────────────────────────────────────────── */
+  footer {
+    background: var(--navy); padding: 36px 24px; text-align: center;
+    position: relative; z-index: 5; border-top: 4px solid transparent;
+    border-image: repeating-linear-gradient(90deg,
+      var(--red) 0px,var(--red) 20px,var(--teal) 20px,var(--teal) 40px) 1;
+  }
+  .footer-inner { max-width: 920px; margin: 0 auto; }
+  .footer-logo { font-family: 'Unbounded', sans-serif; font-weight: 900; font-size: 10px; letter-spacing: 3px; color: var(--lteal); text-transform: uppercase; margin-bottom: 14px; }
+  .footer-links { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px; }
+  .footer-links a { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: rgba(240,232,213,0.35); text-decoration: none; transition: color 0.2s; }
+  .footer-links a:hover { color: var(--lteal); }
+  .footer-copy { font-size: 10px; color: rgba(240,232,213,0.2); letter-spacing: 1px; }
+
+  /* ── ANIMATIONS ───────────────────────────────────────────────── */
+  @keyframes fadeUp { from { opacity:0; transform:translateY(18px); } to { opacity:1; transform:none; } }
+  @keyframes pulse { 0%,100%{opacity:.3} 50%{opacity:1} }
+  .reveal { opacity: 0; transform: translateY(22px); transition: opacity 0.65s ease, transform 0.65s ease; }
+  .reveal.visible { opacity: 1; transform: none; }
 </style>
 </head>
 <body>
@@ -629,74 +388,196 @@
   <div class="scanlines"></div>
   <div class="kanji-side kanji-left">記録</div>
   <div class="kanji-side kanji-right">文化</div>
-
   <div class="hero-content">
     <p class="eyebrow">◈ Open Dataset · Arsip Terbuka ◈</p>
     <h1>Indonesian<br><span class="accent">J-Culture</span><br>Event Archive</h1>
     <p class="subtitle-jp">インドネシア日本文化イベント記録</p>
     <p class="desc">
       Dokumentasi terstruktur sejarah acara budaya pop Jepang di Indonesia —
-      dari bunkasai pertama di Unpad tahun 1973 hingga festival-festival yang berlangsung hari ini.
-      <br><br>
-      A structured record of Japanese pop-culture events across Indonesia,
-      spanning five decades of community history.
+      dari bunkasai pertama di Unpad tahun 1973 hingga festival-festival yang berlangsung hari ini.<br><br>
+      A structured record of Japanese pop-culture events across Indonesia, spanning five decades of community history.
     </p>
-
     <div class="stats">
-      <div class="stat">
-        <span class="stat-num" id="cnt-events">6,145</span>
-        <span class="stat-label">Events</span>
-      </div>
-      <div class="stat">
-        <span class="stat-num">183</span>
-        <span class="stat-label">Cities / Kota</span>
-      </div>
-      <div class="stat">
-        <span class="stat-num">1973</span>
-        <span class="stat-label">Since / Sejak</span>
-      </div>
-      <div class="stat">
-        <span class="stat-num">3,944</span>
-        <span class="stat-label">GPS Points</span>
-      </div>
+      <div class="stat"><span class="stat-num" id="cnt-events">0</span><span class="stat-label">Events</span></div>
+      <div class="stat"><span class="stat-num">183</span><span class="stat-label">Cities / Kota</span></div>
+      <div class="stat"><span class="stat-num">1973</span><span class="stat-label">Since / Sejak</span></div>
+      <div class="stat"><span class="stat-num">3,944</span><span class="stat-label">GPS Points</span></div>
     </div>
-
     <div class="cta-group">
-      <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank">
-        ↗ View on GitHub
-      </a>
-      <a class="btn btn-ghost" href="https://github.com/harbhum25-sys/indonesian-jculture-archive/tree/main/data" target="_blank">
-        ↓ Download Dataset
-      </a>
+      <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank">↗ GitHub Repository</a>
+      <a class="btn btn-ghost" href="https://github.com/harbhum25-sys/indonesian-jculture-archive/tree/main/data" target="_blank">↓ Download Dataset</a>
     </div>
   </div>
-
   <div class="scroll-hint">
-    <span>Scroll</span>
-    <div class="scroll-arrow"></div>
+    <span>Scroll</span><div class="scroll-arrow"></div>
   </div>
 </section>
 
 <div class="divider"></div>
 
-<!-- ══ TIMELINE ════════════════════════════════════════════════════ -->
-<section class="timeline-section">
+<!-- ══ CHART ═══════════════════════════════════════════════════════ -->
+<section class="chart-section">
   <div class="section-inner">
     <p class="section-label reveal">Pertumbuhan · Growth</p>
-    <h2 class="section-title reveal">50+ Tahun<br>Scene Jejepangan Indonesia</h2>
-
-    <!-- Spark chart -->
+    <h2 class="section-title reveal">50+ Tahun Scene<br>Jejepangan Indonesia</h2>
     <div class="spark-wrap reveal">
-      <div class="spark-label-row">
-        <span>1973</span>
-        <span>— jumlah acara per tahun / events per year —</span>
-        <span>2026</span>
+      <div class="spark-header">
+        <span class="spark-years">1973 → 2026</span>
+        <button class="toggle-btn" id="toggleNum" onclick="toggleNumbers()">Show Numbers</button>
       </div>
+      <!-- Numbers row: always above bars, height animates on toggle -->
+      <div class="spark-nums-row" id="numsRow"></div>
+      <!-- Bars row -->
       <div class="spark-bars" id="sparkBars"></div>
+      <div style="display:flex;justify-content:space-between;margin-top:6px;">
+        <span style="font-size:9px;color:rgba(240,232,213,0.25);">1973</span>
+        <span style="font-size:9px;color:rgba(240,232,213,0.25);">↑ puncak 2023: 2,088 acara</span>
+        <span style="font-size:9px;color:rgba(240,232,213,0.25);">2026</span>
+      </div>
     </div>
+  </div>
+</section>
 
-    <!-- Notable series -->
-    <p class="section-label reveal" style="margin-top:52px;">Seri Bersejarah · Historic Series</p>
+<div class="divider"></div>
+
+<!-- ══ MAP ══════════════════════════════════════════════════════════ -->
+<section class="map-section">
+  <div class="section-inner">
+    <p class="section-label reveal">Sebaran · Distribution</p>
+    <h2 class="section-title reveal">183 Kota di Seluruh Indonesia</h2>
+    <div class="map-tabs reveal">
+      <button class="map-tab active" onclick="switchMap('indonesia',this)">Indonesia</button>
+      <button class="map-tab" onclick="switchMap('jawa',this)">Pulau Jawa</button>
+    </div>
+    <div class="map-container reveal">
+      <div class="map-tooltip" id="mapTooltip"></div>
+
+      <!-- ── INDONESIA MAP ── -->
+      <div class="map-panel active" id="map-indonesia">
+        <div class="svg-map-wrap" id="wrap-indonesia">
+          <div class="map-loading" id="loading-indonesia">◈ Loading map…</div>
+          <!-- base SVG injected here by JS -->
+          <!-- dot overlay SVG (viewBox matched after load) -->
+          <svg class="dot-overlay" id="dots-indonesia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 368">
+            <!-- id_map.svg: viewBox="0 0 1000 368" -->
+            <!-- Dots positioned in id_map coordinate space -->
+            <!-- Jakarta area: ~lon 106.85°E → x≈279, lat 6.2°S → y≈206 -->
+            <circle class="map-dot" cx="280" cy="207" r="12" data-city="Jakarta area" data-count="1,000+"/>
+            <circle class="map-dot" cx="294" cy="219" r="10" data-city="Bandung" data-count="841"/>
+            <!-- Semarang: lon 110.4°, lat 7.0°S -->
+            <circle class="map-dot" cx="313" cy="209" r="6" data-city="Semarang" data-count="140"/>
+            <!-- Yogyakarta: lon 110.37°, lat 7.8°S -->
+            <circle class="map-dot" cx="313" cy="216" r="7" data-city="Yogyakarta" data-count="225"/>
+            <!-- Solo: lon 110.83°, lat 7.57°S -->
+            <circle class="map-dot" cx="317" cy="213" r="4" data-city="Solo" data-count="81"/>
+            <!-- Surabaya: lon 112.75°, lat 7.27°S -->
+            <circle class="map-dot" cx="329" cy="210" r="8" data-city="Surabaya" data-count="262"/>
+            <!-- Malang: lon 112.63°, lat 7.98°S -->
+            <circle class="map-dot" cx="328" cy="218" r="4" data-city="Malang" data-count="70+"/>
+            <!-- Medan: lon 98.67°, lat 3.6°N -->
+            <circle class="map-dot" cx="193" cy="167" r="5" data-city="Medan" data-count="60+"/>
+            <!-- Pekanbaru: lon 101.4°, lat 0.5°N -->
+            <circle class="map-dot" cx="215" cy="188" r="3" data-city="Pekanbaru" data-count="25+" style="fill:var(--lteal)"/>
+            <!-- Palembang: lon 104.75°, lat 2.9°S -->
+            <circle class="map-dot" cx="242" cy="198" r="4" data-city="Palembang" data-count="50+"/>
+            <!-- Makassar: lon 119.43°, lat 5.15°S -->
+            <circle class="map-dot" cx="373" cy="204" r="5" data-city="Makassar" data-count="124"/>
+            <!-- Manado: lon 124.84°, lat 1.48°N -->
+            <circle class="map-dot" cx="412" cy="178" r="3" data-city="Manado" data-count="30+"/>
+            <!-- Balikpapan: lon 116.82°, lat 1.27°S -->
+            <circle class="map-dot" cx="358" cy="190" r="3" data-city="Balikpapan" data-count="25+"/>
+            <!-- Banjarmasin: lon 114.59°, lat 3.32°S -->
+            <circle class="map-dot" cx="340" cy="197" r="3" data-city="Banjarmasin" data-count="30+"/>
+            <!-- Bali/Denpasar: lon 115.22°, lat 8.65°S -->
+            <circle class="map-dot" cx="345" cy="220" r="4" data-city="Bali / Denpasar" data-count="80+"/>
+
+            <!-- Labels -->
+            <text x="280" y="224" text-anchor="middle" font-family="DM Mono,monospace" font-size="6" fill="rgba(13,27,42,0.7)">Jakarta</text>
+            <text x="296" y="232" text-anchor="middle" font-family="DM Mono,monospace" font-size="5.5" fill="rgba(13,27,42,0.65)">Bandung</text>
+            <text x="330" y="202" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Surabaya</text>
+            <text x="315" y="228" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Yogyakarta</text>
+            <text x="375" y="214" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Makassar</text>
+          </svg>
+        </div>
+      </div>
+
+      <!-- ── JAWA MAP ── -->
+      <div class="map-panel" id="map-jawa">
+        <div class="svg-map-wrap" id="wrap-jawa">
+          <div class="map-loading" id="loading-jawa">◈ Loading map…</div>
+          <!-- base SVG injected here by JS -->
+          <!-- dot overlay SVG (viewBox="0 0 1542.551 516.58966") -->
+          <svg class="dot-overlay" id="dots-jawa" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1542.551 516.58966">
+            <!-- jawa_map.svg: viewBox="0 0 1542.551 516.58966" -->
+            <!-- Dots reprojected to jawa_map coordinate space -->
+            <!-- DKI Jakarta: ~lon 106.85°, lat 6.2°S -->
+            <circle class="map-dot" cx="342" cy="184" r="18" data-city="DKI Jakarta" data-count="~900"/>
+            <circle class="map-dot" cx="310" cy="184" r="9" data-city="Tangerang" data-count="60+" style="fill:var(--teal)"/>
+            <circle class="map-dot" cx="378" cy="184" r="10" data-city="Bekasi" data-count="176" style="fill:var(--teal)"/>
+            <!-- Bogor: lon 106.81°, lat 6.6°S -->
+            <circle class="map-dot" cx="340" cy="212" r="7" data-city="Bogor" data-count="94"/>
+            <!-- Depok: lon 106.82°, lat 6.4°S -->
+            <circle class="map-dot" cx="342" cy="196" r="5" data-city="Depok" data-count="80+"/>
+            <!-- Cikarang: lon 107.15°, lat 6.3°S -->
+            <circle class="map-dot" cx="368" cy="188" r="4" data-city="Cikarang" data-count="30+" style="fill:var(--teal)"/>
+            <!-- Bandung: lon 107.62°, lat 6.93°S -->
+            <circle class="map-dot" cx="406" cy="222" r="17" data-city="Bandung" data-count="841"/>
+            <!-- Jatinangor/Unpad: lon 107.77°, lat 6.93°S -->
+            <circle class="map-dot" cx="418" cy="222" r="6" data-city="Jatinangor / PSBJ Unpad" data-count="15" style="fill:var(--gold)"/>
+            <!-- Cirebon: lon 108.56°, lat 6.7°S -->
+            <circle class="map-dot" cx="475" cy="207" r="6" data-city="Cirebon" data-count="30+"/>
+            <!-- Purwokerto: lon 109.25°, lat 7.43°S -->
+            <circle class="map-dot" cx="536" cy="248" r="5" data-city="Purwokerto" data-count="20+"/>
+            <!-- Semarang: lon 110.42°, lat 7.0°S -->
+            <circle class="map-dot" cx="623" cy="218" r="8" data-city="Semarang" data-count="140"/>
+            <!-- Yogyakarta: lon 110.37°, lat 7.8°S -->
+            <circle class="map-dot" cx="619" cy="270" r="10" data-city="Yogyakarta" data-count="225"/>
+            <!-- Solo: lon 110.83°, lat 7.57°S -->
+            <circle class="map-dot" cx="655" cy="252" r="7" data-city="Solo" data-count="81"/>
+            <!-- Madiun: lon 111.52°, lat 7.63°S -->
+            <circle class="map-dot" cx="713" cy="256" r="5" data-city="Madiun" data-count="20+"/>
+            <!-- Surabaya: lon 112.75°, lat 7.27°S -->
+            <circle class="map-dot" cx="810" cy="232" r="12" data-city="Surabaya" data-count="262"/>
+            <!-- Sidoarjo: lon 112.72°, lat 7.45°S -->
+            <circle class="map-dot" cx="808" cy="248" r="6" data-city="Sidoarjo" data-count="50+"/>
+            <!-- Malang: lon 112.63°, lat 7.98°S -->
+            <circle class="map-dot" cx="800" cy="286" r="6" data-city="Malang" data-count="70+"/>
+            <!-- Kediri: lon 112.01°, lat 7.82°S -->
+            <circle class="map-dot" cx="755" cy="272" r="5" data-city="Kediri" data-count="30+"/>
+            <!-- Jember: lon 113.69°, lat 8.17°S -->
+            <circle class="map-dot" cx="886" cy="298" r="4" data-city="Jember" data-count="15+"/>
+
+            <!-- Labels -->
+            <text x="342" y="208" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Jakarta</text>
+            <text x="406" y="246" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Bandung</text>
+            <text x="418" y="236" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="rgba(184,149,58,0.85)">Unpad ★</text>
+            <text x="623" y="208" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Semarang</text>
+            <text x="619" y="288" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Yogyakarta</text>
+            <text x="655" y="243" text-anchor="middle" font-family="DM Mono,monospace" font-size="10" fill="rgba(13,27,42,0.6)">Solo</text>
+            <text x="810" y="222" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.7)" font-weight="500">Surabaya</text>
+            <text x="20" y="500" font-family="DM Mono,monospace" font-size="10" fill="rgba(13,27,42,0.35)">★ PSBJ FIB Unpad — Jatinangor, Sumedang</text>
+          </svg>
+        </div>
+      </div>
+
+      <div class="map-legend">
+        <div class="legend-item"><div class="legend-dot" style="width:18px;height:18px;"></div> 700+ events</div>
+        <div class="legend-item"><div class="legend-dot" style="width:12px;height:12px;"></div> 100–700</div>
+        <div class="legend-item"><div class="legend-dot" style="width:7px;height:7px;"></div> &lt;100</div>
+        <div class="legend-item"><div class="legend-dot" style="width:8px;height:8px;background:var(--lteal)"></div> Satellite / Jabodetabek</div>
+        <div class="legend-item"><div class="legend-dot" style="width:8px;height:8px;background:var(--gold)"></div> Historic venue</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══ SERIES ══════════════════════════════════════════════════════ -->
+<section class="series-section">
+  <div class="section-inner">
+    <p class="section-label reveal">Seri Bersejarah · Historic Series</p>
+    <h2 class="section-title reveal">Acara yang Membentuk<br>Scene Jejepangan</h2>
     <div class="series-grid">
       <div class="series-card reveal">
         <div class="card-years">1973 – present</div>
@@ -719,7 +600,7 @@
       <div class="series-card reveal">
         <div class="card-years">2012 – 2018</div>
         <div class="card-name">Fesbukan</div>
-        <div class="card-venue">PSBJ FIB UNPAD, Jatinangor, Sumedang</div>
+        <div class="card-venue">PSBJ FIB UNPAD, Jatinangor</div>
         <div class="card-badge">Ed. 1 – 7</div>
       </div>
       <div class="series-card reveal">
@@ -743,94 +624,48 @@
 <!-- ══ ABOUT ═══════════════════════════════════════════════════════ -->
 <section class="about-section">
   <div class="about-grid section-inner">
-    <div class="about-text">
-      <p class="section-label reveal">Tentang · About</p>
-      <h2 class="about-title reveal">Arsip yang<br>dibangun dari<br>komunitas</h2>
-      <p class="about-body reveal">
-        Proyek ini mendokumentasikan sejarah komunitas J-culture Indonesia —
-        konvensi anime, gathering cosplay, bunkasai, pertunjukan idol, dan konser J-music.
-      </p>
-      <p class="about-body reveal">
-        Pengumpulan data dimulai tahun 2017, menggabungkan catatan kehadiran pribadi,
-        arsip majalah <strong>Animonster</strong>, dokumentasi komunitas, dan media sosial.
-      </p>
-      <p class="about-body reveal">
-        This archive is built by a photographer and graphic designer with a focus on
-        <strong>visual culture, cultural documentation, and digital archives</strong>.
-      </p>
+    <div>
+      <p class="section-label reveal" style="color:var(--lteal)">Tentang · About<span style="flex:1;height:1px;background:var(--lteal);opacity:0.2;display:inline-block;margin-left:12px;vertical-align:middle;"></span></p>
+      <h2 class="about-title reveal">Arsip yang dibangun<br>dari komunitas</h2>
+      <p class="about-body reveal">Proyek ini mendokumentasikan sejarah komunitas J-culture Indonesia — konvensi anime, gathering cosplay, bunkasai, pertunjukan idol, dan konser J-music.</p>
+      <p class="about-body reveal">Pengumpulan data dimulai tahun 2017, menggabungkan catatan kehadiran pribadi, arsip majalah <strong>Animonster</strong>, dokumentasi komunitas, dan media sosial.</p>
+      <p class="about-body reveal">Built by a photographer and graphic designer focused on <strong>visual culture, cultural documentation, and digital archives</strong>.</p>
     </div>
-
     <div class="reveal">
-      <p class="section-label" style="color:var(--gold);margin-bottom:20px;">
-        Data breakdown
-        <span style="flex:1;height:1px;background:var(--gold);opacity:0.2;display:inline-block;margin-left:12px;vertical-align:middle;"></span>
-      </p>
+      <p class="section-label" style="color:var(--lteal);margin-bottom:20px;">Data breakdown<span style="flex:1;height:1px;background:var(--lteal);opacity:0.2;display:inline-block;margin-left:12px;vertical-align:middle;"></span></p>
       <div class="data-breakdown">
-        <div class="breakdown-row">
-          <span class="breakdown-key">Total events</span>
-          <span class="breakdown-val">6,145</span>
-        </div>
-        <div class="breakdown-row">
-          <span class="breakdown-key">Year span</span>
-          <span class="breakdown-val">1973 – 2026</span>
-        </div>
-        <div class="breakdown-row">
-          <span class="breakdown-key">Unique cities</span>
-          <span class="breakdown-val">183</span>
-        </div>
-        <div class="breakdown-row">
-          <span class="breakdown-key">GPS coordinates</span>
-          <span class="breakdown-val">3,944</span>
-        </div>
-        <div class="breakdown-row">
-          <span class="breakdown-key">Rich content data</span>
-          <span class="breakdown-val">1,371</span>
-        </div>
-        <div class="breakdown-row">
-          <span class="breakdown-key">JSON files</span>
-          <span class="breakdown-val">28</span>
-        </div>
+        <div class="breakdown-row"><span class="breakdown-key">Total events</span><span class="breakdown-val">6,145</span></div>
+        <div class="breakdown-row"><span class="breakdown-key">Year span</span><span class="breakdown-val">1973 – 2026</span></div>
+        <div class="breakdown-row"><span class="breakdown-key">Unique cities</span><span class="breakdown-val">183</span></div>
+        <div class="breakdown-row"><span class="breakdown-key">GPS coordinates</span><span class="breakdown-val">3,944</span></div>
+        <div class="breakdown-row"><span class="breakdown-key">Rich content data</span><span class="breakdown-val">1,371</span></div>
+        <div class="breakdown-row"><span class="breakdown-key">JSON files</span><span class="breakdown-val">28</span></div>
       </div>
-
-      <div class="city-pills" style="margin-top:28px;">
+      <div class="city-pills">
         <div class="city-pill"><strong>841</strong> Bandung</div>
         <div class="city-pill"><strong>262</strong> Surabaya</div>
         <div class="city-pill"><strong>252</strong> Jkt Selatan</div>
         <div class="city-pill"><strong>246</strong> Jakarta</div>
         <div class="city-pill"><strong>225</strong> Yogyakarta</div>
         <div class="city-pill"><strong>176</strong> Bekasi</div>
-        <div class="city-pill" style="color:rgba(245,237,214,0.3);">+ 177 kota lainnya</div>
+        <div class="city-pill" style="color:rgba(240,232,213,0.2)">+ 177 kota lainnya</div>
       </div>
     </div>
   </div>
 </section>
 
-<div class="divider"></div>
-
 <!-- ══ OPEN DATA ════════════════════════════════════════════════════ -->
 <section class="opendata-section">
-  <div class="section-inner">
-    <p class="section-label reveal">Pakai Datanya · Use the Data</p>
-    <h2 class="section-title reveal">Open Data,<br>Gratis untuk Semua</h2>
-
-    <div class="about-grid" style="margin-top:0;">
-      <div class="reveal">
-        <p style="font-size:13px;line-height:1.9;color:rgba(26,15,10,0.65);margin-bottom:16px;">
-          Dataset tersedia sebagai JSON di GitHub, satu file per tahun.
-          Bebas digunakan untuk riset, visualisasi, atau pengembangan aplikasi komunitas.
-        </p>
-        <p style="font-size:13px;line-height:1.9;color:rgba(26,15,10,0.65);margin-bottom:16px;">
-          Available as JSON on GitHub, one file per year.
-          Free to use for research, visualization, or community applications.
-        </p>
-        <div class="license-badge">
-          <div class="license-dot"></div>
-          CC BY 4.0 — Creative Commons Attribution
-        </div>
-      </div>
-
-      <div class="reveal">
-        <div class="code-block">
+  <div class="about-grid section-inner">
+    <div>
+      <p class="section-label reveal">Pakai Datanya · Use the Data<span style="flex:1;height:1px;background:var(--teal);opacity:0.2;display:inline-block;margin-left:12px;vertical-align:middle;"></span></p>
+      <h2 class="section-title reveal" style="color:var(--ink);">Open Data,<br>Gratis untuk Semua</h2>
+      <p class="about-body reveal">Dataset tersedia sebagai JSON di GitHub, satu file per tahun. Bebas digunakan untuk riset, visualisasi, atau pengembangan aplikasi komunitas.</p>
+      <p class="about-body reveal">Free to use under <strong>CC BY 4.0</strong>. Suitable for research, data visualization, and community applications.</p>
+      <div class="license-badge reveal"><div class="license-dot"></div>CC BY 4.0 — Creative Commons Attribution</div>
+    </div>
+    <div class="reveal">
+      <div class="code-block">
 <span class="comment"># Load semua event / Load all events</span>
 <span class="keyword">import</span> json, glob
 
@@ -839,13 +674,10 @@ events = []
   <span class="keyword">with</span> open(f) <span class="keyword">as</span> fp:
     events.extend(json.load(fp))
 
-<span class="comment"># 6,145 events ready</span>
+<span class="comment"># 6,145 events ready to explore</span>
 print(len(events))
-        </div>
-        <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank" style="margin-top:8px;">
-          ↗ GitHub Repository
-        </a>
       </div>
+      <a class="btn btn-primary" href="https://github.com/harbhum25-sys/indonesian-jculture-archive" target="_blank" style="margin-top:4px;">↗ View on GitHub</a>
     </div>
   </div>
 </section>
@@ -860,70 +692,166 @@ print(len(events))
       <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/blob/main/CONTRIBUTING.md" target="_blank">Contributing</a>
       <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/blob/main/LICENSE" target="_blank">CC BY 4.0</a>
     </div>
-    <p class="footer-copy">
-      © 2017–2025 · Independent archival project · Not affiliated with any event organizer
-    </p>
+    <p class="footer-copy">© 2017–2025 · Independent archival project · Not affiliated with any event organizer</p>
   </div>
 </footer>
 
 <script>
-// ── Spark chart ──────────────────────────────────────────────────
+// ── Bar chart ──────────────────────────────────────────────────────
 const yearData = {
   1973:1,2000:3,2001:9,2002:18,2003:14,2004:36,2005:41,
   2006:58,2007:59,2008:42,2009:41,2010:37,2011:54,2012:40,
   2013:86,2014:49,2015:66,2016:61,2017:75,2018:63,2019:101,
   2020:35,2021:10,2022:772,2023:2088,2024:1704,2025:467,2026:115
 };
-
-const container = document.getElementById('sparkBars');
-const allYears = [];
-for (let y = 1973; y <= 2026; y++) allYears.push(y);
 const maxVal = Math.max(...Object.values(yearData));
+const barsContainer = document.getElementById('sparkBars');
+const numsContainer = document.getElementById('numsRow');
+let showNums = false;
 
-allYears.forEach(yr => {
+for (let yr = 1973; yr <= 2026; yr++) {
+  const val = yearData[yr] || 0;
+
+  // Number cell (goes into numsRow — always above bars)
+  const numCell = document.createElement('div');
+  numCell.className = 'spark-num-cell';
+  const numEl = document.createElement('div');
+  numEl.className = 'spark-num';
+  numEl.textContent = val || '';
+  numCell.appendChild(numEl);
+  numsContainer.appendChild(numCell);
+
+  // Bar + year label col (goes into sparkBars)
+  const col = document.createElement('div');
+  col.className = 'spark-col';
   const bar = document.createElement('div');
   bar.className = 'spark-bar';
-  const val = yearData[yr] || 0;
-  const h = val ? Math.max(3, (val / maxVal) * 80) : 2;
+  const h = val ? Math.max(3, (val / maxVal) * 100) : 2;
   bar.style.height = h + 'px';
   if (val) {
     bar.classList.add('has-data');
-    if (val === maxVal) bar.classList.add('peak');
-    bar.title = `${yr}: ${val} events`;
+    if (val >= 1500) bar.classList.add('peak');
+    else if (val >= 400) bar.classList.add('high');
+    bar.title = `${yr}: ${val.toLocaleString()} events`;
   }
-  container.appendChild(bar);
-});
-
-// ── Scroll reveal ───────────────────────────────────────────────
-const observer = new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.classList.add('visible');
-      observer.unobserve(e.target);
-    }
-  });
-}, { threshold: 0.1 });
-
-document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-
-// ── Animated counter ────────────────────────────────────────────
-function animateCount(el, target, duration = 1500) {
-  const start = performance.now();
-  const update = (now) => {
-    const progress = Math.min((now - start) / duration, 1);
-    const ease = 1 - Math.pow(1 - progress, 3);
-    el.textContent = Math.floor(ease * target).toLocaleString();
-    if (progress < 1) requestAnimationFrame(update);
-    else el.textContent = target.toLocaleString();
-  };
-  requestAnimationFrame(update);
+  const lbl = document.createElement('div');
+  lbl.className = 'spark-yr' + ([1973,1980,1985,1990,1995,2000,2005,2010,2015,2020,2025].includes(yr) ? ' label' : '');
+  lbl.textContent = yr;
+  col.appendChild(bar);
+  col.appendChild(lbl);
+  barsContainer.appendChild(col);
 }
 
-const countEl = document.getElementById('cnt-events');
-const io = new IntersectionObserver(([e]) => {
-  if (e.isIntersecting) { animateCount(countEl, 6145); io.disconnect(); }
+function toggleNumbers() {
+  showNums = !showNums;
+  numsContainer.classList.toggle('show', showNums);
+  const btn = document.getElementById('toggleNum');
+  btn.textContent = showNums ? 'Hide Numbers' : 'Show Numbers';
+  btn.classList.toggle('active', showNums);
+}
+
+// ── Map tabs ───────────────────────────────────────────────────────
+const mapLoaded = { indonesia: false, jawa: false };
+
+function switchMap(id, btn) {
+  document.querySelectorAll('.map-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.map-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('map-' + id).classList.add('active');
+  btn.classList.add('active');
+  if (!mapLoaded[id]) loadMap(id);
+}
+
+async function loadMap(id) {
+  const file = id === 'indonesia' ? 'id_map.svg' : 'jawa_map.svg';
+  const wrap = document.getElementById('wrap-' + id);
+  const loadingEl = document.getElementById('loading-' + id);
+  const dotOverlay = document.getElementById('dots-' + id);
+
+  try {
+    const resp = await fetch(file);
+    if (!resp.ok) throw new Error('fetch failed');
+    const text = await resp.text();
+
+    // Parse SVG
+    const parser = new DOMParser();
+    const svgDoc = parser.parseFromString(text, 'image/svg+xml');
+    const svgEl = svgDoc.querySelector('svg');
+
+    // Style the base SVG
+    svgEl.removeAttribute('width');
+    svgEl.removeAttribute('height');
+    svgEl.setAttribute('class', 'base-map');
+    svgEl.style.width = '100%';
+    svgEl.style.height = 'auto';
+    svgEl.style.display = 'block';
+
+    // Remove any inline fill/stroke from the original SVG root
+    svgEl.removeAttribute('fill');
+    svgEl.removeAttribute('stroke');
+
+    // Remove defs/pattern elements that might clash (they add fills we don't want)
+    svgEl.querySelectorAll('defs, pattern, linearGradient, radialGradient').forEach(el => el.remove());
+
+    // Insert base SVG before the dot overlay
+    wrap.insertBefore(svgEl, dotOverlay);
+
+    // Remove loading indicator
+    loadingEl.remove();
+
+    // Bring dot overlay to front
+    wrap.appendChild(dotOverlay);
+
+    mapLoaded[id] = true;
+    attachDotListeners(id);
+  } catch (e) {
+    loadingEl.textContent = '⚠ Could not load map — check file path';
+    console.error('Map load error:', id, e);
+  }
+}
+
+// ── Map tooltips ───────────────────────────────────────────────────
+const tooltip = document.getElementById('mapTooltip');
+
+function attachDotListeners(id) {
+  const overlay = document.getElementById('dots-' + id);
+  overlay.querySelectorAll('.map-dot').forEach(dot => {
+    dot.addEventListener('mouseenter', () => {
+      tooltip.textContent = `${dot.dataset.city} — ${dot.dataset.count} events`;
+      tooltip.classList.add('show');
+    });
+    dot.addEventListener('mousemove', e => {
+      const rect = dot.closest('.map-container').getBoundingClientRect();
+      tooltip.style.left = (e.clientX - rect.left + 14) + 'px';
+      tooltip.style.top  = (e.clientY - rect.top  - 10) + 'px';
+    });
+    dot.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
+  });
+}
+
+// Load Indonesia map on page load (active tab)
+loadMap('indonesia');
+
+// ── Scroll reveal ──────────────────────────────────────────────────
+const io = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } });
+}, { threshold: 0.1 });
+document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+
+// ── Animated counter ───────────────────────────────────────────────
+function animCount(el, target, ms = 1400) {
+  const start = performance.now();
+  const run = now => {
+    const p = Math.min((now - start) / ms, 1);
+    el.textContent = Math.floor((1 - Math.pow(1-p, 3)) * target).toLocaleString();
+    if (p < 1) requestAnimationFrame(run); else el.textContent = target.toLocaleString();
+  };
+  requestAnimationFrame(run);
+}
+const cntEl = document.getElementById('cnt-events');
+const cio = new IntersectionObserver(([e]) => {
+  if (e.isIntersecting) { animCount(cntEl, 6145); cio.disconnect(); }
 }, { threshold: 0.5 });
-io.observe(countEl);
+cio.observe(cntEl);
 </script>
 </body>
 </html>
