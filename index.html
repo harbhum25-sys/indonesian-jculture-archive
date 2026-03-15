@@ -459,44 +459,46 @@
           <!-- base SVG injected here by JS -->
           <!-- dot overlay SVG (viewBox matched after load) -->
           <svg class="dot-overlay" id="dots-indonesia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 368">
-            <!-- id_map.svg: viewBox="0 0 1000 368" -->
-            <!-- Dots positioned in id_map coordinate space -->
-            <!-- Jakarta area: ~lon 106.85°E → x≈279, lat 6.2°S → y≈206 -->
-            <circle class="map-dot" cx="280" cy="207" r="12" data-city="Jakarta area" data-count="1,000+"/>
-            <circle class="map-dot" cx="294" cy="219" r="10" data-city="Bandung" data-count="841"/>
-            <!-- Semarang: lon 110.4°, lat 7.0°S -->
-            <circle class="map-dot" cx="313" cy="209" r="6" data-city="Semarang" data-count="140"/>
-            <!-- Yogyakarta: lon 110.37°, lat 7.8°S -->
-            <circle class="map-dot" cx="313" cy="216" r="7" data-city="Yogyakarta" data-count="225"/>
-            <!-- Solo: lon 110.83°, lat 7.57°S -->
-            <circle class="map-dot" cx="317" cy="213" r="4" data-city="Solo" data-count="81"/>
-            <!-- Surabaya: lon 112.75°, lat 7.27°S -->
-            <circle class="map-dot" cx="329" cy="210" r="8" data-city="Surabaya" data-count="262"/>
-            <!-- Malang: lon 112.63°, lat 7.98°S -->
-            <circle class="map-dot" cx="328" cy="218" r="4" data-city="Malang" data-count="70+"/>
-            <!-- Medan: lon 98.67°, lat 3.6°N -->
-            <circle class="map-dot" cx="193" cy="167" r="5" data-city="Medan" data-count="60+"/>
-            <!-- Pekanbaru: lon 101.4°, lat 0.5°N -->
-            <circle class="map-dot" cx="215" cy="188" r="3" data-city="Pekanbaru" data-count="25+" style="fill:var(--lteal)"/>
-            <!-- Palembang: lon 104.75°, lat 2.9°S -->
-            <circle class="map-dot" cx="242" cy="198" r="4" data-city="Palembang" data-count="50+"/>
-            <!-- Makassar: lon 119.43°, lat 5.15°S -->
-            <circle class="map-dot" cx="373" cy="204" r="5" data-city="Makassar" data-count="124"/>
-            <!-- Manado: lon 124.84°, lat 1.48°N -->
-            <circle class="map-dot" cx="412" cy="178" r="3" data-city="Manado" data-count="30+"/>
-            <!-- Balikpapan: lon 116.82°, lat 1.27°S -->
-            <circle class="map-dot" cx="358" cy="190" r="3" data-city="Balikpapan" data-count="25+"/>
-            <!-- Banjarmasin: lon 114.59°, lat 3.32°S -->
-            <circle class="map-dot" cx="340" cy="197" r="3" data-city="Banjarmasin" data-count="30+"/>
-            <!-- Bali/Denpasar: lon 115.22°, lat 8.65°S -->
-            <circle class="map-dot" cx="345" cy="220" r="4" data-city="Bali / Denpasar" data-count="80+"/>
+            <!-- Coordinates calibrated from real province centroids in id_map.svg -->
+            <!-- px/lon≈21.63, px/lat≈-30.00, anchor: Jakarta (279.3,257.1) = lon106.85,lat-6.2 -->
+
+            <!-- Jakarta: 279.3, 257.1 (IDJK centroid) -->
+            <circle class="map-dot" cx="279" cy="257" r="13" data-city="Jakarta area" data-count="1,000+"/>
+            <!-- Bandung: lon107.62,lat-6.93 -->
+            <circle class="map-dot" cx="296" cy="279" r="10" data-city="Bandung" data-count="841"/>
+            <!-- Semarang: lon110.42,lat-7.0 -->
+            <circle class="map-dot" cx="357" cy="281" r="6" data-city="Semarang" data-count="140"/>
+            <!-- Yogyakarta: lon110.37,lat-7.8 -->
+            <circle class="map-dot" cx="356" cy="305" r="7" data-city="Yogyakarta" data-count="225"/>
+            <!-- Solo: lon110.83,lat-7.57 -->
+            <circle class="map-dot" cx="366" cy="298" r="5" data-city="Solo" data-count="81"/>
+            <!-- Surabaya: lon112.75,lat-7.27 -->
+            <circle class="map-dot" cx="407" cy="289" r="8" data-city="Surabaya" data-count="262"/>
+            <!-- Malang: lon112.63,lat-7.98 -->
+            <circle class="map-dot" cx="405" cy="311" r="4" data-city="Malang" data-count="70+"/>
+            <!-- Medan: lon98.67,lat-3.6 -->
+            <circle class="map-dot" cx="102" cy="179" r="5" data-city="Medan" data-count="60+"/>
+            <!-- Pekanbaru: lon101.45,lat-0.51 -->
+            <circle class="map-dot" cx="163" cy="86" r="3" data-city="Pekanbaru" data-count="25+" style="fill:var(--lteal)"/>
+            <!-- Palembang: lon104.76,lat-2.99 -->
+            <circle class="map-dot" cx="234" cy="161" r="4" data-city="Palembang" data-count="50+"/>
+            <!-- Makassar: lon119.43,lat-5.15 — IDSN centroid -->
+            <circle class="map-dot" cx="551" cy="226" r="5" data-city="Makassar" data-count="124"/>
+            <!-- Manado: lon124.84,lat1.49 -->
+            <circle class="map-dot" cx="668" cy="26" r="3" data-city="Manado" data-count="30+"/>
+            <!-- Balikpapan: lon116.82,lat-1.27 -->
+            <circle class="map-dot" cx="495" cy="109" r="3" data-city="Balikpapan" data-count="25+"/>
+            <!-- Banjarmasin: lon114.59,lat-3.32 -->
+            <circle class="map-dot" cx="447" cy="171" r="3" data-city="Banjarmasin" data-count="30+"/>
+            <!-- Bali/Denpasar: lon115.22,lat-8.65 — IDBA centroid -->
+            <circle class="map-dot" cx="442" cy="302" r="4" data-city="Bali / Denpasar" data-count="80+"/>
 
             <!-- Labels -->
-            <text x="280" y="224" text-anchor="middle" font-family="DM Mono,monospace" font-size="6" fill="rgba(13,27,42,0.7)">Jakarta</text>
-            <text x="296" y="232" text-anchor="middle" font-family="DM Mono,monospace" font-size="5.5" fill="rgba(13,27,42,0.65)">Bandung</text>
-            <text x="330" y="202" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Surabaya</text>
-            <text x="315" y="228" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Yogyakarta</text>
-            <text x="375" y="214" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Makassar</text>
+            <text x="279" y="272" text-anchor="middle" font-family="DM Mono,monospace" font-size="6" fill="rgba(13,27,42,0.72)">Jakarta</text>
+            <text x="296" y="292" text-anchor="middle" font-family="DM Mono,monospace" font-size="5.5" fill="rgba(13,27,42,0.65)">Bandung</text>
+            <text x="408" y="280" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Surabaya</text>
+            <text x="356" y="316" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Yogyakarta</text>
+            <text x="553" y="237" text-anchor="middle" font-family="DM Mono,monospace" font-size="5" fill="rgba(13,27,42,0.6)">Makassar</text>
           </svg>
         </div>
       </div>
@@ -508,53 +510,55 @@
           <!-- base SVG injected here by JS -->
           <!-- dot overlay SVG (viewBox="0 0 1542.551 516.58966") -->
           <svg class="dot-overlay" id="dots-jawa" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1542.551 516.58966">
-            <!-- jawa_map.svg: viewBox="0 0 1542.551 516.58966" -->
-            <!-- Dots reprojected to jawa_map coordinate space -->
-            <!-- DKI Jakarta: ~lon 106.85°, lat 6.2°S -->
-            <circle class="map-dot" cx="342" cy="184" r="18" data-city="DKI Jakarta" data-count="~900"/>
-            <circle class="map-dot" cx="310" cy="184" r="9" data-city="Tangerang" data-count="60+" style="fill:var(--teal)"/>
-            <circle class="map-dot" cx="378" cy="184" r="10" data-city="Bekasi" data-count="176" style="fill:var(--teal)"/>
-            <!-- Bogor: lon 106.81°, lat 6.6°S -->
-            <circle class="map-dot" cx="340" cy="212" r="7" data-city="Bogor" data-count="94"/>
-            <!-- Depok: lon 106.82°, lat 6.4°S -->
-            <circle class="map-dot" cx="342" cy="196" r="5" data-city="Depok" data-count="80+"/>
-            <!-- Cikarang: lon 107.15°, lat 6.3°S -->
-            <circle class="map-dot" cx="368" cy="188" r="4" data-city="Cikarang" data-count="30+" style="fill:var(--teal)"/>
-            <!-- Bandung: lon 107.62°, lat 6.93°S -->
-            <circle class="map-dot" cx="406" cy="222" r="17" data-city="Bandung" data-count="841"/>
-            <!-- Jatinangor/Unpad: lon 107.77°, lat 6.93°S -->
-            <circle class="map-dot" cx="418" cy="222" r="6" data-city="Jatinangor / PSBJ Unpad" data-count="15" style="fill:var(--gold)"/>
-            <!-- Cirebon: lon 108.56°, lat 6.7°S -->
-            <circle class="map-dot" cx="475" cy="207" r="6" data-city="Cirebon" data-count="30+"/>
-            <!-- Purwokerto: lon 109.25°, lat 7.43°S -->
-            <circle class="map-dot" cx="536" cy="248" r="5" data-city="Purwokerto" data-count="20+"/>
-            <!-- Semarang: lon 110.42°, lat 7.0°S -->
-            <circle class="map-dot" cx="623" cy="218" r="8" data-city="Semarang" data-count="140"/>
-            <!-- Yogyakarta: lon 110.37°, lat 7.8°S -->
-            <circle class="map-dot" cx="619" cy="270" r="10" data-city="Yogyakarta" data-count="225"/>
-            <!-- Solo: lon 110.83°, lat 7.57°S -->
-            <circle class="map-dot" cx="655" cy="252" r="7" data-city="Solo" data-count="81"/>
-            <!-- Madiun: lon 111.52°, lat 7.63°S -->
-            <circle class="map-dot" cx="713" cy="256" r="5" data-city="Madiun" data-count="20+"/>
-            <!-- Surabaya: lon 112.75°, lat 7.27°S -->
-            <circle class="map-dot" cx="810" cy="232" r="12" data-city="Surabaya" data-count="262"/>
-            <!-- Sidoarjo: lon 112.72°, lat 7.45°S -->
-            <circle class="map-dot" cx="808" cy="248" r="6" data-city="Sidoarjo" data-count="50+"/>
-            <!-- Malang: lon 112.63°, lat 7.98°S -->
-            <circle class="map-dot" cx="800" cy="286" r="6" data-city="Malang" data-count="70+"/>
-            <!-- Kediri: lon 112.01°, lat 7.82°S -->
-            <circle class="map-dot" cx="755" cy="272" r="5" data-city="Kediri" data-count="30+"/>
-            <!-- Jember: lon 113.69°, lat 8.17°S -->
-            <circle class="map-dot" cx="886" cy="298" r="4" data-city="Jember" data-count="15+"/>
+            <!-- Coordinates calibrated from jawa_map.svg path data -->
+            <!-- px/lon≈87.30, px/lat≈-98.65, anchor: Jakarta path139 centroid (280.8,206.9) = lon106.85,lat-6.17 -->
+            <!-- Verified: Yogyakarta prov centroid (588.1,367.7) = lon110.37,lat-7.8 -->
+
+            <!-- Jakarta DKI: path139 centroid (280.8,206.9) -->
+            <circle class="map-dot" cx="281" cy="211" r="18" data-city="DKI Jakarta" data-count="~900"/>
+            <!-- Tangerang: lon106.63,lat-6.18 -->
+            <circle class="map-dot" cx="262" cy="208" r="9" data-city="Tangerang" data-count="60+" style="fill:var(--teal)"/>
+            <!-- Bekasi: lon107.00,lat-6.24 -->
+            <circle class="map-dot" cx="294" cy="214" r="10" data-city="Bekasi" data-count="176" style="fill:var(--teal)"/>
+            <!-- Depok: lon106.82,lat-6.40 -->
+            <circle class="map-dot" cx="278" cy="230" r="5" data-city="Depok" data-count="80+"/>
+            <!-- Bogor: lon106.80,lat-6.60 -->
+            <circle class="map-dot" cx="276" cy="250" r="7" data-city="Bogor" data-count="94"/>
+            <!-- Bandung: lon107.62,lat-6.93 -->
+            <circle class="map-dot" cx="348" cy="282" r="16" data-city="Bandung" data-count="841"/>
+            <!-- Jatinangor/Unpad: lon107.77,lat-6.93 -->
+            <circle class="map-dot" cx="361" cy="282" r="6" data-city="Jatinangor / PSBJ Unpad" data-count="15" style="fill:var(--gold)"/>
+            <!-- Cirebon: lon108.56,lat-6.73 -->
+            <circle class="map-dot" cx="430" cy="262" r="6" data-city="Cirebon" data-count="30+"/>
+            <!-- Purwokerto: lon109.25,lat-7.43 -->
+            <circle class="map-dot" cx="490" cy="331" r="5" data-city="Purwokerto" data-count="20+"/>
+            <!-- Semarang: lon110.42,lat-7.0 -->
+            <circle class="map-dot" cx="593" cy="289" r="8" data-city="Semarang" data-count="140"/>
+            <!-- Yogyakarta: path142 centroid (588.1,367.7) -->
+            <circle class="map-dot" cx="588" cy="368" r="10" data-city="Yogyakarta" data-count="225"/>
+            <!-- Solo: lon110.83,lat-7.57 -->
+            <circle class="map-dot" cx="628" cy="345" r="7" data-city="Solo" data-count="81"/>
+            <!-- Madiun: lon111.52,lat-7.63 -->
+            <circle class="map-dot" cx="689" cy="351" r="5" data-city="Madiun" data-count="20+"/>
+            <!-- Surabaya: lon112.75,lat-7.25 -->
+            <circle class="map-dot" cx="796" cy="313" r="12" data-city="Surabaya" data-count="262"/>
+            <!-- Sidoarjo: lon112.72,lat-7.45 -->
+            <circle class="map-dot" cx="793" cy="333" r="6" data-city="Sidoarjo" data-count="50+"/>
+            <!-- Malang: lon112.63,lat-7.98 -->
+            <circle class="map-dot" cx="785" cy="386" r="6" data-city="Malang" data-count="70+"/>
+            <!-- Kediri: lon112.01,lat-7.82 -->
+            <circle class="map-dot" cx="731" cy="370" r="5" data-city="Kediri" data-count="30+"/>
+            <!-- Jember: lon113.69,lat-8.17 -->
+            <circle class="map-dot" cx="878" cy="404" r="4" data-city="Jember" data-count="15+"/>
 
             <!-- Labels -->
-            <text x="342" y="208" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Jakarta</text>
-            <text x="406" y="246" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Bandung</text>
-            <text x="418" y="236" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="rgba(184,149,58,0.85)">Unpad ★</text>
-            <text x="623" y="208" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Semarang</text>
-            <text x="619" y="288" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Yogyakarta</text>
-            <text x="655" y="243" text-anchor="middle" font-family="DM Mono,monospace" font-size="10" fill="rgba(13,27,42,0.6)">Solo</text>
-            <text x="810" y="222" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.7)" font-weight="500">Surabaya</text>
+            <text x="281" y="235" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Jakarta</text>
+            <text x="348" y="305" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.72)" font-weight="500">Bandung</text>
+            <text x="361" y="296" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="rgba(184,149,58,0.85)">Unpad ★</text>
+            <text x="593" y="278" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Semarang</text>
+            <text x="588" y="387" text-anchor="middle" font-family="DM Mono,monospace" font-size="11" fill="rgba(13,27,42,0.65)">Yogyakarta</text>
+            <text x="628" y="335" text-anchor="middle" font-family="DM Mono,monospace" font-size="10" fill="rgba(13,27,42,0.6)">Solo</text>
+            <text x="796" y="301" text-anchor="middle" font-family="DM Mono,monospace" font-size="13" fill="rgba(13,27,42,0.7)" font-weight="500">Surabaya</text>
             <text x="20" y="500" font-family="DM Mono,monospace" font-size="10" fill="rgba(13,27,42,0.35)">★ PSBJ FIB Unpad — Jatinangor, Sumedang</text>
           </svg>
         </div>
