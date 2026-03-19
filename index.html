@@ -106,7 +106,7 @@
     /* ── Hero ── */
     .hero {
       background: linear-gradient(135deg, #0A2540 0%, #0D3660 50%, #083050 100%);
-      padding: 80px 24px 64px;
+      padding: 80px 24px 80px;
       position: relative; overflow: hidden;
     }
     .hero::before {
@@ -150,7 +150,7 @@
     .btn-secondary:hover { border-color: var(--azure); color: var(--white); }
 
     /* ── Stats ── */
-    .stats-section { max-width: 1120px; margin: -32px auto 0; padding: 0 24px; }
+    .stats-section { max-width: 1120px; margin: 0 auto; padding: 32px 24px 0; }
     .stats-grid {
       display: grid; grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
       gap: 14px;
@@ -384,6 +384,57 @@
           <div class="feature-icon">🤝</div>
           <div class="feature-title">Kontribusi Terbuka</div>
           <div class="feature-desc">Punya info event yang kurang atau mau koreksi data? Buka Pull Request di GitHub.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Roadmap / upcoming features -->
+  <section class="section" style="background:white; border-top:1px solid var(--border);">
+    <div class="section-inner">
+      <p class="section-eyebrow">Yang Sering Ditanyakan</p>
+      <h2 class="section-title">Fitur yang Sedang Dikembangkan</h2>
+      <p class="section-desc">injaca terus berkembang. Ini beberapa hal yang sering ditanyakan komunitas:</p>
+      <div class="feature-grid">
+        <div class="feature-card" style="border-left:3px solid var(--azure);">
+          <div class="feature-icon">🗺️</div>
+          <div class="feature-title">Live Map</div>
+          <div class="feature-desc">
+            Peta interaktif dengan pin di tiap kota — klik pin untuk lihat semua event di kota itu.
+            <br/><br/>
+            <span style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--azure);">Fase 2 — Segera</span>
+          </div>
+        </div>
+        <div class="feature-card" style="border-left:3px solid var(--azure);">
+          <div class="feature-icon">📅</div>
+          <div class="feature-title">Live Feed Upcoming Events</div>
+          <div class="feature-desc">
+            Event yang akan datang tampil otomatis di halaman utama — update sendiri sesuai dataset terbaru.
+            <br/><br/>
+            <span style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--azure);">Fase 2 — Segera</span>
+          </div>
+        </div>
+        <div class="feature-card" style="border-left:3px solid #B8953A;">
+          <div class="feature-icon">➕</div>
+          <div class="feature-title">Input / Submit Event</div>
+          <div class="feature-desc">
+            Saat ini kontribusi event dilakukan via <strong>Pull Request di GitHub</strong>. Form submit langsung dari website sedang direncanakan untuk fase komunitas.
+            <br/><br/>
+            <a href="https://github.com/harbhum25-sys/indonesian-jculture-archive/issues" target="_blank"
+               style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:#B8953A;text-decoration:none;">
+              → Buka Issue di GitHub sekarang
+            </a>
+          </div>
+        </div>
+        <div class="feature-card" style="border-left:3px solid #B8953A;">
+          <div class="feature-icon">🔐</div>
+          <div class="feature-title">Login & Komunitas</div>
+          <div class="feature-desc">
+            Login Google/Facebook, "saya hadir" di event, dan profil organizer — semua direncanakan di fase komunitas.
+            <br/><br/>
+            <span style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:#B8953A;">Fase 3 — Direncanakan</span>
+          </div>
         </div>
       </div>
     </div>
