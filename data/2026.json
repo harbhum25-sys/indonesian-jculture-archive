@@ -551,10 +551,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "yeujhp_1",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Mall Of Indonesia, Jl. Boulevard Bar. Raya Unit : GF Lobby 7, RT.18/RW.8, West Kelapa Gading, Kelapa Gading, North Jakarta City, Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.151447250071272, 106.89189407082154",
+        "location_gmaps": "https://maps.app.goo.gl/PCF5mcfgqycTiSZQ9",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10164873002763836/",
             "https://www.instagram.com/p/DTJ1huaEWvm/"
@@ -696,10 +696,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "muxppw_1",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.134010650676876, 106.83084932584083",
+        "location_gmaps": "https://maps.app.goo.gl/ZqJM7Ms6d4qEGAHQA",
         "links": [
             "https://www.instagram.com/p/DTImi7NEsqS/",
             "https://www.instagram.com/p/DTcm413EiA5/"
@@ -1973,15 +1973,15 @@
         "status": "Finished",
         "attended": "",
         "_id": "fuwvxo_4",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "RR6R+364, RT.2/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.189574493777251, 106.840273407854",
+        "location_gmaps": "https://maps.app.goo.gl/DfsDanhm1FE1idW9A",
         "links": [
             "https://www.instagram.com/p/DTxnI_IEWy3/",
             "https://www.instagram.com/piano.monster.id/",
-            "https://www.instagram.com/piano.monster.id/p/DSEiFAjD5iq/",
-            "https://www.instagram.com/piano.monster.id/p/DTfYXh6j3np/",
+            "https://www.instagram.com/p/DSEiFAjD5iq/",
+            "https://www.instagram.com/p/DTfYXh6j3np/",
             "https://go.tiketapasaja.com/pianomonstervol2"
         ],
         "Content": {
@@ -2259,10 +2259,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "mclolf_6",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Mall Kuningan, Jl. Prof. DR. Satrio No.Kav. 18 City, P3, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.22470893568659, 106.83000853313924",
+        "location_gmaps": "https://maps.app.goo.gl/g7rJssuRiHYMkNjr7",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10165010701098836/",
             "https://www.instagram.com/p/DUPfnvIEQj2/",
@@ -2861,10 +2861,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ofygai_5",
-        "location_address": "Stadion B Lapangan Banteng Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "RRJP+449, Jl. Banteng Timur, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.169698310763308, 106.83535853431712",
+        "location_gmaps": "https://maps.app.goo.gl/QdzUfLFM6JBfWnw16",
         "links": [
             "https://www.instagram.com/stereofest_official",
             "https://www.instagram.com/jfesthunter_/p/DTdFo_hkYsF/",
@@ -3870,10 +3870,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "mrygin_9",
-        "location_address": "Plaza Festival",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. H. R. Rasuna Said No.22 Kav. C, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.220745567540634, 106.8331189071817",
+        "location_gmaps": "https://maps.app.goo.gl/GfXkvw9nX3mdTo2H9",
         "links": [
             "https://www.instagram.com/infojejepangan.id/p/DVLGMdtAHf2/"
         ],
@@ -3934,72 +3934,6 @@
             ]
         },
         "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20260305",
-        "Start Time": "",
-        "End Date": "20260315",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Shibuya Street Fair",
-        "Location": "PIK Avenue",
-        "Comment": "Insert to J-Event List : 20260308 16:27:08\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "shibuya_street_fair_2026_pik",
-        "location_address": "",
-        "location_city": "Jakarta Utara",
-        "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            "https://www.instagram.com/p/DVGdtBfko-h/",
-            "https://bit.ly/shibuyacoscom26"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Competition / Coswalk",
-                "Talkshow / Seminar / Workshop"
-            ],
-            "description": "Shibuya themed street fair event featuring cosplay competition, talkshows, DJ performances, and pop culture showcases.",
-            "competition": {
-                "cosplay_competition": {
-                    "date": "20260308",
-                    "prizes": {
-                        "1st": "Rp 2000000",
-                        "2nd": "Rp 1500000",
-                        "3rd": "Rp 1000000",
-                        "favorite_winner_1": "Rp 500000",
-                        "favorite_winner_2": "Rp 500000"
-                    },
-                    "judges": [
-                        "echow.cosplay",
-                        "yagaichi__"
-                    ],
-                    "mc": "naocchi_noch",
-                    "registration": {
-                        "registration_link": "https://bit.ly/shibuyacoscom26"
-                    }
-                }
-            },
-            "event_programs": {
-                "tcg_talkshow": "Trading card game talkshow session",
-                "dj_ninja": "DJ performance by DJ Ninja",
-                "jujutsu_kaisen_cosplay_performance": "Themed cosplay performance inspired by Jujutsu Kaisen",
-                "komastar": "Music performance by Komastar",
-                "gundam_talkshow": "Talkshow discussing Gundam franchise"
-            },
-            "social_media": {
-                "instagram": {
-                    "cosclip": "cosclip.id"
-                }
-            }
-        }
     },
     {
         "Start Date": "20260306",
@@ -4548,7 +4482,9 @@
         "https://www.instagram.com/p/DVkbMU4knX-/",
         "https://www.instagram.com/p/DVfdHteEgyf/",
         "https://www.instagram.com/p/DVfdZPakvQU/",
-        "https://www.instagram.com/p/DVfdefrkmxh/"
+        "https://www.instagram.com/p/DVfdefrkmxh/",
+        "https://www.instagram.com/p/DVGdtBfko-h/",
+        "https://bit.ly/shibuyacoscom26"
       ],
       "Content": {
         "category": [
@@ -4556,10 +4492,43 @@
           "Cosplay - Competition / Coswalk",
           "Talkshow / Seminar / Workshop",
           "Game / Esports Tournament",
-          "Bazaar / Market"
+          "Bazaar / Market",
+          "Talkshow / Seminar / Workshop"
         ],
         "organizer": "Byte Project",
-        "description": "Japanese themed street fair with more than 55 Japanese themed tenants, cosplay competition, workshops, game lounge, talkshow, and stage performances.",
+        "description": ["Japanese themed street fair with more than 55 Japanese themed tenants, cosplay competition, workshops, game lounge, talkshow, and stage performances.", "Shibuya themed street fair event featuring cosplay competition, talkshows, DJ performances, and pop culture showcases."],
+        "competition": {
+            "cosplay_competition": {
+                "date": "20260308",
+                "prizes": {
+                    "1st": "Rp 2000000",
+                    "2nd": "Rp 1500000",
+                    "3rd": "Rp 1000000",
+                    "favorite_winner_1": "Rp 500000",
+                    "favorite_winner_2": "Rp 500000"
+                },
+                "judges": [
+                    "echow.cosplay",
+                    "yagaichi__"
+                ],
+                "mc": "naocchi_noch",
+                "registration": {
+                    "registration_link": "https://bit.ly/shibuyacoscom26"
+                }
+            }
+        },
+        "event_programs": {
+            "tcg_talkshow": "Trading card game talkshow session",
+            "dj_ninja": "DJ performance by DJ Ninja",
+            "jujutsu_kaisen_cosplay_performance": "Themed cosplay performance inspired by Jujutsu Kaisen",
+            "komastar": "Music performance by Komastar",
+            "gundam_talkshow": "Talkshow discussing Gundam franchise"
+        },
+        "social_media": {
+            "instagram": {
+                "cosclip": "cosclip.id"
+            }
+        },
         "performers": {
           "anisong": [
             "KOMASTAR"
@@ -5767,11 +5736,11 @@
       "status": "Scheduled",
       "attended": "",
       "_id": "hobbystation_fest_2026",
-      "location_address": "",
-      "location_city": "Jakarta",
+      "location_address": "Jl. Pulo Mas Jaya, RT.1/RW.16, Kayu Putih, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13210",
+      "location_city": "Jakarta Timur",
       "location_country": "Indonesia",
-      "location_coordinate": "",
-      "location_gmaps": "",
+      "location_coordinate": "-6.178515172511253, 106.88765931163464",
+      "location_gmaps": "https://maps.app.goo.gl/XCeRmkbMxhFD2KmU7",
       "links": [
         "https://web.facebook.com/groups/251875943835/posts/10165148615448836/",
         "https://www.instagram.com/hobbystationfest"
@@ -5870,11 +5839,11 @@
       "status": "Scheduled",
       "attended": "",
       "_id": "jkt_jpop_idol_cosplay_festival_2026",
-      "location_address": "",
-      "location_city": "Jakarta",
+      "location_address": "Jl. Jenderal Basuki Rachmat No.1A, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410",
+      "location_city": "Jakarta Timur",
       "location_country": "Indonesia",
-      "location_coordinate": "",
-      "location_gmaps": "",
+      "location_coordinate": "-6.224473471093936, 106.8777878306144",
+      "location_gmaps": "https://maps.app.goo.gl/FSUvK9dujApFcvQk6",
       "links": [
         "https://web.facebook.com/groups/251875943835/posts/10165148650653836/",
         "https://www.instagram.com/rafcreative?igsh=MTU1NDUxZnNueHZmcw=="
@@ -5936,11 +5905,11 @@
       "status": "Scheduled",
       "attended": "",
       "_id": "japan_heroes_united_2026",
-      "location_address": "",
-      "location_city": "Jakarta",
+      "location_address": "Jl. Pluit Selatan Raya No.1, Penjaringan, Kecamatan Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14440",
+      "location_city": "Jakarta Utara",
       "location_country": "Indonesia",
-      "location_coordinate": "",
-      "location_gmaps": "",
+      "location_coordinate": "-6.12726685237329, 106.79097568880803",
+      "location_gmaps": "https://maps.app.goo.gl/P1T7SHAqvw5ah4Rr9",
       "links": [
         "https://web.facebook.com/groups/251875943835/posts/10165148768553836/",
         "https://www.instagram.com/saccaevents?igsh=aWRvbmM4NGswNG0z"
@@ -5969,11 +5938,11 @@
       "status": "Scheduled",
       "attended": "",
       "_id": "shibuya_street_fair_2026",
-      "location_address": "",
-      "location_city": "Jakarta",
+      "location_address": "Jalan Pantai Indah Utara 1 No.1F, Kamal Muara, Kecamatan Penjaringan, Jakarta Utara, Daerah Khusus Ibukota Jakarta 14460",
+      "location_city": "Jakarta Utara",
       "location_country": "Indonesia",
-      "location_coordinate": "",
-      "location_gmaps": "",
+      "location_coordinate": "-6.1088646223917795, 106.7399891349778",
+      "location_gmaps": "https://maps.app.goo.gl/7aZaEPGP9xYnFE666",
       "links": [
         "https://web.facebook.com/groups/251875943835/posts/10165148837968836/",
         "https://www.instagram.com/byteproject?igsh=YXdzczY3cHZqZWNi"
@@ -6020,10 +5989,10 @@
           "music": ["Ichigonosho Official", "Michiko"],
           "dance": ["Odotaku Project"]
         },
-        "competition": {
-          "doujin": {},
-          "cosplay": {}
-        }
+        "competition": [
+          "doujin",
+          "cosplay"
+        ]
       }
     },
     {
@@ -6117,10 +6086,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dhgccq_2",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "RRJM+4W5, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1705443271261675, 106.83503846495475",
+        "location_gmaps": "https://maps.app.goo.gl/7eitmqHPFNPXTGEx6",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10164640628348836/",
             "https://web.facebook.com/groups/251875943835/posts/10164095557928836/",
@@ -6401,11 +6370,11 @@
         "status": "Scheduled",
         "attended": "",
         "_id": "animeverse_festival_2026_jakarta",
-        "location_address": "",
-        "location_city": "Jakarta",
+        "location_address": "Jalan Lapangan Stasiun No.1, RT.3/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+        "location_city": "Jakarta Barat",
         "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.138069691063935, 106.81325325501437",
+        "location_gmaps": "https://maps.app.goo.gl/EFomEwZJbPnqoXsc8",
         "links": [
             "https://www.instagram.com/p/DVe2ftKktEN/"
         ],
