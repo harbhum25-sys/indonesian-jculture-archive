@@ -1,0 +1,3757 @@
+[
+    {
+        "Start Date": "20051124",
+        "Start Time": "",
+        "End Date": "20051127",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Komik Asia Goes 2 UBM",
+        "Location": "Kampus Universitas Bunda Mulia",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "wcqexn_9",
+        "location_address": "Jl. Lodan Raya No.2, RT.12/RW.2, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.130241470854073, 106.81873292465602",
+        "location_gmaps": "https://maps.app.goo.gl/RNDgEtpbgKL8YUfE6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "source": "Animonster 82 - Januari 2006",
+            "halaman": "42",
+            "penyelenggara": "Institut Teknologi Bandung (ITB) dan Universitas Bunda Mulia (UBM)",
+            "kegiatan": [
+                "Workshop",
+                "Talkshow",
+                "Bazaar",
+                "Fashion show",
+                "Pertunjukan band",
+                "Lomba membuat komik"
+            ],
+            "pembicara": [
+                "Machiko Maeyama",
+                "Retno Listy (Elex Media Komputindo)",
+                "Haviv Aziz Ahmad (DKV ITB)"
+            ],
+            "juri_lomba": [
+                "Sru Setyohadi (UBM)",
+                "Alvanov Zparanzani",
+                "Julian (Animonster)"
+            ],
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20051202",
+        "Start Time": "15:00",
+        "End Date": "20051202",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Anime Vaganza",
+        "Location": "Grand Ballroom Klub Kelapa Gading",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "fwmsri_4",
+        "location_address": "Jalan Boulevard Raya Blok KGC, RW.1, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.168086993762873, 106.89967319728049",
+        "location_gmaps": "https://maps.app.goo.gl/ZUJuFjyypGTQzxK78",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "source": "Animonster 82 - Januari 2006",
+            "page": 62,
+            "organizer": "Klub Kelapa Gading",
+            "activities": [
+                "Cosplay Competition",
+                "Anime Band Competition",
+                "DJ Performance",
+                "Dancer Battle",
+                "Bazaar Anime",
+                "Flash Show",
+                "Fashion Show",
+                "Japanese Traditional Dance Performance"
+            ],
+            "participants": {
+                "performers": [
+                    "MC PartyWorks",
+                    "Multimedia",
+                    "Infini Team",
+                    "Wasabi",
+                    "DJ"
+                ],
+                "cosplay_winners": [
+                    {
+                        "rank": 1,
+                        "team": "Icutz & Abe",
+                        "character": "Devil to Devil"
+                    },
+                    {
+                        "rank": 2,
+                        "team": "Hatori",
+                        "character": "Kakashi"
+                    },
+                    {
+                        "rank": 3,
+                        "team": "Guan Pink",
+                        "character": "Guan Pink"
+                    }
+                ],
+                "battle_dance_winners": [
+                    {
+                        "rank": 1,
+                        "name": "Imutz"
+                    },
+                    {
+                        "rank": 2,
+                        "name": "Isi Steps"
+                    },
+                    {
+                        "rank": 3,
+                        "name": "Mosi Mosi"
+                    }
+                ]
+            },
+            "sponsors": [
+                "PT. Tang Mas",
+                "Christian Dior",
+                "Animonster",
+                "Digital Studio"
+            ],
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20051203",
+        "Start Time": "18:00",
+        "End Date": "20051203",
+        "End Time": "00:50",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shimatta Dramatic Anniversary",
+        "Location": "Auditorium Universitas Negeri Yogyakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "pvocls_3",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "source": "Animonster 82 - Januari 2006",
+            "halaman": "41",
+            "penyelenggara": "Shimatta!! J-Rock Community",
+            "kegiatan": [
+                "Kompetisi cosplay",
+                "Live band performance",
+                "Pembagian hadiah"
+            ],
+            "pengisi_acara": [
+                "Trio Ghatel (MC)",
+                "Accident Theory",
+                "Triptych",
+                "Ruins Arc",
+                "Julla",
+                "Shin X-Plain",
+                "Netsubou",
+                "Chocolatino"
+            ],
+            "pemenang_cosplay": {
+                "juara_1": "Amar Rider",
+                "juara_2": "Fuu Houji dan Kamen Rider Taiga",
+                "juara_favorit": "Cloud Strife"
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20051208",
+        "Start Time": "09:00",
+        "End Date": "20051210",
+        "End Time": "17:15",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Expedition",
+        "Location": "GSG STT Telkom",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "alsqbe_4",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 83 - Februari 2006, Halaman 74",
+            "organizer": "Japan Genki Community (Mahasiswa STT Telkom jurusan Teknik Informatika, Elektro, dan Industri)",
+            "kegiatan": [
+                "Lomba mewarnai",
+                "Bazaar",
+                "Pagelaran kebudayaan Jepang",
+                "Pentas musik",
+                "Workshop origami",
+                "Workshop doujinshi",
+                "Peragaan Aikido",
+                "Games dan doorprize",
+                "Cosplay"
+            ],
+            "pengisi_acara": [
+                "Tenchi",
+                "Jumping Junkies",
+                "Sol Invictus",
+                "Shimatta",
+                "State of Shock",
+                "Mochacochalatta",
+                "Lucid Rain",
+                "Perfect Blue"
+            ],
+            "detail_tambahan": "Acara berlangsung selama 3 hari dari tanggal 8 hingga 10 Desember 2005. Pada hari Kamis acara dibuka dengan workshop origami dan doujinshi. Pada hari Jumat diadakan audisi band. Pada hari Sabtu diadakan peragaan Aikido dan berbagai penampilan band.",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20051211",
+        "Start Time": "13:00",
+        "End Date": "20051211",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Culture Festival - SKY FM",
+        "Location": "Planet Bizcafe",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "gbqojk_2",
+        "location_address": "Jl. Diponegoro 21",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonster.online.net"
+        ],
+        "Content": {
+            "source": "Animonster 83 - Februari 2006",
+            "page": "80",
+            "organizer": "Radio Sky 90.50 FM Bandung",
+            "program": "Oriental Touch",
+            "activities": [
+                "Band Battle",
+                "Band performance",
+                "Kimono fashion show",
+                "Games",
+                "Cosplay",
+                "Bon Odori"
+            ],
+            "performers": [
+                "Lunatic Tokyo",
+                "Mochacochalatta",
+                "Shiro Hana",
+                "Spica",
+                "Perfect Blue",
+                "Prudence",
+                "Junon",
+                "Hellsing"
+            ],
+            "additional_info": {
+                "event_highlights": "Final Band Battle with quiz segments covering Japanese and Korean entertainment.",
+                "special_notes": "Spica announced disbandment during the event."
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20051223",
+        "Start Time": "",
+        "End Date": "20051223",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ice World",
+        "Location": "Pantai Carnival Ancol",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "noockw_6",
+        "location_address": "VVM4+CWG, Jl. Pantai Karnaval Ancol, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.116420567422538, 106.85732798650996",
+        "location_gmaps": "https://maps.app.goo.gl/saiDmPaPkPTRtV2d6",
+        "links": [],
+        "Content": {
+            "Source": "Animonster 84 - Maret 2006, Halaman 64",
+            "Temperature": "-10 derajat Celsius",
+            "Organizer": "Bapak Waylan Gerung",
+            "Exhibits": [
+                "Replika Menara Eiffel",
+                "Tembok Besar Cina",
+                "Taj Mahal",
+                "Karakter film Narnia"
+            ],
+            "Ice Blocks": "65000 balok es",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060111",
+        "Start Time": "",
+        "End Date": "20060127",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pameran Kartun Asia ke-8 dan ke-9",
+        "Location": "Japan Foundation",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "shnyfw_7",
+        "location_address": "",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "Source": "Animonster 84 - Maret 2006, Halaman 64",
+            "Organizer": "Japan Foundation",
+            "Key Figures": [
+                "Muhammad Najib",
+                "Makino Keiichi",
+                "Dwi Koen",
+                "Pak Raden"
+            ],
+            "Exhibit Stats": "88 karya dari 11 negara",
+            "Themes": [
+                "Arti Kehidupan",
+                "Bagaimana Teknologi Informasi di Asia"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060222",
+        "Start Time": "20:00",
+        "End Date": "2006022",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Core of Soul - One Love, One Day, One Life! Jakarta Visit",
+        "Location": "Graha Bhakti Budaya TIM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "Yes",
+        "_id": "001",
+        "location_address": "Taman Ismail Marzuki, No. 73, Jl. Cikini IX, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1892030892514285, 106.83974748335645",
+        "location_gmaps": "https://maps.app.goo.gl/Fp1X8HvXZgqB1dpr9",
+        "links": [
+            "https://www.antaranews.com/berita/28120/trio-core-of-soul-dari-jepang-siap-manggung-di-jakarta-dan-bandung"
+        ],
+        "Content": {
+            "source": "Animonster 85 - April 2006, Halaman 84-85",
+            "artist_profile": {
+                "band_name": "Core of Soul",
+                "members": [
+                    "Fukko (Vocalis)",
+                    "Song Rui (Gitaris)",
+                    "Keisuke Iizuka (Computer Manipulator)"
+                ],
+                "origin": "Osaka, Jepang"
+            },
+            "press_conference": {
+                "venue": "Hotel Nikko Thamrin",
+                "duration": "Sekitar 1 Jam",
+                "participants": [
+                    "Core of Soul",
+                    "Mocca"
+                ]
+            },
+            "concert_details": {
+                "venue_other": "Graha Bhakti Budaya TIM",
+                "guest_star": "Mocca",
+                "setlist": [
+                    "Ageha",
+                    "Full Moon Prayer",
+                    "Tsuki de Matsu Kimi",
+                    "Purple Sky",
+                    "Alone on the Beach",
+                    "Konayuki no Kimochi",
+                    "Koi no Umi dan Hanawa",
+                    "Yumenori Rider",
+                    "Hello-Hello Another Star"
+                ]
+            },
+            "additional_info": {
+                "tour_name": "One Love, One Day, One Life!",
+                "disbanding_announcement": "23 Maret 2006"
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060211",
+        "Start Time": "12:00",
+        "End Date": "20060214",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "Medium",
+        "Subject": "Festival Budaya Jepang: Nihon Bunkasai Kobudoenbutaikai In Harmony",
+        "Location": "Benteng Vredeburg",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "Yes",
+        "_id": "002",
+        "location_address": "Jalan Malioboro",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "source": "Animonster 85 - April 2006, Halaman 85",
+            "organizer": [
+                "NPO Bugei Indonesia (NBI) Art of Ninja and Samurai",
+                "Himpunan Mahasiswa Bahasa dan Sastra Jepang (Himaje) UGM"
+            ],
+            "daily_itinerary": {
+                "day_1": [
+                    "Demo Ikebana",
+                    "Demo Origami",
+                    "Cosplay Contest"
+                ],
+                "day_2": [
+                    "Demo Aikido",
+                    "Shorinji Kenpo",
+                    "Pameran Manga",
+                    "Enikki Contest",
+                    "Pemutaran Film: Kindaichi, Kamen Rider Blade the Movie, Detective Conan the Movie"
+                ],
+                "day_3": [
+                    "Cooking Demo Miso Shiru",
+                    {
+                        "Pemutaran Film": [
+                            "Hinokio",
+                            "Ultraman the Next",
+                            "One Piece 6th Movie"
+                        ]
+                    },
+                    "Workshop Ninja",
+                    "Koreografi Laga Humor (Kyuku Kangkang/Keatosan Club)"
+                ],
+                "day_4": [
+                    "Bon Odori",
+                    "J-Pop & J-Rock Festival"
+                ]
+            },
+            "performing_bands": [
+                "Netsubou",
+                "Sans Logique",
+                "4th Avenue cafe",
+                "Restu Ibu",
+                "Chocolatino"
+            ],
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060213",
+        "Start Time": "10:00",
+        "End Date": "20060214",
+        "End Time": "22:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yamato Damashi Bunkasai",
+        "Location": "Kampus STBA YAPARI ABA",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "gbedgs_9",
+        "location_address": "Jl. Cihampelas no. 194",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": "Himpunan Mahasiswa Jurusan Bahasa Jepang STBA YAPARI ABA (Himade)",
+            "day_1_schedule": {
+                "opening": "Sambutan ketua pelaksana, kaichou Himade, dan kepala jurusan",
+                "performances": [
+                    "Teater Ungu",
+                    "Gentra Seba",
+                    "Himade"
+                ],
+                "contests": [
+                    "Doujinshi contest",
+                    "Kana contest",
+                    "Shuuji contest",
+                    "Anime drawing contest",
+                    "Solo contest karaoke"
+                ],
+                "other_activities": [
+                    "Nonton anime bareng",
+                    "Pagelaran tari Sakura"
+                ]
+            },
+            "day_2_schedule": {
+                "start_time": "13:00",
+                "band_performances_session_1": [
+                    "Eniji",
+                    "Nananunu, Tabasco",
+                    "Sondatachi",
+                    "Samidare",
+                    "Kaze o Hiku",
+                    "Chikazuki"
+                ],
+                "special_performances": [
+                    "Demo karate",
+                    "Para-para dance oleh Hellsing",
+                    "Bon Odori",
+                    "STBA Big Band",
+                    "Atraksi Little Drummers"
+                ],
+                "band_performances_session_2": [
+                    "Shiroi hana",
+                    "Mochacochalatta",
+                    "Prudence",
+                    "White Daisy",
+                    "6Ugly",
+                    "9Tenchi"
+                ],
+                "closing_act": "Ein Merry",
+                "end_time": "22:30"
+            },
+            "source": [
+                "Animonster 88 - Juli 2006",
+                "Animonster 86 - Mei 2006"
+            ],
+            "biaya": "Rp 7.500 (Termasuk Soft Drink)",
+            "kontak": {
+                "Fery": "081322215347",
+                "Nurza": "085220194331"
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060218",
+        "Start Time": "13:00",
+        "End Date": "20060219",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Animonster Aishiteru",
+        "Location": "Mangga Dua Square",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ylhnet_5",
+        "location_address": "Jl. Gn. Sahari No.1, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14420",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.1392904055504065, 106.83163605941257",
+        "location_gmaps": "https://maps.app.goo.gl/5n3ZkfoJMQJeQQJBA",
+        "links": [
+            "animonster@megindo.net"
+        ],
+        "Content": {
+            "source": [
+                "Animonster 83 - Februari 2006 halaman 45",
+                "Animonster 85 - April 2006"
+            ],
+            "competition_details": {
+                "Love_Letter": {
+                    "requirement": "Kirim email dengan subjek 'Daftar Love Letter' berisi nama, no telepon, umur, jenis kelamin, alamat, hobi, siapa yang ingin di-date (Julian/Orochi/Nacchu/Niessa), dan alasan. Paling pendek 4 kalimat.",
+                    "prizes": "Uang tunai total Rp 2.800.000 dan merchandise."
+                },
+                "Rabu_Rabu_Choco_Contest": {
+                    "format": "Perorangan atau kelompok",
+                    "requirement": "Coklat dibuat di rumah, dibawa saat daftar ulang tanggal 19 Februari 2006 jam 10.00.",
+                    "registration_fee": "Rp 20.000 (mendapatkan voucher makan di lokasi)."
+                },
+                "Aishiteruze_Contest": {
+                    "format": "Kreativitas mengungkapkan perasaan (puisi, lagu, gambar fanart, kartu ucapan, doujinshi, dll).",
+                    "registration_fee": "Rp 20.000 (mendapatkan voucher makan di lokasi)."
+                },
+                "Cosplay_Cabaret_Romantique": {
+                    "theme": "Kisah cinta romantis (bukan sesama gender/LGBT).",
+                    "duration": "Maksimum 10 menit per tim.",
+                    "team_size": "Minimal 3 orang.",
+                    "registration_fee": "Rp 20.000 per tim (mendapatkan voucher makan di lokasi).",
+                    "technical": "Membawa CD audio sendiri."
+                },
+                "Cosplay_Party_Best_Couple": {
+                    "category": "Cross-dresser (pria pakai kostum karakter cewek, wanita pakai kostum karakter cowok).",
+                    "registration_fee": "Rp 20.000 (mendapatkan voucher makan di lokasi)."
+                },
+                "Cosplay_Party": {
+                    "kategori": "Anime/manga, game Jepang, tokusatsu, J-music, original.",
+                    "registration_fee": "Rp 20.000 (mendapatkan voucher makan di lokasi)."
+                },
+                "Band_Performances": {
+                    "requirement": "Kirim profil dan demo tape (kaset/audio/video) ke Redaksi Animonster atau Marketing Communication Megindo sebelum 31 Januari 2006."
+                }
+            },
+            "general_notes": "Pendaftaran semua lomba (kecuali band) ditutup tanggal 11 Februari 2006. Daftar ulang peserta dilakukan di lokasi pada hari Minggu, 19 Februari 2006 jam 10.00.",
+            "Report_Details": {
+                "Page_70": {
+                    "MCs": [
+                        "MC Jerry",
+                        "Mumu (Radio ARH Global)"
+                    ],
+                    "Opening_Performers": [
+                        {
+                            "Name": "B",
+                            "Setlist": [
+                                "Last Song (Gackt)",
+                                "Field of Hope (Gundam Seed Destiny)",
+                                "Your Wings (Original)"
+                            ]
+                        },
+                        {
+                            "Name": "Sukebe",
+                            "Setlist": [
+                                "Alive (Naruto OST)",
+                                "Taiyou no Yoru mo Kagayaku (Hunter x Hunter OST)",
+                                "Radical Dreamers (Chrono Cross OST)",
+                                "Memories (One Piece OST)"
+                            ]
+                        }
+                    ]
+                },
+                "Page_71": {
+                    "Activity_Highlights": "Game Love Letter dibagi menjadi dua bagian dengan pemenang mendapatkan hadiah uang tunai dan merchandise.",
+                    "Band_Performances": [
+                        {
+                            "Name": "Garden Plot",
+                            "Setlist": [
+                                "Love Melody (Beck OST)",
+                                "Pegasus Fantasy",
+                                "Jiyuu e no Shoutai (L'Arc~en~Ciel)",
+                                "Dive to Blue (L'Arc~en~Ciel)"
+                            ]
+                        },
+                        {
+                            "Name": "Estalavie",
+                            "Setlist": [
+                                "Twinkle-twinkle",
+                                "Stay Away (L'Arc~en~Ciel)",
+                                "I Think I (Full House OST)"
+                            ]
+                        }
+                    ],
+                    "Talents_Involved": [
+                        "Julian (Illustrator Animonster)",
+                        "Orochi (Cosplayer)",
+                        "Nacchu (Vokalis Shiroi Hana)",
+                        "Niessa (Vokalis Baka)"
+                    ]
+                },
+                "Page_72": {
+                    "Day_2_Performers": [
+                        {
+                            "Name": "Speed Pop",
+                            "Setlist": [
+                                "A Song for XX",
+                                "Trauma",
+                                "Beautiful Dream",
+                                "Risk"
+                            ]
+                        },
+                        {
+                            "Name": "Tokyu 1.0.9",
+                            "Setlist": [
+                                "Teddy Bear",
+                                "Memorial Address",
+                                "To Be",
+                                "Love Destiny"
+                            ]
+                        },
+                        {
+                            "Name": "Prudence",
+                            "Setlist": [
+                                "Ignited",
+                                "Vestige",
+                                "Heart of Sword",
+                                "True Love"
+                            ]
+                        },
+                        {
+                            "Name": "Aizen Odn",
+                            "Setlist": [
+                                "Longing (X Japan)",
+                                "Vampire (J'anne de Arc)",
+                                "Love Song (Luna Sea)"
+                            ]
+                        },
+                        {
+                            "Name": "Shiroi Hana",
+                            "Setlist": [
+                                "Beam",
+                                "Egao Biyori",
+                                "Cutey Honey",
+                                "Roman My Dear Boy",
+                                "Love and Peace"
+                            ]
+                        }
+                    ],
+                    "Cosplay_Cabaret_Teams": [
+                        {
+                            "Name": "Coffee",
+                            "Theme": "Dynasty Warrior + Anima"
+                        },
+                        {
+                            "Name": "UKJ",
+                            "Theme": "Bleach"
+                        },
+                        {
+                            "Name": "Maiko Cosmo",
+                            "Theme": "Final Fantasy VII Advent Children"
+                        },
+                        {
+                            "Name": "Anime in Wonderland",
+                            "Theme": "XXXHolic, DNAngel, Naruto"
+                        },
+                        {
+                            "Name": "XXX",
+                            "Theme": "Perfect Girl Evolution, Rave"
+                        },
+                        {
+                            "Name": "Cosparty",
+                            "Theme": "Bleach, Inu Yasha"
+                        }
+                    ],
+                    "Closing_Bands": [
+                        {
+                            "Name": "Archangel",
+                            "Setlist": [
+                                "Time Goes On",
+                                "Jyojoushi",
+                                "White Out"
+                            ]
+                        },
+                        {
+                            "Name": "Lunatic Tokyo",
+                            "Setlist": [
+                                "Hitomi no Juunin",
+                                "I For You",
+                                "Dejavu",
+                                "Love Song"
+                            ]
+                        },
+                        {
+                            "Name": "Hellsing",
+                            "Setlist": [
+                                "Evergreen",
+                                "Trust",
+                                "Kimi dake",
+                                "Anata"
+                            ]
+                        }
+                    ]
+                },
+                "Page_74_Winners": {
+                    "Love_Letter_Pairings": {
+                        "Nacchu": "QQ",
+                        "Julian": "Gyta",
+                        "Niessa": "Kiky",
+                        "Orochi": "Echow",
+                        "Best_Love_Letter": [
+                            "Hisa",
+                            "Reza"
+                        ]
+                    },
+                    "Aishiteruze_Contest": [
+                        "Juara 1: Isumi (Love Letter)",
+                        "Juara 2: Sora (Dear Nyuu...)",
+                        "Juara 3: Milana (Book of Confession)"
+                    ],
+                    "Rabu_Rabu_Choco_Contest": [
+                        "Juara 1: Pycho H.E.R (Funeral of the Hearts)",
+                        "Juara 2: Shifa & S. Ayu R. (Love Angel)",
+                        "Juara 3: Tiffany (Chocolate Bento)"
+                    ],
+                    "Cosplay_Cabaret_Romantique": {
+                        "Pilihan_Penonton": "Maiko Cosmo (Final Fantasy VII Advent Children)",
+                        "Pilihan_Juri": "UKJ (Bleach)"
+                    },
+                    "Cosplay_Party_Best_Couple_Cross_Play": {
+                        "Cross-play_Cewek": "Tifa (FF VII Advent Children)",
+                        "Cross-play_Cowok": "Fuuji Shusuke (Tennis no Oujisama)"
+                    },
+                    "Cosplay_Party_Categories": {
+                        "Anime_Manga": "No. 1 Fullmetal Alchemist",
+                        "Game": "No. 27 Guilty Gear X",
+                        "Tokusatsu": "No. 33 Abaranger",
+                        "Original": "No. 56 Eon & Ayr",
+                        "Pilihan_Juri": "No. 67-68-69 Tenmari-Gaara-Hakubi"
+                    }
+                }
+            },
+            "Advertisements": {
+                "Anime_Machi_Locations": [
+                    "Mega Mall (021-66670050)",
+                    "Taman Anggrek Mall (021-5639259)",
+                    "Kelapa Gading Mall (021-4583990)",
+                    "Citraland Mall (021-5669709)",
+                    "Animart Cihampelas Walk Mall Bandung (022-2061108)"
+                ],
+                "V-Gures": {
+                    "Product": "Gundam, Resin Kit & Airsoft Accessories",
+                    "Address": "Grand ITC Permata Hijau, 1st Floor Block A14 No. 8",
+                    "Website": "http://www.vgures.com"
+                }
+            },
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060222",
+        "Start Time": "",
+        "End Date": "20060317",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Workshop Animasi & Komik",
+        "Location": "Jakarta (Berbagai Sekolah Menengah Umum)",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "whsamv_6",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "www.cybermediacollege.com"
+        ],
+        "Content": {
+            "Source": "Animonster 86 - Mei 2006",
+            "Organizers": [
+                "Cyber Media College",
+                "Datascrip (Wacom)"
+            ],
+            "Schools_Visited": [
+                "SMU 68",
+                "SMU 3",
+                "SMU 21",
+                "SMU LAB School Kebayoran",
+                "SMU LAB School Rawamangun",
+                "SMU PERCIK",
+                "SMU Al-Azhar",
+                "SMU Negeri 26 Tebet",
+                "SMU 8"
+            ],
+            "Activity_Highlights": [
+                "Workshop pembuatan animasi dan komik",
+                "Pengenalan penggunaan tablet digitizer Wacom",
+                "Demonstrasi alat dari seri Graphire dan Intuos 3",
+                "Games seputar Cyber Media College"
+            ],
+            "Equipment_Details": {
+                "Graphire": "4x5 inch",
+                "Intuos_3": [
+                    "6x8 inch",
+                    "9x12 inch",
+                    "12x12 inch"
+                ]
+            },
+            "category": [
+                "Anime - Convention / Fan Event",
+                "Talkshow / Seminar / Workshop"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060304",
+        "Start Time": "11:05",
+        "End Date": "20060305",
+        "End Time": "20:03",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hikari (Hari Kebudayaan Negeri Matahari)",
+        "Location": "Pusat Studi Bahasa Jepang Unpad",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ttgxwi_1",
+        "location_address": "Jatinangor",
+        "location_city": "Sumedang",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 85 - April 2006",
+            "organizer": "Mahasiswa S1 Sastra Jepang Unpad angkatan 2005",
+            "activities": [
+                "bazaar",
+                "nonton film",
+                "cosplay",
+                "hanabi",
+                "igo",
+                "origami",
+                "demo kue mochi",
+                "seni kaligrafi"
+            ],
+            "performers": [
+                "6ugly",
+                "Hellsing",
+                "Kimochi",
+                "band Shin",
+                "band XYZO"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060308",
+        "Start Time": "",
+        "End Date": "20060308",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Launching Bionicle: Piraka",
+        "Location": "Offline",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "glosqs_8",
+        "location_address": "",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 86 - Mei 2006",
+            "page": 90,
+            "theme": "Bionicle: The gang is on the loose",
+            "description": "Peluncuran produk seri Bionicle terbaru oleh Lego",
+            "story_background": "Petualangan kelompok Piraka yang berusaha menguasai topeng kehidupan The Mask of Life di Pulau Voya Nui",
+            "piraka_characters": [
+                "Hakann (The Bully)",
+                "Zaktan (The Snake)",
+                "Vezok (The Beast)",
+                "Avak (The Trigger)",
+                "Reidak (The Tracer)",
+                "Thok (The Drifter)"
+            ],
+            "product_features": {
+                "uniqueness": "Senjata unik, mata yang dapat menyala, dan senyuman kejam",
+                "combat_mechanism": "Memiliki kekuatan yang berkaitan dengan senjata Zamor Spheres yang mengandung racun Antidermis",
+                "compatibility": "Koleksi dapat digabungkan dengan koleksi Bionicle lain untuk membentuk diorama"
+            },
+            "category": [
+                "Launching / Grand Opening"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060331",
+        "Start Time": "",
+        "End Date": "20060402",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Penyisihan Winning Eleven 9 Surabaya",
+        "Location": "Surabaya Supermall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "tumzqk_4",
+        "location_address": "",
+        "location_city": "Surabaya",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Ragnarok Online",
+                "GameStation",
+                "Global Entertainment (get)"
+            ],
+            "source": "Animonster 86 - Mei 2006",
+            "winners": {
+                "Juara 1": "Agis",
+                "Juara 2": "Gugun Alias",
+                "Juara 3": "V-Born",
+                "Juara 4": "Adri"
+            },
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060406",
+        "Start Time": "17:30",
+        "End Date": "20060408",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Fair 2006",
+        "Location": "Auditorium UNSADA dan area outdoor",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "anxwaz_8",
+        "location_address": "",
+        "location_city": "",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "organizer": "HIJANSA (Himpunan Mahasiswa Jepang Universitas Darma Persada)",
+            "source": "Animonster 87 - Juni 2006, page 76",
+            "event_highlights": {
+                "day_1": [
+                    "Pembukaan oleh Duta Besar Jepang",
+                    "Talk Show oleh Morita-sensei bertema Pengaruh 4 musim terhadap watak dan kehidupan orang Jepang"
+                ],
+                "day_2": [
+                    "Pemutaran film Prayer Beads",
+                    "Video klip HIMASDA (Himpunan Mahasiswa D3 Universitas Darma Persada)",
+                    "Ikebana",
+                    "Washi ningyo (pembuatan boneka dari kertas washi)",
+                    "Aksi teatrikal oleh UKM Teater Semut dengan judul Sakura",
+                    "Band-band performance seperti Sakura Drops, Aizen Odn"
+                ],
+                "closing_activities": [
+                    "Cosplay party",
+                    "Bon Odori",
+                    "Hanabi"
+                ]
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060415",
+        "Start Time": "13:00",
+        "End Date": "20060415",
+        "End Time": "22:35",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunkasai Feel The Spirit of Summer",
+        "Location": "La Piazza Sentra Kelapa Gading",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "zvywtq_2",
+        "location_address": "Jl. Boulevard Raya Blok . M, RT.13/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.159232485169892, 106.9071620782862",
+        "location_gmaps": "https://maps.app.goo.gl/aL36F9KoWuaaTvzd9",
+        "links": [],
+        "Content": {
+            "presenter": "Kelompok Kerja Kebudayaan Jepang (K3J) Universitas Katolik Atma Jaya Jakarta",
+            "source": "Animonster 87 - Juni 2006, halaman 52",
+            "activities": [
+                "Penampilan band audisi",
+                "Penampilan Arumba Gaya-Gaya",
+                "Tarian khas musim panas",
+                "Penampilan Taiko",
+                "Lomba cosplay",
+                "Bon odori",
+                "Penampilan band-band featuring dan guest star (Garden Plot, Tokyo Dome, Aizen Od'n, Melody Maker, Wasabi, dan Zeal)"
+            ],
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060423",
+        "Start Time": "11:00",
+        "End Date": "20060423",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Inori (Isshoni no monogatari)",
+        "Location": "Pelataran parkir SMAN 3 Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "mlvkja_8",
+        "location_address": "Jl. Belitung 8",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "source": [
+                "Animonster 86 - Mei 2006",
+                "Animonster 87 - Juni 2006 - Hal 50"
+            ],
+            "presenter": "Nihongo Kurabu",
+            "acara": {
+                "kompetisi": [
+                    "Karaoke",
+                    "Cosplay",
+                    "Games"
+                ],
+                "partisipan": [
+                    "NK3 ParaPara",
+                    "NK3 BonOdori"
+                ],
+                "live_performance": [
+                    "Lunatic Tokyo",
+                    "Hellsing",
+                    "Prudence",
+                    "Shiroi Hana",
+                    "6Ugly",
+                    "Rumah Musik Hari Roesli"
+                ],
+                "kontak": {
+                    "V3": "08157016923",
+                    "Anis": "08132071927"
+                }
+            },
+            "organizer": "Nihongo Kurabu 3 (NK3)",
+            "description": "Acara komunitas bahasa dan kebudayaan Jepang dari siswa SMAN 3 Bandung.",
+            "activities": [
+                "NK3 Para-Para",
+                "NK3 Bon Odori",
+                "Karaoke",
+                "Cosplay",
+                "Games",
+                "Pentas band",
+                "Inori Cosplay Party",
+                "Inori Karaoke",
+                "Cosplay cabaret oleh Tim Cosparty"
+            ],
+            "performers": [
+                "Many More",
+                "Blue Ice",
+                "Tabasco",
+                "Harry Roesli House Performance",
+                "Tim Cosparty",
+                "6Ugly",
+                "Shiroi Hana",
+                "Prudence",
+                "Hellsing",
+                "Lunatic Tokyo"
+            ],
+            "winners": {
+                "cosplay": "Acit",
+                "karaoke": "Dana"
+            },
+            "MCs": [
+                "Anti",
+                "Upi",
+                "Nissa",
+                "Thina"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060428",
+        "Start Time": "",
+        "End Date": "20060430",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shiokazecon",
+        "Location": "Hyatt Regency Hotel",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dqkmcc_9",
+        "location_address": "",
+        "location_city": "Houston, Texas",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 89",
+            "publication_month": "Agustus 2006",
+            "page": 89,
+            "event_type": "Anime Convention",
+            "activities": [
+                "Dealers room",
+                "Gaming room",
+                "Video room",
+                "Autograph session",
+                "Concert"
+            ],
+            "guests": [
+                "Kumiko Kato",
+                "High and Mighty Color"
+            ],
+            "ticket_pricing": {
+                "one_day_pass": "25 USD",
+                "three_day_pass": "35 USD"
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060505",
+        "Start Time": "",
+        "End Date": "20060507",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Final WE Indonesia",
+        "Location": "Balai Kartini",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dnzaat_8",
+        "location_address": "Jl. Gatot Subroto No.6 Kav. 37, RT.6/RW.3, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234414603122992, 106.82539744497542",
+        "location_gmaps": "https://maps.app.goo.gl/NoDu8JU7twLzPQdz8",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Ragnarok Online",
+                "GameStation",
+                "Global Entertainment (get)"
+            ],
+            "source": "Animonster 86 - Mei 2006",
+            "event_goal": "Mewujudkan impian menjadi juara dunia dan tiket bertanding dalam ajang ESCW Pro Evolution Soccer World Cup 2006 di Paris, Prancis",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060506",
+        "Start Time": "",
+        "End Date": "20060506",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Peluncuran HanaLaLa",
+        "Location": "Istora Senayan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "oxonua_9",
+        "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.220301889851176, 106.80572783895975",
+        "location_gmaps": "https://maps.app.goo.gl/yQQ8aGWezXGMfu1g9",
+        "links": [],
+        "Content": {
+            "source": "Animonster 87 - Juni 2006",
+            "page": "Not specified",
+            "organizer": [
+                "Elex Media Komputindo",
+                "BNI"
+            ],
+            "event_context": "Bagian dari Gramedia Book Fair",
+            "host": "MC Yano",
+            "performers": [
+                "UC Dancers"
+            ],
+            "description": "Acara peluncuran majalah komik HanaLaLa yang menargetkan pembaca wanita berusia 15 hingga 22 tahun",
+            "category": [
+                "Launching / Grand Opening"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060511",
+        "Start Time": "10:00",
+        "End Date": "20060513",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "Medium",
+        "Subject": "Gelar Jepang 2006",
+        "Location": "Pusat Studi Jepang dan Lapangan Parkir FIB UI",
+        "Comment": "Acara tahunan bertema Experience the Colorful Spirit of Japan yang diselenggarakan oleh HIMAJA UI.",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "vqmhxg_7",
+        "location_address": "Universitas Indonesia, Depok",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "presenter": [
+                "HIMAJA-Universitas Indonesia"
+            ],
+            "activities": [
+                "Chanoyu",
+                "Bon Odori",
+                "Putar Film",
+                "Demo Masak",
+                "Bazaar",
+                "Pameran Foto",
+                "Hanabi",
+                "Umaku Eisa Sanshin",
+                "Okinawa no Yukata no Kikata"
+            ],
+            "competitions": [
+                "Komik",
+                "Desain Layangan",
+                "Karaoke",
+                "Igo"
+            ],
+            "martial_arts_demos": [
+                "Kendo",
+                "Kempo",
+                "Aikido",
+                "Judo"
+            ],
+            "workshops": [
+                "Sanshin",
+                "Washi"
+            ],
+            "guest_stars_and_performers": {
+                "band": "Melody Maker",
+                "featuring": [
+                    "Tivu",
+                    "Soundwave",
+                    "Kyuuto",
+                    "Aizen",
+                    "Odn"
+                ]
+            },
+            "additional_segments": [
+                "Trip to Toudai",
+                "Jishin",
+                "Amakusa",
+                "Pepen and friends",
+                "Kaitou",
+                "Prudence"
+            ],
+            "contact_person": {
+                "Tyas": "081311311605",
+                "Esti": "081586338683"
+            },
+            "source": [
+                "Animonster 88 - Juli 2006",
+                "Animonster 86 - Mei 2006"
+            ],
+            "day_1_activities": [
+                "Nabil no koi",
+                "Tarian",
+                "Teater pagupon Aishitero",
+                "Demo masak yukata Okinawa",
+                "Kolaborasi shanshin dan arumba"
+            ],
+            "day_2_activities": [
+                "Pemutaran film Shinobi",
+                "Lomba komik",
+                "Lomba desain lukis layangan",
+                "Lomba Igo",
+                "Lomba karaoke",
+                "Lomba modeling Gundam",
+                "Demo chanoyuu",
+                "Demo masak okonomiyaki",
+                "Talkshow"
+            ],
+            "day_3_activities": [
+                "Demo beladiri aikido, judo, kendo",
+                "Penampilan band",
+                "Special performance PEPEN and FRIENDS",
+                "Hanabi",
+                "Bon odori"
+            ],
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060513",
+        "Start Time": "",
+        "End Date": "20060514",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Jakarta Sakura Matsuri Festival",
+        "Location": "Hotel Nikko Jakarta",
+        "Comment": "Festival kebudayaan Jepang yang menampilkan perpaduan seni tradisional, musik pop (J-Pop), dan kuliner khas Jepang.",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "ltchge_9",
+        "location_address": "Jl. M.H. Thamrin",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": [
+                "Hotel Nikko Jakarta",
+                "Jakarta Matsuri no Kai",
+                "Mice Biz",
+                "Animonster",
+                "Metro TV",
+                "Media Indonesia",
+                "Yayasan Sukma",
+                "Lampung Post"
+            ],
+            "presenter": [
+                "Kedutaan Jepang",
+                "Surya Paloh (Wakil Metro TV)"
+            ],
+            "supported_by": [
+                "Embassy of Japan"
+            ],
+            "performers": [
+                "Sukeroku Daiko",
+                "Ran Bu (Yosakoi Soran)",
+                "Lagu Kai (Vocal Group)",
+                "Anggrek Group (Angklung & Kolintang)",
+                "B (Soloist & Piano)",
+                "Kimochi (Band Bandung)",
+                "Sanyutei Kisso (Komedian/Rakugo)",
+                "Southern Cross (Paduan Suara)",
+                "Perfect Blue",
+                "Lunatic Tokyo",
+                "Jamishen",
+                "Speed Pop",
+                "Junon",
+                "Nadeshiko",
+                "Wasabi"
+            ],
+            "activities": [
+                "Hanami (menikmati bunga sakura artifisial)",
+                "Chanoyu (Upacara minum teh oleh Ura Senke)",
+                "Omikoshi (Parade kuil portabel)",
+                "Cosplay (Naruto, Sakura, Final Fantasy, Panikku Channel)",
+                "Lakon Kocak Kappore",
+                "Pertunjukan Tari Yosakoi Soran"
+            ],
+            "culinary_items": [
+                "Unagidon",
+                "Mie Dingin (Zaru Soba/Udon)",
+                "Yakisoba",
+                "Dorayaki",
+                "Melon-pan",
+                "Shabu-shabu"
+            ],
+            "charity_info": "Sebagian hasil acara didonasikan kepada Yayasan Sukma untuk membangun sekolah di Aceh",
+            "source_info": "Animonster Vol 88 - Juli 2006, Halaman 74 dan 88",
+            "category": [
+                "Festival / Matsuri",
+                "Budaya Jepang - Seni Tradisional"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060514",
+        "Start Time": "",
+        "End Date": "20060514",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Kemang",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "fovzva_3",
+        "location_address": "Senayan, Jakarta",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060519",
+        "Start Time": "",
+        "End Date": "20060520",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan & Lomba Pidato Bahasa Jepang Se-Jateng dan DIY ke 16",
+        "Location": "Auditorium FIB UGM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "rmdvaj_8",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": "Himpunan Mahasiswa Sastra dan Bahasa Jepang Universitas Gadjah Mada",
+            "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang Universitas Gadjah Mada",
+            "detail_kegiatan": {
+                "tanggal_19_mei_2006": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan",
+                "tanggal_20_mei_2006": "Lomba Pidato Bahasa Jepang Se-Jateng dan DIY ke 16"
+            },
+            "supporters": [
+                "Japan Foundation",
+                "Animonster",
+                "Kedaulatan Rakyat",
+                "Gadjah Mada FM",
+                "Suara Merdeka",
+                "Radar Jogja",
+                "Star FM",
+                "Solo Radio",
+                "Geronimo",
+                "UrChannel",
+                "Jogja TV"
+            ],
+            "source": {
+                "publikasi": "Animonster",
+                "edisi": 87,
+                "bulan": "Juni 2006",
+                "halaman": "Rubrik Kabaru"
+            },
+            "category": [
+                "Budaya Jepang - Bahasa / Akademik",
+                "Talkshow / Seminar / Workshop"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060519",
+        "Start Time": "",
+        "End Date": "20060520",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nihon Go No Hi",
+        "Location": "Fakultas Ilmu Budaya UGM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ymmrkz_9",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang [HIMAJE] UGM",
+            "event_day_1": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan (19 Mei 2006)",
+            "presenters": "Bapak Helmi Nonaka (PT. JAC Indonesia), Ibu Ikuyo Sato (penerjemah professional), Mbak Widati Utami (PT. Elex Media Komputindo), Mulyadi Sensei (Dosen UGM)",
+            "event_day_2": "Lomba Pidato Bahasa Jepang [Nihon Go Benron Taikai] (20 Mei 2006)",
+            "performances": "Tarian Kaka Kinki Odori, Penampilan Hiro-san (menyanyikan lagu True Love)",
+            "speech_contest_winners": "Juara 1: T.A. Thaariq (UGM), Juara 2: Santi Purnamasari (UTY), Juara 3: Dwi Puji Asrini (UNNES)",
+            "judges": "Saitou Mami (Japan Foundation), Haruna Misako (Wisma Bahasa Yogyakarta), Bapak Gunawan (Praktisi Bahasa Jepang)",
+            "source": "Animonster 88 - Juli 2006",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060520",
+        "Start Time": "15:00",
+        "End Date": "20060520",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-COUSTIC",
+        "Location": "Gedung Serbaguna AKMB",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "juqdvg_3",
+        "location_address": "Jl. Jakarta No. 15",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": "Mahasiswa Jurusan Fikom Unpad Bandung",
+            "event_format": "Full Band (Perubahan dari format akustik)",
+            "activities": {
+                "main": "Pentas Band",
+                "side_events": "Lomba Cosplay, Kuis, Games"
+            },
+            "performers": {
+                "early_session": [
+                    "4thAvenue",
+                    "Tabasco",
+                    "Kimochi"
+                ],
+                "dance_performance": "The Binalz",
+                "late_session": [
+                    "Shiroi hana",
+                    "Mochacochalatta",
+                    "6Ugly",
+                    "Hellsing"
+                ]
+            },
+            "special_collaboration": "Kolaborasi 6Ugly dengan Keni (vokalis Mochacochalatta) dan Tony (vokalis Hellsing) menyanyikan lagu Child Prey dari Dir en Grey",
+            "source": "Animonster 88 - Juli 2006",
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060520",
+        "Start Time": "19:00",
+        "End Date": "20060520",
+        "End Time": "00:42",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hikaru Reload: Anime Attack!!",
+        "Location": "Aula Museum TNI AD",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dnmjnx_7",
+        "location_address": "",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": "Hikaru Community Jogjakarta",
+            "MC": "Mboyz",
+            "event_chapters": {
+                "Chapter Inuyasha": "Cabaret cosplay oleh Vern, penampilan band Black Book Of Falling Hearts",
+                "Chapter Saint Seiya": "Penampilan band Koikoshide, cabaret cosplay Vern dan Oregakure, penampilan band The Satpams",
+                "Chapter Naruto": "Penampilan band Arrow, cabaret cosplay Oregakure (15 karakter Naruto), penampilan band Kabuto",
+                "Chapter Rurouni Kenshin": "Penampilan band Netsubo, penampilan band Shin X Plain"
+            },
+            "additional_performers": "Hikaru Band (Pipi dan Arda)",
+            "event_style": "Penggabungan band dan cosplay yang disajikan menurut alur cerita",
+            "source": [
+                "Animonster 88 - Juli 2006",
+                "Animonster 87 - Juni 2006, halaman 52"
+            ],
+            "performers": [
+                "Arrow",
+                "Book of Falling Hearts",
+                "The Salpanes",
+                "Shin-X-Plain",
+                "Gatot Kaca & Sahabat",
+                "Kekasih",
+                "Puspa"
+            ],
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060521",
+        "Start Time": "",
+        "End Date": "20060521",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Mall Artha Gading",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ilygll_5",
+        "location_address": "Jl. Artha Gading Sel. No.1, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.145629141711172, 106.89216576094942",
+        "location_gmaps": "https://maps.app.goo.gl/r7DdKD6u4eS8yVYq7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060603",
+        "Start Time": "",
+        "End Date": "20060604",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament - Bogor",
+        "Location": "Ekalokasari Plaza",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "003",
+        "location_address": "",
+        "location_city": "Bogor",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 88 - Juli 2006",
+            "activities": "Colouring Contest, Beyblade Tournament, Screening Preview of Beyblade series, Fun Games, Acrobat, Magician, Band, Electone",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060603",
+        "Start Time": "",
+        "End Date": "20060604",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament",
+        "Location": "Ekalokasari Plaza",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "kwogrz_8",
+        "location_address": "Jl. Siliwangi No.123, RT.02/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.621737276899466, 106.81764966765037",
+        "location_gmaps": "https://maps.app.goo.gl/H11o8TK1MoKY1Vmx6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Tournament",
+                "Screening Preview of Beyblade series",
+                "Fun Games",
+                "Acrobat",
+                "Magician",
+                "Band",
+                "Electone"
+            ],
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060604",
+        "Start Time": "",
+        "End Date": "20060604",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow KFC - Pondok Gede",
+        "Location": "Ramayana Pondok Gede",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "mrehxo_9",
+        "location_address": "",
+        "location_city": "Pondok Gede",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 88 - Juli 2006",
+            "activities": "Colouring Contest, Beyblade Demo, Screening Preview of Beyblade series, Fun Games",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060604",
+        "Start Time": "12:00",
+        "End Date": "20060604",
+        "End Time": "16:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Kantong Hati ~Ai no Yogyakarta~",
+        "Location": "Planet Biz Cafe",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "bfgdlw_2",
+        "location_address": "Jl. Diponegoro no. 21",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": "PT. Mitra Citra Indonesia bekerja sama dengan Japan Bandung Community",
+            "MCs": "Nissa Nagase dan Tina Okada",
+            "performers": "Chikazuki, Kimochi, NanaNunu, Perfect Blue, Shiroi Hana, Mochacochalatta, 6Ugly, Hellsing+Tabasco, Lunatic Tokyo",
+            "activities": "Live music lagu Jepang, lelang amal personil band, lelang merchandise, pengumpulan sumbangan sembako, uang, dan pakaian untuk korban gempa Yogyakarta",
+            "ticket_info": "Tiket masuk berupa sumbangan bebas (sembako, uang, baju layak pakai)",
+            "source": "Animonster 88 - Juli 2006",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060604",
+        "Start Time": "",
+        "End Date": "20060604",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Ramayana Pondok Gede",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "lnklmx_7",
+        "location_address": "RT.001/RW.001, Jatiwaringin, Kec. Pd. Gede, Kota Bks, Jawa Barat 17411",
+        "location_city": "Bekasi",
+        "location_coordinate": "-6.284487030845742, 106.9124467766549",
+        "location_gmaps": "https://maps.app.goo.gl/TEFr494tcu7r2ciW6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060607",
+        "Start Time": "",
+        "End Date": "20060610",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "COMIC CARNAVAL PDKT 2",
+        "Location": "Gelanggang Mahasiswa (GEMA) Kampus Universitas Trisakti",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "yuauwb_3",
+        "location_address": "Jl. Kyai Tapa No.1 6, RT.6/RW.16, Tomang, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11440",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.167130484559323, 106.79054363890998",
+        "location_gmaps": "https://maps.app.goo.gl/jxi9aYgcAJFE2xmc6",
+        "links": [],
+        "Content": {
+            "source": "Animonster 87 - Juni 2006",
+            "description": "Pameran Dan Diskusi Komik Trisakti 2",
+            "activities": [
+                "Pameran komik",
+                "Pameran figur",
+                "Diskusi komik",
+                "Bazaar komik",
+                "Lomba re-paint figur",
+                "Pentas musik",
+                "Launching komik",
+                "Workshop art graphic",
+                "Workshop wacom",
+                "Painting on t-shirt"
+            ],
+            "sponsors": [
+                "Wacom",
+                "Animonster",
+                "Outmag"
+            ],
+            "category": [
+                "Anime - Convention / Fan Event"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060611",
+        "Start Time": "",
+        "End Date": "20060611",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow KFC - Bogor",
+        "Location": "Padjajaran Bogor",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "prmohi_2",
+        "location_address": "",
+        "location_city": "Bogor",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 88 - Juli 2006",
+            "activities": "Colouring Contest, Beyblade Demo, Screening Preview of Beyblade series, Fun Games",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060611",
+        "Start Time": "",
+        "End Date": "20060611",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Padjajaran Bogor",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "pnmvxh_8",
+        "location_address": "Jl. Raya Pajajaran",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.592177853255679, 106.80480907850534",
+        "location_gmaps": "https://maps.app.goo.gl/Ld3Vr43pmYxvk3Md8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060616",
+        "Start Time": "",
+        "End Date": "20060618",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ragnarok Festival 3",
+        "Location": "Mal Kelapa Gading 3",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "amntcm_7",
+        "location_address": "Jl. Boulevard Raya, RT.13/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.157807776815269, 106.90838911265199",
+        "location_gmaps": "https://maps.app.goo.gl/4fwEsZsN6oiwaDVV9",
+        "links": [
+            "http://www.ragnarok.co.id",
+            "http://Lyto.net"
+        ],
+        "Content": {
+            "presenter": [
+                "Gravity Corp",
+                "Lee Myoung-Jin (DTDS Studio)",
+                "Lyto"
+            ],
+            "organizer": [
+                "LG",
+                "GIGABYTE TECHNOLOGY",
+                "DTP.net",
+                "GameStation",
+                "Animonster",
+                "Kiddo"
+            ],
+            "schedule": {
+                "20060616": "Semifinal RIC 2006",
+                "20060617": "Final RIC 2006 & Final Kuis OX",
+                "20060618": "Final Cozplay Drama Contest 2006"
+            },
+            "activities": [
+                "Kuis OX",
+                "RIC 2006",
+                "RO Cozplay Drama Contest 2006",
+                "Quiz",
+                "Dance",
+                "Foto Session",
+                "Cabaret"
+            ],
+            "hosts": [
+                "Ken",
+                "Nimi",
+                "Felix",
+                "Angel Eve"
+            ],
+            "source": "Animonster 87 - Juni 2006",
+            "laporan_acara": {
+                "nama_acara": "Ragnarok Festival 3",
+                "sumber": "Animonster 89 - Agustus 2006",
+                "halaman": [
+                    82,
+                    83
+                ],
+                "lokasi": "La Piazza, Mal Kelapa Gading, Jakarta",
+                "tanggal": "16-18 Juni 2006",
+                "kompetisi_utama": {
+                    "RIC_2006": {
+                        "juara_1": "Incredible",
+                        "juara_3": "HN Divine (setelah mengalahkan 1945 Dodgers)"
+                    },
+                    "Getamped": {
+                        "pemenang": "The Cruel (asal Bandung)",
+                        "lawan_final": "The Doctors (asal Yogyakarta)"
+                    },
+                    "Ragnarok_Cozplay_Drama_Contest": {
+                        "jumlah_peserta": "sekitar 60 peserta (12 grup)",
+                        "juara_1": "The Infini Team",
+                        "juara_2": "COSPARTY",
+                        "juara_3": "Neko Ranger T2",
+                        "penghargaan_tambahan_COSPARTY": [
+                            "Juara 2 Kontes Drama",
+                            "Kostum Terbaik (karakter Baphomet)"
+                        ]
+                    }
+                },
+                "detail_tambahan": {
+                    "infomasi_getamped": "Tim The Cruel yang beranggotakan Pach3 dan timnya berhasil menang setelah melalui latihan keras.",
+                    "informasi_cosplay": "Para peserta dituntut untuk melakukan drama di atas panggung dan dinilai berdasarkan tema cerita, penampilan, serta kualitas kostum/aksesoris.",
+                    "performa_the_infini_team": "Tim ini adalah juara kabaret Animonster Sound Festival 2005 yang dinantikan penonton; mereka membutuhkan waktu sekitar 2 bulan untuk persiapan.",
+                    "performa_cosparty": "Menampilkan konsep menggabungkan tokusatsu Kamen Rider Faiz dengan lagu 'Naluri Lelaki' dan elemen sentai."
+                }
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060618",
+        "Start Time": "",
+        "End Date": "20060618",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Ramayana Depok",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "amjyer_6",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.391705965391149, 106.82486870579065",
+        "location_gmaps": "https://maps.app.goo.gl/uHqc1PAuUmiDxPUV9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060625",
+        "Start Time": "16:00",
+        "End Date": "20060625",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tribute to L'Arc-en-Ciel",
+        "Location": "Starbiz Cafe",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ujermy_6",
+        "location_address": "Jl. Diponegoro no. 21",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "source": "Animonster 89 - Agustus 2006, halaman 64",
+            "organizer": "Nihon Ongaku",
+            "mc": [
+                "Anisa Nagase",
+                "Tina Okada"
+            ],
+            "performers": [
+                "Didua",
+                "Enidji",
+                "Chikatua",
+                "Lunatic Tokyo"
+            ],
+            "sponsors": [
+                "Animonster",
+                "Gonzo Asian Entertainment",
+                "Hobby Line",
+                "Ouval Research"
+            ],
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060625",
+        "Start Time": "",
+        "End Date": "20060625",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Bintaro Plaza",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "vpoyqk_1",
+        "location_address": "Jl. Bintaro Utama 3A No.81, Pd. Karya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15225",
+        "location_city": "Tangerang Selatan",
+        "location_coordinate": "-6.272709502987348, 106.74191804963809",
+        "location_gmaps": "https://maps.app.goo.gl/DAbKdGUEpXJfSXAe6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060627",
+        "Start Time": "",
+        "End Date": "20060702",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Pro Evolution Soccer 5 World Cup - Final Indonesia",
+        "Location": "Palais Omnisports of Paris Bercy, France",
+        "Comment": "Final round of the Indonesian qualification series for the global PES 5 tournament.",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "",
+        "_id": "jccast_7",
+        "location_address": "Paris, France",
+        "location_city": "Paris",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "event_details": [
+                "Pro Evolution Soccer 5 World Cup",
+                "Final round participant: Villi Savio (Bandung), Agis Riki (Makassar), Al Gumer (Surabaya), Didit (Yogyakarta)"
+            ],
+            "tournament_outcome": [
+                "Winner: Villi Savio (7 points)",
+                "Prize: Trip to Paris, trophy, and a mobile phone"
+            ],
+            "previous_qualifier_data": [
+                "Held at Sudirman Place, Jakarta",
+                "Format: Half-competition system"
+            ],
+            "source_info": {
+                "magazine": "Animonster",
+                "edition": "88",
+                "month_year": "July 2006",
+                "page": "71"
+            },
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "France"
+    },
+    {
+        "Start Date": "20060701",
+        "Start Time": "",
+        "End Date": "20060702",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament",
+        "Location": "ITC Depok",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ntzokx_7",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.392704524156228, 106.823214511036",
+        "location_gmaps": "https://maps.app.goo.gl/6NpjB8udg53kpPWB7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Tournament",
+                "Screening Preview of Beyblade series",
+                "Fun Games",
+                "Acrobat",
+                "Magician",
+                "Band",
+                "Electone"
+            ],
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060708",
+        "Start Time": "",
+        "End Date": "20060709",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament",
+        "Location": "BSD Plaza",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "cmxvkw_2",
+        "location_address": "Jl. Pahlawan Seribu Sektor 4, Lengkong Wetan, Serpong Sub-District, South Tangerang City, Banten 15322",
+        "location_city": "Tangerang Selatan",
+        "location_coordinate": "-6.27941064573925, 106.6627459477544",
+        "location_gmaps": "https://maps.app.goo.gl/aYkAHvqPM6AFDTrr5",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Tournament",
+                "Screening Preview of Beyblade series",
+                "Fun Games",
+                "Acrobat",
+                "Magician",
+                "Band",
+                "Electone"
+            ],
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060709",
+        "Start Time": "10:00",
+        "End Date": "20060709",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tanabata Summer Music Fiesta",
+        "Location": "Braga Citywalk Atrium",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "jvxwtc_9",
+        "location_address": "Jalan Braga",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "organizer": "Orana Enterprise",
+            "activities": "Para-Para Dance, Bon Odori, Taisho Goto, Bazaar, Cosplay Party, Seiyuu Contest, Quiz n Games",
+            "featuring_artists": "Amakusa, Melody Maker, +La Sacralist+, AizenOd'n, Eclipse Harmony, Garden Plot, C'hick~en~Katsu, Snowberry, Manneliv, Gan Ei Ryoudan, Perfect Blue",
+            "opening_performances": "~Zinderbliss~, ~6ugly~, ~RetsuGo~, ~State of Shock~",
+            "admission": "FREE ENTRY",
+            "contact_info": "Rani (085624026554), Reza (085624520384)",
+            "media_partners": "Animonster, 105.5 FM Garuda",
+            "source": "Animonster 88 - Juli 2006",
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060709",
+        "Start Time": "13:00",
+        "End Date": "20060709",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tanabata Summer Music Fiesta",
+        "Location": "Braga City Walk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "yjfqyh_9",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 90 - September 2006",
+            "page": 64,
+            "organizer": "ORANA Enterprise",
+            "description": "Launching of Hajime compilation album",
+            "bands": [
+                "Anata",
+                "Aeris",
+                "E'niji",
+                "6Ugly",
+                "Manneliv",
+                "Gan Ei Ryoudan",
+                "Le Sacralist",
+                "Snowberry",
+                "Melody Maker",
+                "Amakusa",
+                "Perfect Blue",
+                "Eclipse Harmony"
+            ],
+            "activities": [
+                "Japanese culture",
+                "cosplay",
+                "games",
+                "Odori performance by Himade D3 Unpad"
+            ],
+            "MC": [
+                "Yosie",
+                "Dimas"
+            ],
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060715",
+        "Start Time": "",
+        "End Date": "20060715",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament",
+        "Location": "Blok M",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "jqozek_6",
+        "location_address": "Jl. Bulungan No.76, RT.6/RW.6, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.244113492750116, 106.79764091919947",
+        "location_gmaps": "https://maps.app.goo.gl/vJWrRGKPosx2FY538",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": [
+                "Animonster 87 - Juni 2006",
+                "Animonster 90 - September 2006"
+            ],
+            "Activities": [
+                "Lomba mewarnai",
+                "Acara hiburan",
+                "Demo bermain beyblade",
+                "Pemutaran film Beyblade GRevolution",
+                "Atraksi akrobat",
+                "Kuis berhadiah"
+            ],
+            "Television_Broadcast": {
+                "Program": "Beyblade GRevolution",
+                "Schedule": "Setiap hari Minggu jam 06.30 WIB",
+                "Channel": "INDOSIAR",
+                "Activities": [
+                    "Colouring Contest",
+                    "Beyblade Tournament",
+                    "Screening Preview of Beyblade series",
+                    "Fun Games",
+                    "Acrobat",
+                    "Magician",
+                    "Band",
+                    "Electone"
+                ],
+                "Start Time": "10:00",
+                "Location": {
+                    "Venue": "Plaza Blok M",
+                    "Specific_Area": "Lt. 6 (Food Court)"
+                },
+                "Offline_Online": "Offline",
+                "Organizer": {
+                    "Main_Organizer": "Media Sino Associates Limited",
+                    "Partner": "Plaza Blok M"
+                },
+                "Comment": "Acara berlangsung meriah dengan antusiasme penonton yang tinggi."
+            },
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060716",
+        "Start Time": "09:00",
+        "End Date": "20060716",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "FUSION Matsuri",
+        "Location": "Tennis Indoor Senayan",
+        "Comment": "Acara peringatan ulang tahun ke-7 Nippon Club.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "awlued_2",
+        "location_address": "Jl. Pintu Satu Senayan Blok B, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219260953511867, 106.80045352200757",
+        "location_gmaps": "https://maps.app.goo.gl/WJJaQtktZWKw2cqp7",
+        "links": [
+            "http://fusionmatsuri.nipponclub.net"
+        ],
+        "Content": {
+            "presenter": "Nippon Club",
+            "features": [
+                "Manga",
+                "Anime",
+                "Shamisen",
+                "Cabaret",
+                "Igo",
+                "Bon Odori",
+                "Kimono",
+                "Digital Manga",
+                "Shuriken",
+                "Model Kit",
+                "Samurai",
+                "Taiko",
+                "Cosplay",
+                "Prudence",
+                "Seiyuu",
+                "Comic Dome",
+                "Sushi",
+                "Ikebana",
+                "Chado",
+                "Washi",
+                "Karaoke",
+                "Gundam",
+                "Eiga",
+                "Masquerade"
+            ],
+            "competition_registration": {
+                "dates": "7 - 17 Juni 2006",
+                "location": "Kampus Anggrek, Universitas Bina Nusantara"
+            },
+            "contact_person": [
+                "Domenico (0818 159 602)",
+                "Manggala (0856 8504 137)"
+            ],
+            "email": "fusionmatsuri@nipponclub.net",
+            "ticket_price": "Rp 5.000 (termasuk voucher & souvenir)",
+            "Activities_and_Workshops": [
+                "Demo kimono",
+                "Memasak sushi fusion",
+                "Ninjutsu",
+                "Samurai iaijutsu",
+                "Chado (upacara minum teh)",
+                "Ikebana",
+                "Workshop washi",
+                "Manga dan digital manga",
+                "Gundam",
+                "Permainan tradisional Jepang (seperti memancing ikan)",
+                "Bon Odori"
+            ],
+            "Competitions": [
+                "Masquerade",
+                "Cosplay party",
+                "Cosplay cabaret",
+                "Seiyuu",
+                "Karaoke",
+                "Lomba menggambar pin-up",
+                "Lomba menggambar komik",
+                "Model kit diorama",
+                "Makan onigiri wasabi"
+            ],
+            "Stage_Performers": [
+                "Soundwave",
+                "Shuriken",
+                "Prudence",
+                "Wasabi"
+            ],
+            "Winners_List": {
+                "Cosplay_Party": [
+                    "Ryu Char",
+                    "Rem (original character)",
+                    "Samurai Warrior"
+                ],
+                "Cosplay_Cabaret": [
+                    "ORC team (Guilty Gear XX)"
+                ],
+                "Igo": [
+                    "Surya",
+                    "Kristoffer",
+                    "Husen"
+                ],
+                "Onigiri_Eating": [
+                    "Andhika"
+                ],
+                "Seiyuu": [
+                    "Bayu",
+                    "Yuli",
+                    "Puspita",
+                    "Iva",
+                    "Anda"
+                ],
+                "Manga": [
+                    "Amy Christie",
+                    "Hudiyanto"
+                ],
+                "Karaoke": [
+                    "Liana",
+                    "Pratiwi",
+                    "Shinta"
+                ]
+            },
+            "source": [
+                "Animonster 88 - Juli 2006",
+                {
+                    "Magazine": "Animonster 90",
+                    "Date": "September 2006",
+                    "Page": 68
+                }
+            ],
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060716",
+        "Start Time": "",
+        "End Date": "20060716",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beyblade Roadshow",
+        "Location": "Roxy Square",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dllrlq_8",
+        "location_address": "Jl. Kyai Tapa No.1, RT.10/RW.10, Tomang, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11440",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.166700949110966, 106.79949785195103",
+        "location_gmaps": "https://maps.app.goo.gl/mx8N5fo8prorhnMs6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Demo",
+                "Screening Preview of Beyblade series",
+                "Fun Games"
+            ],
+            "Organizer_Contact": "Liesye (021.352.2329)",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060718",
+        "Start Time": "",
+        "End Date": "20060723",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "World Cyber Games GameStation Winning Eleven 10 Indonesia Open 2006",
+        "Location": "Mall Taman Anggrek",
+        "Comment": "Kompetisi gaming tingkat nasional dengan penyisihan di berbagai kota besar di Indonesia.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "ftrapr_2",
+        "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.178281752560312, 106.79240363887642",
+        "location_gmaps": "https://maps.app.goo.gl/S6c4LShm9Fn8ijaa6",
+        "links": [],
+        "Content": {
+            "prize_pool": [
+                "Juara 1: 10.000.000 IDR + Motor + Kontrak 1 tahun menjadi pemain profesional",
+                "Juara 2: 5.000.000 IDR",
+                "Juara 3: 3.000.000 IDR",
+                "Juara 4: 2.000.000 IDR"
+            ],
+            "registration": "50.000 IDR",
+            "regional_qualifiers": [
+                "Makassar: 10 Juni-9 Juli 2006",
+                "Bali: 24-25 Juni 2006",
+                "Bandung: 23-25 Juni 2006",
+                "Samarinda: 7-9 Juli 2006",
+                "Banten: 8-9 Juli 2006"
+            ],
+            "source": "Animonster 88 - Juli 2006, Halaman tidak tercantum",
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060722",
+        "Start Time": "",
+        "End Date": "20060723",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mall Beyblade Tournament",
+        "Location": "Istana Plaza",
+        "Comment": "",
+        "Offline/Online": "Offline",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "vecper_6",
+        "location_address": "Jl. Pasir Kaliki No.121-123, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.9057248318259905, 107.59700914097371",
+        "location_gmaps": "https://maps.app.goo.gl/CdGB9kdBWU1DeWYE7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "Source": "Animonster 87 - Juni 2006",
+            "Activities": [
+                "Colouring Contest",
+                "Beyblade Tournament",
+                "Screening Preview of Beyblade series",
+                "Fun Games",
+                "Acrobat",
+                "Magician",
+                "Band",
+                "Electone"
+            ],
+            "category": [
+                "Game / Esports Tournament"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060722",
+        "Start Time": "13:00",
+        "End Date": "20060723",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Taisho Morning Glory Festival 2006",
+        "Location": "Cihampelas Walk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "cvlpel_2",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": "Animonster 90 - September 2006",
+            "page": 64,
+            "organizer": "DN Production",
+            "MC": [
+                "Lolly",
+                "Barbie",
+                "Thina Okada",
+                "Anissa Nagase"
+            ],
+            "bands": [
+                "Shirolhana",
+                "Mochacochalatta",
+                "Prudence",
+                "Lunatic Tokyo",
+                "Chikazuki",
+                "Tenchi",
+                "Nananunu",
+                "Hydroferrum"
+            ],
+            "activities": [
+                "Tari Jaipong",
+                "Tari Saman",
+                "Little Drummers",
+                "Japanese Longser",
+                "Origami workshop",
+                "Cosplay",
+                "Angklung KPA ITB",
+                "Musume Fashion Show"
+            ],
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060728",
+        "Start Time": "20:00",
+        "End Date": "20060728",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beginning of Fantasy",
+        "Location": "Tennis Indoor Senayan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "hqmivl_4",
+        "location_address": "Jl. Pintu Satu Senayan Blok B, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219260953511867, 106.80045352200757",
+        "location_gmaps": "https://maps.app.goo.gl/WJJaQtktZWKw2cqp7",
+        "links": [],
+        "Content": {
+            "source": "Animonster 90 - September 2006",
+            "page": "Unknown",
+            "organizer": "Twilite Orchestra",
+            "conductor": "Addie MS",
+            "music_composer": "Nobuo Uematsu",
+            "performers": [
+                "Twilite Orchestra",
+                "Sherina",
+                "Arina",
+                "Kevin",
+                "Jessica",
+                "Band Wasabi"
+            ],
+            "event_details": {
+                "pre_event_activities": [
+                    "Bazaar",
+                    "Cosplay"
+                ],
+                "highlights": "Orchestral performance of Final Fantasy music",
+                "performance_notes": "Band Wasabi performed J-Rock, though sound quality was suboptimal due to acoustics."
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060729",
+        "Start Time": "",
+        "End Date": "20060730",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-I Matsuri (Japan-Indonesia Matsuri)",
+        "Location": "Jakarta Hilton International",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "cprnyr_5",
+        "location_address": "Jl. Gatot Subroto, RT.2/RW.1, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.218789492605075, 106.81016250984953",
+        "location_gmaps": "https://maps.app.goo.gl/Ko9zpcmT54FT82HN9",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizers": [
+                "Hilton",
+                "Animonster",
+                "Persada"
+            ],
+            "activities": [
+                "Wear your yukata",
+                "Kingyo sukui",
+                "Bon odori",
+                "J-Band Competition",
+                "Cosplay Cabaret",
+                "Cosplay Party",
+                "Comic Festival",
+                "J-culture exhibition"
+            ],
+            "notes": [
+                "Free entry, no ticket required",
+                "Registration extended until June 28",
+                "Further information available on page 64-65"
+            ],
+            "source": [
+                "Animonster 88 - Juli 2006, halaman 84",
+                "Animonster 90 - September 2006"
+            ],
+            "pages": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "36",
+                "37"
+            ],
+            "presenter": "PT SANYO Indonesia",
+            "organizer": {
+                "main_organizers": [
+                    "Animonster",
+                    "Jakarta Hilton International",
+                    "Persada"
+                ],
+                "sponsors": [
+                    "PT Yamaha Motor",
+                    "PT Yamaha Music",
+                    "PT Kao Indonesia (Biore)",
+                    "PT Datascrip (Wacom)",
+                    "PT Asia Sejahtera Perdana Pharmaceutical (UC 1000)",
+                    "PT TOA",
+                    "PT Nusantara Eradata (Gigabyte & Kingston)",
+                    "Radio ARH Global",
+                    "Cyber Media College"
+                ],
+                "support_groups": [
+                    "Galaxy Hobby Shop",
+                    "Papaya",
+                    "Utsukushii",
+                    "Toy Anime",
+                    "Yayasan LKC",
+                    "Sony BMG Music Indonesia",
+                    "Indo Semar Sakti",
+                    "Elex Media Komputindo",
+                    "Ninpo Bugei Indonesia",
+                    "Kelompok Kebudayaan Jepang - Fakultas Sastra Jepang UI",
+                    "Kelompok Paduan Suara Yamaha"
+                ]
+            },
+            "event_highlights": {
+                "tagline": "Pass Japan, Head to Hilton!",
+                "main_activities": [
+                    "Bon Odori",
+                    "J-Band Competition",
+                    "Cosplay Party",
+                    "Cosplay Cabaret",
+                    "Cosplay Idol",
+                    "Bento Decoration Contest",
+                    "Lantern Decoration Contest",
+                    "Comic Festival Animonster",
+                    "Japanese Culture Exhibition"
+                ],
+                "cultural_exhibits": [
+                    "Miniature Japanese Dolls",
+                    "Hina Matsuri Celebration",
+                    "Ikebana (Flower Arranging)",
+                    "Origami",
+                    "Shodo (Japanese Calligraphy)",
+                    "Chanoyu (Tea Ceremony)",
+                    "Ninjutsu Demo by Ninpo Bugei Indonesia",
+                    "Taiko and Shamisen Musical Performance",
+                    "Magic Show",
+                    "Yukata Fashion Show"
+                ],
+                "food_bazaar": [
+                    "Takoyaki",
+                    "Ikayaki",
+                    "Choco Banana",
+                    "Okonomiyaki",
+                    "Onigiri",
+                    "Kakigori",
+                    "Burger",
+                    "Hotdog",
+                    "French Fries"
+                ]
+            },
+            "competitions_and_winners": {
+                "j_band_animonster_sound": {
+                    "winners": {
+                        "first_place": "Restu Ibu",
+                        "second_place": "Prudence",
+                        "third_place": "Shuriken"
+                    },
+                    "finalists": [
+                        "AlzenOdn",
+                        "Jaiko",
+                        "Pinball",
+                        "Tokyu 109",
+                        "Nadeshiko",
+                        "Tivu",
+                        "Private Joker",
+                        "Le Sacralist",
+                        "Kimochi",
+                        "Shiroi Hana",
+                        "Julia",
+                        "Azure"
+                    ]
+                },
+                "cosplay_cabaret": {
+                    "winners": {
+                        "best_story": "Moeru (Fate/Stay Night)",
+                        "special_best_performance": "Machipoto (Naruto)",
+                        "best_costume": "Cosparty (Digimon)"
+                    },
+                    "participants": [
+                        "Akatsuki",
+                        "Shadow",
+                        "Keluarga Jayuzz"
+                    ]
+                },
+                "cosplay_party": {
+                    "winners": {
+                        "best_anime_manga": "Ryo (Saint Seiya)",
+                        "best_game": "Ryuu-chan (Final Fantasy X-2)",
+                        "best_tokusatsu": "AAC Indonesia (Kamen Rider)",
+                        "best_j_artist": "Hanami Aya (Sadako)",
+                        "best_original": "Kimon (Gothic Visual Kei)",
+                        "special_animonster_award": "Aya & Christi (Okorinbo & Nikorinbo)"
+                    }
+                },
+                "cosplay_idol": {
+                    "participant": "Cross Tako",
+                    "performance": "Tohoshinki - Rising Sun"
+                },
+                "bento_decoration": {
+                    "winners": {
+                        "first_place": "Yume Oishii (Hunter Lover)",
+                        "second_place": "Stefy Gunawan (Chibi no Usagi)",
+                        "third_place": "Fujiwara (Shiawase no Umi)"
+                    },
+                    "other_notable_entries": [
+                        "Seafood Rainbow by Putri",
+                        "Naruto no Bento by Choco Donatsu",
+                        "Hyde no Iro by Ex_Yuk",
+                        "Hina Matsuri no Obentou by Choco",
+                        "Yamato Nadeshiko by Milana",
+                        "Animonster No Bento by Kyoudai",
+                        "Yukaina Nakamatachi by Fukiko",
+                        "Umi No Dansu by psychoHIR",
+                        "Miichan Bento by R-hea"
+                    ]
+                },
+                "lantern_decoration": {
+                    "winners": {
+                        "first_place": "Milana (Round and Round)",
+                        "second_place": "Fujiwara (Geisha)",
+                        "third_place": "Gisela-Vina-Melissa (Lotus)"
+                    }
+                }
+            },
+            "additional_info": {
+                "cosplay_stats": "More than 450 participants",
+                "bon_odori_details": "10 songs played due to high demand, held at the Hilton Ballroom Lobby area"
+            },
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060813",
+        "Start Time": "",
+        "End Date": "20060813",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Press Conference and National Championship - Jakarta",
+        "Location": "Kafe Taman Semanggi",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "004",
+        "location_address": "Jl. Jend. Sudirman kav 52-53, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.228259416620901, 106.8097543932997",
+        "location_gmaps": "https://maps.app.goo.gl/FiTufPXe9biRWe54A",
+        "links": [],
+        "Content": {
+            "source": ["Animonster 88 - Juli 2006", "Animonster 87 - Juni 2006"],
+            "Event_Purpose": "To earn MURI certificates",
+            "Activities": [
+                "Final Beyblade Championship",
+                "Popular Group Band Performance",
+                "Screening Preview of Beyblade series"
+            ],
+            "Press_Conference_Invites": [
+                "Animation film maker",
+                "National TV Director",
+                "Journalist (Print Media, TV and Radio)"
+            ],
+            "press_conference_details": "Invite animation film maker, Invite National TV Director, Invite Journalist",
+            "national_championship_details": "MURI certificate attempt, Final Beyblade Championship, Popular Group Band Performance, Screening Preview",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060818",
+        "Start Time": "",
+        "End Date": "20060820",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Showdown in Little Shibuya & Bandung Collectibles Fair 2006",
+        "Location": "BE Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "jscirx_5",
+        "location_address": "Jl. Naripan 89",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "source": [
+                "Animonster 90 - September 2006",
+                "Animonster 91 - October 2006"
+            ],
+            "event_details": {
+                "name": "Showdown in Little Shibuya & Bandung Collectibles Fair",
+                "dates": "18-20 August 2006",
+                "location": "BE Mall, Jl. Naripan 89, Bandung",
+                "organizer": "Egao Produce Management",
+                "mcs": [
+                    "Dhea",
+                    "Iggy",
+                    "Acu",
+                    "Filma",
+                    "Nissa Nagase",
+                    "Thina Okada"
+                ],
+                "schedule": {
+                    "friday": {
+                        "start_time": "13:00 WIB",
+                        "activities": [
+                            "Manga contest",
+                            "Fan painting with shuji"
+                        ],
+                        "performers": [
+                            "Manneliv",
+                            "Kaze o Hiku",
+                            "Samidare"
+                        ]
+                    },
+                    "saturday": {
+                        "activities": [
+                            "Para-para dance",
+                            "Karaoke contest",
+                            "Sakura dance by HIMADE STBA YAPARI ABA Bandung",
+                            "Taisho Koto by UPI",
+                            "Kendo demonstration by Universitas Maranatha"
+                        ],
+                        "performers": [
+                            "Mendadak Jhonny",
+                            "Akira Shock",
+                            "Kimochi",
+                            "Prudence"
+                        ]
+                    },
+                    "sunday": {
+                        "start_time": "13:00 WIB",
+                        "activities": [
+                            "Cosplay competition",
+                            "Cosplay cabaret",
+                            "Bon Odori"
+                        ],
+                        "performers": [
+                            "Tabasco",
+                            "6Ugly",
+                            "Le Sacralist",
+                            "Shuriken",
+                            "Hellsing",
+                            "Lunatic Tokyo"
+                        ]
+                    }
+                }
+            },
+            "organized_by": "Not explicitly named as organizer, but supported by Japan Bandung Community, Gonzo, b'cool, Animonster",
+            "sponsored_by": [
+                "Be Mall",
+                "BTV",
+                "YOU C1000",
+                "Seventeen"
+            ],
+            "event_highlights": [
+                "Costume Party (Cosplay)",
+                "Visitors Best Dress Code Contest (Harajuku Fashion Style)",
+                "Tachiwata (Geisha Dance)",
+                "Lomba Menghias Lampion",
+                "Lomba Cosplay Cabaret",
+                "Lomba Kaligrafi Jepang",
+                "Lomba Gambar Komik",
+                "Lomba Fotografi",
+                "Lomba Fotomodel",
+                "Lomba Karaoke",
+                "Bon Odori",
+                "Para Para Dance",
+                "Yukata Dance",
+                "Toiro",
+                "Peringatan HUT RI",
+                "Live Performance"
+            ],
+            "featured_performers": [
+                "Hell Sing",
+                "Le Sacralist",
+                "Shuriken",
+                "Six Ugly",
+                "Prudence",
+                "Tabasco",
+                "Akira Shock"
+            ],
+            "contact_info": {
+                "registration": {
+                    "Maya": "0815 - 6122888",
+                    "Dhea": "0818 - 06954665",
+                    "Athena": "0856 - 2160728",
+                    "Gonzo": "022 - 4205927"
+                },
+                "collectibles_fair": {
+                    "Dicky": "022 - 70718491",
+                    "Secondary": "0813 - 21860488"
+                }
+            },
+            "designer": "Saka (0818 - 08289524 / dancing_finger@yahoo.com)",
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060901",
+        "Start Time": "13:00",
+        "End Date": "20060901",
+        "End Time": "17:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Workshop Mewarnai dengan Photoshop bersama Wacom",
+        "Location": "Jakarta Hilton International",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "jacswe_6",
+        "location_address": "Jl. Gatot Subroto, RT.2/RW.1, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.218789492605075, 106.81016250984953",
+        "location_gmaps": "https://maps.app.goo.gl/Ko9zpcmT54FT82HN9",
+        "links": [],
+        "Content": {
+            "presenter": "Li Julian",
+            "organizer": "Animonster, Wacom, Jakarta Hilton International, Kingston, Gigabyte",
+            "total_participants": "16 orang",
+            "total_classes": "2 kelas",
+            "competition_results": {
+                "first_winner": "Raide",
+                "second_winner": "Widi Agung",
+                "third_winner": "Shella"
+            },
+            "tools_used": "Wacom mouse pen, Adobe Photoshop",
+            "source": "Animonster 96 - September 2006",
+            "category": [
+                "Talkshow / Seminar / Workshop"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060902",
+        "Start Time": "",
+        "End Date": "20060904",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Student Mart",
+        "Location": "Mal Ciputra",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "oaveeh_6",
+        "location_address": "Jl. Arteri S. Parman, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.168156094351381, 106.78673589643877",
+        "location_gmaps": "https://g.page/malciputrajkt",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "source": "Animonster 92 - November 2006",
+            "page": "06",
+            "event_details": {
+                "organizer": "Majalah Animonster",
+                "duration": "3 hari",
+                "activities": [
+                    "Soft launching majalah Animonster",
+                    "Cosplay",
+                    "Penampilan band-band (J-Rock)",
+                    "Meet and Greet (dibatalkan)",
+                    "Press conference Kwon Sang Woo di Hotel Mulia"
+                ],
+                "winners_cosplay": [
+                    "Hilton Matsuri (Juara 2)",
+                    "Shuriken (Juara 3)"
+                ],
+                "performing_bands": [
+                    "Prudence",
+                    "Tazmania Lamb Cop",
+                    "Onizuka",
+                    "Tokyu 1.0.9",
+                    "Kimochi"
+                ],
+                "guest_star": {
+                    "name": "Kwon Sang Woo",
+                    "details": "Bintang Korea, pemeran drama Starway to Heaven dan Sad Love Song"
+                },
+                "sponsor": "The Face Shop"
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20061106",
+        "Start Time": "10:00",
+        "End Date": "20061111",
+        "End Time": "23:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Matsuri Essentials",
+        "Location": "Aula Lt. 8, Universitas Sahid",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "tpomow_5",
+        "location_address": "Jl. Prof. DR. Soepomo No.84 7, RT.7/RW.1, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.236330435475693, 106.84415205648443",
+        "location_gmaps": "https://maps.app.goo.gl/3sj3NHYrk9CbjRVR6",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "organizer": [
+                "UMUS (UKM Musik Universitas Sahid)"
+            ],
+            "photo_exhibition": [
+                "Nihon jin no kurashi",
+                "Nihon no matsuri"
+            ],
+            "film_screenings": [
+                "Nana",
+                "Naruto Movie 2",
+                "Bleach",
+                "The last song in the little planet",
+                "GTO"
+            ],
+            "performers": [
+                "i-meru-q",
+                "Larchangel",
+                "Le Sacralist",
+                "Gounin Shiro",
+                "Akira Shock",
+                "Onizuka",
+                "Kaitou",
+                "Wesabi",
+                "Shuriken"
+            ],
+            "event_highlights": [
+                "Taiko performance by Japan Club",
+                "Bon Odori dance",
+                "Cosplay competition (Anime and Idol/Original)"
+            ],
+            "source_details": [
+                "Animonster 94 - Januari 2007",
+                "Halaman 10"
+            ],
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20061206",
+        "Start Time": "",
+        "End Date": "20061210",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Launching Archi & Meidy 4: Penyelamatan di Hutan",
+        "Location": "Assembly Hall, Jakarta Convention Center (JCC)",
+        "Comment": "Acara peluncuran buku ke-4 dari seri petualangan Archi & Meidy yang bertepatan dengan pameran buku IKAPI 2006.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "vgiklx_4",
+        "location_address": "Jl. Gatot Subroto, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.2144828411609225, 106.80749939440518",
+        "location_gmaps": "https://maps.app.goo.gl/dSC3qthMdG8gbJ7W6",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "illustrator": "Li Julian",
+            "event_context": [
+                "Book Fair IKAPI 2006"
+            ],
+            "performers": [
+                "Band A'rulez",
+                "Mama Rocker",
+                "Cute Dancer Lisa Studio"
+            ],
+            "highlights": [
+                "Penampilan musik Pop Rock",
+                "Soundtrack anime Saint Seiya",
+                "Tanda tangan langsung dari Li Julian"
+            ],
+            "source": "Animonster 95 - Februari 2007, halaman 108",
+            "category": [
+                "Launching / Grand Opening"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20061207",
+        "Start Time": "",
+        "End Date": "20061207",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Media Launch Megumi Minori",
+        "Location": "En Dining, EX Plaza, Jakarta",
+        "Comment": "Acara peluncuran produk snack Megumi dan Minori dari Calbee yang didistribusikan oleh PT. Unilever Indonesia, Tbk.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "dscxhp_8",
+        "location_address": "RT.9/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1908949053701, 106.82218305894396",
+        "location_gmaps": "https://maps.app.goo.gl/4rCE8vSG5r6e1Bb88",
+        "links": [
+            "http://www.animonsteronline.net"
+        ],
+        "Content": {
+            "presenter": [
+                "Ibu Yessy L. Harahap (Brand Manager Snack New Brands)",
+                "Ibu Hanny M. Darta (Praktisi Emotional Intelligence)"
+            ],
+            "organizer": [
+                "PT. Unilever Indonesia, Tbk."
+            ],
+            "snack_details": [
+                "Megumi: Snack rasa udang asli",
+                "Minori: Snack berbentuk hati rasa jagung dan ubi manis",
+                "Asal: Calbee, Jepang"
+            ],
+            "event_context": [
+                "Diskusi mengenai kebiasaan mengemil dan hubungan dengan situasi emosional",
+                "Penjelasan manfaat snack bagi manajemen stres dan energi positif"
+            ],
+            "source": "Animonster 95 - Februari 2007, Halaman 110",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20061214",
+        "Start Time": "",
+        "End Date": "20061214",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Diskusi dan Presentasi Komik di STDI Bandung",
+        "Location": "Sekolah Tinggi Desain Indonesia (STDI) Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "divifr_8",
+        "location_address": "",
+        "location_city": "Bandung",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "http://www.animonsterline.net"
+        ],
+        "Content": {
+            "organizer": "Klab Komik STDI",
+            "presenter": [
+                "Chris Lie",
+                "Nila",
+                "Juliandi",
+                "Maman"
+            ],
+            "source": "Animonster 96 - Maret 2007",
+            "page": "108",
+            "event_details": {
+                "purpose": "Peresmian klab komik STDI",
+                "topics_discussed": [
+                    "Latar belakang studio Nila",
+                    "Prinsip penetapan harga karya",
+                    "Pengalaman kerja di studio komik",
+                    "Tips profesionalisme komikus",
+                    "Pentingnya memenuhi deadline",
+                    "Pentingnya bersikap ramah"
+                ],
+                "additional_info": {
+                    "studio_projects": "Mahabharata",
+                    "exhibited_works": [
+                        "Mahabharata",
+                        "G.I. Joe"
+                    ]
+                }
+            },
+            "category": [
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar / Workshop"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20061230",
+        "Start Time": "08:00",
+        "End Date": "20061230",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "Normal",
+        "Subject": "Lyto Game Festival 2006",
+        "Location": "Hotel Ciputra",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "Yes",
+        "_id": "cxztgs_9",
+        "location_address": "Jl. Letjen S. Parman, RT.11/RW.1, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.168100313495842, 106.78622658076256",
+        "location_gmaps": "https://maps.app.goo.gl/42aEVdCMsCnaS4F36",
+        "links": [],
+        "Content": {
+            "presenter": [
+                "Lyto",
+                "CCR Corp"
+            ],
+            "organizer": "Lyto",
+            "key_figures": [
+                "Bpk. Andi Suryanto",
+                "Bpk. Ki-Soo Youn"
+            ],
+            "competitions": [
+                "Getamped Last Man Standing",
+                "Ragnarok Online",
+                "SEAL",
+                "Goldwars All Stars"
+            ],
+            "featured_game": "Rising Force (RF) Online",
+            "event_duration": "12 hours",
+            "attendees_origin": [
+                "Jakarta",
+                "Bandung",
+                "Jogjakarta",
+                "Surabaya"
+            ],
+            "source": "Animonster Vol. 94, Januari 2007, halaman 101",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    }
+]
