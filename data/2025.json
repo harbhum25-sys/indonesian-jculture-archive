@@ -2635,10 +2635,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jrockn_6",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Ktr. Taman E3.3, Lt.5 Unit A1, Jl. Mega Kuningan Barat No.3, RT.1/RW.2, Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2313838566353486, 106.82797565590465",
+        "location_gmaps": "https://goo.gl/maps/7WxB5ePknUdyxNrW8",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10163407383173836/",
             "instagram.com/kaizobeats.id/"
