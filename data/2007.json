@@ -98,10 +98,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "lydtee_7",
-        "location_address": "SMA Negeri 68 Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Salemba Raya No.18 3, RT.3/RW.6, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1980023503053605, 106.85075106396297",
+        "location_gmaps": "https://maps.app.goo.gl/EoQvbC8HgJxMvtjn6",
         "links": [],
         "Content": {
             "source": "Animonster 96 - Maret 2007, page 105",
@@ -179,10 +179,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "gumkje_2",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. K.H. Mas Mansyur No.Kav.126, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.210767560280852, 106.81571486692312",
+        "location_gmaps": "https://maps.app.goo.gl/VWhn7D9RvKagAMBT8",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -651,16 +651,16 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "JAPAN WEEK",
-        "Location": "Dharmawangsa Square-The City Walk",
-        "Comment": "Source: Animonster 99 - Juni 2007, halaman 92.",
+        "Location": "lantai 3, Dharmawangsa Square-The City Walk",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "azswum_1",
-        "location_address": "lantai 3, Dharmawangsa Square-The City Walk",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Wijaya II No.5, RT.3/RW.1, Pulo, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2535427103286745, 106.80128928131508",
+        "location_gmaps": "https://maps.app.goo.gl/qdvhJvbzGx7WZNhKA",
         "links": [],
         "Content": {
             "organizer": [
@@ -680,7 +680,8 @@
             ],
             "category": [
                 "Festival / Matsuri"
-            ]
+            ],
+            "source": "Animonster 99 - Juni 2007, halaman 92"
         },
         "location_country": "Indonesia"
     },
@@ -1016,10 +1017,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dvaomv_2",
-        "location_address": "Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.178281752560312, 106.79240363887642",
+        "location_gmaps": "https://maps.app.goo.gl/S6c4LShm9Fn8ijaa6",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1054,68 +1055,7 @@
             "category": [
                 "Cosplay - Competition / Coswalk",
                 "Anime - Convention / Fan Event"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20070616",
-        "Start Time": "",
-        "End Date": "20070617",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "17th Anniversary Doraemon - Pekanbaru",
-        "Location": "Mal SKA",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "DORA-PEKANBARU",
-        "location_address": "",
-        "location_city": "Pekanbaru",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [],
-        "Content": {
-            "presenter": "immG",
-            "activities": {
-                "meet_and_greet": "Foto Bareng Doraemon, Nobita, Shizuka, Suneo & Gian",
-                "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
-            },
-            "source": "Animonster edisi 102 september 2007",
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20070616",
-        "Start Time": "13:00",
-        "End Date": "20070617",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "High",
-        "Subject": "Animonster Cosplay Contest (ACC) 2007",
-        "Location": "Mall Taman Anggrek (MTA)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Completed",
-        "attended": "Yes",
-        "_id": "tqukho_9",
-        "location_address": "Atrium",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            "http://www.animonsteronline.net"
-        ],
-        "Content": {
+            ],
             "organizer": [
                 "Animonster",
                 "ESWC (Electronic Sports World Cup)",
@@ -1166,10 +1106,40 @@
                 "Tiket ke Paris",
                 "Uang Tunai"
             ],
-            "source_info": "Animonster 101 - Agustus 2007, Halaman 022, 023, 024, 025",
+            "source_info": "Animonster 101 - Agustus 2007, Halaman 022, 023, 024, 025"
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20070616",
+        "Start Time": "",
+        "End Date": "20070617",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "17th Anniversary Doraemon - Pekanbaru",
+        "Location": "Mal SKA",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "DORA-PEKANBARU",
+        "location_address": "",
+        "location_city": "Pekanbaru",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "Content": {
+            "presenter": "immG",
+            "activities": {
+                "meet_and_greet": "Foto Bareng Doraemon, Nobita, Shizuka, Suneo & Gian",
+                "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
+            },
+            "source": "Animonster edisi 102 september 2007",
             "category": [
-                "Cosplay - Competition / Coswalk",
-                "Anime - Convention / Fan Event"
+                "Festival / Matsuri"
             ]
         },
         "location_country": "Indonesia"
@@ -1190,10 +1160,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "DORA-JAKARTA",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Artha Gading Sel. No.1, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.145629141711172, 106.89216576094942",
+        "location_gmaps": "https://maps.app.goo.gl/r7DdKD6u4eS8yVYq7",
         "links": [],
         "Content": {
             "presenter": "immG",
@@ -1256,10 +1226,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dsxggw_6",
-        "location_address": "Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226104213924778, 106.80430051238068",
+        "location_gmaps": "https://maps.app.goo.gl/EnX6R9fGuktm27de6",
         "links": [],
         "Content": {
             "organizer": [
@@ -1348,10 +1318,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "nwmvii_9",
-        "location_address": "WTC Mangga Dua",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.134009468516035, 106.83084912366922",
+        "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
         "links": [],
         "Content": {
             "organizer": [
@@ -1512,10 +1482,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "uwqwdt_3",
-        "location_address": "Jl. Jendral Sudirman Kav. 61-62",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Jenderal Sudirman No.Kav. 61-62, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226148853213873, 106.8040498635014",
+        "location_gmaps": "https://maps.app.goo.gl/HtGfKqqyhbdzPKKy8",
         "links": [
             "http://matakelabucoffee-cat.net"
         ],
@@ -1569,10 +1539,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "qblbsa_8",
-        "location_address": "Jl. Lodan Raya No. 2, Ancol",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Lodan Raya No.2, RT.12/RW.2, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.130241470854073, 106.81873292465602",
+        "location_gmaps": "https://maps.app.goo.gl/RNDgEtpbgKL8YUfE6",
         "links": [],
         "Content": {
             "presenter": "Sru Setyohadi (DKV ITB)",
@@ -1655,10 +1625,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "tvkaas_3",
-        "location_address": "Summitmas I Lt. 3, Jl. Jendral Sudirman Kav. 61-62, Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226104213924778, 106.80430051238068",
+        "location_gmaps": "https://maps.app.goo.gl/EnX6R9fGuktm27de6",
         "links": [
             "www.jpf.or.id"
         ],
@@ -1987,10 +1957,10 @@
         "status": "Completed",
         "attended": "Yes",
         "_id": "20070801-MANGA-AWARD",
-        "location_address": "Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. M.H. Thamrin No.24, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.191788885291129, 106.82262039502028",
+        "location_gmaps": "https://maps.app.goo.gl/gtfQSuFiZV6BmzHGA",
         "links": [],
         "Content": {
             "presenter": "Shin Ebihara",
@@ -2217,10 +2187,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "mjamfp_8",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Grand Indonesia West Mall, Jl. M.H. Thamrin No.1 Lt.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1947385808675675, 106.81970345842456",
+        "location_gmaps": "https://maps.app.goo.gl/LQB7DJLZZgx1B6pc8",
         "links": [
             ""
         ],
@@ -2325,10 +2295,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "igormh_7",
-        "location_address": "Wijaya Grand Center Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Darmawangsa Raya, RT.6/RW.1, Pulo, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.253770616160247, 106.80012369124518",
+        "location_gmaps": "https://maps.app.goo.gl/UHDJphyQgTwQxtum7",
         "links": [],
         "Content": {
             "presenter": "forum KATTUNESIA [Kanes]",
@@ -2382,10 +2352,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "fwrgwm_5",
-        "location_address": "Jl. Lodan Raya No. 2, Jakarta Utara",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Lodan Raya No.2, RT.12/RW.2, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.130241470854073, 106.81873292465602",
+        "location_gmaps": "https://maps.app.goo.gl/RNDgEtpbgKL8YUfE6",
         "links": [],
         "Content": {
             "source": "Animonster 104 - November 2007, Page 106",
@@ -2457,10 +2427,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ouftqg_5",
-        "location_address": "Kelapa Gading",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Boulevard Raya, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.157436123176738, 106.90845912763469",
+        "location_gmaps": "https://maps.app.goo.gl/ib8ucqjwojPbds4i8",
         "links": [
             ""
         ],
@@ -2506,61 +2476,6 @@
     },
     {
         "Start Date": "20070921",
-        "Start Time": "16:00",
-        "End Date": "20070923",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "World GameMaster Tournament (WGT) 2007",
-        "Location": "Mall La Piazza, Kelapa Gading",
-        "Comment": "Event gaming dan cosplay besar yang diselenggarakan oleh ASUS dan Intel bekerja sama dengan majalah Animonster.",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "goribk_3",
-        "location_address": "Kelapa Gading",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "presenter": [
-                "ASUS",
-                "Intel"
-            ],
-            "organizer": [
-                "Majalah Animonster"
-            ],
-            "MC": [
-                "Wilson",
-                "Nindita"
-            ],
-            "kategori_pemenang_cosplay": [
-                "Anime/Manga",
-                "Game",
-                "Original"
-            ],
-            "band_pengisi_acara": [
-                "Blue Train",
-                "Shiroi Hana",
-                "Science"
-            ],
-            "tim_cosplay_cabaret": [
-                "Tim Hanabi",
-                "Tim Argent Ciel",
-                "Tim Japan Community Club"
-            ],
-            "sumber": "Animonster edisi 105 - Desember 2007, halaman 094-097",
-            "category": []
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20070921",
         "Start Time": "",
         "End Date": "20070923",
         "End Time": "",
@@ -2575,10 +2490,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "auehak_7",
-        "location_address": "La Piazza, Kelapa Gading, Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Boulevard Raya Blok . M, RT.13/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.159232485169892, 106.9071620782862",
+        "location_gmaps": "https://maps.app.goo.gl/aL36F9KoWuaaTvzd9",
         "links": [
             ""
         ],
@@ -2611,8 +2526,35 @@
             "facilities": [
                 "Disediakan ruang ganti kostum"
             ],
+            "presenter": [
+                "ASUS",
+                "Intel"
+            ],
+            "organizer": [
+                "Majalah Animonster"
+            ],
+            "MC": [
+                "Wilson",
+                "Nindita"
+            ],
+            "kategori_pemenang_cosplay": [
+                "Anime/Manga",
+                "Game",
+                "Original"
+            ],
+            "band_pengisi_acara": [
+                "Blue Train",
+                "Shiroi Hana",
+                "Science"
+            ],
+            "tim_cosplay_cabaret": [
+                "Tim Hanabi",
+                "Tim Argent Ciel",
+                "Tim Japan Community Club"
+            ],
             "source": [
-                "Animonster edisi 102 September 2007"
+                "Animonster edisi 102 September 2007",
+                "Animonster edisi 105 - Desember 2007, halaman 094-097"
             ],
             "category": [
                 "Cosplay - Gathering / Parade / Casual"
@@ -2703,10 +2645,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ejqeso_6",
-        "location_address": "Parkir Timur Gelora Bung Karno, Senayan",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219246747376081, 106.80810142527882",
+        "location_gmaps": "https://goo.gl/maps/zvmqYLcDH4rtiNp18",
         "links": [],
         "Content": {
             "presenter": [
@@ -2799,10 +2741,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "cosplay_black_party_20071103_jcc",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "QRP4+HJP, Jl. Gatot Subroto, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.214645676787525, 106.80701285867661",
+        "location_gmaps": "https://maps.app.goo.gl/tYPD1NH8exSWwmn17",
         "links": [
             "https://www.reddit.com/r/indonesia/comments/1nj4rqa/event_cosplay_di_indonesia_pada_2008_sumber/"
         ],
@@ -2864,10 +2806,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "xbffmc_9",
-        "location_address": "Thamrin",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Sarinah, Jl. M.H. Thamrin No.11, RT.8/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.187740481673485, 106.82358666839531",
+        "location_gmaps": "https://maps.app.goo.gl/LcXpDJS7RV7SBLfQA",
         "links": [
             "www.hvxqindo.com"
         ],
@@ -2930,10 +2872,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "rudwlx_4",
-        "location_address": "Gelora Bung Karno, Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.220301889851176, 106.80572783895975",
+        "location_gmaps": "https://maps.app.goo.gl/yQQ8aGWezXGMfu1g9",
         "links": [
             ""
         ],
@@ -2979,10 +2921,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ohwgcq_4",
-        "location_address": "Kebayoran",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. KH. Ahmad Dahlan Jalan Radio Dalam Raya No.14 2, RT.2/RW.1, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.244987820387993, 106.79141539288",
+        "location_gmaps": "https://maps.app.goo.gl/QjeMbWgwnfsum1gp6",
         "links": [],
         "Content": {
             "presenter": [
@@ -3019,10 +2961,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "esjuhy_9",
-        "location_address": "Blitz Megaplex",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Grand Indonesia West Mall, Jl. M.H. Thamrin No.1 Lt.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1947385808675675, 106.81970345842456",
+        "location_gmaps": "https://maps.app.goo.gl/LQB7DJLZZgx1B6pc8",
         "links": [],
         "Content": {
             "presenter": [
@@ -3253,10 +3195,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "yjhoum_8",
-        "location_address": "Mangga Dua, Jakarta",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.134009468516035, 106.83084912366922",
+        "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
         "links": [
             ""
         ],
@@ -3438,10 +3380,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jdgmht_3",
-        "location_address": "Plaza Senayan",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Plaza Senayan Mall, (Sogo) 5th Floor, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.225598764729964, 106.79921868690293",
+        "location_gmaps": "https://maps.app.goo.gl/eMCTkbYv9avVE6sw6",
         "links": [
             "http://www.imaginaryfs.com",
             "http://artgerm.deviantart.com",
@@ -3490,10 +3432,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "xgsfie_3",
-        "location_address": "Assembly Hall JHCC",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.214382626433928, 106.80754759634755",
+        "location_gmaps": "https://maps.app.goo.gl/nDZKiGY2MCzMvGbr8",
         "links": [],
         "Content": {
             "presenter": "World Cyber Games (WCG)",
@@ -3556,10 +3498,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "mbaikf_4",
-        "location_address": "WTC Mangga Dua",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.134009468516035, 106.83084912366922",
+        "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
         "links": [
             "http://no.nipponclub.net"
         ],
@@ -3738,10 +3680,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "wwqclw_6",
-        "location_address": "Mall Artha Gading",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Artha Gading Sel. No.1, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.145629141711172, 106.89216576094942",
+        "location_gmaps": "https://maps.app.goo.gl/r7DdKD6u4eS8yVYq7",
         "links": [],
         "Content": {
             "sponsors": [
@@ -3862,10 +3804,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "okqttz_4",
-        "location_address": "Jakarta Convention Center",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.2144828411609225, 106.80749939440518",
+        "location_gmaps": "https://maps.app.goo.gl/dSC3qthMdG8gbJ7W6",
         "links": [],
         "Content": {
             "presenter": "GameStation",
