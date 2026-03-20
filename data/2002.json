@@ -15,8 +15,8 @@
         "status": "",
         "attended": "",
         "_id": "",
-        "location_address": "",
-        "location_city": "Jakarta",
+        "location_address": "Jl. Lap. Banteng Selatan No.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+        "location_city": "Jakarta Pusat",
         "location_coordinate": "",
         "location_gmaps": "",
         "location_country": "Indonesia",
@@ -315,10 +315,10 @@
         "status": "",
         "attended": "",
         "_id": "",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Arteri S. Parman, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.168156094351381, 106.78673589643877",
+        "location_gmaps": "https://g.page/malciputrajkt",
         "location_country": "Indonesia",
         "links": [
           ""
@@ -560,10 +560,10 @@
         "status": "Completed",
         "attended": "",
         "_id": "eaeaew_6",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Mall Taman Anggrek, Jl. S. Parman No.Kav 21, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11420",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.177611609131923, 106.79333610669232",
+        "location_gmaps": "https://maps.app.goo.gl/tawiz5c1Xjhv7yD17",
         "links": [
             ""
         ],
@@ -576,6 +576,12 @@
                 "costume": "Peminjaman gratis kostum original Kuuga dari Jepang"
             },
             "duration": "2 Minggu",
+            "2nd_place" : {
+              "location_address": "Pd. Indah Mall 1, Pondok Aren, Jl. Metro Pondok Indah No.16 Lt. 2, RT.1/RW.16, Pd. Pinang, Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 15225",
+              "location_city": "Jakarta Selatan",
+              "location_coordinate": "-6.265567501308859, 106.78479826819402",
+              "location_gmaps": "https://maps.app.goo.gl/RYxaKKzz4uF8puj5A"
+            },
             "source": "Animonster 42 - September 2002",
             "category": [
                 "Tokusatsu / Kamen Rider"

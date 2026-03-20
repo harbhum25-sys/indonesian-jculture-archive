@@ -15,10 +15,10 @@
         "status": "Past",
         "attended": "",
         "_id": "xxarjp_1",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.Kav. 19, RT.8/RW.2, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226954791593482, 106.81836951399232",
+        "location_gmaps": "https://maps.app.goo.gl/U5b8sSsZ7uDXVT539",
         "links": [
             ""
         ],
@@ -221,10 +221,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "wqzwjz_3",
-        "location_address": "Jl. Palmerah Selatan No. 17",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Palmerah Sel. No.17, RT.4/RW.2, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.2102659219065215, 106.79550151179912",
+        "location_gmaps": "https://maps.app.goo.gl/WYBHuBVfjF7LjbWVA",
         "links": [
             "http://www.manc-komik.com"
         ],
@@ -281,10 +281,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "nhieas_5",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Raya Kb. Jeruk No.27, RT.1/RW.9, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.201751624995036, 106.78225558155025",
+        "location_gmaps": "https://maps.app.goo.gl/H1YGxBQPm9tBSga8A",
         "links": [
             ""
         ],
@@ -338,14 +338,10 @@
         "Subject": "Pendaftaran Kelas Komik & Karakter Desain Master Web School",
         "Location": "Master Web School",
         "Comment": "",
-        "Online/Offline": "Offline",
+        "Online/Offline": "Online",
         "status": "Finished",
         "attended": "",
         "_id": "njqvso_5",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
         "links": [
             "www.masterwebschool.com"
         ],
@@ -387,10 +383,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "gbrppb_9",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.22537675192752, 106.79907606262888",
+        "location_gmaps": "https://maps.app.goo.gl/xCy2B39BqCduAMsL6",
         "links": [
             ""
         ],
@@ -542,10 +538,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "hwlafx_1",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.214384955999119, 106.80754994538829",
+        "location_gmaps": "https://maps.app.goo.gl/pksxRjwZS9b8ysrx8",
         "links": [
             ""
         ],

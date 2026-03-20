@@ -16,7 +16,7 @@
         "attended": "",
         "_id": "pkn4_20000618_tim_jakarta",
         "location_address": "Taman Ismail Marzuki No.73, Jl. Cikini Raya No.73, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
-        "location_city": "Jakarta",
+        "location_city": "Jakarta Pusat",
         "location_coordinate": "-6.188785160397791, 106.83959991172641",
         "location_gmaps": "https://maps.app.goo.gl/1VSXYrqdd7exE1Uf6",
         "links": [
@@ -91,8 +91,8 @@
         "status": "Completed",
         "attended": "",
         "_id": "indonesia-japan-week-2000-bon-odori",
-        "location_address": "Jl MH Thamrin No 1",
-        "location_city": "Jakarta",
+        "location_address": "Jl. M.H. Thamrin No.1, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+        "location_city": "Jakarta Pusat",
         "location_coordinate": "-6.1951,106.8228",
         "location_gmaps": "https://maps.google.com/?q=-6.1951,106.8228",
         "links": [

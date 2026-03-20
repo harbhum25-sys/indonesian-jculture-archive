@@ -456,10 +456,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "xtsxcg_8",
-        "location_address": "Balai Sidang Jakarta Convention Center",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.2144828411609225, 106.80749939440518",
+        "location_gmaps": "https://maps.app.goo.gl/dSC3qthMdG8gbJ7W6",
         "links": [
             ""
         ],
