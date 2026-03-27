@@ -126,10 +126,6 @@
         "status": "Finished",
         "attended": "",
         "_id": "comivuro1",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
         "links": [
             ""
         ],
@@ -269,10 +265,6 @@
         "status": "Finished",
         "attended": "",
         "_id": "comivuro2",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
         "links": [
             ""
         ],

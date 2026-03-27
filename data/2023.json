@@ -24204,8 +24204,8 @@
         "_id": "hereus_1",
         "location_address": "GF1, Wisma Staco, Jl. Raya Casablanca No.Kav 18, RT.4/RW.12, Menteng Dalam, Tebet, South Jakarta City, Jakarta 12870",
         "location_city": "Jakarta Selatan",
-        "location_coordinate": "https://goo.gl/maps/n1ZKQHsKYXrBV3dC6",
-        "location_gmaps": "-6.224541663341547, 106.84037407280152",
+        "location_coordinate": "-6.224541663341547, 106.84037407280152",
+        "location_gmaps": "https://goo.gl/maps/n1ZKQHsKYXrBV3dC6",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10161755441153836/",
             "https://instagram.com/hereusmusic"
@@ -48998,7 +48998,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dsbdtd_8",
+        "_id": "iaarhb_2",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -49183,7 +49183,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dsbdtd_8",
+        "_id": "iaarhb_2",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -49726,7 +49726,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dsbdtd_8",
+        "_id": "iaarhb_2",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
@@ -64413,7 +64413,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "HITOCHUU MATSURI 8",
-        "Location": "\nSMAN 2 Tambun Selatan",
+        "Location": "SMAN 2 Tambun Selatan",
         "Comment": "Insert to J-Event List : 20231007 21:32:19\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -67499,37 +67499,6 @@
         "Content": {
             "category": [
                 "Convention / Expo / Comic Market"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20231028",
-        "Start Time": "",
-        "End Date": "20231029",
-        "End Time": "",
-        "Reminder On/Off": "",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "ONI MATSURI 4 (Obake Yashiki)",
-        "Location": "SMAN 7 Bogor",
-        "Comment": "Insert to J-Event List : 20230830 09:01:48\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "onimat_7",
-        "location_address": "Jl. Palupuh Raya No.9, RT.05/RW.02, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",
-        "location_city": "Bogor",
-        "location_coordinate": "-6.578221573065561, 106.8142662829521",
-        "location_gmaps": "https://maps.app.goo.gl/jD69Xm6Z697d1eEdA",
-        "links": [
-            "https://web.facebook.com/groups/251875943835/posts/10162030994643836/",
-            "https://instagram.com/onimatsuri"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri"
             ]
         },
         "location_country": "Indonesia"
@@ -71452,9 +71421,40 @@
             ""
         ],
         "Content": {
+            "reschedule": {
+                "from": "2023-10-28 - 2023-10-29",
+                "to": "2023-11-11 - 2023-11-12"
+            },
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber"
+            ],
+            "edition": "4",
+            "description": "ONI MATSURI 4 menghadirkan berbagai hiburan seperti coswalk competition dan penampilan guest star serta idol untuk memeriahkan acara.",
+            "guest_stars": {
+                "music": [
+                    "Bigmong",
+                    "BGR48"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "Lansame"
+                ]
+            },
+            "performers": [
+                "Bigmong",
+                "BGR48"
+            ],
+            "social_media": {
+                "instagram": [
+                    "@bigmongs",
+                    "@bgr48id",
+                    "@lansame2"
+                ]
+            }
         },
         "location_country": "Indonesia"
     },

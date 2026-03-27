@@ -28856,5 +28856,60 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20230121",
+        "Start Time": "",
+        "End Date": "20230121",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "LOMBA COSPLAY CABARET & COSPLAY COMPETITION",
+        "Location": "Atrium Utama Mall Ambarukmo Plaza",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "cosplay_cabaret_competition_2023_jogja",
+        "location_address": "Jl. Laksda Adisucipto No.80, Ambarukmo, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "-7.782576665048521, 110.40109583606706",
+        "location_gmaps": "https://maps.app.goo.gl/JCzV8yiFvZZAst5SA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.facebook.com/groups/cosplayjogja/posts/6062313753800630"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "description": "Lomba Cosplay Cabaret dan Cosplay Competition yang kembali diselenggarakan di Yogyakarta setelah sekian lama.",
+            "competition": {
+                "cosplay_cabaret": {
+                    "description": "Kompetisi kabaret cosplay"
+                },
+                "cosplay_competition": {
+                    "description": "Kompetisi cosplay umum"
+                }
+            },
+            "judges": {
+                "main": [
+                    "Yumaki",
+                    "Dharma"
+                ]
+            },
+            "guest_stars": {
+                "achievement": [
+                    "Pemenang WCS 2022"
+                ]
+            },
+            "source": {
+                "platform": "Facebook Group",
+                "post_title": "LOMBA COSPLAY CABARET & COSPLAY COMPETITION"
+            }
+        }
     }
 ]
