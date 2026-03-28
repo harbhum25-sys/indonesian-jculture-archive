@@ -873,10 +873,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro4",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Balai Rakyat, RT.8/RW.10, Utan Kayu Utara, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13120",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.197570342727456, 106.86945875148639",
+        "location_gmaps": "https://maps.app.goo.gl/mRgyiaBTMkUVPNM87",
         "links": [
             ""
         ],
@@ -976,7 +976,7 @@
         "Content": {
             "category": []
         },
-        "location_country": "Indonesia"
+        "location_country": "Japan"
     },
     {
         "Start Date": "20140927",
@@ -994,10 +994,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "hdjoku_5",
-        "location_address": "Jalan Cihampelas No. 194 Bandung",
+        "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.8919434688336985, 107.60445698295439",
+        "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
         "links": [
             "https://web.facebook.com/photo/?fbid=588787494560698&set=a.491152256351475"
         ],
@@ -1080,10 +1080,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "coyady_8",
-        "location_address": "Universitas Padjadjaran, Jatinangor, Sumedang, Jawa Barat",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
         "location_city": "Sumedang",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
         "links": [
             "https://www.kaorinusantara.or.id/newsline/15216/himpunan-mahasiswa-sastra-jepang-unpad-mempersembahkan-fesbukan-2014",
             "https://japbandung-asia.blogspot.com/2014/08/unpad-fesbukan-2014.html"

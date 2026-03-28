@@ -76,10 +76,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "fcdzbq_3",
-        "location_address": "Universitas Padjadjaran, Bandung",
+        "location_address": "Jl. Dipati Ukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.893317712843067, 107.61730402883606",
+        "location_gmaps": "https://maps.app.goo.gl/ExD3BjqPHXUvncVQ7",
         "links": [
             ""
         ],
@@ -203,10 +203,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "oafdeu_7",
-        "location_address": "Jl. Ciumbuleuit No. 199",
+        "location_address": "Jl. Ciumbuleuit No.199, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat 40142",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.866019471995079, 107.60573444538399",
+        "location_gmaps": "https://maps.app.goo.gl/xAkZqVsv7DipctSv6",
         "links": [
             ""
         ],
@@ -269,16 +269,16 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "JAF-CON10 - Hobby Expo 2001",
-        "Location": "Jepang",
+        "Location": "Pacifico Yokohama",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "ainclx_3",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "1 Chome-1-1 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Jepang",
+        "location_city": "Yokohama",
+        "location_coordinate": "35.45920949971006, 139.63613166494733",
+        "location_gmaps": "https://maps.app.goo.gl/jEU28pjbQgpxmM1E9",
         "links": [
             ""
         ],
@@ -326,7 +326,7 @@
                 "Toy / Figure / Hobby"
             ]
         },
-        "location_country": "Indonesia"
+        "location_country": "Japan"
     },
     {
         "Start Date": "20010805",
@@ -344,10 +344,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ydhctb_4",
-        "location_address": "",
+        "location_address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Jepang",
         "location_city": "Tokyo",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "35.62912521464006, 139.7947420864272",
+        "location_gmaps": "https://maps.app.goo.gl/CxdESqySisGSy4Ao7",
         "links": [
             ""
         ],
@@ -397,10 +397,10 @@
         "status": "Completed",
         "attended": "",
         "_id": "qiboam_5",
-        "location_address": "Kampus UI Depok, Fakultas Ilmu Pengetahuan Budaya (dulu Fakultas Sastra)",
+        "location_address": "JRPH+C5C, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
         "location_city": "Depok",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.363933451283017, 106.82814074557612",
+        "location_gmaps": "https://maps.app.goo.gl/5uok55HH5Rw9vRcA6",
         "links": [
             ""
         ],
@@ -502,7 +502,7 @@
         "Reminder Time": "",
         "Importance": "High",
         "Subject": "Jakarta International Film Festival (JiFFest) 2001",
-        "Location": "Jakarta",
+        "Location": "Djakarta XXI (Djakarta Theater XXI yang baru direnovasi), Kineforum TIM 21, serta beberapa pusat kebudayaan seperti GoetheHaus dan Erasmus Huis",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -553,11 +553,11 @@
         "status": "Finished",
         "attended": "No",
         "_id": "pekan_komik_nasional_5_2002",
-        "location_address": "Kampus Fakultas Sastra Universitas Indonesia, Depok",
+        "location_address": "JRPH+H48, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
         "location_city": "Depok",
         "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.36358104242048, 106.82781332055568",
+        "location_gmaps": "https://maps.app.goo.gl/gzE7jUdkfpXnpqgd8",
         "links": [],
         "Content": {
             "category": [

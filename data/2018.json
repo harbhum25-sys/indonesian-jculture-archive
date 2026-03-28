@@ -676,10 +676,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro10",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.6 Kav. 37, RT.6/RW.3, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234414603122992, 106.82539744497542",
+        "location_gmaps": "https://maps.app.goo.gl/NoDu8JU7twLzPQdz8",
         "links": [
             ""
         ],
@@ -1663,10 +1663,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro11",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.6 Kav. 37, RT.6/RW.3, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234414603122992, 106.82539744497542",
+        "location_gmaps": "https://maps.app.goo.gl/NoDu8JU7twLzPQdz8",
         "links": [
             ""
         ],

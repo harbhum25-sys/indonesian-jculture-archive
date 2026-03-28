@@ -15,10 +15,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ivtsfd_3",
-        "location_address": "Jl. Pemuda 163",
+        "location_address": "Jl. Pemuda No.163, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
         "location_city": "Semarang",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.982170680841066, 110.41125400088858",
+        "location_gmaps": "https://maps.app.goo.gl/vzyPrQYg8CfvtK1r7",
         "links": [],
         "Content": {
             "presenter": [],
@@ -47,54 +47,6 @@
             },
             "category": [
                 "Party / Night Event"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20041223",
-        "Start Time": "20:00",
-        "End Date": "20041223",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Japan Acoustic Night",
-        "Location": "Old House Party (OHP) Cafe",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "adipem_1",
-        "location_address": "",
-        "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [],
-        "Content": {
-            "source": "Animonster 71 - Februari 2005",
-            "page": 24,
-            "reported_by": "D*Illusion",
-            "mcs": [
-                "Wei Ardian",
-                "Ari Kenshin"
-            ],
-            "performers": [
-                "Snowberry",
-                "Shiroi Hana",
-                "Spica",
-                "Perfect Blue",
-                "Leave (Ex. Lastifer)",
-                "C'est la Vie"
-            ],
-            "event_summary": {
-                "atmosphere": "Romantic, dim lighting, candlelit tables",
-                "logistics": "Started with a slight delay, limited seating space, inadequate sound system",
-                "status": "Successful due to support from Japanese music fans"
-            },
-            "category": [
-                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia"
@@ -176,10 +128,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "zhnrac_8",
-        "location_address": "",
+        "location_address": "Jl. Raya Sawangan No.91, Mampang, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16433",
         "location_city": "Depok",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.394172996823678, 106.80211777939154",
+        "location_gmaps": "https://maps.app.goo.gl/AXFtt8fftLGoD7RT9",
         "links": [],
         "Content": {
             "source": "Animonster 72 - Maret 2005, halaman 28",
@@ -220,10 +172,10 @@
         "status": "Finished",
         "attended": "Yes",
         "_id": "ejyinm_3",
-        "location_address": "",
+        "location_address": "Jl. Purnawarman No.13-15, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.907847877183496, 107.60884017113183",
+        "location_gmaps": "https://goo.gl/maps/yDj3ttMNeA6ggiK28",
         "links": [],
         "Content": {
             "source": "Animonster 72 - Maret 2005, halaman 32",
@@ -510,10 +462,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "yayuwz_6",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Ruko Shila D5 No.11, Bojongsari Lama, Kec. Sawangan, Kota Depok, Jawa Barat 16516",
+        "location_city": "Depok",
+        "location_coordinate": "-6.401124316291407, 106.74559423951975",
+        "location_gmaps": "https://maps.app.goo.gl/rSZhwPPuUNMmpazb9",
         "links": [],
         "Content": {
             "Source": "Animonster 74 - Mei 2005",
@@ -634,10 +586,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "lrudum_5",
-        "location_address": "",
+        "location_address": "Jl. Imam Barjo No.1, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241",
         "location_city": "Semarang",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.994934449856996, 110.42472926735054",
+        "location_gmaps": "https://maps.app.goo.gl/NDZMcq8s6ZAZcJucA",
         "links": [],
         "Content": {
             "source": "Animonster 74 - Mei 2005",
@@ -731,10 +683,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ctbdwe_2",
-        "location_address": "Jl. Cihampelas no. 194",
+        "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.8919434688336985, 107.60445698295439",
+        "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
         "links": [
             ""
         ],
@@ -837,10 +789,10 @@
         "status": "Finished",
         "attended": "Unknown",
         "_id": "qrbrwa_7",
-        "location_address": "Sukajadi",
+        "location_address": "Jl. Bungur No.2, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.882491478083227, 107.59539451596551",
+        "location_gmaps": "https://maps.app.goo.gl/Bz16wLqL4Thub2cR9",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1097,10 +1049,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "brpbbs_9",
-        "location_address": "",
+        "location_address": "Jl. Pasir Kaliki No.121-123, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.905606874970486, 107.5970014252836",
+        "location_gmaps": "https://g.page/istanaplaza",
         "links": [
             ""
         ],
@@ -1172,10 +1124,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "nsezmy_9",
-        "location_address": "",
+        "location_address": "Jl. Jenderal Basuki Rachmat.8-12, Tunjungan Plaza IV, UG. 54-55, Kedungdoro, Tegalsari, Surabaya, East Java 60261",
         "location_city": "Surabaya",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.263298895694292, 112.74050291664784",
+        "location_gmaps": "https://maps.app.goo.gl/gQVZavvXNMdEiEqw8",
         "links": [
             ""
         ],
@@ -1206,10 +1158,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jgfhsp_8",
-        "location_address": "Jakarta Pusat",
+        "location_address": "Jl. Gajah Mada No.19-26, RT.2/RW.1, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",
         "location_city": "Jakarta Pusat",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.160710854140612, 106.8187085501174",
+        "location_gmaps": "https://maps.app.goo.gl/9yzXAZYrzCpaVbWAA",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1255,10 +1207,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dlmmaq_8",
-        "location_address": "Jl. Ganesha 10, Bandung",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.892322243487059, 107.61102770000001",
+        "location_gmaps": "https://goo.gl/maps/4KeYdMiiZaS6UBbr9",
         "links": [],
         "Content": {
             "Organizer": "DKV ITB",
@@ -1357,10 +1309,10 @@
         "status": "Finished",
         "attended": "Unknown",
         "_id": "nvvywv_6",
-        "location_address": "Cihampelas",
+        "location_address": "Jl. Cihampelas No.42a, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.903181041001343, 107.60446926253317",
+        "location_gmaps": "https://maps.app.goo.gl/trpbDa3kg1Me4BvSA",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1401,10 +1353,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "vvdzcs_8",
-        "location_address": "Jl. Diponegoro",
+        "location_address": "Jl. Diponegoro No.3A, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.900278197032216, 107.61368522614525",
+        "location_gmaps": "https://maps.app.goo.gl/FypcdY2rYv1W79Eo9",
         "links": [
             "http://www.animonstaronline.net"
         ],
@@ -1446,10 +1398,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ytmexi_6",
-        "location_address": "Cihampelas Walk",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.89427559398959, 107.60556192104656",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
         "links": [
             "http://www.animonstaronline.net"
         ],
@@ -1839,10 +1791,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "goesza_4",
-        "location_address": "",
+        "location_address": "Jl. TB Simatupang No.17, RT.6/RW.9, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
         "location_city": "Jakarta Selatan",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.291467560393115, 106.79968761165213",
+        "location_gmaps": "https://maps.app.goo.gl/3R5wR3FhAc6MiaCq6",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1962,10 +1914,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jjleqy_9",
-        "location_address": "",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
         "links": [],
         "Content": {
             "organizer": [
@@ -2066,10 +2018,12 @@
         "attended": "",
         "_id": "szjvbx_9",
         "location_address": "",
-        "location_city": "Jogjakarta",
+        "location_city": "Yogyakarta",
         "location_coordinate": "",
         "location_gmaps": "",
-        "links": [],
+        "links": [
+            "https://dspace.uii.ac.id/bitstream/handle/123456789/1379/05.2%20bab%202.pdf?sequence=6&isAllowed=y"
+        ],
         "Content": {
             "presenter": [
                 "Hikaru Community"
@@ -2113,10 +2067,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jaokdm_8",
-        "location_address": "",
+        "location_address": "Jl. Wastukencana No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.911538486310211, 107.60980041178988",
+        "location_gmaps": "https://goo.gl/maps/EqERAy5hT1ZH37jG7",
         "links": [],
         "Content": {
             "Tagline": "Kreasimu Wujudkan Mimpimu!",

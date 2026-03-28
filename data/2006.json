@@ -155,10 +155,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "pvocls_3",
-        "location_address": "",
+        "location_address": "Jl. Colombo Yogyakarta No.1, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
         "location_city": "Yogyakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.776653888433266, 110.38395426479958",
+        "location_gmaps": "https://goo.gl/maps/dM4w9UBoosfmLsEP6",
         "links": [
             ""
         ],
@@ -206,10 +206,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "alsqbe_4",
-        "location_address": "",
+        "location_address": "Jl. Telekomunikasi No.20, Sukapura, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40267",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.971304403674323, 107.63144393452414",
+        "location_gmaps": "https://goo.gl/maps/64NUeYwFLSbXR8VP7",
         "links": [],
         "Content": {
             "source": "Animonster 83 - Februari 2006, Halaman 74",
@@ -256,10 +256,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "gbqojk_2",
-        "location_address": "Jl. Diponegoro 21",
+        "location_address": "Jl. Diponegoro No.21, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.900854321799155, 107.61578542911163",
+        "location_gmaps": "https://maps.app.goo.gl/P6L4grRaKe1ykGC68",
         "links": [
             "http://www.animonster.online.net"
         ],
@@ -348,10 +348,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "shnyfw_7",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226104213924778, 106.80430051238068",
+        "location_gmaps": "https://maps.app.goo.gl/EnX6R9fGuktm27de6",
         "links": [],
         "Content": {
             "Source": "Animonster 84 - Maret 2006, Halaman 64",
@@ -372,71 +372,6 @@
         "location_country": "Indonesia"
     },
     {
-        "Start Date": "20060222",
-        "Start Time": "20:00",
-        "End Date": "2006022",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "High",
-        "Subject": "Core of Soul - One Love, One Day, One Life! Jakarta Visit",
-        "Location": "Graha Bhakti Budaya TIM",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Completed",
-        "attended": "Yes",
-        "_id": "001",
-        "location_address": "Taman Ismail Marzuki, No. 73, Jl. Cikini IX, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.1892030892514285, 106.83974748335645",
-        "location_gmaps": "https://maps.app.goo.gl/Fp1X8HvXZgqB1dpr9",
-        "links": [
-            "https://www.antaranews.com/berita/28120/trio-core-of-soul-dari-jepang-siap-manggung-di-jakarta-dan-bandung"
-        ],
-        "Content": {
-            "source": "Animonster 85 - April 2006, Halaman 84-85",
-            "artist_profile": {
-                "band_name": "Core of Soul",
-                "members": [
-                    "Fukko (Vocalis)",
-                    "Song Rui (Gitaris)",
-                    "Keisuke Iizuka (Computer Manipulator)"
-                ],
-                "origin": "Osaka, Jepang"
-            },
-            "press_conference": {
-                "venue": "Hotel Nikko Thamrin",
-                "duration": "Sekitar 1 Jam",
-                "participants": [
-                    "Core of Soul",
-                    "Mocca"
-                ]
-            },
-            "concert_details": {
-                "venue_other": "Graha Bhakti Budaya TIM",
-                "guest_star": "Mocca",
-                "setlist": [
-                    "Ageha",
-                    "Full Moon Prayer",
-                    "Tsuki de Matsu Kimi",
-                    "Purple Sky",
-                    "Alone on the Beach",
-                    "Konayuki no Kimochi",
-                    "Koi no Umi dan Hanawa",
-                    "Yumenori Rider",
-                    "Hello-Hello Another Star"
-                ]
-            },
-            "additional_info": {
-                "tour_name": "One Love, One Day, One Life!",
-                "disbanding_announcement": "23 Maret 2006"
-            },
-            "category": []
-        },
-        "location_country": "Indonesia"
-    },
-    {
         "Start Date": "20060211",
         "Start Time": "12:00",
         "End Date": "20060214",
@@ -452,10 +387,10 @@
         "status": "Completed",
         "attended": "Yes",
         "_id": "002",
-        "location_address": "Jalan Malioboro",
+        "location_address": "Jl. Margo Mulyo No.6, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
         "location_city": "Yogyakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.800733636722489, 110.36617648787502",
+        "location_gmaps": "https://goo.gl/maps/7NYfp75zjyjr7Xvo6",
         "links": [
             ""
         ],
@@ -524,10 +459,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "gbedgs_9",
-        "location_address": "Jl. Cihampelas no. 194",
+        "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.8919434688336985, 107.60445698295439",
+        "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -874,6 +809,71 @@
     },
     {
         "Start Date": "20060222",
+        "Start Time": "20:00",
+        "End Date": "2006022",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "High",
+        "Subject": "Core of Soul - One Love, One Day, One Life! Jakarta Visit",
+        "Location": "Graha Bhakti Budaya TIM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "Yes",
+        "_id": "001",
+        "location_address": "Taman Ismail Marzuki, No. 73, Jl. Cikini IX, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1892030892514285, 106.83974748335645",
+        "location_gmaps": "https://maps.app.goo.gl/Fp1X8HvXZgqB1dpr9",
+        "links": [
+            "https://www.antaranews.com/berita/28120/trio-core-of-soul-dari-jepang-siap-manggung-di-jakarta-dan-bandung"
+        ],
+        "Content": {
+            "source": "Animonster 85 - April 2006, Halaman 84-85",
+            "artist_profile": {
+                "band_name": "Core of Soul",
+                "members": [
+                    "Fukko (Vocalis)",
+                    "Song Rui (Gitaris)",
+                    "Keisuke Iizuka (Computer Manipulator)"
+                ],
+                "origin": "Osaka, Jepang"
+            },
+            "press_conference": {
+                "venue": "Hotel Nikko Thamrin",
+                "duration": "Sekitar 1 Jam",
+                "participants": [
+                    "Core of Soul",
+                    "Mocca"
+                ]
+            },
+            "concert_details": {
+                "venue_other": "Graha Bhakti Budaya TIM",
+                "guest_star": "Mocca",
+                "setlist": [
+                    "Ageha",
+                    "Full Moon Prayer",
+                    "Tsuki de Matsu Kimi",
+                    "Purple Sky",
+                    "Alone on the Beach",
+                    "Konayuki no Kimochi",
+                    "Koi no Umi dan Hanawa",
+                    "Yumenori Rider",
+                    "Hello-Hello Another Star"
+                ]
+            },
+            "additional_info": {
+                "tour_name": "One Love, One Day, One Life!",
+                "disbanding_announcement": "23 Maret 2006"
+            },
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20060222",
         "Start Time": "",
         "End Date": "20060317",
         "End Time": "",
@@ -949,10 +949,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ttgxwi_1",
-        "location_address": "Jatinangor",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
         "location_city": "Sumedang",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
         "links": [],
         "Content": {
             "source": "Animonster 85 - April 2006",
@@ -988,7 +988,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Launching Bionicle: Piraka",
-        "Location": "Offline",
+        "Location": "Beberapa Toko Mainan di Indonesia",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -1040,10 +1040,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "tumzqk_4",
-        "location_address": "",
+        "location_address": "Jl. Pakuwon Indah, Lidah Wetan, Kec. Lakarsantri, Surabaya, Jawa Timur 60213",
         "location_city": "Surabaya",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.295549688684576, 112.67466381890077",
+        "location_gmaps": "https://maps.app.goo.gl/HwujTnuj88mKPByL7",
         "links": [],
         "Content": {
             "presenter": [
@@ -1080,10 +1080,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "anxwaz_8",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Taman Malaka Selatan No.8, RT.8/RW.6, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.230056049479367, 106.92413023066698",
+        "location_gmaps": "https://maps.app.goo.gl/FXPq5M1qeqjuXvXQ7",
         "links": [],
         "Content": {
             "organizer": "HIJANSA (Himpunan Mahasiswa Jepang Universitas Darma Persada)",
@@ -1168,10 +1168,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "mlvkja_8",
-        "location_address": "Jl. Belitung 8",
+        "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.912122425343767, 107.61500855227105",
+        "location_gmaps": "https://goo.gl/maps/nhpJwpBE879b5AX39",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1259,10 +1259,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dqkmcc_9",
-        "location_address": "",
+        "location_address": "1200 Louisiana St, Houston, TX 77002, Amerika Serikat",
         "location_city": "Houston, Texas",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "29.756634464894713, -95.36960697181108",
+        "location_gmaps": "https://maps.app.goo.gl/AKd5R5Yf2ih7fEyy8",
         "links": [],
         "Content": {
             "source": "Animonster 89",
@@ -1286,7 +1286,7 @@
             },
             "category": []
         },
-        "location_country": "Indonesia"
+        "location_country": "USA"
     },
     {
         "Start Date": "20060505",
@@ -1377,10 +1377,11 @@
         "status": "Completed",
         "attended": "",
         "_id": "vqmhxg_7",
-        "location_address": "Universitas Indonesia, Depok",
+        "location_address": "Universitas Indonesia, Pusat Studi Jepang Universitas Indonesia (PSJ UI, Jl. Prof. DR. Selo Soemardjan, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
         "location_city": "Depok",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.361837417268671, 106.82849617715488",
+        "location_gmaps": "https://maps.app.goo.gl/hgCdcWHnNJS28m2L9",
+        "location_country": "Indonesia",
         "links": [
             ""
         ],
@@ -1486,10 +1487,10 @@
         "status": "Completed",
         "attended": "",
         "_id": "ltchge_9",
-        "location_address": "Jl. M.H. Thamrin",
+        "location_address": "Jl. M.H. Thamrin No.59 9, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
         "location_city": "Jakarta Pusat",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.193943664990935, 106.82399272798048",
+        "location_gmaps": "https://maps.app.goo.gl/KzfAPMQNEhFj9CFB7",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1566,7 +1567,6 @@
         "Location": "Kemang",
         "Comment": "",
         "Offline/Online": "Offline",
-        "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "fovzva_3",
@@ -1601,17 +1601,17 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan & Lomba Pidato Bahasa Jepang Se-Jateng dan DIY ke 16",
+        "Subject": "Nihon Go No Hi - Seminar Bahasa Jepang dalam Perspektif Penerjemahan & Lomba Pidato Bahasa Jepang Se-Jateng dan DIY ke 16",
         "Location": "Auditorium FIB UGM",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "rmdvaj_8",
-        "location_address": "",
+        "location_address": "69HH+4C4, Sagan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
         "location_city": "Yogyakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.7722262997076355, 110.37856363608415",
+        "location_gmaps": "https://maps.app.goo.gl/XkzwrW9w9Qwf9NDWA",
         "links": [],
         "Content": {
             "presenter": "Himpunan Mahasiswa Sastra dan Bahasa Jepang Universitas Gadjah Mada",
@@ -1633,43 +1633,6 @@
                 "UrChannel",
                 "Jogja TV"
             ],
-            "source": {
-                "publikasi": "Animonster",
-                "edisi": 87,
-                "bulan": "Juni 2006",
-                "halaman": "Rubrik Kabaru"
-            },
-            "category": [
-                "Budaya Jepang - Bahasa / Akademik",
-                "Talkshow / Seminar / Workshop"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20060519",
-        "Start Time": "",
-        "End Date": "20060520",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Nihon Go No Hi",
-        "Location": "Fakultas Ilmu Budaya UGM",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "ymmrkz_9",
-        "location_address": "",
-        "location_city": "Yogyakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            ""
-        ],
-        "Content": {
             "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang [HIMAJE] UGM",
             "event_day_1": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan (19 Mei 2006)",
             "presenters": "Bapak Helmi Nonaka (PT. JAC Indonesia), Ibu Ikuyo Sato (penerjemah professional), Mbak Widati Utami (PT. Elex Media Komputindo), Mulyadi Sensei (Dosen UGM)",
@@ -1677,8 +1640,16 @@
             "performances": "Tarian Kaka Kinki Odori, Penampilan Hiro-san (menyanyikan lagu True Love)",
             "speech_contest_winners": "Juara 1: T.A. Thaariq (UGM), Juara 2: Santi Purnamasari (UTY), Juara 3: Dwi Puji Asrini (UNNES)",
             "judges": "Saitou Mami (Japan Foundation), Haruna Misako (Wisma Bahasa Yogyakarta), Bapak Gunawan (Praktisi Bahasa Jepang)",
-            "source": "Animonster 88 - Juli 2006",
-            "category": []
+            "source": [{
+                            "publikasi": "Animonster",
+                            "edisi": 87,
+                            "bulan": "Juni 2006",
+                            "halaman": "Rubrik Kabaru"
+                        }, "Animonster 88 - Juli 2006"],
+            "category": [
+                "Budaya Jepang - Bahasa / Akademik",
+                "Talkshow / Seminar / Workshop"
+            ]
         },
         "location_country": "Indonesia"
     },
@@ -1698,10 +1669,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "juqdvg_3",
-        "location_address": "Jl. Jakarta No. 15",
+        "location_address": "Jl. Jakarta No.15, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.914312789582564, 107.63626048084909",
+        "location_gmaps": "https://maps.app.goo.gl/xksgjV7NCxbLhZ5i8",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1750,10 +1721,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "dnmjnx_7",
-        "location_address": "",
+        "location_address": "Jl. Jend. Sudirman No.75, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223",
         "location_city": "Yogyakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.782920375186747, 110.37558248500495",
+        "location_gmaps": "https://maps.app.goo.gl/Yrn16asrQQBS8o64A",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1842,46 +1813,13 @@
         "status": "Finished",
         "attended": "",
         "_id": "003",
-        "location_address": "",
+        "location_address": "Jl. Siliwangi, RT.04/RW.04, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16134",
         "location_city": "Bogor",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.621636652597775, 106.81706347449729",
+        "location_gmaps": "https://maps.app.goo.gl/2AipedynP6n1mFwK6",
         "links": [],
         "Content": {
-            "source": "Animonster 88 - Juli 2006",
-            "activities": "Colouring Contest, Beyblade Tournament, Screening Preview of Beyblade series, Fun Games, Acrobat, Magician, Band, Electone",
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20060603",
-        "Start Time": "",
-        "End Date": "20060604",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Mall Beyblade Tournament",
-        "Location": "Ekalokasari Plaza",
-        "Comment": "",
-        "Offline/Online": "Offline",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "kwogrz_8",
-        "location_address": "Jl. Siliwangi No.123, RT.02/RW.01, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
-        "location_city": "Bogor",
-        "location_coordinate": "-6.621737276899466, 106.81764966765037",
-        "location_gmaps": "https://maps.app.goo.gl/H11o8TK1MoKY1Vmx6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "Source": "Animonster 87 - Juni 2006",
+            "source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Tournament",
@@ -1892,36 +1830,6 @@
                 "Band",
                 "Electone"
             ],
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20060604",
-        "Start Time": "",
-        "End Date": "20060604",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Beyblade Roadshow KFC - Pondok Gede",
-        "Location": "Ramayana Pondok Gede",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "mrehxo_9",
-        "location_address": "",
-        "location_city": "Pondok Gede",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [],
-        "Content": {
-            "source": "Animonster 88 - Juli 2006",
-            "activities": "Colouring Contest, Beyblade Demo, Screening Preview of Beyblade series, Fun Games",
             "category": [
                 "Game / Esports Tournament"
             ]
@@ -1944,10 +1852,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "bfgdlw_2",
-        "location_address": "Jl. Diponegoro no. 21",
+        "location_address": "Jl. Diponegoro No.21, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.900851864192135, 107.61578635075296",
+        "location_gmaps": "https://maps.app.goo.gl/79uurFEjVLLoJtau9",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -1987,7 +1895,7 @@
             ""
         ],
         "Content": {
-            "Source": "Animonster 87 - Juni 2006",
+            "Source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Demo",
@@ -2064,46 +1972,13 @@
         "status": "Finished",
         "attended": "",
         "_id": "prmohi_2",
-        "location_address": "",
+        "location_address": "Jl. Raya Pajajaran No.8, RT.02/RW.07, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",
         "location_city": "Bogor",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.602342727910887, 106.80536325837919",
+        "location_gmaps": "https://maps.app.goo.gl/wN88Qb5sqbTmuMka9",
         "links": [],
         "Content": {
-            "source": "Animonster 88 - Juli 2006",
-            "activities": "Colouring Contest, Beyblade Demo, Screening Preview of Beyblade series, Fun Games",
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20060611",
-        "Start Time": "",
-        "End Date": "20060611",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Beyblade Roadshow",
-        "Location": "Padjajaran Bogor",
-        "Comment": "",
-        "Offline/Online": "Offline",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "pnmvxh_8",
-        "location_address": "Jl. Raya Pajajaran",
-        "location_city": "Bogor",
-        "location_coordinate": "-6.592177853255679, 106.80480907850534",
-        "location_gmaps": "https://maps.app.goo.gl/Ld3Vr43pmYxvk3Md8",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "Source": "Animonster 87 - Juni 2006",
+            "source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Demo",
@@ -2273,10 +2148,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ujermy_6",
-        "location_address": "Jl. Diponegoro no. 21",
+        "location_address": "Jl. Diponegoro No.21, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.900851864192135, 107.61578635075296",
+        "location_gmaps": "https://maps.app.goo.gl/79uurFEjVLLoJtau9",
         "links": [
             "http://www.animonsteronline.net"
         ],
@@ -2360,10 +2235,10 @@
         "status": "Completed",
         "attended": "",
         "_id": "jccast_7",
-        "location_address": "Paris, France",
+        "location_address": "8 Bd de Bercy, 75012 Paris, Prancis",
         "location_city": "Paris",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "48.83860894236472, 2.37847345985004",
+        "location_gmaps": "https://maps.app.goo.gl/Bb644gZjyrrg1DkD6",
         "links": [
             ""
         ],
@@ -2492,10 +2367,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jvxwtc_9",
-        "location_address": "Jalan Braga",
+        "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.91693047857716, 107.60896289644823",
+        "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
         "links": [
             ""
         ],
@@ -2530,10 +2405,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "yjfqyh_9",
-        "location_address": "",
+        "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.91693047857716, 107.60896289644823",
+        "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
         "links": [],
         "Content": {
             "source": "Animonster 90 - September 2006",
@@ -2918,10 +2793,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "cvlpel_2",
-        "location_address": "",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
         "links": [],
         "Content": {
             "source": "Animonster 90 - September 2006",
@@ -3238,7 +3113,10 @@
         "location_gmaps": "https://maps.app.goo.gl/FiTufPXe9biRWe54A",
         "links": [],
         "Content": {
-            "source": ["Animonster 88 - Juli 2006", "Animonster 87 - Juni 2006"],
+            "source": [
+                "Animonster 88 - Juli 2006",
+                "Animonster 87 - Juni 2006"
+            ],
             "Event_Purpose": "To earn MURI certificates",
             "Activities": [
                 "Final Beyblade Championship",
@@ -3272,10 +3150,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jscirx_5",
-        "location_address": "Jl. Naripan 89",
+        "location_address": "Jl. Naripan No.89, Kb. Pisang, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40112",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.920368981614356, 107.61613092528373",
+        "location_gmaps": "https://g.page/clicksquare_id",
         "links": [],
         "Content": {
             "source": [
@@ -3660,10 +3538,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "divifr_8",
-        "location_address": "",
+        "location_address": "Jl. Wastukencana No.52, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.903741325173599, 107.6046509964482",
+        "location_gmaps": "https://goo.gl/maps/8z6hJuM7QojxpT4a6",
         "links": [
             "http://www.animonsterline.net"
         ],

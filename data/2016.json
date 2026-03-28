@@ -1109,10 +1109,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro7",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto, RT.11/RW.3, Pancoran, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2419513573472765, 106.83531431773677",
+        "location_gmaps": "https://goo.gl/maps/LQUxBgt6aH1AuF7dA",
         "links": [
             ""
         ],

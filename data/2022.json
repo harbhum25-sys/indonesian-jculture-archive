@@ -10642,9 +10642,14 @@
         "Subject": "MAJIDE COSPLAY",
         "Location": "Plaza Atrium, Senen, DKI Jakarta",
         "Comment": "",
-        "Online/Offline": "Online",
+        "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
+        "_id": "majide_1",
+        "location_address": "Jl. Senen Raya No.135, RW.2, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.176596211282706, 106.84113772567376",
+        "location_gmaps": "https://maps.app.goo.gl/b2EixfuNvhQq7Wgv5",
         "Content": {
             "Rundown": [
                 {

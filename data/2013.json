@@ -493,7 +493,7 @@
                 "Convention / Expo / Comic Market"
             ]
         },
-        "location_country": "Indonesia"
+        "location_country": "Japan"
     },
     {
         "Start Date": "20130330",
@@ -1599,10 +1599,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro2",
-        "location_address": "",
+        "location_address": "Kampus UI, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
         "location_city": "Depok",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.363319445317749, 106.82824537116456",
+        "location_gmaps": "https://goo.gl/maps/mQUvA6vx4XSNzv2u9",
         "links": [
             ""
         ],
@@ -2925,10 +2925,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro3",
-        "location_address": "",
+        "location_address": "Kampus UI, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
         "location_city": "Depok",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.363319445317749, 106.82824537116456",
+        "location_gmaps": "https://goo.gl/maps/mQUvA6vx4XSNzv2u9",
         "links": [
             ""
         ],

@@ -273,10 +273,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro8",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jalan Angkasa Raya Kav B6, RT.10/RW.10, RT.10/RW.10, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.154913375030244, 106.84899721480042",
+        "location_gmaps": "https://maps.app.goo.gl/N81JnTXFjcm16251A",
         "links": [
             ""
         ],
@@ -3446,10 +3446,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro9",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.6 Kav. 37, RT.6/RW.3, Kuningan, East Kuningan, Setiabudi, South Jakarta City, Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234422861492406, 106.82539883789657",
+        "location_gmaps": "https://maps.app.goo.gl/JGjHg3TQQJMNw9Lx5",
         "links": [
             ""
         ],

@@ -15,10 +15,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "sphpsq_9",
-        "location_address": "",
+        "location_address": "Jl. Darmokali No.10, Keputran, Kec. Tegalsari, Surabaya, Jawa Timur 60265",
         "location_city": "Surabaya",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-7.288965134612202, 112.742957388203",
+        "location_gmaps": "https://maps.app.goo.gl/1afX1R2nR3jviLA7A",
         "links": [
             ""
         ],
@@ -66,10 +66,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "bueqfd_8",
-        "location_address": "Ciloto, Puncak, Jawa Barat",
-        "location_city": "Ciloto",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Kp. Parabon No.22, Ciloto, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253",
+        "location_city": "Cianjur",
+        "location_coordinate": "-6.718018212301888, 107.01001673681947",
+        "location_gmaps": "https://maps.app.goo.gl/o6jS3Wc8vGoVNhaMA",
         "links": [],
         "Content": {
             "organizer": "PT Megindo Tunggal Sejahtera",
@@ -301,10 +301,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "qwvlyk_1",
-        "location_address": "Jl. K.H. Agus Salim no 181, Bekasi Timur",
+        "location_address": "Jl. KH. Agus Salim No.181, RT.010/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",
         "location_city": "Bekasi",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.226749684728223, 107.01129542343095",
+        "location_gmaps": "https://goo.gl/maps/ru7ESXtrKsR6PGWn6",
         "links": [],
         "Content": {
             "presenter": [
@@ -359,10 +359,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "hpljgh_6",
-        "location_address": "Plaza Atrium, Segitiga Senen",
+        "location_address": "Jl. Senen Raya No.135, RW.2, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
         "location_city": "Jakarta Pusat",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.176596211282706, 106.84113772567376",
+        "location_gmaps": "https://maps.app.goo.gl/b2EixfuNvhQq7Wgv5",
         "links": [],
         "Content": {
             "source": [
@@ -603,18 +603,20 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Gelar Jepang 2008",
-        "Location": "Tidak disebutkan",
+        "Location": "Pusat Studi Jepang Universitas Indonesia",
         "Comment": "Acara kebudayaan Jepang tahun 2008.",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "dylyaw_8",
-        "location_address": "",
-        "location_city": "",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Universitas Indonesia, Pusat Studi Jepang Universitas Indonesia (PSJ UI, Jl. Prof. DR. Selo Soemardjan, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.361837417268671, 106.82849617715488",
+        "location_gmaps": "https://maps.app.goo.gl/hgCdcWHnNJS28m2L9",
+        "location_country": "Indonesia",
         "links": [
-            "www.gelarjepang2008.com"
+            "www.gelarjepang2008.com",
+            "https://gadogado.exblog.jp/7098513/"
         ],
         "Content": {
             "presenter": "Himaja",
@@ -834,10 +836,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ywsvjq_1",
-        "location_address": "Mangga Dua, Jakarta Utara",
+        "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
         "location_city": "Jakarta Utara",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.134009468516035, 106.83084912366922",
+        "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
         "links": [],
         "Content": {
             "organizer": [
@@ -991,10 +993,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "begmdq_1",
-        "location_address": "",
+        "location_address": "Jl. Bukit Dago Utara no 9, Dago, Coblong, Kota Bandung, Jawa Barat 40135",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.870158355483352, 107.61667133877707",
+        "location_gmaps": "https://goo.gl/maps/K7iL18SKRPRNByvP6",
         "links": [],
         "Content": {
             "organizer": [
@@ -1163,10 +1165,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "ohuyex_7",
-        "location_address": "Mal Paris Van Java",
+        "location_address": "Jl. Sukajadi No.131-139, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.888828532596681, 107.59606215227093",
+        "location_gmaps": "https://goo.gl/maps/dVCETgQCp2XoKTEr6",
         "links": [
             ""
         ],
@@ -1340,10 +1342,10 @@
         "status": "Cancelled",
         "attended": "",
         "_id": "tchpze_5",
-        "location_address": "Lapangan Gasibu, Bandung",
+        "location_address": "Jl. Diponegoro, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.900083221364368, 107.61869916761272",
+        "location_gmaps": "https://g.page/Kamdal",
         "links": [
             "www.kensai-jcb.blogspot.com",
             "www.cosplaycorner.multiply.com",
@@ -1406,10 +1408,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "jodwbf_1",
-        "location_address": "Jl. Ganesa No. 10, Bandung",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
         "location_city": "Bandung",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.8916344441454305, 107.610777117188",
+        "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
         "links": [
             "http://www.itbdmf2008.com"
         ],
