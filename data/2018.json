@@ -881,7 +881,7 @@
         "Reminder Time": "11:30 AM",
         "Importance": "Normal",
         "Subject": "Bangkok Idol Space 2018",
-        "Location": "Rod's Moto Caf",
+        "Location": "Rod's Moto Cafe",
         "Comment": "Poster :\n\nPost-Event Photo :\n\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -892,12 +892,31 @@
         "location_coordinate": "13.766720637871098, 100.56814218302851",
         "location_gmaps": "https://goo.gl/maps/DyYAVgEdq5HDS47f7",
         "links": [
-            "https://web.facebook.com/BangkokIdolSpace/"
+            "https://web.facebook.com/BangkokIdolSpace/",
+            "https://web.facebook.com/share/1EdckUQsBA/"
         ],
         "Content": {
             "category": [
-                "Musik - Idol / VTuber"
-            ]
+              "Festival / Matsuri",
+              "Musik - Idol / VTuber",
+              "Musik - Band / Live Performance"
+            ],
+            "description": "Bangkok Idol Space 2018 adalah acara live idol bergaya Jepang yang mempertemukan grup idol dari Thailand, Jepang, Indonesia, Vietnam, dan Singapura dalam satu panggung.",
+            "performers": [
+              "Sweety Gang",
+              "ANIMALOID",
+              "Picaroon",
+              "Medi-CODE",
+              "Gyu Jump",
+              "Niji Universe Inc.",
+              "Lumina Scarlet",
+              "Happy Kuru Kuru"
+            ],
+            "theme": "Pertunjukan idol gaya Jepang lintas negara",
+            "source": {
+              "name": "Poster Bangkok Idol Space 2018",
+              "accessed": "2026"
+            }
         },
         "location_country": "Thailand"
     },

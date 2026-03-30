@@ -117,6 +117,97 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20260425",
+      "Start Time": "11:00",
+      "End Date": "20260426",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Revo Japan Festival 2026",
+      "Location": "Revo Z (Ug Floor), Revo Mall",
+      "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "revo_japan_festival_2026",
+      "location_address": "Jl. Ahmad Yani No.Kav. 1, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
+      "location_city": "Bekasi",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.254799682078398, 106.98986954039195",
+      "location_gmaps": "https://maps.app.goo.gl/Nd8D3MxQVFcAd8Se6",
+      "links": [
+        "https://web.facebook.com/groups/251875943835/posts/10165148638943836/",
+        "https://www.instagram.com/rafcreative?igsh=MTU1NDUxZnNueHZmcw==",
+        "https://www.instagram.com/rafcreative/p/DVaW5ZrEjIL/",
+        "https://www.instagram.com/infojejepangan.id/p/DWYpRAtEpkc/"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber",
+          "Musik - Anisong / Karaoke",
+          "Bazaar / Market"
+        ],
+        "organizer": "RAF Creative",
+        "description": "Japanese pop culture festival with cosplay runway, karaoke contest, and idol show.",
+        "location_detail": "Revo Z (UG Floor)",
+        "ticket_info": {
+          "type": "Gratis Masuk"
+        },
+        "programs": [
+          "Coswalk Competition",
+          "Japan Pop & Anisong Karaoke Contest",
+          "Cosplay Runway (All characters)",
+          "10 Group Jpop Idol Performance",
+          "RPD",
+          "Creative Market",
+          "Manga Drawing Corner",
+          "Photobooth",
+          "Cosplay Corner"
+        ],
+        "competition": {
+          "coswalk": {
+            "prizes": "1-2-3 Place"
+          },
+          "karaoke_contest": {
+            "prizes": "1-2-3 Place"
+          }
+        },
+        "bazaar": {
+          "items": [
+            "Anime Merch",
+            "Toys",
+            "Fan art",
+            "Japanese Food Bazaar"
+          ]
+        },
+        "contact": {
+          "whatsapp": "0858-9181-6962",
+          "info": "Tenant & Competition"
+        },
+        "media_partners": [
+          "@_sisikanan_",
+          "@infojejepangan.id",
+          "@cosplaysantuy",
+          "@kawancosplay",
+          "@angkringanevent.id",
+          "@eventfest.id",
+          "@brothermediacollective.id",
+          "@kenhibariphotography_media",
+          "@nasabahevent",
+          "@mediaformasi",
+          "@achanphotographymediainfo"
+        ],
+        "community_partners": [
+          "@ellenzia.community.cosplay",
+          "@cosplaybekasi.id"
+        ]
+      }
+    },
+    {
         "Start Date": "20260103",
         "Start Time": "11:00",
         "End Date": "20260118",
@@ -5104,7 +5195,8 @@
             "https://www.instagram.com/p/DVaFaEVkwLg/",
             "https://www.instagram.com/p/DWQW76QkyUB/",
             "https://www.instagram.com/p/DWS_Z1hDnW1/",
-            "https://web.facebook.com/groups/251875943835/posts/10165213196673836/"
+            "https://web.facebook.com/groups/251875943835/posts/10165213196673836/",
+            "https://www.instagram.com/p/DWVvOcyDlnD/"
         ],
         "Content": {
             "entry": "Free",
@@ -5147,72 +5239,24 @@
                 "Musik - Band / Live Performance",
                 "Musik - Idol / VTuber"
             ],
-            "rundown": [
-                {
-                    "time": "12:00 WIB",
-                    "performer": "Sundanese Chop Squad"
-                },
-                {
-                    "time": "12:20 WIB",
-                    "performer": "Joyful Youth"
-                },
-                {
-                    "time": "12:40 WIB",
-                    "performer": "Saturday Kinsou"
-                },
-                {
-                    "time": "13:00 WIB",
-                    "performer": "Ophellia"
-                },
-                {
-                    "time": "13:20 WIB",
-                    "performer": "Tsukuridanosu"
-                },
-                {
-                    "time": "13:40 WIB",
-                    "performer": "Tomaone"
-                },
-                {
-                    "time": "14:00 WIB",
-                    "performer": "Tentative"
-                },
-                {
-                    "time": "14:23 WIB",
-                    "performer": "Harvest"
-                },
-                {
-                    "time": "14:53 WIB",
-                    "performer": "Quiz & Games"
-                },
-                {
-                    "time": "15:13 WIB",
-                    "performer": "UTA ODO Karaoke Train"
-                },
-                {
-                    "time": "15:39 WIB",
-                    "performer": "Henohemoneji"
-                },
-                {
-                    "time": "16:10 WIB",
-                    "performer": "Aurora Dream"
-                },
-                {
-                    "time": "16:41 WIB",
-                    "performer": "ARA (Gochikara)"
-                },
-                {
-                    "time": "17:02 WIB",
-                    "performer": "Thousand Sunny"
-                },
-                {
-                    "time": "18:20 WIB",
-                    "performer": "Join Making MV"
-                },
-                {
-                    "time": "19:00 WIB",
-                    "performer": "Reirin"
-                }
-            ],
+            "rundown": {
+                  "12:00 WIB": "Sundanese Chop Squad",
+                  "12:20 WIB": "Joyful Youth",
+                  "12:40 WIB": "Saturday Kinsou",
+                  "13:00 WIB": "Ophellia",
+                  "13:20 WIB": "Tsukuridanosu",
+                  "13:40 WIB": "Tomaone",
+                  "14:00 WIB": "Tentative",
+                  "14:23 WIB": "Harvest",
+                  "14:53 WIB": "Quiz & Games",
+                  "15:13 WIB": "UTA ODO Karaoke Train",
+                  "15:39 WIB": "Henohemoneji",
+                  "16:10 WIB": "Aurora Dream",
+                  "16:41 WIB": "ARA (Gochikara)",
+                  "17:02 WIB": "Thousand Sunny",
+                  "18:20 WIB": "Join Making MV",
+                  "19:00 WIB": "Reirin"
+            },
             "description": "Acara Thousand Memories a Sunny Story yang menghadirkan live performance sekaligus proses syuting music video untuk single terbaru Twinkle Magic Love, dengan melibatkan partisipasi penonton sebagai bagian dari konsep visual MV melalui chant dan penggunaan lightstick.",
             "production": {
                 "single_title": "Twinkle Magic Love",
@@ -6099,39 +6143,6 @@
         }
     },
     {
-        "Start Date": "20260425",
-        "Start Time": "",
-        "End Date": "20260426",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Revo Japan Festival 2026",
-        "Location": "Revo Mall",
-        "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "",
-        "_id": "revo_japan_festival_2026",
-        "location_address": "Jl. Ahmad Yani No.Kav. 1, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
-        "location_city": "Bekasi",
-        "location_country": "Indonesia",
-        "location_coordinate": "-6.254799682078398, 106.98986954039195",
-        "location_gmaps": "https://maps.app.goo.gl/Nd8D3MxQVFcAd8Se6",
-        "links": [
-            "https://web.facebook.com/groups/251875943835/posts/10165148638943836/",
-            "https://www.instagram.com/rafcreative?igsh=MTU1NDUxZnNueHZmcw=="
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Competition / Coswalk"
-            ],
-            "description": "Japanese pop culture festival with cosplay runway, karaoke contest, and idol show."
-        }
-    },
-    {
         "Start Date": "20260426",
         "Start Time": "10:00",
         "End Date": "20260426",
@@ -6466,33 +6477,70 @@
             "https://www.instagram.com/p/DVvinKGEnM2/",
             "https://www.instagram.com/p/DVvpa_akldq/",
             "https://www.instagram.com/p/DVtAHoLkgbc/",
+            "https://www.instagram.com/p/DV3I93JEk9k/",
+            "https://www.instagram.com/p/DWYOhI7FGAe/",
+            "https://www.instagram.com/kitsuki.ent/p/DWYuKSZE2Dy/",
+            "https://www.instagram.com/japanesiamatsuri/p/DV_BrS9kik6/",
+            "https://www.instagram.com/japanesiamatsuri/p/DWLJlsqkt5S/",
+            "https://www.instagram.com/japanesiamatsuri/p/DWL5nMZEsFq/",
             "https://www.instagram.com/p/DVxfyT3E69_/"
         ],
         "Content": {
+            "organizer": ["Kitsuki Entertainment", "Japanesia Matsuri"],
+            "edition": "3",
+            "description": "Japanesia Matsuri kembali hadir di Bandung dengan konsep festival Jepang yang menghadirkan berbagai aktivitas budaya, hiburan, kompetisi, dan pertunjukan musik.",
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
                 "Musik - Idol / VTuber",
                 "Musik - Band / Live Performance",
                 "Game / Esports Tournament",
-                "Bazaar / Market"
-            ],
-            "organizer": "Kitsuki Entertainment",
-            "edition": "3",
-            "description": "Japanesia Matsuri kembali hadir di Bandung dengan konsep festival Jepang yang menghadirkan berbagai aktivitas budaya, hiburan, kompetisi, dan pertunjukan musik.",
-            "guest_stars": {
-                "idol_group": [
-                    "MUSES"
-                ]
-            },
-            "performers": {
-                "idol": [
-                    "MUSES"
-                ],
-                "band": [],
-                "dj": [],
-                "traditional_performance": []
-            },
+                "Bazaar / Market",
+                "Budaya Jepang - Seni Tradisional",
+                "Gathering / Komunitas"
+              ],
+              "description": "Event J-culture dengan maid cafe, kompetisi cosplay, wibu battle arena, dan berbagai penampilan idol, band, serta performer budaya Jepang.",
+              "performers": {
+                "idol": ["Muses", "Aurora Dream", "Kirin Day"],
+                "band": ["Harvest", "Secret Hope"],
+                "traditional_performer": ["Himade STBA", "UKJ ITB"],
+                "maid_cafe": ["Kuro", "Irene", "Vanny", "Meko", "Fui", "Chris"]
+              },
+              "competition": {
+                "coswalk_aniverse": {
+                  "fee": "Rp 10.000",
+                  "categories": [
+                    "Best of The Best",
+                    "Best Armor / Weapon",
+                    "Best Performance",
+                    "Best Male",
+                    "Best Female",
+                    "Best Chibi",
+                    "Grand Champion",
+                    "1st Runner Up",
+                    "2nd Runner Up"
+                  ]
+                },
+                "wibu_battle_arena": {
+                  "fee": "Gratis",
+                  "team_based": true
+                }
+              },
+              "judges": {
+                "coswalk": ["Rangga Kanchiel", "Anjani Risma"]
+              },
+              "ticket_info": {
+                "presale": "Rp 15.000",
+                "notes": "Belum termasuk maid cafe"
+              },
+              "registration": {
+                "maid_cafe": "bit.ly/MaidCafeJM3",
+                "competition": "bit.ly/CompetitionRegistrationJM2026"
+              },
+              "prizes": {
+                "coswalk": "Total Rp 3.000.000++",
+                "wibu_battle_arena": "Rp 500.000++ dan gelar juara"
+              },
             "activities": {
                 "competitions": [
                     "Coswalk Aniverse",
@@ -6522,9 +6570,6 @@
                     "description": "Kompetisi pengetahuan budaya Jepang yang mempertemukan komunitas, circle wibu, dan fanbase idol untuk menguji pengetahuan tentang anime, manga, game, pop culture, dan budaya Jepang.",
                     "registration_status": "Coming Soon"
                 }
-            },
-            "ticket_info": {
-                "status": "Coming Soon"
             },
             "promotion": {
                 "open_trip": {

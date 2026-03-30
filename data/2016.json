@@ -871,7 +871,7 @@
         "Importance": "Normal",
         "Subject": "Asia Music Festival 2016",
         "Location": "Soramo, Hamamatsu, Japan",
-        "Comment": "aku tidak bisa ikut karena dananya kurang. \n\nline up :\n\n",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
@@ -881,12 +881,59 @@
         "location_coordinate": "34.70432462414345, 137.73310892883543",
         "location_gmaps": "https://goo.gl/maps/bCMnZWwu18a7e6cM7",
         "links": [
-            ""
+            "https://web.facebook.com/share/1JEKhH9PzG/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+              "Festival / Matsuri",
+              "Musik - Band / Live Performance",
+              "Bazaar / Market",
+              "Talkshow / Seminar / Workshop"
+            ],
+            "presenter": "HamaZo",
+            "description": "Asia Music Festival 2016 adalah festival musik internasional yang menghadirkan musisi dari berbagai negara Asia seperti Indonesia, Jepang, Thailand, dan Vietnam. Acara ini juga menampilkan food corner, workshop, fashion show, serta area bazaar dan budaya.",
+            "performers": [
+              "Tulus",
+              "365daband",
+              "Jelly Rocket",
+              "Yellow Fang",
+              "Vacancy Control",
+              "CLEEM",
+              "Jam9",
+              "Lumina Scarlet",
+              "H&A",
+              "Naoka Okuyama"
+            ],
+            "rundown": {
+              "10:20": "H&A",
+              "10:35": "Lumina Scarlet",
+              "11:10": "CLEEM",
+              "12:00": "Vacancy Control",
+              "12:50": "365daband",
+              "14:20": "Yellow Fang",
+              "15:10": "Tulus",
+              "16:20": "365daband (session lain)",
+              "17:10": "Jam9"
+            },
+            "ticket_info": {
+              "price": "Gratis",
+              "notes": "Admission Free"
+            },
+            "sponsors": [
+              "AirAsia",
+              "FM Haro 76.1"
+            ],
+            "additional_programs": {
+              "food_corner": "Kuliner dari berbagai negara Asia",
+              "workshop": "Terima Kasih Project",
+              "fashion_show": "Thuy Ao Dai Design",
+              "bazaar": "Penjualan produk Asia",
+              "cultural": "Area interaksi hewan dan budaya"
+            },
+            "source": {
+              "name": "Poster Asia Music Festival 2016",
+              "accessed": "2026"
+            }
         },
         "location_country": "Japan"
     },
@@ -901,7 +948,7 @@
         "Importance": "Normal",
         "Subject": "Jogja Idol Festival 2016 : Jogja Ora Ngidol",
         "Location": "GOR Klebengan, Yogyakarta",
-        "Comment": "Foto Chocho :\n\nfoto Enka Girls :\n\nhttp://voidsaint.deviantart.com/journal/Jogja-Idol-Fest-2-611232730",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
@@ -911,13 +958,99 @@
         "location_coordinate": "-7.766564552504409, 110.38665484232912",
         "location_gmaps": "https://goo.gl/maps/sVhAmdKdHF9uh8mP6",
         "links": [
-            ""
+            "https://web.facebook.com/events/1177712785606833/",
+            "https://ryntama.blogspot.com/p/blog-page.html"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik - Idol / VTuber"
-            ]
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk"
+              ],
+              "description": "Festival yang memfokuskan pada budaya idol di Yogyakarta, menghadirkan berbagai grup idol lokal dengan genre bervariasi (Passpo cover, E-Girls cover, Baby Metal cover) serta penampilan musik Enka modern dari Jepang.",
+              "theme": "Jogja (Ora) Ngidol",
+              "guest_stars": {
+                "japan": {
+                  "group": "Enka Girls",
+                  "members": [
+                    "Rui",
+                    "Shiori"
+                  ]
+                },
+                "local": [
+                  {
+                    "group": "Ministry of Idol",
+                    "members": [
+                      "Karin",
+                      "Riri",
+                      "Nazla",
+                      "Cylla"
+                    ]
+                  },
+                  {
+                    "group": "AiMon",
+                    "origin": "Karawang"
+                  },
+                  "Momiji Velvet"
+                ]
+              },
+              "performers": [
+                "Beat Metal Project (Baby Metal cover)",
+                "GAMBURISU (Johnny's cover)",
+                "Dansou Shokku (Danso concept)",
+                "Devilust (Sexy idol concept)"
+              ],
+              "competition": {
+                "categories": [
+                  "Karaoke Idol",
+                  "Cosplay Idol",
+                  "Epic Fans"
+                ]
+              },
+              "ticket_info": {
+                "presale": "Rp 20.000",
+                "ots": "Rp 25.000",
+                "type": "Gelang kertas (wristband) dengan staples",
+                "ticket_box": "Angkringan Bento Waza-Waza Yogyakarta"
+              },
+              "social_media": {
+                "facebook": "Jogja Idol Festival",
+                "twitter": "@JIF_2016",
+                "website": "www.jogjaidolfest.com"
+              },
+              "source": {
+                "name": "Ryntama Blog",
+                "url": "https://ryntama.blogspot.com/p/blog-page.html",
+                "author": "A Ryan Pratama"
+              },
+              "organizer": "SFPro & Pelangi Promosindo",
+              "theme": "Jogja (Ora) Ngidol",
+              "social_media": {
+                "facebook": "Jogja Idol Festival",
+                "twitter": "@JIF_2016",
+                "website": "www.jogjaidolfest.com"
+              },
+              "contact": {
+                "phone": "087738449666",
+                "info_stand": [
+                  "087739325514",
+                  "082225320155"
+                ]
+              },
+              "sponsors": [
+                "Today Idol"
+              ],
+              "media_partners": [
+                "Today Idol",
+                "Vae",
+                "Markas",
+                "Japanese Station",
+                "Japanese Music ID",
+                "48 Bismen",
+                "Joora3"
+              ]
         },
         "location_country": "Indonesia"
     },
@@ -2289,6 +2422,97 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+      "Start Date": "20160313",
+      "Start Time": "",
+      "End Date": "20160313",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Jolly Roger: Lost in Galaxy",
+      "Location": "Politeknik Sukabumi",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "jolly_roger_lost_in_galaxy_2016",
+      "location_address": "Jl. Babakan Sirna No.25, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43132",
+      "location_city": "Sukabumi",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.919776440494121, 106.91277042258329",
+      "location_gmaps": "https://maps.app.goo.gl/SycfV6RrtYSbh3gU6",
+      "links": [
+        "https://web.facebook.com/jollyrogerfestival",
+        "https://web.facebook.com/groups/251875943835/?multi_permalinks=10153933448608836",
+        "https://web.facebook.com/groups/372049966231647/?multi_permalinks=684208488349125"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Band / Live Performance",
+          "Dance Cover Competition"
+        ],
+        "presenter": "AI.COR.SU (Anime Ichiban Community Regional Sukabumi)",
+        "description": "Japan Pop Culture Festival featuring various competitions and performances.",
+        "guest_stars": {
+          "cosplayer": [
+            "Sayuri",
+            "Konnichi Kurenai",
+            "Rangga Kanchiel Saint",
+            "Rizqi Aryo"
+          ]
+        },
+        "performers": {
+          "band": [
+            "Hexxa",
+            "Volcanoes",
+            "The Suitcase Bandits",
+            "For The Youth",
+            "Fantasy Star",
+            "Exaisia",
+            "Clockstrike",
+            "Our Time Story",
+            "Popcorn Auticed",
+            "Cracers",
+            "Sacos Art"
+          ]
+        },
+        "competition": [
+          "Cosplay Team",
+          "Cosplay Single",
+          "Coswalk",
+          "Drawing Illustration",
+          "Coloring Competition",
+          "Dance Parade",
+          "Cover Sing",
+          "Band"
+        ],
+        "contact": {
+          "phone": "085795606213",
+          "contact_person": "Kevin",
+          "instagram": "@aicorsucosplay",
+          "twitter": "@aicorsu",
+          "facebook": "fb.com/aicorsu"
+        },
+        "sponsors": [
+          "Scissors",
+          "Sabila",
+          "Universal Printing",
+          "AWE",
+          "K-Five Studio",
+          "Joun Photsu Team",
+          "Rar",
+          "Typhoon",
+          "FJS",
+          "Pirate",
+          "Sukabumi Cantik",
+          "Gakushudo"
+        ]
+      }
     },
     {
         "Start Date": "20161127",
