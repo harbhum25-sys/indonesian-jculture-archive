@@ -2751,6 +2751,92 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20260215",
+      "Start Time": "11:00",
+      "End Date": "20260215",
+      "End Time": "20:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "2nd Anniversary 2.5D Idol & Anikura DJ Event!",
+      "Location": "JTOWN Food & Entertainment Center Jatinegara",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "2nd_anniversary_25d_idol_anikura_jakarta",
+      "location_address": "Jl. Jatinegara Timur No.60, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13310",
+      "location_city": "Jakarta Timur",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.22061583661039, 106.86777622634148",
+      "location_gmaps": "https://maps.app.goo.gl/rSnTUBd5Bf76kwqVA",
+      "links": [],
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Musik - Anisong / Karaoke",
+          "Party / Night Event",
+          "Gathering / Komunitas"
+        ],
+        "edition": "2nd Anniversary",
+        "theme": "2.5D Idol & Anikura DJ Event",
+        "mc": [
+          "Yukiko Ayla",
+          "Erauno",
+          "Miiru"
+        ],
+        "performers": {
+          "idol_groups": [
+            "Vanum Project",
+            "WxP x Unrecord",
+            "Nijiyari Project Dystopia",
+            "Yomigaere",
+            "Tracen Top Star",
+            "Kokoro Distance"
+          ],
+          "anikura_dj": [
+            "Chizu",
+            "Fortimind",
+            "Kiaska",
+            "Kazusa",
+            "Pie",
+            "Qryuu"
+          ],
+          "dance_performance": [
+            "H&M",
+            "Geigank"
+          ],
+          "talkshow": [
+            "Soken"
+          ]
+        },
+        "rundown": {
+          "11:00": "Opening Free Talk",
+          "11:20": "Anime Music Quiz Game",
+          "11:55": "Chizu (Anikura)",
+          "12:25": "Fortimind (Anikura)",
+          "13:00": "Soken (Talkshow)",
+          "13:20": "H&M (Dance Cover)",
+          "13:40": "Vanum Project (2.5D Idol)",
+          "14:15": "Kiaska (Anikura)",
+          "14:45": "Kazusa (Anikura)",
+          "15:20": "WxP x Unrecord (2.5D Idol)",
+          "15:55": "Geigank (J-Pop Random Play Dance)",
+          "16:55": "Nijiyari Project Dystopia (2.5D Idol)",
+          "17:30": "Yomigaere (2.5D Idol)",
+          "18:00": "Break (Isoma, Announcement, Cake Cutting)",
+          "18:20": "Tracen Top Star (2.5D Idol)",
+          "18:55": "Pie (Anikura)",
+          "19:25": "Qryuu (Anikura)",
+          "20:00": "Kokoro Distance (2.5D Idol + Closing)"
+        },
+        "ticket_info": {
+          "entry": "Free Entry"
+        }
+      }
+    },
+    {
         "Start Date": "20260215",
         "Start Time": "",
         "End Date": "20260215",
@@ -6449,6 +6535,61 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+      "Start Date": "20260502",
+      "Start Time": "",
+      "End Date": "20260502",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Widyatama Japan Matsuri Competition 2026",
+      "Location": "Universitas Widyatama",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "widyatama_japan_matsuri_2026",
+      "location_address": "Jl. Cikutra No.204A, Sukapada, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40125",
+        "location_city": "Bandung",
+      "location_country": "Indonesia",
+        "location_coordinate": "-6.897720164368746, 107.64543348295432",
+        "location_gmaps": "https://g.page/universitas-widyatama",
+      "links": [
+        "https://web.facebook.com/groups/360348518281803/?multi_permalinks=1718810089102299"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Dance Cover Competition",
+          "Budaya Jepang - Bahasa / Akademik"
+        ],
+        "organizer": "Universitas Widyatama",
+        "competition": {
+          "akademik": [
+            "Kana",
+            "Kanji",
+            "Monogatari",
+            "Rodoku",
+            "Shuuji"
+          ],
+          "non_akademik": [
+            "Coswalk",
+            "Cover Dance",
+            "Desain Karakter"
+          ]
+        },
+        "registration": {
+          "deadline": "20260418"
+        },
+        "source": {
+          "platform": "Facebook Groups",
+          "access_date": "2026-03-30"
+        }
+      }
     },
     {
         "Start Date": "20260510",
