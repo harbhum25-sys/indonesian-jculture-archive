@@ -7387,7 +7387,7 @@
         "location_address": "Jl. Metro Kencana IV No.9, RT.1/RW.16, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310",
         "location_city": "Jakarta Selatan",
         "location_coordinate": "-6.273411090553031, 106.7839594169645",
-        "location_gmaps": "-6.273411090553031, 106.7839594169645",
+        "location_gmaps": "https://maps.app.goo.gl/EjmTicEeEvQy4XGb6",
         "links": [
             "https://web.facebook.com/jtcfair/posts/pfbid02QtEnRaFqeAgCJJwTVbCT6JGe1Gm9A8GTeKxPquk2Cwyb9CfHvXM4UtFig77DK26el",
             "https://www.facebook.com/jtcfair"
@@ -8806,7 +8806,7 @@
         "location_address": "Jl. Bougenville No.3, Pettuadae, Kec. Turikale, Kabupaten Maros, Sulawesi Selatan 90516",
         "location_city": "Maros",
         "location_coordinate": "-5.015145877405098, 119.57478611367947",
-        "location_gmaps": "-5.015145877405098, 119.57478611367947",
+        "location_gmaps": "https://maps.app.goo.gl/TAypVxgqTyC5opnc7",
         "links": [
             "https://www.facebook.com/groups/251875943835/permalink/10161619553218836/"
         ],
@@ -11769,7 +11769,7 @@
         "attended": "",
         "_id": "japane_18",
         "location_address": "Jl. Jend. Gatot Subroto No.67, Sitapen, Purwanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
-        "location_city": "Banyumas",
+        "location_city": "Purwokerto",
         "location_coordinate": "-7.421081757983745, 109.23802299906568",
         "location_gmaps": "https://goo.gl/maps/DqUEnagP5B2UVxeY6",
         "links": [
@@ -15813,7 +15813,7 @@
         "location_address": "Ruko, Jl. Bharata Raya Jl. Galuh Mas Raya No.24, Karawang, Jawa Barat",
         "location_city": "Karawang",
         "location_coordinate": "-6.32904264453212, 107.2889374593472",
-        "location_gmaps": "-6.329082979270964, 107.28893462363087",
+        "location_gmaps": "https://maps.app.goo.gl/c7To4kZYdhUV96RV8",
         "links": [
             "https://www.facebook.com/groups/251875943835/permalink/10161708140913836/"
         ],
@@ -16495,10 +16495,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "bukber_8",
-        "location_address": "Jl. Ir. H. Juanda No.294B, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135",
+        "location_address": "Jl. Bukit Pakar Timur No.9, Ciburial, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40198",
         "location_city": "Bandung",
-        "location_coordinate": "-6.880063471550716, 107.61664510537467",
-        "location_gmaps": "-6.880062140103328, 107.61664778758372",
+        "location_coordinate": "-6.862486965377454, 107.62976417020309",
+        "location_gmaps": "https://maps.app.goo.gl/sanE2PHsAuWoaBvJ9",
         "links": [
             "https://www.facebook.com/groups/251875943835/permalink/10161706100648836/"
         ],
@@ -21112,7 +21112,7 @@
         "attended": "No",
         "_id": "85w6ketu",
         "location_address": "Jl. Jend. Gatot Subroto No.67, Sitapen, Purwanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
-        "location_city": "Banyumas",
+        "location_city": "Purwokerto",
         "location_coordinate": "-7.421075940925321, 109.23802703430927",
         "location_gmaps": "https://goo.gl/maps/5SgB7tosLKexU44k8",
         "links": [
@@ -32619,7 +32619,7 @@
         "attended": "No",
         "_id": "ataras_1",
         "location_address": "Jl. DR. Soeparno No.57, Arcawinangun, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53122",
-        "location_city": "Banyumas",
+        "location_city": "Purwokerto",
         "location_coordinate": "-7.416582901272653, 109.25411023247884",
         "location_gmaps": "https://goo.gl/maps/D7wCzHEEzSrfY2nZA",
         "links": [
@@ -41279,8 +41279,8 @@
         "_id": "nagxko_5",
         "location_address": "Jl. HZ. Mustofa, Yudanagara, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46121",
         "location_city": "Tasikmalaya",
-        "location_coordinate": "https://goo.gl/maps/E1otPTQ6wm1fzB7M8",
-        "location_gmaps": "-7.341943907343932, 108.21754343657253",
+        "location_coordinate": "-7.341943907343932, 108.21754343657253",
+        "location_gmaps": "https://goo.gl/maps/E1otPTQ6wm1fzB7M8",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10161921387658836/",
             "https://instagram.com/cosplay_event_tasikmalaya",
@@ -42072,7 +42072,7 @@
         "attended": "No",
         "_id": "sharpk_4",
         "location_address": "Jl. Menteri Supeno No.10, Dusun I Kalikidang, Kalikidang, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181",
-        "location_city": "Banyumas",
+        "location_city": "Purwokerto",
         "location_coordinate": "-7.459222937179771, 109.28157759461135",
         "location_gmaps": "https://goo.gl/maps/ARwcJQ5r9kbszZcf9",
         "links": [
@@ -61980,7 +61980,7 @@
         "attended": "No",
         "_id": "ukijap_4",
         "location_address": "Jl. Karang Gintung, RT.01/RW.001, Ciwarak, Kedungmalang, Kec. Sumbang, Kabupaten Banyumas, Jawa Tengah 53183",
-        "location_city": "Banyumas",
+        "location_city": "Purwokerto",
         "location_coordinate": "-7.388280112441238, 109.250062176396",
         "location_gmaps": "https://maps.app.goo.gl/ffhRGdLj6VwWoCG3A",
         "links": [
@@ -83071,12 +83071,52 @@
         "location_gmaps": "https://maps.app.goo.gl/E8RSQMtPRgCuKSoUA",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162268143603836/",
-            "https://www.instagram.com/joryu.id"
-        ],
+            "https://www.instagram.com/joryu.id",
+            "https://www.instagram.com/p/C1TtcQeveRt/"
+            ],
         "Content": {
-            "category": [
-                "Festival / Matsuri"
+          "category": [
+            "Festival / Matsuri",
+            "Cosplay - Competition / Coswalk",
+            "Musik - Band / Live Performance",
+            "Game / Esports Tournament"
+          ],
+          "organizer": {
+            "main": "Joryu.id",
+            "venue": "Jambuluwuk Malioboro Hotel"
+          },
+          "description": "Perayaan tahun baru dengan konsep anime festival menghadirkan hiburan, cosplay, kompetisi, dan pertunjukan musik.",
+          "performers": {
+            "guest": [
+              "Necromancer",
+              "Ten Ninshi",
+              "Deepweb Dolphin"
             ]
+          },
+          "competition": {
+            "cosplay": {
+              "types": [
+                "Coswalk Competition",
+                "Great Cosplay",
+                "Tekken Tournament"
+              ]
+            },
+            "games": {
+              "titles": [
+                "Tekken"
+              ]
+            }
+          },
+          "activities": {
+            "others": [
+              "Stand dan booth unik",
+              "Pop culture music performance",
+              "Karaoke session"
+            ]
+          },
+          "ticket_info": {
+            "fdc": "Rp 35.000"
+          }
         },
         "location_country": "Indonesia"
     },
@@ -83447,6 +83487,61 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+      "Start Date": "20231230",
+      "Start Time": "",
+      "End Date": "20231231",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "N.Y.E. Culinary Festival",
+      "Location": "Alun-Alun Plaza Ambarrukmo",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "",
+      "_id": "nye_culinary_festival_2023_jogja",
+      "location_address": "6C82+JR8, Jl. Monggungan, Ambarukmo, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+      "location_city": "Yogyakarta",
+      "location_country": "Indonesia",
+      "location_coordinate": "-7.783472084702968, 110.40207108599806",
+      "location_gmaps": "https://maps.app.goo.gl/vKitEU9d4B5P6Ff46",
+      "links": [
+        "https://www.instagram.com/jfesthunter_joglosemar/p/C1Tsz37vYKI/?img_index=3"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Dance Cover Competition",
+          "Musik - Band / Live Performance",
+          "Musik - Anisong / Karaoke",
+          "Gathering / Komunitas",
+          "Party / Night Event"
+        ],
+        "organizer": "Plaza Ambarrukmo",
+        "description": "Perayaan malam tahun baru dengan festival kuliner, cosplay, dance, music performance, dan fireworks.",
+        "rundown": {
+          "2023-12-30": [
+            "Cosplay Competition",
+            "Coswalk Competition",
+            "Japan Eating Challenge",
+            "Community Meet Up",
+            "Music Perform"
+          ],
+          "2023-12-31": [
+            "Kpop Dance Competition",
+            "Random Play Dance Competition",
+            "Noraebang",
+            "Korean Eating Challenge",
+            "Band and DJ Perform",
+            "Spectacular Fireworks"
+          ]
+        }
+      }
     },
     {
         "Start Date": "20231231",

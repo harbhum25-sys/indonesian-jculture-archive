@@ -547,8 +547,8 @@
         "_id": "binpnj_2",
         "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
         "location_city": "Jakarta Barat",
-        "location_coordinate": "https://maps.app.goo.gl/v2wDwkafraKENKWn9",
-        "location_gmaps": "-6.178265290478324, 106.7924018010367",
+        "location_coordinate": "-6.178265290478324, 106.7924018010367",
+        "location_gmaps": "https://maps.app.goo.gl/v2wDwkafraKENKWn9",
         "links": [
             ""
         ],
@@ -2146,8 +2146,8 @@
         "_id": "qbfoiv_2",
         "location_address": "Jl. M.H. Thamrin No.28-30, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
         "location_city": "Jakarta Pusat",
-        "location_coordinate": "https://maps.app.goo.gl/Lgcjs7ewWbJXJbWM9",
-        "location_gmaps": "-6.193590231921053, 106.82194785573608",
+        "location_coordinate": "-6.193590231921053, 106.82194785573608",
+        "location_gmaps": "https://maps.app.goo.gl/Lgcjs7ewWbJXJbWM9",
         "links": [
             ""
         ],
