@@ -34,40 +34,36 @@
         "location_country": "Indonesia"
     },
     {
-        "Start Date": "20250503",
-        "Start Time": "",
-        "End Date": "20250503",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Miko Expo",
-        "Location": "Miko Mall",
-        "Comment": "Insert to J-Event List : 20260107 17:13:56\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "jotdps_8",
-        "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.959920899029212, 107.58084641179033",
-        "location_gmaps": "https://g.page/mikomallkopo_bdg",
-        "links": [
-            "https://web.facebook.com/groups/251875943835/posts/10164872155063836/",
-            "https://www.instagram.com/festivalaxia",
-            "https://web.facebook.com/share/p/14WYRSREDh3/"
-        ],
-        "Content": {
-            "presenter": "Festival Axia",
-            "htm": "Unknown",
-            "note": "Detail acara akan diupdate",
-            "category": [
-                "Convention / Expo / Comic Market"
-            ]
-        },
-        "location_country": "Indonesia"
+    "Start Date": "20260503",
+    "End Date": "20260503",
+    "Reminder On/Off": "No",
+    "Subject": "Super Miko Expo",
+    "Location": "Miko Mall",
+    "Comment": "Insert to J-Event List : 20260107 17:13:56\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "_id": "jotdps_8",
+    "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.959920899029212, 107.58084641179033",
+    "location_gmaps": "https://g.page/mikomallkopo_bdg",
+    "links": [
+        "https://web.facebook.com/groups/251875943835/posts/10164872155063836/",
+        "https://www.instagram.com/festivalaxia",
+        "https://web.facebook.com/share/p/14WYRSREDh3/"
+    ],
+    "Content": {
+        "organizer": "Festival Axia",
+        "co_organizer": "Supermachi Festival",
+        "theme": "Vocaloid",
+        "htm": "Free",
+        "note": "Detail acara akan diupdate",
+        "category": [
+            "Convention / Expo / Comic Market"
+        ]
     },
+    "location_country": "Indonesia"
+},
     {
         "Start Date": "20251229",
         "Start Time": "",
@@ -5393,238 +5389,219 @@
         }
     },
     {
-        "Start Date": "20260404",
-        "Start Time": "",
-        "End Date": "20260405",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "KYUU FEST - INDONESIA COSPLAY LEAGUE BANDUNG PRELIMINARY ROUND",
-        "Location": "D'BOTANICA",
-        "Comment": "Insert to J-Event List : 20260308 16:27:08\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "No",
-        "_id": "kyuu_fest_icl_bandung_2026",
-        "location_address": "Jl. Dr. Djunjunan No.143-149, Pajajaran, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",
-        "location_city": "Bandung",
-        "location_country": "Indonesia",
-        "location_coordinate": "-6.8943, 107.5873",
-        "location_gmaps": "https://maps.app.goo.gl/35CSuC3mXwYk2LdJ6",
-        "links": [
-            "https://www.instagram.com/p/DVcBrzVkiCb/",
-            "https://bit.ly/IndonesiaCosplayLeagueBandung",
-            "https://www.instagram.com/p/DU5Wbs8Elhl/",
-            "https://web.facebook.com/share/1DcL2uH1FU/"
+    "Start Date": "20260404",
+    "End Date": "20260405",
+    "Reminder On/Off": "No",
+    "Subject": "KYUU FEST - INDONESIA COSPLAY LEAGUE BANDUNG PRELIMINARY ROUND",
+    "Location": "D'BOTANICA",
+    "Comment": "Insert to J-Event List : 20260308 16:27:08\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "kyuu_fest_icl_bandung_2026",
+    "location_address": "Jl. Dr. Djunjunan No.143-149, Pajajaran, Kec. Cicendo, Kota Bandung, Jawa Barat 40173",
+    "location_city": "Bandung",
+    "location_country": "Indonesia",
+    "location_coordinate": "-6.8943, 107.5873",
+    "location_gmaps": "https://maps.app.goo.gl/35CSuC3mXwYk2LdJ6",
+    "links": [
+        "https://www.instagram.com/p/DVcBrzVkiCb/",
+        "https://bit.ly/IndonesiaCosplayLeagueBandung",
+        "https://www.instagram.com/p/DU5Wbs8Elhl/",
+        "https://web.facebook.com/share/1DcL2uH1FU/"
+    ],
+    "Content": {
+        "category": [
+            "Festival / Matsuri",
+            "Cosplay - Competition / Coswalk"
         ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Competition / Coswalk"
-            ],
-            "organizer": "KYUU FEST",
-            "supported_by": {
-                "venue": "d'botanica",
-                "partners": [
-                    "QTakashi",
-                    "Tanomiya",
-                    "Jagad Raya"
-                ]
-            },
-            "collaboration": [
-                "Indonesia Cosplay League",
-                "GICOF"
-            ],
-            "media_partners": [
-                "ANY-BEATS",
-                "K-Radio",
-                "Ankoku Fest",
-                "Wibu ID"
-            ],
-            "registration": {
-                "icl_preliminary_bandung": {
-                    "link": "https://bit.ly/IndonesiaCosplayLeagueBandung",
-                    "status": "Open"
-                }
-            },
-            "UtaOdo": {
-                "description": "Random Play Dance and karaoke train session featuring J-pop, anisong, VTuber, and meme songs as part of Kyuu Fest. Participants can request songs, sing along, and dance freely.",
-                "song_list": [
-                    {
-                        "artist": "Neru",
-                        "title": "Lost One Weeping"
-                    },
-                    {
-                        "artist": "amala",
-                        "title": "Dadadadadaru"
-                    },
-                    {
-                        "artist": "Houshou Marine, Hoshimachi Suisei",
-                        "title": "Chatter Chatter"
-                    },
-                    {
-                        "artist": "World Order",
-                        "title": "Have a Nice Day"
-                    },
-                    {
-                        "artist": "[Alexandros]",
-                        "title": "Senkou"
-                    },
-                    {
-                        "artist": "Starlight Kuku Gumi",
-                        "title": "Star Diamond"
-                    },
-                    {
-                        "artist": "Starlight Kuku Gumi",
-                        "title": "Star Darling"
-                    },
-                    {
-                        "artist": "Hiiragi Magnetite",
-                        "title": "Realize"
-                    },
-                    {
-                        "artist": "fripSide",
-                        "title": "final phase"
-                    },
-                    {
-                        "artist": "fripSide",
-                        "title": "Sister Noise"
-                    },
-                    {
-                        "artist": "Aiobahn +81, KOTOKO",
-                        "title": "Internet Overdose"
-                    },
-                    {
-                        "artist": "DECO*27, PinocchioP",
-                        "title": "(Not) A Devil"
-                    },
-                    {
-                        "artist": "40mP",
-                        "title": "Love Trial"
-                    },
-                    {
-                        "artist": "The Melancholy of Haruhi Suzumiya",
-                        "title": "Hare Hare Yukai"
-                    },
-                    {
-                        "artist": "DECO*27",
-                        "title": "HAO"
-                    },
-                    {
-                        "artist": "Kohmi Hirose",
-                        "title": "Promise"
-                    },
-                    {
-                        "artist": "Mikito P",
-                        "title": "Shoujo Rei"
-                    },
-                    {
-                        "artist": "Utagumi Setsugetsuka",
-                        "title": "Maware! Setsugetsuka"
-                    },
-                    {
-                        "artist": "May'n, Megumi Nakajima",
-                        "title": "Lion"
-                    },
-                    {
-                        "artist": "Kariki Bear",
-                        "title": "Darling Dance"
-                    },
-                    {
-                        "artist": "Keyakizaka46",
-                        "title": "Silent Majority"
-                    },
-                    {
-                        "artist": "Not Equal Me",
-                        "title": "Mahoroba Asterisk"
-                    },
-                    {
-                        "artist": "Nogizaka46",
-                        "title": "Girls Rule"
-                    },
-                    {
-                        "artist": "BUMP OF CHICKEN",
-                        "title": "ray - Cosmic Princess Kaguya Ver"
-                    },
-                    {
-                        "artist": "Kashii Moimi",
-                        "title": "Cat Loving"
-                    },
-                    {
-                        "artist": "Oguri Cap, Tomoyo Takayanagi",
-                        "title": "BRIGHTEST HEART"
-                    },
-                    {
-                        "artist": "Ado",
-                        "title": "Show"
-                    },
-                    {
-                        "artist": "Houshou Marine, Kobo Kanaeru",
-                        "title": "III"
-                    },
-                    {
-                        "artist": "Lilas Ikuta, Zico",
-                        "title": "DUET"
-                    },
-                    {
-                        "artist": "rerulili",
-                        "title": "At God's Mercy"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "Start Date": "20260404",
-        "Start Time": "",
-        "End Date": "20260404",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Garden of Symphony 2026",
-        "Location": "Love Story Cafe",
-        "Comment": "Insert to J-Event List : 20260128 19:39:35\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "",
-        "_id": "fncsfp_7",
-        "location_address": "Jl. Gatot Subroto No.108, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.925606652493114, 107.63098891115203",
-        "location_gmaps": "https://maps.app.goo.gl/EsRLQiY61dFwuJsk8",
-        "links": [
-            "https://www.facebook.com/share/p/1DeYQw7AEx/",
-            "https://www.instagram.com/p/DUAv2KFDNQN/",
-            "https://x.supercosmachi.com/FormGoS2026"
-        ],
-        "Content": {
-            "event_theme": "Garden music and band performance",
-            "registration": {
-                "registration_required": "Yes",
-                "registration_fee": "150K",
-                "registration_method": "Online form via link or QR code"
-            },
-            "performance": {
-                "duration_per_band": "20 minutes",
-                "participant_type": "Band"
-            },
-            "description": "Open registration for bands to perform in Garden of Symphony",
-            "hashtags": {
-                "tag1": "noc",
-                "tag2": "supermachi",
-                "tag3": "jejepangan",
-                "tag4": "wibu",
-                "tag5": "event",
-                "tag6": "vkei"
-            },
-            "category": []
+        "organizer": "KYUU FEST",
+        "supported_by": {
+            "venue": "d'botanica",
+            "partners": [
+                "QTakashi",
+                "Tanomiya",
+                "Jagad Raya"
+            ]
         },
-        "location_country": "Indonesia"
+        "collaboration": [
+            "Indonesia Cosplay League",
+            "GICOF"
+        ],
+        "media_partners": [
+            "ANY-BEATS",
+            "K-Radio",
+            "Ankoku Fest",
+            "Wibu ID"
+        ],
+        "registration": {
+            "icl_preliminary_bandung": {
+                "link": "https://bit.ly/IndonesiaCosplayLeagueBandung",
+                "status": "Open"
+            }
+        },
+        "UtaOdo": {
+            "description": "Random Play Dance and karaoke train session featuring J-pop, anisong, VTuber, and meme songs as part of Kyuu Fest. Participants can request songs, sing along, and dance freely.",
+            "song_list": [
+                {
+                    "artist": "Neru",
+                    "title": "Lost One Weeping"
+                },
+                {
+                    "artist": "amala",
+                    "title": "Dadadadadaru"
+                },
+                {
+                    "artist": "Houshou Marine, Hoshimachi Suisei",
+                    "title": "Chatter Chatter"
+                },
+                {
+                    "artist": "World Order",
+                    "title": "Have a Nice Day"
+                },
+                {
+                    "artist": "[Alexandros]",
+                    "title": "Senkou"
+                },
+                {
+                    "artist": "Starlight Kuku Gumi",
+                    "title": "Star Diamond"
+                },
+                {
+                    "artist": "Starlight Kuku Gumi",
+                    "title": "Star Darling"
+                },
+                {
+                    "artist": "Hiiragi Magnetite",
+                    "title": "Realize"
+                },
+                {
+                    "artist": "fripSide",
+                    "title": "final phase"
+                },
+                {
+                    "artist": "fripSide",
+                    "title": "Sister Noise"
+                },
+                {
+                    "artist": "Aiobahn +81, KOTOKO",
+                    "title": "Internet Overdose"
+                },
+                {
+                    "artist": "DECO*27, PinocchioP",
+                    "title": "(Not) A Devil"
+                },
+                {
+                    "artist": "40mP",
+                    "title": "Love Trial"
+                },
+                {
+                    "artist": "The Melancholy of Haruhi Suzumiya",
+                    "title": "Hare Hare Yukai"
+                },
+                {
+                    "artist": "DECO*27",
+                    "title": "HAO"
+                },
+                {
+                    "artist": "Kohmi Hirose",
+                    "title": "Promise"
+                },
+                {
+                    "artist": "Mikito P",
+                    "title": "Shoujo Rei"
+                },
+                {
+                    "artist": "Utagumi Setsugetsuka",
+                    "title": "Maware! Setsugetsuka"
+                },
+                {
+                    "artist": "May'n, Megumi Nakajima",
+                    "title": "Lion"
+                },
+                {
+                    "artist": "Kariki Bear",
+                    "title": "Darling Dance"
+                },
+                {
+                    "artist": "Keyakizaka46",
+                    "title": "Silent Majority"
+                },
+                {
+                    "artist": "Not Equal Me",
+                    "title": "Mahoroba Asterisk"
+                },
+                {
+                    "artist": "Nogizaka46",
+                    "title": "Girls Rule"
+                },
+                {
+                    "artist": "BUMP OF CHICKEN",
+                    "title": "ray - Cosmic Princess Kaguya Ver"
+                },
+                {
+                    "artist": "Kashii Moimi",
+                    "title": "Cat Loving"
+                },
+                {
+                    "artist": "Oguri Cap, Tomoyo Takayanagi",
+                    "title": "BRIGHTEST HEART"
+                },
+                {
+                    "artist": "Ado",
+                    "title": "Show"
+                },
+                {
+                    "artist": "Houshou Marine, Kobo Kanaeru",
+                    "title": "III"
+                },
+                {
+                    "artist": "Lilas Ikuta, Zico",
+                    "title": "DUET"
+                },
+                {
+                    "artist": "rerulili",
+                    "title": "At God's Mercy"
+                }
+            ]
+        }
+    }
+},
+    {
+    "Start Date": "20260405",
+    "Start Time": "10:00",
+    "End Date": "20260405",
+    "End Time": "18:00",
+    "Reminder On/Off": "No",
+    "Subject": "Night of Champion 2026",
+    "Location": "Ciwalk",
+    "Comment": "Insert to J-Event List : 20260128 19:39:35\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "_id": "fncsfp_7",
+    "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.89409904225843, 107.60504628208918",
+    "location_gmaps": "https://maps.app.goo.gl/XyF6N2TjVminTH9L9",
+    "links": [
+        "https://www.instagram.com/p/DWVSZEJkSG5/",
+        "https://www.instagram.com/p/DVs5RvoIG0O/",
+        "https://www.instagram.com/p/DVsQAMvAZEc/"
+    ],
+    "Content": {
+        "event_theme": "Cosplay Competition",
+        "description": "As the night grow closer, it's time for the night to seek those who challenge the Lord of the Night, to all cosplayer in Bandung and West Java, this is your first call to join the fight!!!",
+        "hashtags": {
+            "tag1": "noc",
+            "tag2": "supermachi",
+            "tag3": "jejepangan",
+            "tag4": "wibu",
+            "tag5": "event"
+        },
+        "category": []
     },
+    "location_country": "Indonesia"
+},
     {
         "Start Date": "20260404",
         "Start Time": "",
@@ -5671,39 +5648,34 @@
         "location_country": "Indonesia"
     },
     {
-        "Start Date": "20260404",
-        "Start Time": "",
-        "End Date": "20260404",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "SYMPHONY OF HARVEST \u00e2\u20ac\u201c MINI CONCERT VOL.1",
-        "Location": "Cihampelas Walk",
-        "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "",
-        "_id": "symphony_of_harvest_mini_concert_vol1_2026",
-        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
-        "location_city": "Bandung",
-        "location_country": "Indonesia",
-        "location_coordinate": "-6.894959018939662, 107.60429474062266",
-        "location_gmaps": "https://g.page/ciwalk-bandung",
-        "links": [
-            "https://www.instagram.com/p/DVtImDvk-Kc/",
-            "https://www.instagram.com/p/DVtIeuBkxWE/"
+    "Start Date": "20260404",
+    "End Date": "20260404",
+    "Reminder On/Off": "No",
+    "Subject": "SYMPHONY OF HARVEST",
+    "Location": "Cihampelas Walk",
+    "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "_id": "symphony_of_harvest_mini_concert_vol1_2026",
+    "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+    "location_city": "Bandung",
+    "location_country": "Indonesia",
+    "location_coordinate": "-6.894959018939662, 107.60429474062266",
+    "location_gmaps": "https://g.page/ciwalk-bandung",
+    "links": [
+        "https://www.instagram.com/p/DVtImDvk-Kc/",
+        "https://www.instagram.com/p/DVtIeuBkxWE/",
+        "https://www.instagram.com/p/DWilgmFFMQU/"
+    ],
+    "Content": {
+        "category": [
+            "Musik - Band / Live Performance",
+            "Anime - Convention / Fan Event"
         ],
-        "Content": {
-            "category": [
-                "Musik - Band / Live Performance",
-                "Anime - Convention / Fan Event"
-            ],
-            "presenter": "Super Machi x HVST",
-            "description": "Mini concert featuring local Japanese music cover bands performing J-Band, J-Pop, and anime songs."
-        }
-    },
+        "organizer": "Supermachi Festival, Harvest Band",
+        "description": "Mini concert featuring local Japanese music cover bands performing J-Band, J-Pop, and anime songs."
+    }
+},
     {
         "Start Date": "20260411",
         "Start Time": "",
