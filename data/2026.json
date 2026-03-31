@@ -34,40 +34,34 @@
         "location_country": "Indonesia"
     },
     {
-        "Start Date": "20250503",
-        "Start Time": "",
-        "End Date": "20250503",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Miko Expo",
-        "Location": "Miko Mall",
-        "Comment": "Insert to J-Event List : 20260107 17:13:56\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "jotdps_8",
-        "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.959920899029212, 107.58084641179033",
-        "location_gmaps": "https://g.page/mikomallkopo_bdg",
-        "links": [
-            "https://web.facebook.com/groups/251875943835/posts/10164872155063836/",
-            "https://www.instagram.com/festivalaxia",
-            "https://web.facebook.com/share/p/14WYRSREDh3/"
-        ],
-        "Content": {
-            "presenter": "Festival Axia",
-            "htm": "Unknown",
-            "note": "Detail acara akan diupdate",
-            "category": [
-                "Convention / Expo / Comic Market"
-            ]
-        },
-        "location_country": "Indonesia"
+    "Start Date": "20260503",
+    "End Date": "20260503",
+    "Reminder On/Off": "No",
+    "Subject": "Super Miko Expo",
+    "Location": "Miko Mall",
+    "Comment": "Insert to J-Event List : 20260107 17:13:56\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "_id": "jotdps_8",
+    "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.959920899029212, 107.58084641179033",
+    "location_gmaps": "https://g.page/mikomallkopo_bdg",
+    "links": [
+        "https://web.facebook.com/groups/251875943835/posts/10164872155063836/",
+        "https://www.instagram.com/festivalaxia",
+        "https://web.facebook.com/share/p/14WYRSREDh3/"
+    ],
+    "Content": {
+        "presenter": "Festival Axia, Supermachi Festival",
+        "htm": "Free",
+        "note": "Detail acara akan diupdate",
+        "category": [
+            "Convention / Expo / Comic Market"
+        ]
     },
+    "location_country": "Indonesia"
+},
     {
         "Start Date": "20251229",
         "Start Time": "",
