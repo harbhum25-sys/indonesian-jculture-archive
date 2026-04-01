@@ -34,15 +34,15 @@
         "location_country": "Indonesia"
     },
     {
-        "Start Date": "20250503",
+        "Start Date": "20260503",
         "Start Time": "",
-        "End Date": "20250503",
+        "End Date": "20260503",
         "End Time": "",
         "Reminder On/Off": "No",
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Miko Expo",
+        "Subject": "Super Miko Expo",
         "Location": "Miko Mall",
         "Comment": "Insert to J-Event List : 20260107 17:13:56\n",
         "Online/Offline": "Offline",
@@ -1600,6 +1600,64 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+      "Start Date": "20260411",
+      "Start Time": "",
+      "End Date": "20260412",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "LPKJ Cosfest Vol.1",
+      "Location": "Lippo Plaza Kramat Jati",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "lpkj_cosfest_vol1_2026",
+      "location_address": "Jl. Raya Jakarta-Bogor No.Km 19, RT.14/RW.6, Kramat Jati, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13510",
+      "location_city": "Jakarta Timur",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.270758739258449, 106.8685624870498",
+      "location_gmaps": "https://maps.app.goo.gl/UgNZ6yYQq4TSCH5EA",
+      "links": [
+        "https://www.instagram.com/p/DWio5wQkXyD/",
+        "https://www.instagram.com/p/DWi6PccEbm8/",
+        "https://www.instagram.com/cosplayjabodetabek/p/DWjNKtCEc4a/",
+        "https://www.instagram.com/cosplayjabodetabek/p/DWjZBrHkYDg/",
+        "https://www.instagram.com/cosplayjabodetabek/p/DWktM_8kSUK/",
+        "https://www.instagram.com/cosplayjabodetabek/p/DWgtx1fkWnS/"
+      ],
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Festival / Matsuri",
+          "Musik - Idol / VTuber"
+        ],
+        "organizer": "Cosplay Jabodetabek",
+        "co_organizer": "Lippo Plaza Kramat Jati",
+        "edition": "1",
+        "venue_detail": "Ground Floor",
+        "performers": {
+          "idol": [
+            "Sweet Heart",
+            "Yamisaki",
+            "Stellar Luna",
+            "Nyxia"
+          ],
+          "open_performer": [
+            "Idol Performance",
+            "Dance Performance"
+          ]
+        },
+        "contact": {
+          "whatsapp": "0888-1044-872",
+          "email": "cosjabodetabekid@gmail.com",
+          "instagram": "@cosplayjabodetabek"
+        }
+      }
     },
     {
         "Start Date": "20260131",
@@ -5615,7 +5673,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Garden of Symphony 2026",
+        "Subject": "Night of Champion 2026",
         "Location": "Love Story Cafe",
         "Comment": "Insert to J-Event List : 20260128 19:39:35\n",
         "Online/Offline": "Offline",

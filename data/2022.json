@@ -999,7 +999,7 @@
         "attended": "",
         "_id": "kibono_1",
         "location_address": "CCVM+X65, Gunaksa, Kec. Dawan, Kabupaten Klungkung, Bali",
-        "location_city": "Klungkung",
+        "location_city": "Bali",
         "location_coordinate": "-8.555088807336244, 115.43307412775567",
         "location_gmaps": "https://goo.gl/maps/Xuj5xtvwkY9uCxJJA",
         "links": [
@@ -5106,7 +5106,7 @@
         "attended": "No",
         "_id": "lombac_3",
         "location_address": "Ray V, Jl. Brigjen H. hasan Basri, Handil Bakti, Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan 70582",
-        "location_city": "Kabupaten Barito Kuala",
+        "location_city": "Banjarmasin",
         "location_coordinate": "-3.234425914651543, 114.6223171779862",
         "location_gmaps": "",
         "links": [
@@ -28344,7 +28344,7 @@
         "attended": "No",
         "_id": "shiray_1",
         "location_address": "Jl. Insinyur H. Juanda No.19, RT.003/RW.011, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",
-        "location_city": "Bekasi Timur",
+        "location_city": "Bekasi",
         "location_coordinate": "-6.249588079334438, 107.01668338094765",
         "location_gmaps": "https://goo.gl/maps/bYgrt8Lv8SCEyT9h9",
         "links": [
