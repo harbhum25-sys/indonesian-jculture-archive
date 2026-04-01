@@ -30,6 +30,68 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20160827",
+      "Start Time": "",
+      "End Date": "20160828",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Japan Fest 2K16 Kendari",
+      "Location": "Lippo Plaza Kendari",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "japan_fest_2k16_kendari",
+      "location_address": "Jl. M.T. Haryono No.61 - 63, Bende, Kec. Kadia, Kota Kendari, Sulawesi Tenggara 93117",
+      "location_city": "Kendari",
+      "location_country": "Indonesia",
+      "location_coordinate": "-3.9921113408188704, 122.5122177516638",
+      "location_gmaps": "https://maps.app.goo.gl/3mA8qikcGjaxiaJn6",
+      "links": [
+        "https://www.facebook.com/share/p/18cq6hn4fj/",
+        "https://www.instagram.com/p/BIkYNBLgCDj/",
+        "https://www.facebook.com/photo/?fbid=1212390785488795&set=a.1212368488824358",
+        "https://www.facebook.com/photo/?fbid=1213435102051030&set=a.1213434945384379",
+        "https://www.facebook.com/photo/?fbid=1213437915384082&set=a.1213434945384379",
+        "https://www.facebook.com/photo/?fbid=1213475795380294&set=a.1213434945384379",
+        "https://www.facebook.com/photo/?fbid=1213507108710496&set=a.1213434945384379",
+        "https://www.facebook.com/photo/?fbid=1213526685375205&set=a.1213434945384379"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Band / Live Performance",
+          "Dance Cover Competition",
+          "Anime - Convention / Fan Event",
+          "Game / Esports Tournament",
+          "Talkshow / Seminar / Workshop"
+        ],
+        "theme": "Asobi ni Iku Yo!",
+        "description": "animanga, music & japan pop culture festival",
+        "highlight_events": [
+          "Anime Center",
+          "Manga Workshop",
+          "Cosplay",
+          "Games",
+          "Music & Dance Performance",
+          "Merchandise"
+        ],
+        "sponsors": {
+          "main": "Lippo Plaza Kendari",
+          "others": [
+            "My Sushi",
+            "Timezone",
+            "Es Teler 77",
+            "Techno's Studio"
+          ]
+        }
+      }
+    },
+    {
         "Start Date": "20160110",
         "Start Time": "10:00 AM",
         "End Date": "20160110",
