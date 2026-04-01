@@ -6824,6 +6824,54 @@
         }
     },
     {
+      "Start Date": "20260627",
+      "Start Time": "",
+      "End Date": "20260628",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Chibicon! X",
+      "Location": "Convention Hall TP 3",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "",
+      "_id": "chibicon_x_2026_sby",
+      "location_address": "Jl. Jenderal Basuki Rachmat.8-12, Tunjungan Plaza IV, UG. 54-55, Kedungdoro, Tegalsari, Surabaya, East Java 60261",
+        "location_city": "Surabaya",
+      "location_country": "Indonesia",
+        "location_coordinate": "-7.263296646953891, 112.7405014817592",
+        "location_gmaps": "https://maps.app.goo.gl/trJPwBBV1q88AuGU6",
+      "links": [
+        "https://www.instagram.com/p/DSz9hpED8Aq",
+        "https://www.instagram.com/chibicon.id/p/DWlduxBj73W/",
+        "https://www.chibicon.id"
+      ],
+      "Content": {
+        "category": ["Convention / Expo / Comic Market", "Cosplay - Competition / Coswalk", "Musik - Idol / VTuber"],
+        "edition": "10",
+        "description": "Event pop culture dan kreator dengan berbagai guest star internasional dan lokal.",
+        "guest_stars": {
+          "international": ["Kana Yuuki", "Shinn Uchida", "Lea Coser"],
+          "cosplayer": ["Munoko Cosplay"],
+          "performer": ["PANDAVVA", "Eclipse", "Gochikara", "Kohi Sekai", "Minerva Land", "Kirin Day", "Tomoshibi", "Twenty Nine Teens"],
+          "special_appearance": ["Avengers", "Thunderbolt"]
+        },
+        "performers": {
+          "music": ["Eclipse", "Gochikara", "Kohi Sekai", "Minerva Land", "Kirin Day", "Tomoshibi", "Twenty Nine Teens"]
+        },
+        "activities": {
+          "main": ["Manga Live Paint", "Cosplay", "Live Performance"]
+        },
+        "social_media": {
+          "instagram": "@chibicon.id",
+          "website": "https://www.chibicon.id"
+        }
+      }
+    },
+    {
         "Start Date": "20260515",
         "Start Time": "",
         "End Date": "20260517",
