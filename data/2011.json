@@ -3043,7 +3043,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "CLAS:H \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 Cosplay Live Action Show Hybrid",
+        "Subject": "CLAS:H Ã¢â‚¬â€œ Cosplay Live Action Show Hybrid",
         "Location": "Balai Kartini",
         "Comment": "",
         "Online/Offline": "Offline",
@@ -3249,6 +3249,96 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20110915",
+        "Start Time": "11:00",
+        "End Date": "20110918",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Megaxus Cosplay Competition 2011",
+        "Location": "Mall Taman Anggrek",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "megaxu_1",
+        "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.178281752560312, 106.79240363887642",
+        "location_gmaps": "https://maps.app.goo.gl/S6c4LShm9Fn8ijaa6",
+        "links": [
+            "https://web.facebook.com/groups/83171306676/?multi_permalinks=10150190338496677",
+            "http://www.facebook.com/event.php?eid=169711379749747"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "PT Megaxus",
+            "description": "Grand Final Cosplay Competition yang diadakan PT Megaxus di Mall Taman Anggrek, berlangsung selama beberapa hari dengan puncak acara pada 18 September 2011. Event semakin seru dengan banyak Cosplayer yang antusias.",
+            "prizes": {
+                "1st": "Rp 3.000.000 + Rp 5.000.000 Mi-Cash + Merchandise Exclusive"
+            },
+            "source": {
+                "nama": "AMH Magz Vol. 02, halaman 51",
+                "tipe": "majalah"
+            }
+        }
+    },
+    {
+        "Start Date": "20110918",
+        "Start Time": "",
+        "End Date": "20110925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jakarta-Japan Matsuri 2011",
+        "Location": "Hotel Nikko & Monas",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jakjap_1",
+        "location_address": "Jl. M.H. Thamrin No.59 9, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.193943664990935, 106.82399272798048",
+        "location_gmaps": "https://maps.app.goo.gl/KzfAPMQNEhFj9CFB7",
+        "links": [
+            "https://web.facebook.com/groups/152402028271/?multi_permalinks=10150436077043272",
+            "http://www.id.emb-japan.go.jp/matsuri/jakjapan2011.html",
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Budaya Jepang - Seni Tradisional"
+            ],
+            "description": "Festival Jepang-Jakarta yang berlangsung mulai 18 September di Hotel Nikko Jakarta dan berakhir pada 25 September di Monas. Closing Event diadakan di Monas dari Siang Hari sampai Malam Hari, menampilkan banyak Street Cosplay. Acara ditutup dengan Bon Odori.",
+            "rundown": {
+                "pembukaan": {
+                    "tanggal": "18 September 2011",
+                    "lokasi": "Hotel Nikko, Jakarta"
+                },
+                "penutupan": {
+                    "tanggal": "25 September 2011",
+                    "lokasi": "Monas, Jakarta",
+                    "catatan": "Banyak Street Cosplay, diakhiri Bon Odori namun tanpa Hanabi (kembang api) karena kesalahpahaman panitia"
+                }
+            },
+            "source": {
+                "nama_1": "Facebook Group post",
+                "nama_2": "AMH Magz Vol. 02, halaman 52",
+                "tipe": "media sosial dan majalah"
+            }
+        }
+    },
+    {
         "Start Date": "20110923",
         "Start Time": "9:00 AM",
         "End Date": "20110925",
@@ -3337,6 +3427,40 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20110924",
+        "Start Time": "",
+        "End Date": "20110925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Festival Indonesia Keren [FIRE]",
+        "Location": "Jogja Expo Centre",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "fireje_1",
+        "location_address": "Jl. Raya Janti Jl. Wonocatur, Wonocatur, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55198",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.799356830183748, 110.40404341022764",
+        "location_gmaps": "https://goo.gl/maps/AWY1rw8whGgZ5Cs59",
+        "links": [
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "source": {
+                "nama": "Facebook Group post - Info J-Fest bulan September-Desember 2011",
+                "tipe": "media sosial"
+            }
+        }
+    },
+    {
         "Start Date": "20110925",
         "Start Time": "7:00 PM",
         "End Date": "20110925",
@@ -3363,6 +3487,40 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20111002",
+        "Start Time": "",
+        "End Date": "20111002",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Festival \"Higashi Kara\"",
+        "Location": "Auditorium STIE TKPN",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "higash_1",
+        "location_address": "6CJ6+45P, Jl. Seturan Raya, Kledokan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.769651814428868, 110.41044536568451",
+        "location_gmaps": "https://maps.app.goo.gl/zkGrnV1N2Z1aMcNF7",
+        "links": [
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "source": {
+                "nama": "Facebook Group post - Info J-Fest bulan September-Desember 2011",
+                "tipe": "media sosial"
+            }
+        }
     },
     {
         "Start Date": "20111016",
@@ -3423,6 +3581,42 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20111023",
+        "Start Time": "",
+        "End Date": "20111023",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BUNKASAI STBA-JIA 3",
+        "Location": "STBA JIA Bekasi & Blu Plaza Bekasi",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bunkaj_1",
+        "location_address": "Jl. Cut Mutia No.16A, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.252320495912958, 107.01296948590752",
+        "location_gmaps": "https://maps.app.goo.gl/DcjwuALZbgCcZgVt7",
+        "links": [
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "organizer": "STBA JIA Bekasi",
+            "edition": "3",
+            "source": {
+                "nama": "Facebook Group post - Info J-Fest bulan September-Desember 2011",
+                "tipe": "media sosial"
+            }
+        }
+    },
+    {
         "Start Date": "20111027",
         "Start Time": "",
         "End Date": "20111029",
@@ -3450,6 +3644,76 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20111029",
+        "Start Time": "",
+        "End Date": "20111029",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Kinokuniya Halloween Costum Party",
+        "Location": "Kinokuniya Sogo Plaza Senayan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "kinoku_1",
+        "location_address": "Plaza Senayan Mall, (Sogo) 5th Floor, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.2255974166200705, 106.79921806280248",
+        "location_gmaps": "https://maps.app.goo.gl/6VyXH9D4TmFaakpTA",
+        "links": [],
+        "Content": {
+            "category": [
+                "Party / Night Event",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "organizer": "Kinokuniya",
+            "location_detail": "Lantai 5, Kinokuniya Sogo Plaza Senayan",
+            "source": {
+                "nama": "AMH Magz Vol. 02, halaman 52",
+                "tipe": "majalah"
+            }
+        }
+    },
+    {
+        "Start Date": "20111029",
+        "Start Time": "",
+        "End Date": "20111030",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HOT event",
+        "Location": "Arena PRJ Kemayoran",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hotevt_1",
+        "location_address": "Jl. Benyamin Sueb No.12, RT.2, Pademangan Tim., Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14410",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.146943227986942, 106.84681185640488",
+        "location_gmaps": "https://goo.gl/maps/xS7djtgGtopDEHkR9",
+        "location_gmaps": "",
+        "links": [
+            "http://www.theHOTevent.blogspot.com"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "source": {
+                "nama": "AMH Magz Vol. 02, halaman 52",
+                "tipe": "majalah"
+            }
+        }
     },
     {
         "Start Date": "20111119",
@@ -3599,6 +3863,43 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20111204",
+        "Start Time": "",
+        "End Date": "20111204",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "The 4th Toysmania Cosplay Competition",
+        "Location": "Blok M Plaza",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "toysmn_1",
+        "location_address": "Jl. Bulungan No.76, RT.6/RW.6, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.244109179912065, 106.79764175086302",
+        "location_gmaps": "https://maps.app.goo.gl/erpz3u6ACDhQwxSKA",
+        "links": [
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Toy / Figure / Hobby"
+            ],
+            "edition": "4",
+            "location_detail": "Lantai 8, Blok M Plaza",
+            "source": {
+                "nama": "Facebook Group post - Info J-Fest bulan September-Desember 2011",
+                "tipe": "media sosial"
+            }
+        }
+    },
+    {
         "Start Date": "20111211",
         "Start Time": "11:00 AM",
         "End Date": "20111211",
@@ -3640,7 +3941,7 @@
         "Importance": "Normal",
         "Subject": "Gomu Gomu no Matsuri II",
         "Location": "SMA Negeri 2 Bandung",
-        "Comment": "Shiroi Hana tampil sebagai band audisi. terlihat perdebatan AM dengan Kyu di parkiran SMAN 2 hingga AM bikin status di facebook:\nAdityan Mulia\nBetrayal.... I'm getting familiar with it..\nLike   about an hour ago via mobile \nAdityan Mulia\nSH = SUCKS!!!!! Ga terima?! Segimana gw aja ANJ*NK!!!!\nLike   10 hours ago via BlackBerry  \n",
+        "Comment": "Shiroi Hana tampil sebagai band audisi. ",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "Yes",
