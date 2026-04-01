@@ -30,6 +30,128 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20190914",
+      "Start Time": "16:30",
+      "End Date": "20190914",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Nippon Night",
+      "Location": "Garden Eatery",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "nippon_night_kendari_2019",
+      "location_address": "Jl. Jend. AH. Nasution No.108, Anduonohu, Kec. Kambu, Kota Kendari, Sulawesi Tenggara 93231",
+      "location_city": "Kendari",
+      "location_country": "Indonesia",
+      "location_coordinate": "-4.001964610967085, 122.5320851134963",
+      "location_gmaps": "https://maps.app.goo.gl/FviZnqaVr7PU2JqRA",
+      "links": [
+        "https://web.facebook.com/share/p/1RNy1csoCp/"
+      ],
+      "Content": {
+        "category": [
+          "Bazaar / Market",
+          "Musik - Band / Live Performance",
+          "Party / Night Event"
+        ],
+        "organizer": "J-Music Lovers Kendari",
+        "theme": "City Pop",
+        "description": "Bazaar dan acara pemanasan (road to) menuju Japan Festival Kendari 2019.",
+        "activities": [
+          "Live Music",
+          "Games",
+          "Quiz",
+          "Press Release Japan Festival Kendari 2019"
+        ],
+        "presenter": "Persekutan Duniawi Komunitas Jejepangan Kendari",
+        "hashtags": [
+          "roadtojfestkendari2019",
+          "jfestkendari2019",
+          "endgame"
+        ]
+      }
+    },
+    {
+      "Start Date": "20191109",
+      "Start Time": "",
+      "End Date": "20191110",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Japan Fest Kendari 2019",
+      "Location": "Lippo Plaza Kendari",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "jfest_kendari_2019_owari_no_tabi",
+      "location_address": "Jl. M.T. Haryono No.61 - 63, Bende, Kec. Kadia, Kota Kendari, Sulawesi Tenggara 93117",
+      "location_city": "Kendari",
+      "location_country": "Indonesia",
+      "location_coordinate": "-3.9921113408188704, 122.5122177516638",
+      "location_gmaps": "https://maps.app.goo.gl/3mA8qikcGjaxiaJn6",
+      "links": [
+        "https://www.facebook.com/share/p/14YM3Q8jHsp/",
+        "https://www.instagram.com/p/B4g-npohVEy/?igsh=MXQzZXc5YTdudXdnaA==",
+        "https://www.instagram.com/p/B4uUw2yhcvl/?igsh=MWRqZGJuOWZhZ3FtdQ==",
+        "https://www.instagram.com/p/B4w8NvIB3nu/?igsh=MWJheDQ4ejdqYm0zcQ==",
+        "https://www.instagram.com/p/B59pVMOBhn1/?igsh=MXJjNGllZXI2eHllbQ=="
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Gathering / Parade / Casual",
+          "Musik - Band / Live Performance",
+          "Game / Esports Tournament",
+          "Talkshow / Seminar / Workshop"
+        ],
+        "theme": "Owari No Tabi",
+        "edition": "2019",
+        "activities": [
+          "Live Music",
+          "Game Competition",
+          "Cosplay",
+          "Live Drawing",
+          "Talkshow"
+        ],
+        "talkshow": {
+          "topic": "Seperti apa Sih Hidup di Jepang.?"
+        },
+        "culinary": [
+          "Dorayaki",
+          "Takoyaki"
+        ],
+        "social_media": {
+          "instagram": "@jfestkendari2019"
+        },
+        "support_by": [
+          "Japan Music Lovers",
+          "Maid Cafe Kendari",
+          "Osyuken",
+          "Ozone Otaku",
+          "One Punch Kendari",
+          "Kendari Cosplay",
+          "Yanchou"
+        ],
+        "media_partners": [
+          "Kendari Informasi",
+          "Kendari City",
+          "Kabar Kendari",
+          "Kendari Event",
+          "Sultra Informasi",
+          "Berita Sultra",
+          "Rekaev"
+        ]
+      }
+    },
+    {
         "Start Date": "20190203",
         "Start Time": "12:00 AM",
         "End Date": "20190204",
@@ -530,10 +652,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro12",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.6, RT.6/RW.3, Kuningan Timur, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234221253144067, 106.8255054847978",
+        "location_gmaps": "https://goo.gl/maps/YUTmU7R2DxazTcxu7",
         "links": [
             ""
         ],
@@ -1784,10 +1906,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "comifuro13",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Gatot Subroto No.6, RT.6/RW.3, Kuningan Timur, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.234221253144067, 106.8255054847978",
+        "location_gmaps": "https://goo.gl/maps/YUTmU7R2DxazTcxu7",
         "links": [
             ""
         ],

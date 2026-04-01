@@ -28,6 +28,83 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20150822",
+      "Start Time": "",
+      "End Date": "20150823",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "J-FEST KENDARI",
+      "Location": "Lippo Plaza Kendari",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "jfest_kendari_2015",
+      "location_address": "Jl. M.T. Haryono No.61 - 63, Bende, Kec. Kadia, Kota Kendari, Sulawesi Tenggara 93117",
+      "location_city": "Kendari",
+      "location_country": "Indonesia",
+      "location_coordinate": "-3.9921113408188704, 122.5122177516638",
+      "location_gmaps": "https://maps.app.goo.gl/3mA8qikcGjaxiaJn6",
+      "links": [
+        "https://www.facebook.com/JFestKendariOfficial",
+        "https://www.facebook.com/share/p/1CVwikBUE6/",
+        "https://www.instagram.com/p/6nMk39j7tZ/?igsh=MThjbW0ycWhvczMyNw==",
+        "https://www.facebook.com/share/p/1DQ6imj4U7/",
+        "https://www.instagram.com/p/6teXLcj7kJ/?igsh=NGp1c3h2bTVmdXBv",
+        "https://www.instagram.com/p/6wnMXTD7uv/?igsh=d3c2bW5jbjBtanF3"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Musik - Band / Live Performance",
+          "Cosplay - Competition / Coswalk",
+          "Bazaar / Market",
+          "Game / Esports Tournament"
+        ],
+        "presenter": "Japan Lovers Kendari",
+        "theme": "Party ga Hajimaruyo!!",
+        "edition": "2015",
+        "description": "Festival Jepang dengan konsep baru yang menghadirkan berbagai kompetisi dan hiburan budaya pop Jepang di Kendari.",
+        "activities": [
+          "Japan Music",
+          "Anime Corner",
+          "Cosplay",
+          "Games",
+          "Manga",
+          "Merchandise",
+          "Food Court",
+          "Band Competition"
+        ],
+        "registration": {
+          "performance": {
+            "fee": "Rp 50.000",
+            "requirement": "Menyiapkan 2 lagu J-Song",
+            "benefit": "Merchandise dari JLK"
+          }
+        },
+        "contact": {
+          "whatsapp": [
+            "085342434116 (Ardi)",
+            "082348004316 (Iyan)"
+          ],
+          "facebook": "https://www.facebook.com/JFestKendariOfficial"
+        },
+        "media_partners": {
+          "tv": "GET!!! TV J-Music Channel"
+        },
+        "sponsors": {
+          "main": "Lippo Plaza Kendari",
+          "others": [
+            "Timezone",
+            "Sushi Q"
+          ]
+        }
+      }
+    },
+    {
         "Start Date": "20150118",
         "Start Time": "12:00 AM",
         "End Date": "20150119",
