@@ -657,8 +657,7 @@
             },
             "source": "Animonster 109 - April 2008",
             "category": []
-        },
-        "location_country": "Indonesia"
+        }
     },
     {
         "Start Date": "20080620",
@@ -1070,8 +1069,8 @@
         "status": "Past Event",
         "attended": "No",
         "_id": "japan_tour_2008",
-        "location_address": "Kouchi (7 hari), Kyoto (2 hari), Tokyo (3 hari)",
-        "location_city": "Jepang",
+        "location_address": "",
+        "location_city": "Kouchi, Kyoto, Tokyo",
         "location_coordinate": "",
         "location_gmaps": "",
         "links": [

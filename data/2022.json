@@ -10646,10 +10646,10 @@
         "status": "Finished",
         "attended": "No",
         "_id": "majide_1",
-        "location_address": "Jl. Senen Raya No.135, RW.2, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+        "location_address": "Jl. Senen Raya No.135, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
         "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.176596211282706, 106.84113772567376",
-        "location_gmaps": "https://maps.app.goo.gl/b2EixfuNvhQq7Wgv5",
+        "location_coordinate": "-6.176570399467475, 106.841198458482",
+        "location_gmaps": "https://goo.gl/maps/kGAWR6wdTdVgRsfu5",
         "Content": {
             "Rundown": [
                 {
@@ -10735,11 +10735,6 @@
             ],
             "category": []
         },
-        "_id": "majide_1",
-        "location_address": "Jl. Senen Raya No.135, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.176570399467475, 106.841198458482",
-        "location_gmaps": "https://goo.gl/maps/kGAWR6wdTdVgRsfu5",
         "links": [
             "https://web.facebook.com/jfesthunter/posts/pfbid0n5Q8njUmWSc2xje4a4kXjjVc9U3mvojaHxrx1A48e9BxUY1ShEvzmB1LRjSCEPoWl"
         ],
@@ -22526,14 +22521,10 @@
         "Subject": "JUNSAKAI",
         "Location": "Kendari",
         "Comment": "Updated at JFest Chart: 2022-11-23 14:48:00",
-        "Online/Offline": "Offline",
+        "Online/Offline": "Online",
         "status": "Finished",
         "attended": "",
         "_id": "junsak_1",
-        "location_address": "Kendari",
-        "location_city": "Kendari",
-        "location_coordinate": "-3.997935708146195, 122.51411755251932",
-        "location_gmaps": "https://goo.gl/maps/WcAZqNmKQczXoBKi9",
         "links": [
             "https://www.facebook.com/groups/251875943835/permalink/10161380736998836/",
             "https://instagram.com/jackendari"

@@ -25636,8 +25636,8 @@
         "_id": "cospla_82",
         "location_address": "Jl. Diponegoro No.34, Simpang Empat, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28116",
         "location_city": "Pekanbaru",
-        "location_coordinate": "https://goo.gl/maps/gy5yLsJKUst5YBSB9",
-        "location_gmaps": "0.5153531146187711, 101.45195976571135",
+        "location_coordinate": "0.5153531146187711, 101.45195976571135",
+        "location_gmaps": "https://goo.gl/maps/gy5yLsJKUst5YBSB9",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10161753060478836/"
         ],
@@ -48998,7 +48998,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "iaarhb_2",
+        "_id": "wryshj_1",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -49183,7 +49183,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "iaarhb_2",
+        "_id": "wryshj_1",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -49726,7 +49726,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "iaarhb_2",
+        "_id": "wryshj_1",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
@@ -52332,7 +52332,7 @@
         "location_address": "Jl. Ciumbuleuit No.94, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141",
         "location_city": "Bandung",
         "location_coordinate": "-6.874900147688132, 107.60494545411886",
-        "location_gmaps": "3.5917810183872443, 98.68109876473072",
+        "location_gmaps": "https://goo.gl/maps/Vdb2WKTTm6u1ajPV9",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162007430828836/",
             "https://instagram.com/spogomi_bandung"
@@ -82687,6 +82687,61 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20231230",
+        "Start Time": "",
+        "End Date": "20231231",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "N.Y.E. Culinary Festival",
+        "Location": "Alun-Alun Plaza Ambarrukmo",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "nye_culinary_festival_2023_jogja",
+        "location_address": "6C82+JR8, Jl. Monggungan, Ambarukmo, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.783472084702968, 110.40207108599806",
+        "location_gmaps": "https://maps.app.goo.gl/vKitEU9d4B5P6Ff46",
+        "links": [
+            "https://www.instagram.com/jfesthunter_joglosemar/p/C1Tsz37vYKI/?img_index=3"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Gathering / Komunitas",
+                "Party / Night Event"
+            ],
+            "organizer": "Plaza Ambarrukmo",
+            "description": "Perayaan malam tahun baru dengan festival kuliner, cosplay, dance, music performance, dan fireworks.",
+            "rundown": {
+                "2023-12-30": [
+                    "Cosplay Competition",
+                    "Coswalk Competition",
+                    "Japan Eating Challenge",
+                    "Community Meet Up",
+                    "Music Perform"
+                ],
+                "2023-12-31": [
+                    "Kpop Dance Competition",
+                    "Random Play Dance Competition",
+                    "Noraebang",
+                    "Korean Eating Challenge",
+                    "Band and DJ Perform",
+                    "Spectacular Fireworks"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20231231",
         "Start Time": "",
         "End Date": "20231231",
@@ -83073,50 +83128,50 @@
             "https://web.facebook.com/groups/251875943835/posts/10162268143603836/",
             "https://www.instagram.com/joryu.id",
             "https://www.instagram.com/p/C1TtcQeveRt/"
-            ],
+        ],
         "Content": {
-          "category": [
-            "Festival / Matsuri",
-            "Cosplay - Competition / Coswalk",
-            "Musik - Band / Live Performance",
-            "Game / Esports Tournament"
-          ],
-          "organizer": {
-            "main": "Joryu.id",
-            "venue": "Jambuluwuk Malioboro Hotel"
-          },
-          "description": "Perayaan tahun baru dengan konsep anime festival menghadirkan hiburan, cosplay, kompetisi, dan pertunjukan musik.",
-          "performers": {
-            "guest": [
-              "Necromancer",
-              "Ten Ninshi",
-              "Deepweb Dolphin"
-            ]
-          },
-          "competition": {
-            "cosplay": {
-              "types": [
-                "Coswalk Competition",
-                "Great Cosplay",
-                "Tekken Tournament"
-              ]
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament"
+            ],
+            "organizer": {
+                "main": "Joryu.id",
+                "venue": "Jambuluwuk Malioboro Hotel"
             },
-            "games": {
-              "titles": [
-                "Tekken"
-              ]
+            "description": "Perayaan tahun baru dengan konsep anime festival menghadirkan hiburan, cosplay, kompetisi, dan pertunjukan musik.",
+            "performers": {
+                "guest": [
+                    "Necromancer",
+                    "Ten Ninshi",
+                    "Deepweb Dolphin"
+                ]
+            },
+            "competition": {
+                "cosplay": {
+                    "types": [
+                        "Coswalk Competition",
+                        "Great Cosplay",
+                        "Tekken Tournament"
+                    ]
+                },
+                "games": {
+                    "titles": [
+                        "Tekken"
+                    ]
+                }
+            },
+            "activities": {
+                "others": [
+                    "Stand dan booth unik",
+                    "Pop culture music performance",
+                    "Karaoke session"
+                ]
+            },
+            "ticket_info": {
+                "fdc": "Rp 35.000"
             }
-          },
-          "activities": {
-            "others": [
-              "Stand dan booth unik",
-              "Pop culture music performance",
-              "Karaoke session"
-            ]
-          },
-          "ticket_info": {
-            "fdc": "Rp 35.000"
-          }
         },
         "location_country": "Indonesia"
     },
@@ -83487,61 +83542,6 @@
             ]
         },
         "location_country": "Indonesia"
-    },
-    {
-      "Start Date": "20231230",
-      "Start Time": "",
-      "End Date": "20231231",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "N.Y.E. Culinary Festival",
-      "Location": "Alun-Alun Plaza Ambarrukmo",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "",
-      "_id": "nye_culinary_festival_2023_jogja",
-      "location_address": "6C82+JR8, Jl. Monggungan, Ambarukmo, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
-      "location_city": "Yogyakarta",
-      "location_country": "Indonesia",
-      "location_coordinate": "-7.783472084702968, 110.40207108599806",
-      "location_gmaps": "https://maps.app.goo.gl/vKitEU9d4B5P6Ff46",
-      "links": [
-        "https://www.instagram.com/jfesthunter_joglosemar/p/C1Tsz37vYKI/?img_index=3"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Competition / Coswalk",
-          "Dance Cover Competition",
-          "Musik - Band / Live Performance",
-          "Musik - Anisong / Karaoke",
-          "Gathering / Komunitas",
-          "Party / Night Event"
-        ],
-        "organizer": "Plaza Ambarrukmo",
-        "description": "Perayaan malam tahun baru dengan festival kuliner, cosplay, dance, music performance, dan fireworks.",
-        "rundown": {
-          "2023-12-30": [
-            "Cosplay Competition",
-            "Coswalk Competition",
-            "Japan Eating Challenge",
-            "Community Meet Up",
-            "Music Perform"
-          ],
-          "2023-12-31": [
-            "Kpop Dance Competition",
-            "Random Play Dance Competition",
-            "Noraebang",
-            "Korean Eating Challenge",
-            "Band and DJ Perform",
-            "Spectacular Fireworks"
-          ]
-        }
-      }
     },
     {
         "Start Date": "20231231",
