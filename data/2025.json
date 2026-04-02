@@ -8965,6 +8965,85 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20250531",
+      "Start Time": "",
+      "End Date": "20250531",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "J-MISERU Fourth Season",
+      "Location": "Noni Function Hall",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "",
+      "_id": "j_miseru_fourth_season_2025",
+      "location_address": "Jl. Ahmad Yani No.202, Majalengka Wetan, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45411",
+      "location_city": "Majalengka",
+      "location_coordinate": "-6.8360558862956, 108.23222814698437",
+      "location_gmaps": "https://maps.app.goo.gl/r3Hc2HQMZe1W7sBt9",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DKHmmYFpjDD/"
+      ],
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber",
+          "Dance Cover Competition",
+          "Gathering / Komunitas"
+        ],
+        "organizer": "Supermachi",
+        "event_series": "Journey of Supermachi",
+        "description": "Kompetisi cosplay wilayah Seiryuu Prefecture dengan kesempatan lanjut ke Supermachi Festival Bandung.",
+        "judges": {
+          "cosplay_competition": [
+            "Aldini",
+            "Wawa",
+            "Akuy"
+          ]
+        },
+        "performers": {
+          "idol_group": [
+            "V-Knight",
+            "Valerie",
+            "Elestra",
+            "Jet✮Purii",
+            "Kasumisou No Narumi",
+            "Black Numbers"
+          ],
+          "others": [
+            "Local performers",
+            "Community performers"
+          ]
+        },
+        "competition": {
+          "cosplay": {
+            "type": "Cosplay Competition",
+            "advancement": "Top 3 lanjut ke Supermachi Festival Bandung"
+          }
+        },
+        "ticket_info": {
+          "presale": "Rp 35.000",
+          "booking_contact": "0881023xxxx"
+        },
+        "sponsors": {
+          "main": [
+            "Glow",
+            "Biznet"
+          ],
+          "others": [
+            "JKT48 Fans Majalengka",
+            "Wibu Fest",
+            "Bwalkshoot"
+          ]
+        },
+        "source" : "Aidoru Nation Fans Indonesia"
+      }
+    },
+    {
         "Start Date": "20250510",
         "Start Time": "",
         "End Date": "20250510",
