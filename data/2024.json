@@ -33455,7 +33455,7 @@
         "Location": "Rooftop BTM, Bogor",
         "Comment": "Insert to J-Event List : 20240502 10:20:22\n",
         "Online/Offline": "Offline",
-        "status": "Finished",
+        "status": "Cancelled",
         "attended": "",
         "_id": "qgwvyz_1",
         "location_address": "Jl. Ir. H. Juanda No.68, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
@@ -33465,7 +33465,8 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162464016873836/",
             "https://www.instagram.com/waktuidolberpesta?igsh=MWljcjR1M2N3OWw1cA==",
-            "https://www.facebook.com/profile.php?id=61553442771842&mibextid=ZbWKwL"
+            "https://www.facebook.com/profile.php?id=61553442771842&mibextid=ZbWKwL",
+            "https://www.instagram.com/p/C7msWLBB5dD/"
         ],
         "Content": {
             "Cosplay Corner": [
@@ -33500,7 +33501,11 @@
             "category": [
                 "Party / Night Event",
                 "Musik - Idol / VTuber"
-            ]
+            ],
+            "description": "Event Waktu Idol Berpesta 2024 (WIB'24) yang dijadwalkan 09 Juni 2024 dibatalkan oleh panitia. Pengumuman disertai permintaan maaf kepada pengunjung serta informasi pengajuan refund.",
+            "registration": {
+                "refund_form": "https://bit.ly/REFUNDWIB24"
+              }
         },
         "location_country": "Indonesia"
     },
