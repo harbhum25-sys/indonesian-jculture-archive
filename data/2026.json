@@ -6418,7 +6418,8 @@
             "https://www.instagram.com/p/DVcBrzVkiCb/",
             "https://bit.ly/IndonesiaCosplayLeagueBandung",
             "https://www.instagram.com/p/DU5Wbs8Elhl/",
-            "https://web.facebook.com/share/1DcL2uH1FU/"
+            "https://web.facebook.com/share/1DcL2uH1FU/",
+            "https://www.instagram.com/p/DWqxcCxEmbL/"
         ],
         "Content": {
             "category": [
@@ -6458,6 +6459,43 @@
                 "description": "Special Performance & Stage Debut",
                 "notes": "Stage debut of new member @ireenaissance",
                 "announcement": "Let's go bertemu dan seru-seruan bareng di Kyuu Fest!"
+            },
+            "rundown" : {
+                "Sabtu": [
+                  {"jam": "12.00", "deskripsi": ""},
+                  {"jam": "12.30-13.00", "deskripsi": "Karaoke Party"},
+                  {"jam": "13.00-13.30", "deskripsi": "Aozora no Hime"},
+                  {"jam": "13.30-14.00", "deskripsi": "Dai-Ni no Hikari"},
+                  {"jam": "14.00-14.30", "deskripsi": "Evanji"},
+                  {"jam": "14.30-15.00", "deskripsi": "Aimu"},
+                  {"jam": "15.00-15.15", "deskripsi": "Break"},
+                  {"jam": "15.15-15.45", "deskripsi": "Naira"},
+                  {"jam": "15.45-16.15", "deskripsi": "Stellar Luna"},
+                  {"jam": "16.45-17.20", "deskripsi": "Karaoke Train"},
+                  {"jam": "17.20-17.50", "deskripsi": "Yuriwa"},
+                  {"jam": "17.50-18.00", "deskripsi": "Break"},
+                  {"jam": "18.00-18.30", "deskripsi": "Chrousella"},
+                  {"jam": "18.30-19.00", "deskripsi": "Cherrywish"},
+                  {"jam": "19.00-19.30", "deskripsi": "Rey Jayden"}
+                ],
+                "Minggu": [
+                  {"jam": "12.00", "deskripsi": ""},
+                  {"jam": "12.30-13.00", "deskripsi": "Karaoke Party"},
+                  {"jam": "13.00-13.30", "deskripsi": "Ablitz"},
+                  {"jam": "13.30-14.00", "deskripsi": "Yoite/Cover Sing"},
+                  {"jam": "14.00-14.30", "deskripsi": "Mosaic"},
+                  {"jam": "14.30-15.00", "deskripsi": "Utaudo"},
+                  {"jam": "15.00-15.15", "deskripsi": "Break"},
+                  {"jam": "15.15-15.45", "deskripsi": "Karaoke Train"},
+                  {"jam": "15.45-16.15", "deskripsi": "The Clown"},
+                  {"jam": "16.45-17.15", "deskripsi": "Coswalk"},
+                  {"jam": "17.15-17.50", "deskripsi": "Indonesia Cosplay League"},
+                  {"jam": "17.50-18.00", "deskripsi": "Break"},
+                  {"jam": "18.00-18.15", "deskripsi": "Pengumuman"},
+                  {"jam": "18.30-19.00", "deskripsi": "Reirin"},
+                  {"jam": "19.00-19.30", "deskripsi": "Muses"},
+                  {"jam": "19.30-20.00", "deskripsi": "Aurora Dream"}
+                ]
             },
             "additional_activities": [
                 "Karaoke Train",
@@ -6731,7 +6769,9 @@
             "https://www.instagram.com/harvest.bandofficial/p/DWilgmFFMQU/",
             "https://www.instagram.com/harvest.bandofficial/reel/DWil1MpijSL/",
             "https://www.instagram.com/harvest.bandofficial/reel/DWil1MpijSL/",
-            "https://www.instagram.com/supermachifestival/p/DWi99CGDQk-/"
+            "https://www.instagram.com/supermachifestival/p/DWi99CGDQk-/",
+            "https://www.instagram.com/p/DWqcFwJFKiS/",
+            "https://www.instagram.com/p/DWqiWciEiuf/"
         ],
         "Content": {
             "category": [
@@ -6798,6 +6838,41 @@
               },
               "registration": {
                 "link": "https://x.supercosmachi.com/NoC-2026-Wildcard"
+              },
+              "rundown" : {
+                "Day 1": [
+                      {"jam": "13.00-13.30", "deskripsi": "Laviierre"},
+                      {"jam": "13.30-14.00", "deskripsi": "友AME"},
+                      {"jam": "14.00-14.30", "deskripsi": "Shenhe"},
+                      {"jam": "14.30-15.00", "deskripsi": "Shelter Youth"},
+                      {"jam": "15.00-15.30", "deskripsi": "Break"},
+                      {"jam": "15.30-16.00", "deskripsi": "HNB"},
+                      {"jam": "16.00-16.30", "deskripsi": "CNE"},
+                      {"jam": "16.30-17.00", "deskripsi": "Harvest"},
+                      {"jam": "17.00-17.30", "deskripsi": "Joyful Youth"},
+                      {"jam": "17.30-18.00", "deskripsi": "Fatigals"},
+                      {"jam": "18.00-18.30", "deskripsi": "Break"},
+                      {"jam": "18.30-19.00", "deskripsi": ""},
+                      {"jam": "19.00-19.30", "deskripsi": "Thousand Sunny"},
+                      {"jam": "19.30-20.00", "deskripsi": "Secret Hope"},
+                      {"jam": "20.00-20.30", "deskripsi": "Johannes"}
+                    ],
+                    "Day 2 (5 April 2026)": [
+                      {"jam": "11.00", "deskripsi": "Opening Performance"},
+                      {"jam": "12.40", "deskripsi": "Guest Star 1"},
+                      {"jam": "12.55", "deskripsi": "Guest Star 2"},
+                      {"jam": "13.10", "deskripsi": "Guest Star 3"},
+                      {"jam": "13.25", "deskripsi": "Guest Star 4"},
+                      {"jam": "13.40", "deskripsi": "Performance Slot"},
+                      {"jam": "14.05", "deskripsi": "Virtual Real"},
+                      {"jam": "14.30", "deskripsi": "Performance Slot"},
+                      {"jam": "15.25", "deskripsi": "Prism"},
+                      {"jam": "15.50", "deskripsi": "Fleurine"},
+                      {"jam": "16.45", "deskripsi": "The Gang"},
+                      {"jam": "18.15", "deskripsi": "Night of Champion"},
+                      {"jam": "18.55", "deskripsi": "Coswalk"},
+                      {"jam": "19.00", "deskripsi": "Pengumuman Pemenang"}
+                    ]
               },
               "media_partners": [
                 "Wibu Baleendah",
