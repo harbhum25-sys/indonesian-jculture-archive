@@ -8327,6 +8327,82 @@
         }
     },
     {
+      "Start Date": "20260425",
+      "Start Time": "",
+      "End Date": "20260425",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Inobu 17",
+      "Location": "SMA Negeri 1 Bekasi",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "inobu_17_bekasi_2026",
+      "location_address": "Jl. KH. Agus Salim No.181, RT.010/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",
+        "location_city": "Bekasi",
+        "location_coordinate": "-6.226749684728223, 107.01129542343095",
+        "location_gmaps": "https://goo.gl/maps/ru7ESXtrKsR6PGWn6",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/inobusmansasi/",
+        "https://www.yesplis.com/event/inobu",
+        "https://www.instagram.com/mediaformasi/p/DWXbCHtE8fj/"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber",
+          "Musik - Band / Live Performance",
+          "Musik - Anisong / Karaoke",
+          "Bazaar / Market"
+        ],
+        "organizer": "Nihon Club SMAN 1 Bekasi",
+        "presenter": "Great One Festival",
+        "theme": "Be the Hunter of the Sea",
+        "edition": "17",
+        "description": "The greatest Japanese Festival in SMANSASI is back with a pirate and sea hunter theme.",
+        "performers": {
+          "guest_stars": [
+            "Cherry Wish",
+            "Muses",
+            "Skyfall",
+            "Hidden Files"
+          ],
+          "activities": [
+            "Karaoke",
+            "Coswalk"
+          ]
+        },
+        "attractions": {
+          "features": [
+            "Medieval Cosplay",
+            "Sea Market (Food, Drink, and Merchandise)",
+            "Quests",
+            "Maze",
+            "Photobooth"
+          ]
+        },
+        "ticket_info": {
+          "presale_1": "Rp 35.000",
+          "note": "Price is cheaper than OTS, limited tickets available",
+          "link": "https://www.yesplis.com/event/inobu"
+        },
+        "contact": {
+          "asta": "+62 821-1259-1024",
+          "syafiq": "+62 856-9449-1948",
+          "lalita": "+62 812-9076-5419"
+        },
+        "social_media": {
+          "instagram": "@inobusmansasi"
+        }
+      }
+    },
+    {
         "Start Date": "20260515",
         "Start Time": "",
         "End Date": "20260517",
