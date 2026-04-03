@@ -6705,13 +6705,13 @@
     {
         "Start Date": "20260404",
         "Start Time": "",
-        "End Date": "20260404",
+        "End Date": "20260405",
         "End Time": "",
         "Reminder On/Off": "No",
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "SYMPHONY OF HARVEST \u00e2\u20ac\u201c MINI CONCERT VOL.1",
+        "Subject": "Symphony of Harvest",
         "Location": "Cihampelas Walk",
         "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
         "Online/Offline": "Offline",
@@ -6725,14 +6725,94 @@
         "location_gmaps": "https://g.page/ciwalk-bandung",
         "links": [
             "https://www.instagram.com/p/DVtImDvk-Kc/",
-            "https://www.instagram.com/p/DVtIeuBkxWE/"
+            "https://www.instagram.com/p/DVtIeuBkxWE/",
+            "https://www.instagram.com/p/DWi99CGDQk-/",
+            "https://www.instagram.com/supermachifestival/reel/DWVSZEJkSG5/",
+            "https://www.instagram.com/harvest.bandofficial/p/DWilgmFFMQU/",
+            "https://www.instagram.com/harvest.bandofficial/reel/DWil1MpijSL/",
+            "https://www.instagram.com/harvest.bandofficial/reel/DWil1MpijSL/",
+            "https://www.instagram.com/supermachifestival/p/DWi99CGDQk-/"
         ],
         "Content": {
             "category": [
+                "Festival / Matsuri",
                 "Musik - Band / Live Performance",
-                "Anime - Convention / Fan Event"
-            ],
-            "presenter": "Super Machi x HVST",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition"
+              ],
+              "presenter": "Supermachi x HVST",
+              "organizer": "Supermachi Festival",
+              "theme": "Let the night harvest our symphony",
+              "performers": {
+                "4_april_bands": [
+                  "Henohenomoheji",
+                  "Thousand Sunny",
+                  "Harvest",
+                  "Gate",
+                  "Secret Hope",
+                  "Skelter Youth",
+                  "Fairytails",
+                  "Joyful Youth",
+                  "Catto",
+                  "Ophellia",
+                  "La'Vierre",
+                  "Tomo Ame"
+                ],
+                "5_april_special_performance": [
+                  "Prism",
+                  "Virtureal",
+                  "Phygital",
+                  "Lumina Scarlet",
+                  "Fleurine",
+                  "DJ Nakira B2B Copicat Sunday",
+                  "Voree",
+                  "Widya",
+                  "Iles",
+                  "Isal Fales"
+                ]
+              },
+              "judges": {
+                "noc": [
+                  "Rangga Kanciel",
+                  "Jeane RC"
+                ]
+              },
+              "mc": [
+                "Axl Rosidin (GNR Sunda)",
+                "Yoruna"
+              ],
+              "competition": {
+                "noc_2026_wildcard": {
+                  "name": "Night of Champion",
+                  "date": "5 April 2026",
+                  "note": "Tidak perlu video perform atau foto cosplay untuk pendaftaran"
+                },
+                "other": [
+                  "Star Song",
+                  "Gank Random Play Dance"
+                ]
+              },
+              "ticket_info": {
+                "type": "Free HTM"
+              },
+              "registration": {
+                "link": "https://x.supercosmachi.com/NoC-2026-Wildcard"
+              },
+              "media_partners": [
+                "Wibu Baleendah",
+                "Ankoku Festival",
+                "J-Fest Hunter",
+                "Atsui Cipanas"
+              ],
+              "sponsors": [
+                "Supermachi",
+                "Takahiro Shoppu"
+              ],
+              "social_media": {
+                "instagram": "@supermachifestival"
+              },
+            "previous_title": "SYMPHONY OF HARVEST \u00e2\u20ac\u201c MINI CONCERT VOL.1",
             "description": "Mini concert featuring local Japanese music cover bands performing J-Band, J-Pop, and anime songs."
         }
     },
@@ -7930,15 +8010,35 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10164872155063836/",
             "https://www.instagram.com/festivalaxia",
-            "https://web.facebook.com/share/p/14WYRSREDh3/"
+            "https://web.facebook.com/share/p/14WYRSREDh3/",
+            "https://www.instagram.com/p/DVQkg-mAV4w/",
+            "https://www.instagram.com/festivalaxia/p/DVqO2NpAVjF/"
         ],
         "Content": {
-            "presenter": "Festival Axia",
-            "htm": "Unknown",
-            "note": "Detail acara akan diupdate",
             "category": [
-                "Convention / Expo / Comic Market"
-            ]
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas"
+              ],
+              "organizer": "Festival Axia",
+              "co_organizer": "Supermachi Festival",
+              "presenter": "Festival Axia x Supermachi",
+              "description": "Kolaborasi antara Festival Axia dengan Supermachi Festival yang menghadirkan konten besar di ranah cosplay dan konser mini Vocaloid.",
+              "previous_title": "Miko Expo",
+              "possible_title": "Festival Axia x Supermachi: Super Miko Expo",
+              "performers": {
+                "mini_concert": "Vocaloid (Fan Project)"
+              },
+              "registration": {
+                "vocaloid_contributor": {
+                  "link": "bit.ly/miko-voca",
+                  "description": "Open collaboration untuk contributor MMD motion, cover lagu, atau produser lagu Vocaloid/UTAU"
+                }
+              },
+              "social_media": {
+                "instagram": ["@festivalaxia", "@supermachifestival"]
+              }
         },
         "location_country": "Indonesia"
     },

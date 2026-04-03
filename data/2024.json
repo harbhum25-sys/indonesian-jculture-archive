@@ -12338,6 +12338,85 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20241222",
+      "Start Time": "",
+      "End Date": "20241222",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "VKNIGHT LASTDANCE",
+      "Location": "KASUNGKA FOODCOURT",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "vknight_lastdance_majalengka_2024",
+      "location_address": "Taman Bagja Raharja, Jl. Letkol Abd. Gani No.2, Majalengka Kulon, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45418",
+      "location_city": "Majalengka",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.837337484506044, 108.22828901342403",
+      "location_gmaps": "https://maps.app.goo.gl/NtSnYYkQJppjuC5h9",
+      "links": [
+        "https://www.instagram.com/p/DCljOFayazs/"
+      ],
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Cosplay - Competition / Coswalk",
+          "Cosplay - Gathering / Parade / Casual",
+          "Gathering / Komunitas"
+        ],
+        "description": "Graduate Ara, Cici, Riisu",
+        "performers": {
+          "idol_group": [
+            "VKNGHT",
+            "JETOPURII",
+            "IRIDESCENT",
+            "BLACKNUMBER"
+          ]
+        },
+        "judges": {
+          "coswalk": [
+            "Nhii",
+            "Aldini"
+          ]
+        },
+        "activities": [
+          "Idol Show",
+          "Coswalk Competition",
+          "Cosstreet",
+          "Fun games",
+          "Gath Community"
+        ],
+        "ticket_info": {
+          "presale": "Rp 25.000",
+          "coswalk_registration": "+ Rp 5.000"
+        },
+        "contact": {
+          "whatsapp": [
+            "0881023082242 (Rizky Maldani)",
+            "082216942621 (Gunboil)"
+          ]
+        },
+        "community_partners": [
+          "J-MISERU",
+          "WINDCITY48",
+          "FJKT48 CIREBON",
+          "COSER MAJALENGKA",
+          "JPOP STAGE",
+          "INFO KICAU MANIA",
+          "PUNK IDOL",
+          "AZIZI ORDINARY TEAM",
+          "ANIMOON",
+          "TAKAMARU",
+          "PEPECOS"
+        ],
+        "source" : "Aidoru Nation Fans Indonesia"
+      }
+    },
+    {
         "Start Date": "20240303",
         "Start Time": "",
         "End Date": "20240303",

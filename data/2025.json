@@ -4604,14 +4604,154 @@
         "location_gmaps": "https://maps.app.goo.gl/LBbuCLD8DJA96pAZ8",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10163435836478836/",
-            "https://www.instagram.com/p/DFtuCtpzOhZ/"
+            "https://www.instagram.com/p/DFtuCtpzOhZ/",
+            "https://www.instagram.com/p/DF_J6yiT8sD/"
         ],
         "Content": {
-            "category": [
-                "Cosplay - Competition / Coswalk"
-            ]
-        },
+              "source" : "Aidoru Nation Fans Indonesia",
+              "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+              ],
+              "organizer": "Akademi Cosfest",
+              "presenter": "Kota Podomoro Tenjo",
+              "guest_stars": {
+                "idol_groups": [
+                  "Magic Koi",
+                  "A+Shoujo"
+                ]
+              },
+              "judges": {
+                "coswalk": [
+                  "Anezka",
+                  "Cin_Cosu",
+                  "Kibaru"
+                ]
+              },
+              "mc": [
+                "Kibaru",
+                "Xiley"
+              ],
+              "competition": {
+                "coswalk": {
+                  "prizes": "Total 10 Winner",
+                  "registration_fee": "Free"
+                }
+              },
+              "contact": {
+                "anthony": "08811849533",
+                "rin": "081807922955"
+              },
+              "media_partners": [
+                "Anfi",
+                "Metaco",
+                "Pokku Sekai"
+              ]
+            },
         "location_country": "Indonesia"
+    },
+    {
+      "Start Date": "20250215",
+      "Start Time": "16:00",
+      "End Date": "20250215",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Showcase Valentine",
+      "Location": "The Earthspace Cirebon",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "showcase_valentine_trixie_cirebon_2025",
+      "location_address": "Jl. Brigjend Dharsono No.152, Kedawung, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",
+      "location_city": "Cirebon",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.722353283979023, 108.53735572241534",
+      "location_gmaps": "https://maps.app.goo.gl/v43qavjsA3h75XgA7",
+      "links": [
+        "https://www.instagram.com/p/DF_J6yiT8sD/",
+        "https://forms.gle/uU57x4HHrFmk4qNS9"
+      ],
+      "Content": {
+        "source" : "Aidoru Nation Fans Indonesia",
+        "category": [
+          "Musik - Idol / VTuber",
+          "Party / Night Event"
+        ],
+        "organizer": "Trixie Official",
+        "description": "Showcase spesial Valentine yang menghadirkan penampilan grup idol, pengenalan member ke-6, dan rilis single perdana.",
+        "performers": {
+          "idol_groups": [
+            "Trixie",
+            "Cupid",
+            "Iridescent"
+          ],
+          "special_segment": [
+            "Showcase Member Ke-6",
+            "Secret Performer",
+            "Press Release Original Single Perdana"
+          ]
+        },
+        "mc": [
+          "Uli",
+          "Imal"
+        ],
+        "ticket_info": {
+          "price": "Rp 35.000",
+          "benefit": "Include drink",
+          "registration_link": "https://forms.gle/uU57x4HHrFmk4qNS9"
+        },
+        "sponsors": [
+          "Emina",
+          "Bloom Space",
+          "Alibaba Entertainment",
+          "Amphiapa"
+        ]
+      }
+    },
+    {
+      "Start Date": "20250215",
+      "Start Time": "",
+      "End Date": "20250215",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Jettopuri Valentine Party",
+      "Location": "MooCow Fresh Milk",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "jettopuri_valentine_party_cirebon_2025",
+      "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
+      "location_city": "Cirebon",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.71896308702019, 108.55391475755047",
+      "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
+      "links": [
+        "https://www.instagram.com/p/DF_J6yiT8sD/"
+      ],
+      "Content": {
+        "source" : "Aidoru Nation Fans Indonesia",
+        "category": [
+          "Musik - Idol / VTuber",
+          "Party / Night Event"
+        ],
+        "organizer": "Jettopuri",
+        "performers": {
+          "guest_star": "Black Numbers",
+          "host": "Jettopuri"
+        },
+        "ticket_info": {
+          "price": "Rp 35.000",
+          "benefit": "FREE Food and Drink"
+        }
+      }
     },
     {
         "Start Date": "20250215",
