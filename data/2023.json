@@ -52343,6 +52343,111 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20230212",
+      "Start Time": "10:00",
+      "End Date": "20230212",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "J-MISERU Season 2",
+      "Location": "Humble Coffee",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "j_miseru_season_2_2023",
+      "location_address": "Jl. Raya K H Abdul Halim No.119, Majalengka Kulon, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45418",
+      "location_city": "Majalengka",
+      "location_coordinate": "-6.833705526433034, 108.2190350513485",
+      "location_gmaps": "https://goo.gl/maps/QNh3GyjPoxxkLwU16",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/CoOuo2lrepY/"
+      ],
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber",
+          "Musik - Anisong / Karaoke",
+          "Gathering / Komunitas"
+        ],
+        "organizer": {
+          "main": ["Wind City 48 (JKT48 Fans Majalengka)", "Ventus Cosplay Majalengka"]
+        },
+        "edition": "2",
+        "guest_stars": {
+          "performer": [
+            "MJB48",
+            "Aurora Dream",
+            "V-Knight"
+          ]
+        },
+        "performers": {
+          "session_1": [
+            "XIO",
+            "Anailiem",
+            "Vebbry",
+            "Alt Catharsis"
+          ],
+          "session_2": [
+            "Wotagei Cirebon",
+            "Dy-On",
+            "Gunboil"
+          ],
+          "special_perform": "Chainsawman Perform by Ventus"
+        },
+        "rundown": {
+          "10.00": "Open Gate",
+          "10.30": "XIO",
+          "10.45": "Anailiem",
+          "11.00": "Vebbry",
+          "11.15": "Alt Catharsis",
+          "11.30": "Break Dzuhur",
+          "12.30": "Wotagei Cirebon",
+          "13.00": "Dy-On",
+          "13.20": "Gunboil",
+          "13.35": "V-Knight",
+          "13.55": "Coswalk",
+          "14.10": "Aurora Dream",
+          "15.00": "Break Ashar",
+          "15.30": "Special Ventus Chainsawman Perform",
+          "16.00": "MJB48"
+        },
+        "ticket_info": {
+          "price": "Rp 35.000",
+          "benefit": "Include Drink and Merch"
+        },
+        "contact": {
+          "whatsapp": "082213789664",
+          "name": "Rizky"
+        },
+        "media_partners": {
+          "list": [
+            "Humble Coffee",
+            "Byepro Studio",
+            "Punk Idol",
+            "Azizi Ordinary Team",
+            "Fans JKT48 Cirebon",
+            "JKT48 Fans Indramayu",
+            "All Region 48",
+            "JKT48 West Java",
+            "Fans JKT48 Bandung",
+            "Jpopstage.id",
+            "Kuma Clan",
+            "BAE Anime Event",
+            "Sakura No Shiroi",
+            "Wibufest Bandung",
+            "Dishy House",
+            "Indiepositif",
+            "Majalengka Gigs",
+            "MaymayShop"
+          ]
+        }
+      }
+    },
+    {
         "Start Date": "20230819",
         "Start Time": "",
         "End Date": "20230819",
