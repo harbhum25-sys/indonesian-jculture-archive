@@ -31,6 +31,106 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20240615",
+      "Start Time": "15:00",
+      "End Date": "20240615",
+      "End Time": "17:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Interaksi Pertama: Special Debut Skyteens",
+      "Location": "Completeme Cirebon",
+      "Comment": "Acara dibatalkan karena bertabrakan dengan hari raya Idul Adha.",
+      "Online/Offline": "Both",
+      "status": "Cancelled",
+      "attended": "No",
+      "_id": "skyteens_interaksi_pertama_2024_crb",
+      "location_address": "Jl. Merdeka Barat No.36, Ciledug Kulon, Kec. Ciledug, Kabupaten Cirebon, Jawa Barat 45188",
+      "location_city": "Cirebon",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.9067450150302525, 108.7435534036416",
+      "location_gmaps": "https://maps.app.goo.gl/SKLhzzahkLYWcrin7",
+      "links": [
+        "https://www.instagram.com/p/C779jBuyY-D/"
+      ],
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Launching / Grand Opening"
+        ],
+        "presenter": "ANFI",
+        "performers": {
+          "main": "Skyteens",
+          "special_guest": "GirlGroup Indonesia (Silhouette)"
+        },
+        "ticket_info": {
+          "htm": "Rp 25.000",
+          "benefits": "include freebies and drink",
+          "free_pass": "Teenagers PO Merchandise, Groupshoot with member",
+          "show_far": "videocall 25 detik with member"
+        },
+        "social_media": {
+          "instagram": "@skyteensofficial",
+          "youtube": "SKYTEENS PROJECT"
+        },
+        "source": "Instagram @infoaidoru"
+      }
+    },
+    {
+      "Start Date": "20240811",
+      "Start Time": "15:00",
+      "End Date": "20240811",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "JetPuri Debut Show!",
+      "Location": "Moocow Cafe",
+      "Comment": "Data diekstrak dari poster dan caption Instagram infokonser.",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "jetpuri_debut_show_2024_cirebon",
+      "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
+      "location_city": "Cirebon",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.71896308702019, 108.55391475755047",
+      "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
+      "links": [
+        "https://www.instagram.com/p/C-fl8h2SrzY/"
+      ],
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Musik - Band / Live Performance"
+        ],
+        "description": "One man show with 10 songs",
+        "performers": {
+          "idol_group": [
+            "JetPuri"
+          ]
+        },
+        "merchandise": {
+          "items": [
+            "Cheki",
+            "Photopack",
+            "Photocard"
+          ]
+        },
+        "contact": {
+          "whatsapp": "+62 878-4878-2530",
+          "pic": "Tan",
+          "instagram": "@matchasuki12"
+        },
+        "social_media": {
+          "instagram": "@jetopurii.ofc"
+        },
+        "source" : "Aidoru Nation Fans Indonesia"
+      }
+    },
+    {
         "Start Date": "20240101",
         "Start Time": "16.00",
         "End Date": "20240101",
