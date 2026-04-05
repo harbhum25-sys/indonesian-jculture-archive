@@ -1,5 +1,87 @@
 [
     {
+        "Start Date": "20250207",
+        "Start Time": "",
+        "End Date": "20250208",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BTM Gakure",
+        "Location": "Bogor Trade Mall Bogor",
+        "Comment": "Insert to J-Event List : 20260102 17:26:59\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "asicco_1",
+        "location_address": "Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.6050314096624065, 106.79558466507754",
+        "location_gmaps": "https://maps.app.goo.gl/xtQudMgPComAupxC8",
+        "links": [
+            "https://bit.ly/RegistrasiBTMGakure",
+            "https://www.instagram.com/kazokujapanfestival"
+        ],
+        "Content": {
+            "presenter": "Kazoku Japan Festival",
+            "ticket": "Free",
+            "content": "Idol Performance Coswalk Competition Jsong Competition Coswalk Rookie Community Activity Karaoke Party Utattemita DJ Random Play Dance Community Gathering Bazaar Merch Toys",
+            "cp_performer": "0881081010222",
+            "cp_tenant": "088290578280",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251229",
+        "Start Time": "",
+        "End Date": "20260115",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ichiban Sushi Matsuri 2026 Online Cosplay Competition",
+        "Location": "Ichiban Sushi Official Website",
+        "Comment": "Insert to J-Event List : 20260111 17:05:42\n",
+        "Online/Offline": "Online",
+        "status": "Finished",
+        "attended": "",
+        "_id": "zhcxwb_2",
+        "links": [
+            "https://www.ichibansushi.co.id",
+            "https://www.instagram.com/ichibansushi_id"
+        ],
+        "Content": {
+            "submission_period": {
+                "start": "20251229",
+                "end": "20260115"
+            },
+            "grand_prize": "Trip to Japan",
+            "transaction_requirement": "Minimum purchase Rp50000 before tax and service",
+            "steps": {
+                "step1": "Purchase at Ichiban Sushi minimum Rp50000",
+                "step2": "Register via website banner Cosplay Online Competition",
+                "step3": "Fill form and upload receipt",
+                "step4": "Upload photo or video on personal Instagram",
+                "step5": "Follow tag mention ichibansushi_id and use hashtags IchibanSushiMatsuri2026 IchibanSushiCosplay2026",
+                "step6": "Instagram account must be public",
+                "step7": "Judges decision is final",
+                "step8": "Submitted media becomes property of Ichiban Sushi",
+                "step9": "Submit latest by 15 January 2026",
+                "step10": "Top 10 selected for grand final",
+                "step11": "Top 10 outside Jabodetabek get transport and accommodation",
+                "step12": "Winner announcement on 25 January 2026"
+            },
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
         "Start Date": "20240126",
         "Start Time": "12:00",
         "End Date": "20240126",
