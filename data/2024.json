@@ -60065,6 +60065,190 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20241027",
+      "Start Time": "",
+      "End Date": "20241027",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "COSMIC MATSURI",
+      "Location": "Radar Cirebon",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "",
+      "_id": "cosmic_matsuri_2024_cirebon",
+      "location_address": "Jl. Perjuangan No.9, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45135",
+      "location_city": "Cirebon",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.734010405218027, 108.5389522982162",
+      "location_gmaps": "https://maps.app.goo.gl/nBiYvqDSnj8Cey368",
+      "links": [
+        "https://www.instagram.com/p/DBcsxiHy5fN/"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Band / Live Performance",
+          "Musik - Idol / VTuber"
+        ],
+        "theme": "Luar angkasa dengan Japanese pop culture",
+        "description": "Festival J-Pop di Cirebon dengan berbagai performance, coswalk, fun game, photobooth, dan aktivitas komunitas.",
+        "guest_stars": {
+          "coswalk_judges": [
+            "davahoshinova",
+            "xei.laa"
+          ]
+        },
+        "performers": {
+          "band": [
+            "cloverjband",
+            "midnighteve_official"
+          ],
+          "idol": [
+            "twentynineteens",
+            "kirinday.idol",
+            "jetopurii.ofc",
+            "official.elegia",
+            "nanoka_official",
+            "tomodachi.crew",
+            "ofc.cupid",
+            "aohimeofficial_",
+            "blacknumbers"
+          ]
+        },
+        "mc": {
+          "main": [
+            "justtia_08",
+            "officer.nana"
+          ]
+        },
+        "competition": {
+          "coswalk": {
+            "name": "Coswalk to The Moon",
+            "registration_fee": "Free",
+            "notes": "Cukup membeli tiket masuk"
+          }
+        },
+        "ticket_info": {
+          "presale": "Rp 30.000",
+          "ots": "Rp 35.000"
+        },
+        "activities": {
+          "main": [
+            "Coswalk",
+            "Fun game",
+            "Photobooth",
+            "Nakama Corner"
+          ]
+        },
+        "community_partners": {
+          "list": [
+            "fjkt48cirebon_",
+            "sakamichi46crb",
+            "sakamichibandung46",
+            "kamerad_sogem",
+            "windcity48.majalengka",
+            "anime_lovers_slawi",
+            "idolforfum",
+            "nakama.cirebon",
+            "nakama48sumedang",
+            "aizukami.space_grup",
+            "tegaru_mixer",
+            "ptw.wotaku",
+            "animoon.ofc",
+            "bpjs.wibu",
+            "info_kicaumania",
+            "areaanime.id",
+            "dermayutomodachi",
+            "jkt48fansindramayu",
+            "_kosuki",
+            "wotageicirebon_",
+            "48kuningan.crew",
+            "ormas.tnt",
+            "takamaru.unofficial",
+            "eventjejepanganciayumajakuning"
+          ]
+        },
+        "contact": {
+          "whatsapp": "085348837806",
+          "name": "Lucky"
+        },
+        "source" : "Aidoru Nation Fans Indonesia"
+      }
+    },
+    {
+      "Start Date": "20251004",
+      "Start Time": "",
+      "End Date": "20251004",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "HARU TO BOM",
+      "Location": "UD Putra Toserba Majalengka",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "",
+      "_id": "haru_to_bom_2025_majalengka",
+      "location_address": "Baribis, Kec. Cigasong, Kabupaten Majalengka, Jawa Barat 45476",
+      "location_city": "Majalengka",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.816364182835415, 108.24897241340004",
+      "location_gmaps": "https://maps.app.goo.gl/YZZTfmrcVLqBqFbw5",
+      "links": [
+        "https://www.instagram.com/p/DO8lx1CEzmF/"
+      ],
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Festival / Matsuri"
+        ],
+        "presenter": {
+          "main": [
+            "cressidaclothing",
+            "pesta.pesona"
+          ]
+        },
+        "organizer": "skscosplay_crb",
+        "theme": "Special Collaboration Cressida with Spy x Family",
+        "description": "Event cosplay dengan coswalk competition, special performance, dan kolaborasi brand dengan tema Spy x Family.",
+        "guest_stars": {
+          "coswalk_judges": [
+            "Momo Rangga",
+            "Vanisa"
+          ]
+        },
+        "mc": {
+          "main": [
+            "TioR"
+          ]
+        },
+        "performers": {
+          "special_performance": [
+            "NEKODACHI",
+            "STARBERRIES"
+          ]
+        },
+        "competition": {
+          "coswalk": {
+            "registration_fee": "Free",
+            "notes": "Gratis HTM dan registrasi lomba"
+          }
+        },
+        "contact": {
+          "whatsapp": "08983150123",
+          "name": "Septian"
+        },
+        "source" : "Aidoru Nation Fans Indonesia"
+      }
+    },
+    {
         "Start Date": "20241027",
         "Start Time": "13:00",
         "End Date": "20241027",
