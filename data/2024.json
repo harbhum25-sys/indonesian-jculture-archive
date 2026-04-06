@@ -31,106 +31,6 @@
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20240615",
-      "Start Time": "15:00",
-      "End Date": "20240615",
-      "End Time": "17:00",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Interaksi Pertama: Special Debut Skyteens",
-      "Location": "Completeme Cirebon",
-      "Comment": "Acara dibatalkan karena bertabrakan dengan hari raya Idul Adha.",
-      "Online/Offline": "Both",
-      "status": "Cancelled",
-      "attended": "No",
-      "_id": "skyteens_interaksi_pertama_2024_crb",
-      "location_address": "Jl. Merdeka Barat No.36, Ciledug Kulon, Kec. Ciledug, Kabupaten Cirebon, Jawa Barat 45188",
-      "location_city": "Cirebon",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.9067450150302525, 108.7435534036416",
-      "location_gmaps": "https://maps.app.goo.gl/SKLhzzahkLYWcrin7",
-      "links": [
-        "https://www.instagram.com/p/C779jBuyY-D/"
-      ],
-      "Content": {
-        "category": [
-          "Musik - Idol / VTuber",
-          "Launching / Grand Opening"
-        ],
-        "presenter": "Socialtroops agency",
-        "performers": {
-          "main": "Skyteens",
-          "special_guest": "GirlGroup Indonesia (Silhouette)"
-        },
-        "ticket_info": {
-          "htm": "Rp 25.000",
-          "benefits": "include freebies and drink",
-          "free_pass": "Teenagers PO Merchandise, Groupshoot with member",
-          "show_far": "videocall 25 detik with member"
-        },
-        "social_media": {
-          "instagram": "@skyteensofficial",
-          "youtube": "SKYTEENS PROJECT"
-        },
-        "source": "Instagram @infoaidoru"
-      }
-    },
-    {
-      "Start Date": "20240811",
-      "Start Time": "15:00",
-      "End Date": "20240811",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "JetPuri Debut Show!",
-      "Location": "Moocow Cafe",
-      "Comment": "Data diekstrak dari poster dan caption Instagram infokonser.",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "jetpuri_debut_show_2024_cirebon",
-      "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
-      "location_city": "Cirebon",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.71896308702019, 108.55391475755047",
-      "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
-      "links": [
-        "https://www.instagram.com/p/C-fl8h2SrzY/"
-      ],
-      "Content": {
-        "category": [
-          "Musik - Idol / VTuber",
-          "Musik - Band / Live Performance"
-        ],
-        "description": "One man show with 10 songs",
-        "performers": {
-          "idol_group": [
-            "JetPuri"
-          ]
-        },
-        "merchandise": {
-          "items": [
-            "Cheki",
-            "Photopack",
-            "Photocard"
-          ]
-        },
-        "contact": {
-          "whatsapp": "+62 878-4878-2530",
-          "pic": "Tan",
-          "instagram": "@matchasuki12"
-        },
-        "social_media": {
-          "instagram": "@jetopurii.ofc"
-        },
-        "source" : "Aidoru Nation Fans Indonesia"
-      }
-    },
-    {
         "Start Date": "20240101",
         "Start Time": "16.00",
         "End Date": "20240101",
@@ -12436,85 +12336,6 @@
             ]
         },
         "location_country": "Indonesia"
-    },
-    {
-      "Start Date": "20241222",
-      "Start Time": "",
-      "End Date": "20241222",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "VKNIGHT LASTDANCE",
-      "Location": "KASUNGKA FOODCOURT",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "vknight_lastdance_majalengka_2024",
-      "location_address": "Taman Bagja Raharja, Jl. Letkol Abd. Gani No.2, Majalengka Kulon, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45418",
-      "location_city": "Majalengka",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.837337484506044, 108.22828901342403",
-      "location_gmaps": "https://maps.app.goo.gl/NtSnYYkQJppjuC5h9",
-      "links": [
-        "https://www.instagram.com/p/DCljOFayazs/"
-      ],
-      "Content": {
-        "category": [
-          "Musik - Idol / VTuber",
-          "Cosplay - Competition / Coswalk",
-          "Cosplay - Gathering / Parade / Casual",
-          "Gathering / Komunitas"
-        ],
-        "description": "Graduate Ara, Cici, Riisu",
-        "performers": {
-          "idol_group": [
-            "VKNGHT",
-            "JETOPURII",
-            "IRIDESCENT",
-            "BLACKNUMBER"
-          ]
-        },
-        "judges": {
-          "coswalk": [
-            "Nhii",
-            "Aldini"
-          ]
-        },
-        "activities": [
-          "Idol Show",
-          "Coswalk Competition",
-          "Cosstreet",
-          "Fun games",
-          "Gath Community"
-        ],
-        "ticket_info": {
-          "presale": "Rp 25.000",
-          "coswalk_registration": "+ Rp 5.000"
-        },
-        "contact": {
-          "whatsapp": [
-            "0881023082242 (Rizky Maldani)",
-            "082216942621 (Gunboil)"
-          ]
-        },
-        "community_partners": [
-          "J-MISERU",
-          "WINDCITY48",
-          "FJKT48 CIREBON",
-          "COSER MAJALENGKA",
-          "JPOP STAGE",
-          "INFO KICAU MANIA",
-          "PUNK IDOL",
-          "AZIZI ORDINARY TEAM",
-          "ANIMOON",
-          "TAKAMARU",
-          "PEPECOS"
-        ],
-        "source" : "Aidoru Nation Fans Indonesia"
-      }
     },
     {
         "Start Date": "20240303",
@@ -33605,7 +33426,7 @@
             "description": "Event Waktu Idol Berpesta 2024 (WIB'24) yang dijadwalkan 09 Juni 2024 dibatalkan oleh panitia. Pengumuman disertai permintaan maaf kepada pengunjung serta informasi pengajuan refund.",
             "registration": {
                 "refund_form": "https://bit.ly/REFUNDWIB24"
-              }
+            }
         },
         "location_country": "Indonesia"
     },
@@ -33721,6 +33542,53 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20240615",
+        "Start Time": "15:00",
+        "End Date": "20240615",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Interaksi Pertama: Special Debut Skyteens",
+        "Location": "Completeme Cirebon",
+        "Comment": "Acara dibatalkan karena bertabrakan dengan hari raya Idul Adha.",
+        "Online/Offline": "Both",
+        "status": "Cancelled",
+        "attended": "No",
+        "_id": "skyteens_interaksi_pertama_2024_crb",
+        "location_address": "Jl. Merdeka Barat No.36, Ciledug Kulon, Kec. Ciledug, Kabupaten Cirebon, Jawa Barat 45188",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.9067450150302525, 108.7435534036416",
+        "location_gmaps": "https://maps.app.goo.gl/SKLhzzahkLYWcrin7",
+        "links": [
+            "https://www.instagram.com/p/C779jBuyY-D/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Idol / VTuber",
+                "Launching / Grand Opening"
+            ],
+            "presenter": "Socialtroops agency",
+            "performers": {
+                "main": "Skyteens",
+                "special_guest": "GirlGroup Indonesia (Silhouette)"
+            },
+            "ticket_info": {
+                "htm": "Rp 25.000",
+                "benefits": "include freebies and drink",
+                "free_pass": "Teenagers PO Merchandise, Groupshoot with member",
+                "show_far": "videocall 25 detik with member"
+            },
+            "social_media": {
+                "instagram": "@skyteensofficial",
+                "youtube": "SKYTEENS PROJECT"
+            },
+            "source": "Instagram @infoaidoru"
+        }
     },
     {
         "Start Date": "20240615",
@@ -40483,7 +40351,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "tpsfeg_9",
+        "_id": "zyyrlf_4",
         "location_address": "Jl. Gatot Subroto Tim., Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80235",
         "location_city": "Denpasar",
         "location_coordinate": "-8.634926295219515, 115.23190417604059",
@@ -40547,7 +40415,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "tpsfeg_9",
+        "_id": "zyyrlf_4",
         "location_address": "Jl. Ahmad Yani, Muka Kuning, Kec. Sei Beduk, Kota Batam, Kepulauan Riau 29433",
         "location_city": "Batam",
         "location_coordinate": "1.0719001685616156, 104.02406785289169",
@@ -47970,6 +47838,59 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20240811",
+        "Start Time": "15:00",
+        "End Date": "20240811",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JetPuri Debut Show!",
+        "Location": "Moocow Cafe",
+        "Comment": "Data diekstrak dari poster dan caption Instagram infokonser.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jetpuri_debut_show_2024_cirebon",
+        "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.71896308702019, 108.55391475755047",
+        "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
+        "links": [
+            "https://www.instagram.com/p/C-fl8h2SrzY/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
+            ],
+            "description": "One man show with 10 songs",
+            "performers": {
+                "idol_group": [
+                    "JetPuri"
+                ]
+            },
+            "merchandise": {
+                "items": [
+                    "Cheki",
+                    "Photopack",
+                    "Photocard"
+                ]
+            },
+            "contact": {
+                "whatsapp": "+62 878-4878-2530",
+                "pic": "Tan",
+                "instagram": "@matchasuki12"
+            },
+            "social_media": {
+                "instagram": "@jetopurii.ofc"
+            },
+            "source": "Aidoru Nation Fans Indonesia"
+        }
     },
     {
         "Start Date": "20240811",
@@ -59561,6 +59482,95 @@
         "location_country": "Indonesia"
     },
     {
+      "Start Date": "20240810",
+      "Start Time": "13:00",
+      "End Date": "20240810",
+      "End Time": "21:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Wiralodra Fest",
+      "Location": "Grage City Mall",
+      "Comment": "Acara ini resmi dibatalkan oleh penyelenggara sebagaimana tercantum dalam surat pemberitahuan pembatalan.",
+      "Online/Offline": "Offline",
+      "status": "Cancelled",
+      "attended": "No",
+      "_id": "wiralodra_fest_2024_cirebon",
+      "location_address": "Jalan Jend. Ahmad Yani, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",
+      "location_city": "Cirebon",
+      "location_coordinate": "-6.740167050865643, 108.57088804520836",
+      "location_gmaps": "https://maps.app.goo.gl/EfhjjQEHjNdTE8Cr9",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/C5f5upqB5Aw/",
+        "https://www.instagram.com/p/C6GEQZjBZz5/",
+        "https://www.instagram.com/p/C81BSLbhYG2/",
+        "https://www.instagram.com/p/C83sAomhsEa/",
+        "https://www.instagram.com/p/C9CWxD7B_YK/",
+        "https://www.instagram.com/p/C9ZJ2cEBMdE/",
+        "https://www.instagram.com/p/C9zKhGnBGZ3/",
+        "https://www.instagram.com/p/C-Cj4mdhLW_/",
+        "https://www.instagram.com/p/C-ZPF1ZhXUI/",
+        "https://www.instagram.com/p/C-edsAqBHtB/",
+        "https://www.instagram.com/p/C9WhhQThjIP/",
+        "https://www.instagram.com/p/C6TLj0sBx7h/"
+      ],
+      "Content": {
+        "category": [
+          "Musik - Band / Live Performance",
+          "Musik - Idol / VTuber",
+          "Festival / Matsuri"
+        ],
+        "organizer": "WFTN (Wave From The North)",
+        "performers": {
+          "lineup": [
+            "JKT48",
+            "Dikta Wicaksono Project",
+            "Mr. Jono & Joni",
+            "UP Girls",
+            "Faith and Fate",
+            "Noraebang Jeh!"
+          ],
+          "jkt48_members": [
+            "Gita",
+            "Adel",
+            "Kathrina",
+            "Indira",
+            "Lia",
+            "Lulu",
+            "Amanda",
+            "Michie",
+            "Cynthia",
+            "Anindya",
+            "Trisha",
+            "Regie"
+          ]
+        },
+        "rundown": {
+          "13.00": "Penukaran Tiket",
+          "15.00": "Open Gate",
+          "15.30": "Faith and Fate",
+          "16.30": "Dikta Wicaksono Project",
+          "18.10": "UP Girls",
+          "19.00": "Close Gate dan Noraebang Jeh!",
+          "20.00": "JKT48",
+          "21.00": "Mr. Jono & Joni"
+        },
+        "ticket_info": {
+          "platform": "Yesplis.com",
+          "categories": [
+            "Blind Ticket"
+          ],
+          "refund_policy": "Pengembalian dana tiket secara penuh dan adil melalui formulir yang disediakan penyelenggara."
+        },
+        "contact": {
+          "whatsapp": "+6285956256761"
+        },
+        "description": "Festival musik yang awalnya dijadwalkan di Cirebon namun dibatalkan setelah pertimbangan matang dengan manajemen artis dan otoritas setempat."
+      }
+    },
+    {
         "Start Date": "20241013",
         "Start Time": "",
         "End Date": "20241013",
@@ -60065,188 +60075,120 @@
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20241027",
-      "Start Time": "",
-      "End Date": "20241027",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "COSMIC MATSURI",
-      "Location": "Radar Cirebon",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "",
-      "_id": "cosmic_matsuri_2024_cirebon",
-      "location_address": "Jl. Perjuangan No.9, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45135",
-      "location_city": "Cirebon",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.734010405218027, 108.5389522982162",
-      "location_gmaps": "https://maps.app.goo.gl/nBiYvqDSnj8Cey368",
-      "links": [
-        "https://www.instagram.com/p/DBcsxiHy5fN/"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Competition / Coswalk",
-          "Musik - Band / Live Performance",
-          "Musik - Idol / VTuber"
+        "Start Date": "20241027",
+        "Start Time": "",
+        "End Date": "20241027",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "COSMIC MATSURI",
+        "Location": "Radar Cirebon",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "cosmic_matsuri_2024_cirebon",
+        "location_address": "Jl. Perjuangan No.9, Karyamulya, Kec. Kesambi, Kota Cirebon, Jawa Barat 45135",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.734010405218027, 108.5389522982162",
+        "location_gmaps": "https://maps.app.goo.gl/nBiYvqDSnj8Cey368",
+        "links": [
+            "https://www.instagram.com/p/DBcsxiHy5fN/"
         ],
-        "theme": "Luar angkasa dengan Japanese pop culture",
-        "description": "Festival J-Pop di Cirebon dengan berbagai performance, coswalk, fun game, photobooth, dan aktivitas komunitas.",
-        "guest_stars": {
-          "coswalk_judges": [
-            "davahoshinova",
-            "xei.laa"
-          ]
-        },
-        "performers": {
-          "band": [
-            "cloverjband",
-            "midnighteve_official"
-          ],
-          "idol": [
-            "twentynineteens",
-            "kirinday.idol",
-            "jetopurii.ofc",
-            "official.elegia",
-            "nanoka_official",
-            "tomodachi.crew",
-            "ofc.cupid",
-            "aohimeofficial_",
-            "blacknumbers"
-          ]
-        },
-        "mc": {
-          "main": [
-            "justtia_08",
-            "officer.nana"
-          ]
-        },
-        "competition": {
-          "coswalk": {
-            "name": "Coswalk to The Moon",
-            "registration_fee": "Free",
-            "notes": "Cukup membeli tiket masuk"
-          }
-        },
-        "ticket_info": {
-          "presale": "Rp 30.000",
-          "ots": "Rp 35.000"
-        },
-        "activities": {
-          "main": [
-            "Coswalk",
-            "Fun game",
-            "Photobooth",
-            "Nakama Corner"
-          ]
-        },
-        "community_partners": {
-          "list": [
-            "fjkt48cirebon_",
-            "sakamichi46crb",
-            "sakamichibandung46",
-            "kamerad_sogem",
-            "windcity48.majalengka",
-            "anime_lovers_slawi",
-            "idolforfum",
-            "nakama.cirebon",
-            "nakama48sumedang",
-            "aizukami.space_grup",
-            "tegaru_mixer",
-            "ptw.wotaku",
-            "animoon.ofc",
-            "bpjs.wibu",
-            "info_kicaumania",
-            "areaanime.id",
-            "dermayutomodachi",
-            "jkt48fansindramayu",
-            "_kosuki",
-            "wotageicirebon_",
-            "48kuningan.crew",
-            "ormas.tnt",
-            "takamaru.unofficial",
-            "eventjejepanganciayumajakuning"
-          ]
-        },
-        "contact": {
-          "whatsapp": "085348837806",
-          "name": "Lucky"
-        },
-        "source" : "Aidoru Nation Fans Indonesia"
-      }
-    },
-    {
-      "Start Date": "20251004",
-      "Start Time": "",
-      "End Date": "20251004",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "HARU TO BOM",
-      "Location": "UD Putra Toserba Majalengka",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "",
-      "_id": "haru_to_bom_2025_majalengka",
-      "location_address": "Baribis, Kec. Cigasong, Kabupaten Majalengka, Jawa Barat 45476",
-      "location_city": "Majalengka",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.816364182835415, 108.24897241340004",
-      "location_gmaps": "https://maps.app.goo.gl/YZZTfmrcVLqBqFbw5",
-      "links": [
-        "https://www.instagram.com/p/DO8lx1CEzmF/"
-      ],
-      "Content": {
-        "category": [
-          "Cosplay - Competition / Coswalk",
-          "Festival / Matsuri"
-        ],
-        "presenter": {
-          "main": [
-            "cressidaclothing",
-            "pesta.pesona"
-          ]
-        },
-        "organizer": "skscosplay_crb",
-        "theme": "Special Collaboration Cressida with Spy x Family",
-        "description": "Event cosplay dengan coswalk competition, special performance, dan kolaborasi brand dengan tema Spy x Family.",
-        "guest_stars": {
-          "coswalk_judges": [
-            "Momo Rangga",
-            "Vanisa"
-          ]
-        },
-        "mc": {
-          "main": [
-            "TioR"
-          ]
-        },
-        "performers": {
-          "special_performance": [
-            "NEKODACHI",
-            "STARBERRIES"
-          ]
-        },
-        "competition": {
-          "coswalk": {
-            "registration_fee": "Free",
-            "notes": "Gratis HTM dan registrasi lomba"
-          }
-        },
-        "contact": {
-          "whatsapp": "08983150123",
-          "name": "Septian"
-        },
-        "source" : "Aidoru Nation Fans Indonesia"
-      }
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber"
+            ],
+            "theme": "Luar angkasa dengan Japanese pop culture",
+            "description": "Festival J-Pop di Cirebon dengan berbagai performance, coswalk, fun game, photobooth, dan aktivitas komunitas.",
+            "guest_stars": {
+                "coswalk_judges": [
+                    "davahoshinova",
+                    "xei.laa"
+                ]
+            },
+            "performers": {
+                "band": [
+                    "cloverjband",
+                    "midnighteve_official"
+                ],
+                "idol": [
+                    "twentynineteens",
+                    "kirinday.idol",
+                    "jetopurii.ofc",
+                    "official.elegia",
+                    "nanoka_official",
+                    "tomodachi.crew",
+                    "ofc.cupid",
+                    "aohimeofficial_",
+                    "blacknumbers"
+                ]
+            },
+            "mc": {
+                "main": [
+                    "justtia_08",
+                    "officer.nana"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "name": "Coswalk to The Moon",
+                    "registration_fee": "Free",
+                    "notes": "Cukup membeli tiket masuk"
+                }
+            },
+            "ticket_info": {
+                "presale": "Rp 30.000",
+                "ots": "Rp 35.000"
+            },
+            "activities": {
+                "main": [
+                    "Coswalk",
+                    "Fun game",
+                    "Photobooth",
+                    "Nakama Corner"
+                ]
+            },
+            "community_partners": {
+                "list": [
+                    "fjkt48cirebon_",
+                    "sakamichi46crb",
+                    "sakamichibandung46",
+                    "kamerad_sogem",
+                    "windcity48.majalengka",
+                    "anime_lovers_slawi",
+                    "idolforfum",
+                    "nakama.cirebon",
+                    "nakama48sumedang",
+                    "aizukami.space_grup",
+                    "tegaru_mixer",
+                    "ptw.wotaku",
+                    "animoon.ofc",
+                    "bpjs.wibu",
+                    "info_kicaumania",
+                    "areaanime.id",
+                    "dermayutomodachi",
+                    "jkt48fansindramayu",
+                    "_kosuki",
+                    "wotageicirebon_",
+                    "48kuningan.crew",
+                    "ormas.tnt",
+                    "takamaru.unofficial",
+                    "eventjejepanganciayumajakuning"
+                ]
+            },
+            "contact": {
+                "whatsapp": "085348837806",
+                "name": "Lucky"
+            },
+            "source": "Aidoru Nation Fans Indonesia"
+        }
     },
     {
         "Start Date": "20241027",
@@ -64981,6 +64923,85 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "VKNIGHT LASTDANCE",
+        "Location": "KASUNGKA FOODCOURT",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "vknight_lastdance_majalengka_2024",
+        "location_address": "Taman Bagja Raharja, Jl. Letkol Abd. Gani No.2, Majalengka Kulon, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45418",
+        "location_city": "Majalengka",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.837337484506044, 108.22828901342403",
+        "location_gmaps": "https://maps.app.goo.gl/NtSnYYkQJppjuC5h9",
+        "links": [
+            "https://www.instagram.com/p/DCljOFayazs/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas"
+            ],
+            "description": "Graduate Ara, Cici, Riisu",
+            "performers": {
+                "idol_group": [
+                    "VKNGHT",
+                    "JETOPURII",
+                    "IRIDESCENT",
+                    "BLACKNUMBER"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "Nhii",
+                    "Aldini"
+                ]
+            },
+            "activities": [
+                "Idol Show",
+                "Coswalk Competition",
+                "Cosstreet",
+                "Fun games",
+                "Gath Community"
+            ],
+            "ticket_info": {
+                "presale": "Rp 25.000",
+                "coswalk_registration": "+ Rp 5.000"
+            },
+            "contact": {
+                "whatsapp": [
+                    "0881023082242 (Rizky Maldani)",
+                    "082216942621 (Gunboil)"
+                ]
+            },
+            "community_partners": [
+                "J-MISERU",
+                "WINDCITY48",
+                "FJKT48 CIREBON",
+                "COSER MAJALENGKA",
+                "JPOP STAGE",
+                "INFO KICAU MANIA",
+                "PUNK IDOL",
+                "AZIZI ORDINARY TEAM",
+                "ANIMOON",
+                "TAKAMARU",
+                "PEPECOS"
+            ],
+            "source": "Aidoru Nation Fans Indonesia"
+        }
+    },
+    {
+        "Start Date": "20241222",
+        "Start Time": "",
+        "End Date": "20241222",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "IMAGI",
         "Location": "Gedung Serbaguna Raya 1 & 2 Kota Banjarmasin",
         "Comment": "Insert to J-Event List : 20240620 18:26:11\n",
@@ -65585,5 +65606,73 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251004",
+        "Start Time": "",
+        "End Date": "20251004",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HARU TO BOM",
+        "Location": "UD Putra Toserba Majalengka",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "haru_to_bom_2025_majalengka",
+        "location_address": "Baribis, Kec. Cigasong, Kabupaten Majalengka, Jawa Barat 45476",
+        "location_city": "Majalengka",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.816364182835415, 108.24897241340004",
+        "location_gmaps": "https://maps.app.goo.gl/YZZTfmrcVLqBqFbw5",
+        "links": [
+            "https://www.instagram.com/p/DO8lx1CEzmF/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri"
+            ],
+            "presenter": {
+                "main": [
+                    "cressidaclothing",
+                    "pesta.pesona"
+                ]
+            },
+            "organizer": "skscosplay_crb",
+            "theme": "Special Collaboration Cressida with Spy x Family",
+            "description": "Event cosplay dengan coswalk competition, special performance, dan kolaborasi brand dengan tema Spy x Family.",
+            "guest_stars": {
+                "coswalk_judges": [
+                    "Momo Rangga",
+                    "Vanisa"
+                ]
+            },
+            "mc": {
+                "main": [
+                    "TioR"
+                ]
+            },
+            "performers": {
+                "special_performance": [
+                    "NEKODACHI",
+                    "STARBERRIES"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "registration_fee": "Free",
+                    "notes": "Gratis HTM dan registrasi lomba"
+                }
+            },
+            "contact": {
+                "whatsapp": "08983150123",
+                "name": "Septian"
+            },
+            "source": "Aidoru Nation Fans Indonesia"
+        }
     }
 ]
