@@ -897,25 +897,25 @@
         ],
         "Content": {
             "category": [
-              "Festival / Matsuri",
-              "Musik - Idol / VTuber",
-              "Musik - Band / Live Performance"
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
             ],
             "description": "Bangkok Idol Space 2018 adalah acara live idol bergaya Jepang yang mempertemukan grup idol dari Thailand, Jepang, Indonesia, Vietnam, dan Singapura dalam satu panggung.",
             "performers": [
-              "Sweety Gang",
-              "ANIMALOID",
-              "Picaroon",
-              "Medi-CODE",
-              "Gyu Jump",
-              "Niji Universe Inc.",
-              "Lumina Scarlet",
-              "Happy Kuru Kuru"
+                "Sweety Gang",
+                "ANIMALOID",
+                "Picaroon",
+                "Medi-CODE",
+                "Gyu Jump",
+                "Niji Universe Inc.",
+                "Lumina Scarlet",
+                "Happy Kuru Kuru"
             ],
             "theme": "Pertunjukan idol gaya Jepang lintas negara",
             "source": {
-              "name": "Poster Bangkok Idol Space 2018",
-              "accessed": "2026"
+                "name": "Poster Bangkok Idol Space 2018",
+                "accessed": "2026"
             }
         },
         "location_country": "Thailand"
@@ -2026,7 +2026,11 @@
         "location_coordinate": "-7.958023503902615, 112.61184170012103",
         "location_gmaps": "https://goo.gl/maps/Dp2iP4kPXnR8xKqC8",
         "links": [
-            "https://web.facebook.com/DISB.Project/posts/pfbid02HjffikMNswQZqRf3wiaYZKGSmuym5A1s6ixD5FULPf6VYDHYJ7QsNyQS1wMNa9yjl"
+            "https://web.facebook.com/DISB.Project/posts/pfbid02HjffikMNswQZqRf3wiaYZKGSmuym5A1s6ixD5FULPf6VYDHYJ7QsNyQS1wMNa9yjl",
+            "https://www.instagram.com/disb.project/p/BlYUOMYho7N/",
+            "https://www.instagram.com/disb.project/p/BmndPz9nbEF/",
+            "https://www.instagram.com/p/BnTkbdsHjPN/",
+            "https://www.instagram.com/p/BnSpn1ZnH1C/"
         ],
         "Content": {
             "Rundown": [
@@ -2239,7 +2243,59 @@
                     "Index": 25
                 }
             ],
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Dance Cover Competition",
+                "Gathering / Komunitas"
+              ],
+              "presenter": "DISB PROJECT",
+              "mc": [
+                "Andy Phebe",
+                "Gebry"
+              ],
+              "performers": {
+                "dance_cover": [
+                  "Starlight",
+                  "Sugar Rush",
+                  "Tomodachi",
+                  "Ichigo",
+                  "Hymooi",
+                  "Akiramenna",
+                  "Masuta",
+                  "FIBeats",
+                  "Victory DC !"
+                ],
+                "band": [
+                  "Mikazuki",
+                  "Jack Rabbit",
+                  "Unlogic",
+                  "Daisy n Aster",
+                  "Moobeams"
+                ]
+              },
+              "competition": {
+                "list": [
+                  "Karaoke Competition",
+                  "Coswalk Competition",
+                  "Dance Cover Competition"
+                ]
+              },
+              "sponsors": [
+                "Timezone",
+                "Otsukare",
+                "Kedai Yuki",
+                "De Rent",
+                "Museum Angkut",
+                "7 Chicken",
+                "Burger Buto"
+              ],
+              "media_partners": [
+                "Gwigwi",
+                "Korigengi"
+              ]
         },
         "location_country": "Indonesia"
     },

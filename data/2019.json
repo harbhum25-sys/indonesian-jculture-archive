@@ -30,128 +30,6 @@
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20190914",
-      "Start Time": "16:30",
-      "End Date": "20190914",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Nippon Night",
-      "Location": "Garden Eatery",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "nippon_night_kendari_2019",
-      "location_address": "Jl. Jend. AH. Nasution No.108, Anduonohu, Kec. Kambu, Kota Kendari, Sulawesi Tenggara 93231",
-      "location_city": "Kendari",
-      "location_country": "Indonesia",
-      "location_coordinate": "-4.001964610967085, 122.5320851134963",
-      "location_gmaps": "https://maps.app.goo.gl/FviZnqaVr7PU2JqRA",
-      "links": [
-        "https://web.facebook.com/share/p/1RNy1csoCp/"
-      ],
-      "Content": {
-        "category": [
-          "Bazaar / Market",
-          "Musik - Band / Live Performance",
-          "Party / Night Event"
-        ],
-        "organizer": "J-Music Lovers Kendari",
-        "theme": "City Pop",
-        "description": "Bazaar dan acara pemanasan (road to) menuju Japan Festival Kendari 2019.",
-        "activities": [
-          "Live Music",
-          "Games",
-          "Quiz",
-          "Press Release Japan Festival Kendari 2019"
-        ],
-        "presenter": "Persekutan Duniawi Komunitas Jejepangan Kendari",
-        "hashtags": [
-          "roadtojfestkendari2019",
-          "jfestkendari2019",
-          "endgame"
-        ]
-      }
-    },
-    {
-      "Start Date": "20191109",
-      "Start Time": "",
-      "End Date": "20191110",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Japan Fest Kendari 2019",
-      "Location": "Lippo Plaza Kendari",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "jfest_kendari_2019_owari_no_tabi",
-      "location_address": "Jl. M.T. Haryono No.61 - 63, Bende, Kec. Kadia, Kota Kendari, Sulawesi Tenggara 93117",
-      "location_city": "Kendari",
-      "location_country": "Indonesia",
-      "location_coordinate": "-3.9921113408188704, 122.5122177516638",
-      "location_gmaps": "https://maps.app.goo.gl/3mA8qikcGjaxiaJn6",
-      "links": [
-        "https://www.facebook.com/share/p/14YM3Q8jHsp/",
-        "https://www.instagram.com/p/B4g-npohVEy/?igsh=MXQzZXc5YTdudXdnaA==",
-        "https://www.instagram.com/p/B4uUw2yhcvl/?igsh=MWRqZGJuOWZhZ3FtdQ==",
-        "https://www.instagram.com/p/B4w8NvIB3nu/?igsh=MWJheDQ4ejdqYm0zcQ==",
-        "https://www.instagram.com/p/B59pVMOBhn1/?igsh=MXJjNGllZXI2eHllbQ=="
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Gathering / Parade / Casual",
-          "Musik - Band / Live Performance",
-          "Game / Esports Tournament",
-          "Talkshow / Seminar / Workshop"
-        ],
-        "theme": "Owari No Tabi",
-        "edition": "2019",
-        "activities": [
-          "Live Music",
-          "Game Competition",
-          "Cosplay",
-          "Live Drawing",
-          "Talkshow"
-        ],
-        "talkshow": {
-          "topic": "Seperti apa Sih Hidup di Jepang.?"
-        },
-        "culinary": [
-          "Dorayaki",
-          "Takoyaki"
-        ],
-        "social_media": {
-          "instagram": "@jfestkendari2019"
-        },
-        "support_by": [
-          "Japan Music Lovers",
-          "Maid Cafe Kendari",
-          "Osyuken",
-          "Ozone Otaku",
-          "One Punch Kendari",
-          "Kendari Cosplay",
-          "Yanchou"
-        ],
-        "media_partners": [
-          "Kendari Informasi",
-          "Kendari City",
-          "Kabar Kendari",
-          "Kendari Event",
-          "Sultra Informasi",
-          "Berita Sultra",
-          "Rekaev"
-        ]
-      }
-    },
-    {
         "Start Date": "20190203",
         "Start Time": "12:00 AM",
         "End Date": "20190204",
@@ -862,10 +740,40 @@
         "location_coordinate": "-7.771334334808857, 110.37663902190323",
         "location_gmaps": "https://goo.gl/maps/SgUPZmGA4t9pXuFb8",
         "links": [
-            ""
+            "https://web.facebook.com/ikimasujogja/posts/pfbid034rCq68chKr6MwWrUnfPbZkijeKRyjUuW54x8hwNFwx811qdPX2yFUWGHW6Nm2sDgl"
         ],
         "Content": {
-            "category": []
+            {
+              "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
+              ],
+              "theme": "JOGJA IDOL FESTIVAL & INDONESIAN COSPLAY GRANDPRIX",
+              "guest_stars": {
+                "performer": [
+                  "Saddam",
+                  "LuSca ID",
+                  "FIBeats",
+                  "Voir",
+                  "Momiji Velvet",
+                  "Saywon",
+                  "Nanoka",
+                  "Werewolf Cosproject"
+                ]
+              },
+              "judges": [
+                "Yumaki",
+                "Yonchan Cos",
+                "John Switch"
+              ],
+              "mc": "Jeanice Ang",
+              "ticket_info": {
+                "presale": "Rp 20.000",
+                "ots": "Rp 25.000"
+              }
+            }
         },
         "location_country": "Indonesia"
     },
@@ -1954,6 +1862,53 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20190914",
+        "Start Time": "16:30",
+        "End Date": "20190914",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nippon Night",
+        "Location": "Garden Eatery",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nippon_night_kendari_2019",
+        "location_address": "Jl. Jend. AH. Nasution No.108, Anduonohu, Kec. Kambu, Kota Kendari, Sulawesi Tenggara 93231",
+        "location_city": "Kendari",
+        "location_country": "Indonesia",
+        "location_coordinate": "-4.001964610967085, 122.5320851134963",
+        "location_gmaps": "https://maps.app.goo.gl/FviZnqaVr7PU2JqRA",
+        "links": [
+            "https://web.facebook.com/share/p/1RNy1csoCp/"
+        ],
+        "Content": {
+            "category": [
+                "Bazaar / Market",
+                "Musik - Band / Live Performance",
+                "Party / Night Event"
+            ],
+            "organizer": "J-Music Lovers Kendari",
+            "theme": "City Pop",
+            "description": "Bazaar dan acara pemanasan (road to) menuju Japan Festival Kendari 2019.",
+            "activities": [
+                "Live Music",
+                "Games",
+                "Quiz",
+                "Press Release Japan Festival Kendari 2019"
+            ],
+            "presenter": "Persekutan Duniawi Komunitas Jejepangan Kendari",
+            "hashtags": [
+                "roadtojfestkendari2019",
+                "jfestkendari2019",
+                "endgame"
+            ]
+        }
+    },
+    {
         "Start Date": "20190915",
         "Start Time": "10:00 AM",
         "End Date": "20190915",
@@ -2686,7 +2641,7 @@
         "Importance": "Normal",
         "Subject": "DISB Project : Untitled",
         "Location": "Aula Kampus 1 Institut Teknologi Nasional Malang, Jl. Sigura - Gura No.2, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65152",
-        "Comment": "10:10 2019-07-20 https://www.facebook.com/DISB.Project/photos/a.951343475056437/1146570365533746/\n\n--\nhttps://www.facebook.com/892353554288763/posts/1198676246989824/\n\nhttps://www.facebook.com/892353554288763/posts/1198685686988880/\n\nhttps://www.facebook.com/DISB.Project/photos/a.905749172949201/1198657393658376/\n\n--\nhttps://www.facebook.com/DISB.Project/photos/a.905749172949201/1205112246346224/ -> Here We Go Again....\nRamaiken...\n\nDate : 03 November 2019\nVenue : Aula ITN 1 Malang\nHTM : IDR 15.000\n\n-------------------------------------\nFor Great Artwork : Ayu Saja\n-------------------------------------\n#DISBProject #UntitledProject #Umeenya #HTM15K\n#eventmalang #eventjejepangan2019\n--\nRundown :\n\n--\nMas Tif, Rifny dan Mas Bram :\n\nMas Yud :\n\nSaywon Check sound :\n\nAdam :\n\nMaetoso :\n\nDica :\n\nPenampilan Xinji :\n\nHazza :\n\nAkiramenna jadi peserta dengan nomor urut kedua pada Idol Cover Competition :\n\nMas Bram with SayWon :\n\nFIbeats di dalam circle saat menyanyikan Asthma :\n\n--\nFoto bersama Panitia dengan Guest star :\n\n\n--\nFoto SayWon bersama yang lain :\n\n--\nJawaban IG Story SayWon mengenai DISB Untitled :\n\n--\nName Tag Juri yang kubawa pulang ke Bandung :\n\n--",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
@@ -2696,7 +2651,10 @@
         "location_coordinate": "-7.958023503902615, 112.61184170012103",
         "location_gmaps": "https://goo.gl/maps/Dp2iP4kPXnR8xKqC8",
         "links": [
-            ""
+            "https://www.instagram.com/disb.project/p/B0GtaC_Bssw/",
+            "https://www.instagram.com/disb.project/p/B3XXAdyBbb5/",
+            "https://www.instagram.com/p/B34esfIhxHh/",
+            "https://www.instagram.com/disb.project/p/B4M2zw6BnZ8/"
         ],
         "Content": {
             "Rundown": [
@@ -2849,7 +2807,59 @@
                 "Time": "2019-11-03",
                 "Content": "Minat adalah hal yang paling kurang di Malang, terlihat pas Victory tahun kemarin benar-benar sepi. Tadi beres maghrib langsung panitia lepas semua jadi tidak sepi kayak kemarin."
             },
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas",
+                "Bazaar / Market",
+                "Party / Night Event"
+              ],
+              "presenter": "DISB PROJECT",
+              "theme": "After Tachiagare",
+              "guest_stars": {
+                "idol_cover": [
+                  "FIBeats",
+                  "Sugar Rush"
+                ],
+                "band": [
+                  "HYAKUSHIKI",
+                  "SAYIGONI"
+                ],
+                "dj": [
+                  "DJ KOKO"
+                ]
+              },
+              "MC": [
+                "Andy Phebe",
+                "Fenichi"
+              ],
+              "performers": [
+                "NOIZE",
+                "MAESTOSO",
+                "Threere"
+              ],
+              "ticket_info": {
+                "ots": "Rp 15.000"
+              },
+              "social_media": {
+                "facebook": "disb project",
+                "instagram": "@disb.project"
+              },
+              "sponsors": [
+                "Timezone",
+                "Kedai Yuki",
+                "De Rent",
+                "Burger Buto",
+                "Sinus",
+                "Nozinada"
+              ],
+              "media_partners": [
+                "Japan Corner",
+                "Gwigwi",
+                "Ligi"
+              ]
         },
         "location_country": "Indonesia"
     },
@@ -3130,6 +3140,82 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20191109",
+        "Start Time": "",
+        "End Date": "20191110",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Fest Kendari 2019",
+        "Location": "Lippo Plaza Kendari",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jfest_kendari_2019_owari_no_tabi",
+        "location_address": "Jl. M.T. Haryono No.61 - 63, Bende, Kec. Kadia, Kota Kendari, Sulawesi Tenggara 93117",
+        "location_city": "Kendari",
+        "location_country": "Indonesia",
+        "location_coordinate": "-3.9921113408188704, 122.5122177516638",
+        "location_gmaps": "https://maps.app.goo.gl/3mA8qikcGjaxiaJn6",
+        "links": [
+            "https://www.facebook.com/share/p/14YM3Q8jHsp/",
+            "https://www.instagram.com/p/B4g-npohVEy/?igsh=MXQzZXc5YTdudXdnaA==",
+            "https://www.instagram.com/p/B4uUw2yhcvl/?igsh=MWRqZGJuOWZhZ3FtdQ==",
+            "https://www.instagram.com/p/B4w8NvIB3nu/?igsh=MWJheDQ4ejdqYm0zcQ==",
+            "https://www.instagram.com/p/B59pVMOBhn1/?igsh=MXJjNGllZXI2eHllbQ=="
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "theme": "Owari No Tabi",
+            "edition": "2019",
+            "activities": [
+                "Live Music",
+                "Game Competition",
+                "Cosplay",
+                "Live Drawing",
+                "Talkshow"
+            ],
+            "talkshow": {
+                "topic": "Seperti apa Sih Hidup di Jepang.?"
+            },
+            "culinary": [
+                "Dorayaki",
+                "Takoyaki"
+            ],
+            "social_media": {
+                "instagram": "@jfestkendari2019"
+            },
+            "support_by": [
+                "Japan Music Lovers",
+                "Maid Cafe Kendari",
+                "Osyuken",
+                "Ozone Otaku",
+                "One Punch Kendari",
+                "Kendari Cosplay",
+                "Yanchou"
+            ],
+            "media_partners": [
+                "Kendari Informasi",
+                "Kendari City",
+                "Kabar Kendari",
+                "Kendari Event",
+                "Sultra Informasi",
+                "Berita Sultra",
+                "Rekaev"
+            ],
+            "source": "Fritz Van Wilzbert"
+        }
     },
     {
         "Start Date": "20191110",

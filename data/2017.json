@@ -5191,7 +5191,7 @@
         "attended": "",
         "_id": "metamo_1",
         "location_address": "Jl. Diponegoro No.1, Sisir, Kec. Batu, Kota Batu, Jawa Timur 65314",
-        "location_city": "Batu",
+        "location_city": "Malang",
         "location_coordinate": "-7.878389832749668, 112.53473346762028",
         "location_gmaps": "https://g.page/Lippoplazabatu",
         "links": [
@@ -5312,7 +5312,8 @@
         "location_coordinate": "-7.7829094343505165, 110.43772858296124",
         "location_gmaps": "https://goo.gl/maps/9tvmtANdDAZSKZPQA",
         "links": [
-            ""
+            "https://www.instagram.com/p/BcHsIFSgDBK/",
+            "https://www.instagram.com/p/BcTvFnFgo7t/"
         ],
         "Content": {
             "category": [
@@ -5343,13 +5344,106 @@
         "location_coordinate": "-7.771334334808857, 110.37663902190323",
         "location_gmaps": "https://goo.gl/maps/SgUPZmGA4t9pXuFb8",
         "links": [
-            ""
+            "https://www.instagram.com/p/BcWXV8iApSo/",
+            "https://www.instagram.com/p/BZ-FIDuAhru/",
+            "https://www.instagram.com/p/BcHsIFSgDBK/",
+            "https://www.instagram.com/p/BcWXV8iApSo/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik - Idol / VTuber"
-            ]
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+              ],
+              "theme": "Lets make IDOL Great Again",
+              "edition": "2017",
+              "guest_stars": [
+                "Daisy",
+                "Momiji Velvet",
+                "Lumina Scarlet",
+                "Aimon Idol Project",
+                "Ren Ai"
+              ],
+              "mc": [
+                "Ameru",
+                "Jeanice"
+              ],
+              "performers": [
+                "Utat"
+              ],
+              "competition": {
+                "categories": [
+                  "Idol Competition",
+                  "Coswalk Competition"
+                ],
+                "finalists": {
+                  "local_idol_competition": [
+                    "Hokago",
+                    "Fibeats",
+                    "Noir",
+                    "Un.Man.Ly",
+                    "Kamen Shoujo"
+                  ]
+                },
+                "judgs": {
+                  "local_idol_competition": [
+                    "Yuu-chan - Lumina Scarlet",
+                    "Ara - Daisy",
+                    "Nyun-chan - Aimon",
+                    "Gea - Ren-Ai",
+                    "Nadnad - Momiji Velvet",
+                    "Koh Fiki",
+                    "Utat",
+                    "Rei - Ichimaru Corp"
+                  ]
+                }
+              },
+              "rundown": {
+                "10.00": "Open Gate",
+                "10.15 - 10.45": "Opening",
+                "10.45 - 11.00": "Special Perform by Utat",
+                "11.00 - 11.20": "Aimon Part 1 (Karawang)",
+                "11.20 - 11.30": "Games",
+                "11.30 - 12.15": "ISHOMA",
+                "12.15 - 12.30": "Coswalk Competition",
+                "12.30 - 12.50": "Aimon Part 2 (Karawang)",
+                "12.50 - 13.00": "Pengenalan Juri JIF Idol Competition",
+                "13.00 - 15.30": "JIF Local Idol Competition",
+                "15.30 - 15.45": "Games",
+                "15.45 - 16.30": "Ren Ai (Jakarta)",
+                "16.30 - 17.30": "Momiji Velvet (Jogja)",
+                "17.30 - 18.15": "ISHOMA",
+                "18.15 - 19.00": "Daisy (Bandung)",
+                "19.00 - 19.15": "Pengumuman Pemenang",
+                "19.15 - 20.15": "Lumina Scarlet (Bandung)"
+              },
+              "ticket_info": {
+                "price": "Rp 20.000",
+                "type": "HTM"
+              },
+              "social_media": {
+                "facebook": "jogjaidolfestival"
+              },
+              "sponsors": [
+                "Titip Jepang",
+                "Winpin Anime",
+                "NNN",
+                "Amoeba Loka Catering",
+                "IDOL World"
+              ],
+              "media_partners": [
+                "KAORI Nusantara",
+                "BEDABUNIK.com",
+                "komukita",
+                "WaGoMu",
+                "jalanjalankejepang.com",
+                "Hantu Komunitas",
+                "NAU7H",
+                "Kameko",
+                "Japanese Music ID",
+                "INDOSHURT PRO"
+              ]
         },
         "location_country": "Indonesia"
     },
