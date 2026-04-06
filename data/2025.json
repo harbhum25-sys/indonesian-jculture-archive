@@ -1,87 +1,5 @@
 [
     {
-        "Start Date": "20250207",
-        "Start Time": "",
-        "End Date": "20250208",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "BTM Gakure",
-        "Location": "Bogor Trade Mall Bogor",
-        "Comment": "Insert to J-Event List : 20260102 17:26:59\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "asicco_1",
-        "location_address": "Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",
-        "location_city": "Bogor",
-        "location_coordinate": "-6.6050314096624065, 106.79558466507754",
-        "location_gmaps": "https://maps.app.goo.gl/xtQudMgPComAupxC8",
-        "links": [
-            "https://bit.ly/RegistrasiBTMGakure",
-            "https://www.instagram.com/kazokujapanfestival"
-        ],
-        "Content": {
-            "presenter": "Kazoku Japan Festival",
-            "ticket": "Free",
-            "content": "Idol Performance Coswalk Competition Jsong Competition Coswalk Rookie Community Activity Karaoke Party Utattemita DJ Random Play Dance Community Gathering Bazaar Merch Toys",
-            "cp_performer": "0881081010222",
-            "cp_tenant": "088290578280",
-            "category": []
-        },
-        "location_country": "Indonesia"
-    },
-    {
-        "Start Date": "20251229",
-        "Start Time": "",
-        "End Date": "20260115",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Ichiban Sushi Matsuri 2026 Online Cosplay Competition",
-        "Location": "Ichiban Sushi Official Website",
-        "Comment": "Insert to J-Event List : 20260111 17:05:42\n",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "zhcxwb_2",
-        "links": [
-            "https://www.ichibansushi.co.id",
-            "https://www.instagram.com/ichibansushi_id"
-        ],
-        "Content": {
-            "submission_period": {
-                "start": "20251229",
-                "end": "20260115"
-            },
-            "grand_prize": "Trip to Japan",
-            "transaction_requirement": "Minimum purchase Rp50000 before tax and service",
-            "steps": {
-                "step1": "Purchase at Ichiban Sushi minimum Rp50000",
-                "step2": "Register via website banner Cosplay Online Competition",
-                "step3": "Fill form and upload receipt",
-                "step4": "Upload photo or video on personal Instagram",
-                "step5": "Follow tag mention ichibansushi_id and use hashtags IchibanSushiMatsuri2026 IchibanSushiCosplay2026",
-                "step6": "Instagram account must be public",
-                "step7": "Judges decision is final",
-                "step8": "Submitted media becomes property of Ichiban Sushi",
-                "step9": "Submit latest by 15 January 2026",
-                "step10": "Top 10 selected for grand final",
-                "step11": "Top 10 outside Jabodetabek get transport and accommodation",
-                "step12": "Winner announcement on 25 January 2026"
-            },
-            "category": [
-                "Cosplay - Competition / Coswalk",
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
-    },
-    {
         "Start Date": "20240126",
         "Start Time": "12:00",
         "End Date": "20240126",
@@ -3395,6 +3313,40 @@
     {
         "Start Date": "20250207",
         "Start Time": "",
+        "End Date": "20250208",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BTM Gakure",
+        "Location": "Bogor Trade Mall Bogor",
+        "Comment": "Insert to J-Event List : 20260102 17:26:59\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "asicco_1",
+        "location_address": "Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.6050314096624065, 106.79558466507754",
+        "location_gmaps": "https://maps.app.goo.gl/xtQudMgPComAupxC8",
+        "links": [
+            "https://bit.ly/RegistrasiBTMGakure",
+            "https://www.instagram.com/kazokujapanfestival"
+        ],
+        "Content": {
+            "presenter": "Kazoku Japan Festival",
+            "ticket": "Free",
+            "content": "Idol Performance Coswalk Competition Jsong Competition Coswalk Rookie Community Activity Karaoke Party Utattemita DJ Random Play Dance Community Gathering Bazaar Merch Toys",
+            "cp_performer": "0881081010222",
+            "cp_tenant": "088290578280",
+            "category": []
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20250207",
+        "Start Time": "",
         "End Date": "20250209",
         "End Time": "",
         "Reminder On/Off": "",
@@ -4690,150 +4642,150 @@
             "https://www.instagram.com/p/DF_J6yiT8sD/"
         ],
         "Content": {
-              "source" : "Aidoru Nation Fans Indonesia",
-              "category": [
+            "source": "Aidoru Nation Fans Indonesia",
+            "category": [
                 "Cosplay - Competition / Coswalk",
                 "Musik - Idol / VTuber"
-              ],
-              "organizer": "Akademi Cosfest",
-              "presenter": "Kota Podomoro Tenjo",
-              "guest_stars": {
+            ],
+            "organizer": "Akademi Cosfest",
+            "presenter": "Kota Podomoro Tenjo",
+            "guest_stars": {
                 "idol_groups": [
-                  "Magic Koi",
-                  "A+Shoujo"
+                    "Magic Koi",
+                    "A+Shoujo"
                 ]
-              },
-              "judges": {
+            },
+            "judges": {
                 "coswalk": [
-                  "Anezka",
-                  "Cin_Cosu",
-                  "Kibaru"
+                    "Anezka",
+                    "Cin_Cosu",
+                    "Kibaru"
                 ]
-              },
-              "mc": [
+            },
+            "mc": [
                 "Kibaru",
                 "Xiley"
-              ],
-              "competition": {
+            ],
+            "competition": {
                 "coswalk": {
-                  "prizes": "Total 10 Winner",
-                  "registration_fee": "Free"
+                    "prizes": "Total 10 Winner",
+                    "registration_fee": "Free"
                 }
-              },
-              "contact": {
+            },
+            "contact": {
                 "anthony": "08811849533",
                 "rin": "081807922955"
-              },
-              "media_partners": [
+            },
+            "media_partners": [
                 "Anfi",
                 "Metaco",
                 "Pokku Sekai"
-              ]
-            },
+            ]
+        },
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20250215",
-      "Start Time": "16:00",
-      "End Date": "20250215",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Showcase Valentine",
-      "Location": "The Earthspace Cirebon",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "showcase_valentine_trixie_cirebon_2025",
-      "location_address": "Jl. Brigjend Dharsono No.152, Kedawung, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",
-      "location_city": "Cirebon",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.722353283979023, 108.53735572241534",
-      "location_gmaps": "https://maps.app.goo.gl/v43qavjsA3h75XgA7",
-      "links": [
-        "https://www.instagram.com/p/DF_J6yiT8sD/",
-        "https://forms.gle/uU57x4HHrFmk4qNS9"
-      ],
-      "Content": {
-        "source" : "Aidoru Nation Fans Indonesia",
-        "category": [
-          "Musik - Idol / VTuber",
-          "Party / Night Event"
+        "Start Date": "20250215",
+        "Start Time": "16:00",
+        "End Date": "20250215",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Showcase Valentine",
+        "Location": "The Earthspace Cirebon",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "showcase_valentine_trixie_cirebon_2025",
+        "location_address": "Jl. Brigjend Dharsono No.152, Kedawung, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.722353283979023, 108.53735572241534",
+        "location_gmaps": "https://maps.app.goo.gl/v43qavjsA3h75XgA7",
+        "links": [
+            "https://www.instagram.com/p/DF_J6yiT8sD/",
+            "https://forms.gle/uU57x4HHrFmk4qNS9"
         ],
-        "organizer": "Trixie Official",
-        "description": "Showcase spesial Valentine yang menghadirkan penampilan grup idol, pengenalan member ke-6, dan rilis single perdana.",
-        "performers": {
-          "idol_groups": [
-            "Trixie",
-            "Cupid",
-            "Iridescent"
-          ],
-          "special_segment": [
-            "Showcase Member Ke-6",
-            "Secret Performer",
-            "Press Release Original Single Perdana"
-          ]
-        },
-        "mc": [
-          "Uli",
-          "Imal"
-        ],
-        "ticket_info": {
-          "price": "Rp 35.000",
-          "benefit": "Include drink",
-          "registration_link": "https://forms.gle/uU57x4HHrFmk4qNS9"
-        },
-        "sponsors": [
-          "Emina",
-          "Bloom Space",
-          "Alibaba Entertainment",
-          "Amphiapa"
-        ]
-      }
+        "Content": {
+            "source": "Aidoru Nation Fans Indonesia",
+            "category": [
+                "Musik - Idol / VTuber",
+                "Party / Night Event"
+            ],
+            "organizer": "Trixie Official",
+            "description": "Showcase spesial Valentine yang menghadirkan penampilan grup idol, pengenalan member ke-6, dan rilis single perdana.",
+            "performers": {
+                "idol_groups": [
+                    "Trixie",
+                    "Cupid",
+                    "Iridescent"
+                ],
+                "special_segment": [
+                    "Showcase Member Ke-6",
+                    "Secret Performer",
+                    "Press Release Original Single Perdana"
+                ]
+            },
+            "mc": [
+                "Uli",
+                "Imal"
+            ],
+            "ticket_info": {
+                "price": "Rp 35.000",
+                "benefit": "Include drink",
+                "registration_link": "https://forms.gle/uU57x4HHrFmk4qNS9"
+            },
+            "sponsors": [
+                "Emina",
+                "Bloom Space",
+                "Alibaba Entertainment",
+                "Amphiapa"
+            ]
+        }
     },
     {
-      "Start Date": "20250215",
-      "Start Time": "",
-      "End Date": "20250215",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Jettopuri Valentine Party",
-      "Location": "MooCow Fresh Milk",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "No",
-      "_id": "jettopuri_valentine_party_cirebon_2025",
-      "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
-      "location_city": "Cirebon",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.71896308702019, 108.55391475755047",
-      "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
-      "links": [
-        "https://www.instagram.com/p/DF_J6yiT8sD/"
-      ],
-      "Content": {
-        "source" : "Aidoru Nation Fans Indonesia",
-        "category": [
-          "Musik - Idol / VTuber",
-          "Party / Night Event"
+        "Start Date": "20250215",
+        "Start Time": "",
+        "End Date": "20250215",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jettopuri Valentine Party",
+        "Location": "MooCow Fresh Milk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jettopuri_valentine_party_cirebon_2025",
+        "location_address": "Jl. Garuda, Pekiringan, Kec. Kesambi, Kota Cirebon, Jawa Barat 45134",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.71896308702019, 108.55391475755047",
+        "location_gmaps": "https://maps.app.goo.gl/77CQmUn6LLKVgnQw8",
+        "links": [
+            "https://www.instagram.com/p/DF_J6yiT8sD/"
         ],
-        "organizer": "Jettopuri",
-        "performers": {
-          "guest_star": "Black Numbers",
-          "host": "Jettopuri"
-        },
-        "ticket_info": {
-          "price": "Rp 35.000",
-          "benefit": "FREE Food and Drink"
+        "Content": {
+            "source": "Aidoru Nation Fans Indonesia",
+            "category": [
+                "Musik - Idol / VTuber",
+                "Party / Night Event"
+            ],
+            "organizer": "Jettopuri",
+            "performers": {
+                "guest_star": "Black Numbers",
+                "host": "Jettopuri"
+            },
+            "ticket_info": {
+                "price": "Rp 35.000",
+                "benefit": "FREE Food and Drink"
+            }
         }
-      }
     },
     {
         "Start Date": "20250215",
@@ -9187,85 +9139,6 @@
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20250531",
-      "Start Time": "",
-      "End Date": "20250531",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "J-MISERU Fourth Season",
-      "Location": "Noni Function Hall",
-      "Comment": "",
-      "Online/Offline": "Offline",
-      "status": "Finished",
-      "attended": "",
-      "_id": "j_miseru_fourth_season_2025",
-      "location_address": "Jl. Ahmad Yani No.202, Majalengka Wetan, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45411",
-      "location_city": "Majalengka",
-      "location_coordinate": "-6.8360558862956, 108.23222814698437",
-      "location_gmaps": "https://maps.app.goo.gl/r3Hc2HQMZe1W7sBt9",
-      "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/p/DKHmmYFpjDD/"
-      ],
-      "Content": {
-        "category": [
-          "Cosplay - Competition / Coswalk",
-          "Musik - Idol / VTuber",
-          "Dance Cover Competition",
-          "Gathering / Komunitas"
-        ],
-        "organizer": "Supermachi",
-        "event_series": "Journey of Supermachi",
-        "description": "Kompetisi cosplay wilayah Seiryuu Prefecture dengan kesempatan lanjut ke Supermachi Festival Bandung.",
-        "judges": {
-          "cosplay_competition": [
-            "Aldini",
-            "Wawa",
-            "Akuy"
-          ]
-        },
-        "performers": {
-          "idol_group": [
-            "V-Knight",
-            "Valerie",
-            "Elestra",
-            "Jet✮Purii",
-            "Kasumisou No Narumi",
-            "Black Numbers"
-          ],
-          "others": [
-            "Local performers",
-            "Community performers"
-          ]
-        },
-        "competition": {
-          "cosplay": {
-            "type": "Cosplay Competition",
-            "advancement": "Top 3 lanjut ke Supermachi Festival Bandung"
-          }
-        },
-        "ticket_info": {
-          "presale": "Rp 35.000",
-          "booking_contact": "0881023xxxx"
-        },
-        "sponsors": {
-          "main": [
-            "Glow",
-            "Biznet"
-          ],
-          "others": [
-            "JKT48 Fans Majalengka",
-            "Wibu Fest",
-            "Bwalkshoot"
-          ]
-        },
-        "source" : "Aidoru Nation Fans Indonesia"
-      }
-    },
-    {
         "Start Date": "20250510",
         "Start Time": "",
         "End Date": "20250510",
@@ -10569,6 +10442,85 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20250531",
+        "Start Time": "",
+        "End Date": "20250531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-MISERU Fourth Season",
+        "Location": "Noni Function Hall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "j_miseru_fourth_season_2025",
+        "location_address": "Jl. Ahmad Yani No.202, Majalengka Wetan, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat 45411",
+        "location_city": "Majalengka",
+        "location_coordinate": "-6.8360558862956, 108.23222814698437",
+        "location_gmaps": "https://maps.app.goo.gl/r3Hc2HQMZe1W7sBt9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DKHmmYFpjDD/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Supermachi",
+            "event_series": "Journey of Supermachi",
+            "description": "Kompetisi cosplay wilayah Seiryuu Prefecture dengan kesempatan lanjut ke Supermachi Festival Bandung.",
+            "judges": {
+                "cosplay_competition": [
+                    "Aldini",
+                    "Wawa",
+                    "Akuy"
+                ]
+            },
+            "performers": {
+                "idol_group": [
+                    "V-Knight",
+                    "Valerie",
+                    "Elestra",
+                    "Jet\u00e2\u0153\u00aePurii",
+                    "Kasumisou No Narumi",
+                    "Black Numbers"
+                ],
+                "others": [
+                    "Local performers",
+                    "Community performers"
+                ]
+            },
+            "competition": {
+                "cosplay": {
+                    "type": "Cosplay Competition",
+                    "advancement": "Top 3 lanjut ke Supermachi Festival Bandung"
+                }
+            },
+            "ticket_info": {
+                "presale": "Rp 35.000",
+                "booking_contact": "0881023xxxx"
+            },
+            "sponsors": {
+                "main": [
+                    "Glow",
+                    "Biznet"
+                ],
+                "others": [
+                    "JKT48 Fans Majalengka",
+                    "Wibu Fest",
+                    "Bwalkshoot"
+                ]
+            },
+            "source": "Aidoru Nation Fans Indonesia"
+        }
     },
     {
         "Start Date": "20250531",
@@ -20851,6 +20803,83 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "COSWALK - Yoru no Matsuri",
+        "Location": "Hall Mall Boemi Kedaton",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "yoru_no_matsuri_coswalk_2025",
+        "location_address": "Jl. Teuku Umar No.1, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132",
+        "location_city": "Bandar Lampung",
+        "location_coordinate": "-5.382186313838842, 105.25990598850642",
+        "location_gmaps": "https://maps.app.goo.gl/EC2xHtvVYhW88x4x8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DPgGSQVicHt/",
+            "https://www.instagram.com/p/DPgYdsnCbCV/",
+            "bit.ly/Coswalk_SKACoffeeFest2025"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri"
+            ],
+            "organizer": {
+                "main": "SKA Coffee Fest",
+                "partners": [
+                    "BAS Creative",
+                    "Aigatsu"
+                ]
+            },
+            "description": "Bagian dari SKA Coffee Fest, menghadirkan kompetisi Coswalk bertema Yoru no Matsuri.",
+            "judges": {
+                "coswalk": [
+                    "Winterlint",
+                    "Kusanagi (Thereisfaizal)"
+                ]
+            },
+            "mc": [
+                "Natchan",
+                "Ellin"
+            ],
+            "performers": {
+                "idol_group": [
+                    "DDC48"
+                ],
+                "band": [
+                    "After Rain"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "registration_fee": "Rp 20.000",
+                    "rules": [
+                        "No Original Character (OC)"
+                    ],
+                    "quota": "Terbatas"
+                }
+            },
+            "registration": {
+                "start_date": "20250930",
+                "deadline": "20251020",
+                "link": "bit.ly/Coswalk_SKACoffeeFest2025"
+            },
+            "contact": {
+                "whatsapp": "085894597241",
+                "name": "Zk"
+            }
+        }
+    },
+    {
+        "Start Date": "20251026",
+        "Start Time": "",
+        "End Date": "20251026",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Celfest : 2nd Stage",
         "Location": "Istana Plaza, Bandung",
         "Comment": "Insert to J-Event List : 20251014 16:06:37\n",
@@ -21924,6 +21953,80 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251123",
+        "Start Time": "",
+        "End Date": "20251123",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "AXIS ESPORTS LABS x EVOS x AIGATSU",
+        "Location": "Mall Boemi Kedaton",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "axis_esports_labs_evos_aigatsu_2025",
+        "location_address": "Jl. Teuku Umar No.1, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132",
+        "location_city": "Bandar Lampung",
+        "location_coordinate": "-5.382186313838842, 105.25990598850642",
+        "location_gmaps": "https://maps.app.goo.gl/EC2xHtvVYhW88x4x8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/aigatsu.id/p/DRHA1NeCYK8/",
+            "https://www.instagram.com/p/DRMkkqSCWuu/",
+            "https://linktr.ee/aigatsu.id"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Game / Esports Tournament"
+            ],
+            "organizer": {
+                "main": "AXIS",
+                "partners": [
+                    "EVOS",
+                    "Aigatsu"
+                ]
+            },
+            "guest_stars": {
+                "special_guest": [
+                    "Nadse"
+                ],
+                "performer": [
+                    "DDC48 (@48project_dc)"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "@winterlintt",
+                    "@thereisfaizal"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "prizes": {
+                        "total_prize_pool": "Rp 2.500.000"
+                    },
+                    "registration": "Free (Berdasarkan update terbaru)"
+                }
+            },
+            "ticket_info": {
+                "entry": "Free"
+            },
+            "registration": {
+                "link": "linktr.ee/aigatsu.id",
+                "note": "Peserta terbatas"
+            },
+            "contact": {
+                "whatsapp": "085894597241"
+            },
+            "description": "Event kolaborasi AXIS Esports Labs dengan EVOS dan Aigatsu yang menghadirkan Coswalk Competition dan penampilan Idol Group."
+        }
     },
     {
         "Start Date": "20251123",
@@ -23285,6 +23388,54 @@
             "event_theme": "Christmas themed wibu event",
             "category": [
                 "Gathering / Komunitas"
+            ]
+        },
+        "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251229",
+        "Start Time": "",
+        "End Date": "20260115",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ichiban Sushi Matsuri 2026 Online Cosplay Competition",
+        "Location": "Ichiban Sushi Official Website",
+        "Comment": "Insert to J-Event List : 20260111 17:05:42\n",
+        "Online/Offline": "Online",
+        "status": "Finished",
+        "attended": "",
+        "_id": "zhcxwb_2",
+        "links": [
+            "https://www.ichibansushi.co.id",
+            "https://www.instagram.com/ichibansushi_id"
+        ],
+        "Content": {
+            "submission_period": {
+                "start": "20251229",
+                "end": "20260115"
+            },
+            "grand_prize": "Trip to Japan",
+            "transaction_requirement": "Minimum purchase Rp50000 before tax and service",
+            "steps": {
+                "step1": "Purchase at Ichiban Sushi minimum Rp50000",
+                "step2": "Register via website banner Cosplay Online Competition",
+                "step3": "Fill form and upload receipt",
+                "step4": "Upload photo or video on personal Instagram",
+                "step5": "Follow tag mention ichibansushi_id and use hashtags IchibanSushiMatsuri2026 IchibanSushiCosplay2026",
+                "step6": "Instagram account must be public",
+                "step7": "Judges decision is final",
+                "step8": "Submitted media becomes property of Ichiban Sushi",
+                "step9": "Submit latest by 15 January 2026",
+                "step10": "Top 10 selected for grand final",
+                "step11": "Top 10 outside Jabodetabek get transport and accommodation",
+                "step12": "Winner announcement on 25 January 2026"
+            },
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri"
             ]
         },
         "location_country": "Indonesia"
