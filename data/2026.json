@@ -1811,7 +1811,7 @@
       "Importance": "",
       "Subject": "Stardust Symphony",
       "Location": "J-Town Jatinegara",
-      "Comment": "",
+      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
       "Online/Offline": "Offline",
       "status": "Scheduled",
       "attended": "",
@@ -5527,6 +5527,117 @@
                 "price": "Free"
             }
         }
+    },
+    {
+      "Start Date": "20260503",
+      "Start Time": "",
+      "End Date": "20260503",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "AIDORU COSPLAY MATSURI",
+      "Location": "KCP 2 (TECNOMART)",
+      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "aidoru_cosplay_matsuri_2026_karawang",
+      "location_address": "Jl. Galuh Mas Raya, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",
+      "location_city": "Karawang",
+      "location_coordinate": "-6.329047462733708, 107.29335588464875",
+      "location_gmaps": "https://goo.gl/maps/g9snp3dwC5x6ScGW9",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DWyttKXAhj-/"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Gathering / Parade / Casual",
+          "Musik - Idol / VTuber"
+        ],
+        "organizer": "@terasucommunity",
+        "ticket_info": {
+          "type": "Free Entry",
+          "price": "Gratis"
+        },
+        "social_media": {
+          "instagram": [
+            "@terasucommunity",
+            "@iroironanippon"
+          ]
+        },
+        "description": "Cahaya idol dan cosplay bersinar di Karawang.",
+        "source": {
+          "platform": "Instagram",
+          "account": "iroironanippon"
+        }
+      }
+    },
+    {
+      "Start Date": "20260411",
+      "Start Time": "",
+      "End Date": "20260411",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Pemanasan #1 Wibu Gembira Fest",
+      "Location": "Kings Shopping Centre",
+      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "pemanasan_1_wibu_gembira_fest_2026",
+      "location_address": "Jl. Kepatihan No.11-17, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
+      "location_city": "Bandung",
+      "location_coordinate": "-6.922858191930972, 107.60495735971976",
+      "location_gmaps": "https://maps.app.goo.gl/XJo1NrUjwXBqoWJT8",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DWsnaYaCJkx/"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber"
+        ],
+        "organizer": [
+          "Ankoku Fest",
+          "Wibu Gembira Fest",
+          "Nexvsion"
+        ],
+        "edition": "1",
+        "performers": {
+          "idol_group": [
+            "Prism",
+            "KaraFuru",
+            "Hanasta",
+            "Sirene Star",
+            "Sora Hikari",
+            "Kuroten",
+            "Starry Night"
+          ],
+          "dj": [
+            "YANNSU"
+          ]
+        },
+        "judges": {
+          "coswalk": [
+            "Kamen Suki"
+          ]
+        },
+        "activities": [
+          "Idol Performance",
+          "Coswalk Competition",
+          "Random Play Dance (RPD)",
+          "Merch Booth"
+        ]
+      }
     },
     {
         "Start Date": "20260314",
