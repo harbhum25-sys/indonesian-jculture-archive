@@ -777,8 +777,7 @@
                 "source": "Animonster 98 - Mei 2007, Halaman 54"
             },
             "category": []
-        },
-        "location_country": "Indonesia"
+        }
     },
     {
         "Start Date": "20070523",
@@ -2089,7 +2088,7 @@
         "Location": "Kampus STBA Yapari-ABA",
         "Comment": "",
         "Online/Offline": "Offline",
-        "status": "Finished",
+        "status": "Unconfirmed",
         "attended": "No",
         "_id": "yamato_damashii_2_2007",
         "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
@@ -2566,7 +2565,7 @@
         "Location": "Lapangan SMUN 20",
         "Comment": "",
         "Online/Offline": "Offline",
-        "status": "Finished",
+        "status": "Unconfirmed",
         "attended": "",
         "_id": "hzzpnh_8",
         "location_address": "Jl. Citarum No.23, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
