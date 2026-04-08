@@ -1,5 +1,61 @@
 [
     {
+        "Start Date": "20230128",
+        "Start Time": "",
+        "End Date": "20230128",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanese Fikom Party Otsu! JAFITY",
+        "Location": "Lagoon Avenue Lt. 1",
+        "Comment": "Data berdasarkan arsip promosi toko Jadoku Store.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "otsu_jafity_2023_sby",
+        "location_address": "Blok RA No. Kav 9-10, Jl. KH Abdul Wahab Siamin Surabaya, Putat Gede, Kec. Dukuhpakis, Kota SBY, Jawa Timur 60225",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.289459625961954, 112.70674186946235",
+        "location_gmaps": "https://g.page/lagoon-avenue-mall-sungkono",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/Cn8r0HOhkNT/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke"
+            ],
+            "presenter": "Fakultas Ilmu Komunikasi Universitas Dr. Soetomo",
+            "performers": {
+                "guest_star": [
+                    "Baby Metal Surabaya",
+                    "Kiseki",
+                    "Jetsuki"
+                ]
+            },
+            "judges": {
+                "voice_acting": [
+                    "Fujio",
+                    "Nana Megumi"
+                ]
+            },
+            "competition": {
+                "list": [
+                    "Coswalk Competition",
+                    "J-Song Competition",
+                    "Voice Acting (online)"
+                ]
+            },
+            "ticket_info": {
+                "htm": "Free/Gratis"
+            }
+        }
+    },
+    {
         "Start Date": "20260103",
         "Start Time": "11:00",
         "End Date": "20260118",
@@ -1787,54 +1843,26 @@
             "https://www.instagram.com/luniteofficial/p/DUC1-SvEqBX/"
         ],
         "Content": {
-            "category": ["Musik - Idol / VTuber", "Musik - Band / Live Performance"],
-                "description": "Pre-event dalam rangka menyambut 2nd Anniversary Lunite dengan berbagai penampilan musik dan idol performance.",
-                "performers": {
-                  "lineup": ["PRiSM", "MJB", "SIRENE STAR", "AiMU"]
-                },
-                "mc": "Ian",
-                "ticket_info": {
-                  "price": "Free"
-                },
+            "category": [
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
+            ],
+            "description": "Pre-event dalam rangka menyambut 2nd Anniversary Lunite dengan berbagai penampilan musik dan idol performance.",
+            "performers": {
+                "lineup": [
+                    "PRiSM",
+                    "MJB",
+                    "SIRENE STAR",
+                    "AiMU"
+                ]
+            },
+            "mc": "Ian",
+            "ticket_info": {
+                "price": "Free"
+            },
             "tags": "Lunite2ndAnniversary StardustSymphony Braga8 NextStage BandungEvent"
         },
         "location_country": "Indonesia"
-    },
-    {
-      "Start Date": "20260425",
-      "Start Time": "",
-      "End Date": "20260425",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Stardust Symphony",
-      "Location": "J-Town Jatinegara",
-      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "",
-      "_id": "stardust_symphony_jtown_2026",
-      "location_address": "Jl. Jatinegara Timur No.60, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13310",
-        "location_city": "Jakarta Timur",
-        "location_country": "Indonesia",
-        "location_coordinate": "-6.22061583661039, 106.86777622634148",
-        "location_gmaps": "https://maps.app.goo.gl/rSnTUBd5Bf76kwqVA",
-      "links": [
-        "https://www.instagram.com/p/DWJHC2fEnRg/"
-      ],
-      "Content": {
-        "category": ["Musik - Idol / VTuber"],
-        "description": "Event Stardust Symphony dalam rangka perayaan anniversary Lunite dengan berbagai penampilan idol.",
-        "mc": "Lissa",
-        "performers": {
-          "guest_stars": ["HIRA DAZZLE", "EIGHTEEN+", "LA BELLE", "ELYRIA", "RADREAMS"]
-        },
-        "ticket_info": {
-          "price": "Free"
-        }
-      }
     },
     {
         "Start Date": "20260131",
@@ -5529,117 +5557,6 @@
         }
     },
     {
-      "Start Date": "20260503",
-      "Start Time": "",
-      "End Date": "20260503",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "AIDORU COSPLAY MATSURI",
-      "Location": "KCP 2 (TECNOMART)",
-      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "No",
-      "_id": "aidoru_cosplay_matsuri_2026_karawang",
-      "location_address": "Jl. Galuh Mas Raya, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",
-      "location_city": "Karawang",
-      "location_coordinate": "-6.329047462733708, 107.29335588464875",
-      "location_gmaps": "https://goo.gl/maps/g9snp3dwC5x6ScGW9",
-      "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/p/DWyttKXAhj-/"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Gathering / Parade / Casual",
-          "Musik - Idol / VTuber"
-        ],
-        "organizer": "@terasucommunity",
-        "ticket_info": {
-          "type": "Free Entry",
-          "price": "Gratis"
-        },
-        "social_media": {
-          "instagram": [
-            "@terasucommunity",
-            "@iroironanippon"
-          ]
-        },
-        "description": "Cahaya idol dan cosplay bersinar di Karawang.",
-        "source": {
-          "platform": "Instagram",
-          "account": "iroironanippon"
-        }
-      }
-    },
-    {
-      "Start Date": "20260411",
-      "Start Time": "",
-      "End Date": "20260411",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Pemanasan #1 Wibu Gembira Fest",
-      "Location": "Kings Shopping Centre",
-      "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "No",
-      "_id": "pemanasan_1_wibu_gembira_fest_2026",
-      "location_address": "Jl. Kepatihan No.11-17, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
-      "location_city": "Bandung",
-      "location_coordinate": "-6.922858191930972, 107.60495735971976",
-      "location_gmaps": "https://maps.app.goo.gl/XJo1NrUjwXBqoWJT8",
-      "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/p/DWsnaYaCJkx/"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Competition / Coswalk",
-          "Musik - Idol / VTuber"
-        ],
-        "organizer": [
-          "Ankoku Fest",
-          "Wibu Gembira Fest",
-          "Nexvsion"
-        ],
-        "edition": "1",
-        "performers": {
-          "idol_group": [
-            "Prism",
-            "KaraFuru",
-            "Hanasta",
-            "Sirene Star",
-            "Sora Hikari",
-            "Kuroten",
-            "Starry Night"
-          ],
-          "dj": [
-            "YANNSU"
-          ]
-        },
-        "judges": {
-          "coswalk": [
-            "Kamen Suki"
-          ]
-        },
-        "activities": [
-          "Idol Performance",
-          "Coswalk Competition",
-          "Random Play Dance (RPD)",
-          "Merch Booth"
-        ]
-      }
-    },
-    {
         "Start Date": "20260314",
         "Start Time": "",
         "End Date": "20260315",
@@ -7205,6 +7122,69 @@
         }
     },
     {
+        "Start Date": "20260404",
+        "Start Time": "20:00",
+        "End Date": "20260404",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shinzoku by Weebfest : Imagination Being Real",
+        "Location": "CARSLAND | Coffee & Eatery - Gading Serpong",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "shinzoku_weebfest_imagination_being_real",
+        "location_address": "Hampton Avenue No.B 36, Medang, Kec. Pagedangan, Kabupaten Tangerang, Banten 15334",
+        "location_city": "Tangerang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.267526749293041, 106.61998276427126",
+        "location_gmaps": "https://maps.app.goo.gl/Y3dyq4XtnNtJB1xN6",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/reel/DWi56FdEo9p/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Gathering / Parade / Casual",
+                "Party / Night Event",
+                "Toy / Figure / Hobby"
+            ],
+            "organizer": "Weebfestival",
+            "host": "Carsland Gading Serpong",
+            "activities": [
+                "Cosplay PhotoContest",
+                "Carsmeet Up",
+                "DJ Performance",
+                "Awarding",
+                "Booth Merchandise"
+            ],
+            "performers": {
+                "dj": [
+                    "yozuahildens"
+                ]
+            },
+            "ticket_info": {
+                "type": "FREE HTM"
+            },
+            "partners": {
+                "support": [
+                    "Alpha Theta Indonesia",
+                    "Carsthetic Media"
+                ],
+                "media": [
+                    "infojejepangan.id",
+                    "shinzoku.id",
+                    "bantencosplay_id"
+                ]
+            },
+            "contact": {
+                "whatsapp": "088223921176"
+            }
+        }
+    },
+    {
         "Start Date": "20260405",
         "Start Time": "",
         "End Date": "20260405",
@@ -7232,6 +7212,150 @@
             ],
             "ticket_info": {
                 "price": "Free"
+            }
+        }
+    },
+    {
+        "Start Date": "20260405",
+        "Start Time": "",
+        "End Date": "20260405",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Usagi Haru Mini Gathering",
+        "Location": "Titik Nol Kopi",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "usagi_haru_mini_gathering_2026",
+        "location_address": "TITIK BALIK KOPI (TBK, Jl. C. Bangas INDUK No.5, Menteng, Kec. Jekan Raya, Kota Palangka Raya, Kalimantan Tengah 73111",
+        "location_city": "Palangkaraya",
+        "location_country": "Indonesia",
+        "location_coordinate": "-2.221846917749141, 113.91819334309861",
+        "location_gmaps": "https://maps.app.goo.gl/aT16PP4q4H82yk6J6",
+        "links": [
+            "https://www.instagram.com/kisetsu.matsuri/p/DWrAGLakbzl/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "organizer": "kisetsu",
+            "sponsors": {
+                "list": [
+                    "@bekantanliarmanyurangan",
+                    "@ht.moee",
+                    "@itashakalsel"
+                ]
+            },
+            "tenants": {
+                "list": [
+                    "@knzo_onigiri",
+                    "@anjimeh.store"
+                ]
+            },
+            "media_partners": {
+                "list": [
+                    "@cosplaykalimantan",
+                    "@infojejepangan.id",
+                    "@fotokalteng"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260408",
+        "Start Time": "",
+        "End Date": "20260412",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "OPI Mall Cosplay & Idol Party 2026",
+        "Location": "OPI Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "opi_mall_cosplay_idol_party_2026",
+        "location_address": "Jakabaring Sport City, Jl. Gubernur H. A Bastari, Sungai Kedukan, Kec. Rambutan, Kab. Banyuasin, Sumatera Selatan 30257",
+        "location_city": "Palembang",
+        "location_coordinate": "-3.0361397472523555, 104.79156412913565",
+        "location_gmaps": "https://maps.app.goo.gl/oFzAMSHtYcZ5w2Wu5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW2nkSSkQfi/",
+            "https://www.instagram.com/p/DW2q6pFgm-_/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Idol / VTuber",
+                "Festival / Matsuri",
+                "Bazaar / Market"
+            ],
+            "organizer": "OPI Mall",
+            "edition": "Special 1 Dekade",
+            "description": "Perayaan hari jadi ke-10 OPI Mall yang menghadirkan parade cosplay, penampilan grup idol, serta bazaar kuliner dan merchandise.",
+            "performers": {
+                "idol_group": [
+                    "Blue Waves"
+                ]
+            },
+            "rundown": {
+                "11 April": "Special Performance Blue Waves"
+            },
+            "sponsors": {
+                "supported_by": [
+                    "Metaco",
+                    "Celco",
+                    "Kpop Palembang"
+                ]
+            },
+            "media_partners": {
+                "list": [
+                    "PLG LIP",
+                    "Iswara",
+                    "Sumeks.co",
+                    "Pasti Berita",
+                    "Events Palembang",
+                    "Info Events Palembang"
+                ]
+            },
+            "tenant_participants": {
+                "retail": [
+                    "Matahari",
+                    "Moorlife",
+                    "Tianlala",
+                    "Sale Zone",
+                    "Triple G Clothing"
+                ],
+                "food_and_beverage": [
+                    "Dapur Yummy",
+                    "Pelor",
+                    "Pancake Qiu",
+                    "Kao San Palembang",
+                    "KSR Ayam Bakar",
+                    "Bakso Meletup",
+                    "Batagor Wakpet",
+                    "Sosogu"
+                ],
+                "hobby_and_others": [
+                    "Koko Kosplay",
+                    "Batiq Colet",
+                    "Dokku Nihan",
+                    "Vansyah Pet Shop",
+                    "Yuvi Group",
+                    "RPS Butik"
+                ]
+            },
+            "contact": {
+                "phone": "+62 711 562 0477"
             }
         }
     },
@@ -7290,6 +7414,69 @@
             "contact": {
                 "whatsapp": "085891816962"
             }
+        }
+    },
+    {
+        "Start Date": "20260411",
+        "Start Time": "",
+        "End Date": "20260411",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pemanasan #1 Wibu Gembira Fest",
+        "Location": "Kings Shopping Centre",
+        "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "pemanasan_1_wibu_gembira_fest_2026",
+        "location_address": "Jl. Kepatihan No.11-17, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.922858191930972, 107.60495735971976",
+        "location_gmaps": "https://maps.app.goo.gl/XJo1NrUjwXBqoWJT8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DWsnaYaCJkx/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": [
+                "Ankoku Fest",
+                "Wibu Gembira Fest",
+                "Nexvsion"
+            ],
+            "edition": "1",
+            "performers": {
+                "idol_group": [
+                    "Prism",
+                    "KaraFuru",
+                    "Hanasta",
+                    "Sirene Star",
+                    "Sora Hikari",
+                    "Kuroten",
+                    "Starry Night"
+                ],
+                "dj": [
+                    "YANNSU"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "Kamen Suki"
+                ]
+            },
+            "activities": [
+                "Idol Performance",
+                "Coswalk Competition",
+                "Random Play Dance (RPD)",
+                "Merch Booth"
+            ]
         }
     },
     {
@@ -7630,12 +7817,52 @@
         "location_coordinate": "-3.3207777700108414, 114.59228817455578",
         "location_gmaps": "https://maps.app.goo.gl/B2CzJ8SaMoHttxgUA",
         "links": [
-            "https://www.instagram.com/p/DWWFD2SkkWm/"
+            "https://www.instagram.com/p/DWWFD2SkkWm/",
+            "https://www.instagram.com/infojejepangan.id/p/DWlW7_TACqt/"
         ],
         "Content": {
             "category": [
                 "Musik - Anisong / Karaoke",
-                "Musik - Idol / VTuber"
+                "Musik - Idol / VTuber",
+                "Party / Night Event"
+            ],
+            "theme": "No Idol No Party",
+            "presenter": "Southborn",
+            "special_performance": [
+                "pemanduhurahura",
+                "lluvia_project",
+                "lala.reinala_",
+                "noir.macaron.idol",
+                "cherryful.ofc",
+                "marinova.ig",
+                "orihime.project",
+                "saykiss.bjm",
+                "stardust_zip",
+                "rozurage"
+            ],
+            "ticket_info": {
+                "presale": "Rp 20.000",
+                "ots": "Rp 30.000",
+                "benefit": "Free Voucher Kuota Telkomsel 2GB"
+            },
+            "sponsors": [
+                "Rumah Indofood",
+                "Bilik Bersenyawa",
+                "Sikembar Shoppu",
+                "Threelights Cakes"
+            ],
+            "tenant_partners": [
+                "Sikembar Shoppu",
+                "Prism Queen",
+                "Kenzsweet",
+                "Usaha Berkat",
+                "Angkringan Padang",
+                "Crofellaz x Cello Drink",
+                "Maca.Chiz"
+            ],
+            "powered_by": [
+                "Telkomsel",
+                "Tsel di Banjarmasin"
             ],
             "description": "Event karaoke dan idol performance dalam rangka anniversary Southborn dengan tema No Idol No Party.",
             "performers": {
@@ -7652,7 +7879,6 @@
                 ]
             },
             "organizer": "Southborn48",
-            "theme": "No Idol No Party",
             "social_media": {
                 "hashtag": [
                     "NoIdolNoParty",
@@ -7661,6 +7887,228 @@
             },
             "source": {
                 "platform": "Instagram"
+            }
+        }
+    },
+    {
+        "Start Date": "20260411",
+        "Start Time": "10:00",
+        "End Date": "20260412",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "CHIKA-CON",
+        "Location": "Mall Cipinang Indah",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "chika_con_2026_jkt",
+        "location_address": "Jl. Raya Kalimalang No.18, RW.3, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.239160175594053, 106.89399324959145",
+        "location_gmaps": "https://goo.gl/maps/CC72Hy6vLF4Z3ijC7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW07QCxFItj/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Dance Cover Competition"
+            ],
+            "organizer": "RAF Creative",
+            "theme": "J-Pop Underground Idol and Cosplay Festival",
+            "ticket_info": {
+                "type": "Free HTM"
+            },
+            "performers": {
+                "j_pop_idol": [
+                    "Nyxia",
+                    "Elyria",
+                    "Kira Queen",
+                    "Stellify",
+                    "Amai Monogatari",
+                    "Kireina",
+                    "Sora Hikari",
+                    "Cherry Wish",
+                    "Yamisaki"
+                ],
+                "japanese_soloist": [
+                    "Hiro Umeda"
+                ],
+                "anisong": [
+                    "Ailasca"
+                ],
+                "dj": [
+                    "DJ Unravel"
+                ],
+                "mc": [
+                    "Akashi",
+                    "Erlando MC"
+                ],
+                "cosplayer": [
+                    "Yandzi Cosplay"
+                ]
+            },
+            "competition": {
+                "cosplay_competition": {
+                    "type": "Competition"
+                },
+                "coswalk_competition": {
+                    "type": "Competition"
+                }
+            },
+            "rundown": {
+                "day_1_11_april_2026": {
+                    "10.00": "Open Gate",
+                    "13.00": "Opening MC",
+                    "13.30": "Chika-Con Presentation",
+                    "14.00": "J-Pop Idol - Nyxia",
+                    "14.30": "J-Pop Idol - Elyria",
+                    "15.00": "Coswalk Competition",
+                    "15.30": "Cosplay Competition",
+                    "16.00": "J-Pop Idol - Kira Queen",
+                    "16.30": "J-Pop Idol - Stellify",
+                    "17.00": "Japanese Soloist - Hiro Umeda",
+                    "17.30": "J-Pop Idol - Amai Monogatari",
+                    "19.15": "DJ Unravel",
+                    "20.00": "Closing"
+                },
+                "day_2_12_april_2026": {
+                    "10.00": "Open Gate",
+                    "13.00": "Opening MC",
+                    "13.30": "Chika-Con Presentation",
+                    "14.00": "Anisong - Ailasca",
+                    "14.30": "J-Pop Idol - Kireina",
+                    "15.00": "Chika-Con Cosplay Parade",
+                    "15.30": "Japanese Soloist - Hiro Umeda",
+                    "16.00": "J-Pop Idol - Sora Hikari",
+                    "16.30": "J-Pop Idol - Cherry Wish",
+                    "17.00": "J-Pop Idol - Yamisaki",
+                    "17.30": "Random Play Dance",
+                    "18.15": "Closing"
+                }
+            },
+            "house_rules": {
+                "1": "Acara gratis untuk semua kalangan",
+                "2": "Cosplayer harap gunakan property yang aman (tidak tajam dan berbahan besi)",
+                "3": "Panitia menyediakan penitipan barang",
+                "4": "Harap jaga barang bawaan yang tidak dititipkan",
+                "5": "Harap datang dalam kondisi sehat",
+                "6": "Cosplayer dibawah umur wajib pendampingan oleh kerabat / orang tua",
+                "7": "Harap melapor kepada pihak panitia jika ada tindakan tidak menyenangkan",
+                "8": "Dilarang membawa miras, obat terlarang dan barang berbahaya lainnya",
+                "9": "Dilarang merokok di area event dan indoor mall"
+            },
+            "contact": {
+                "whatsapp": "0858-9181-6962",
+                "email": "rafcreativepro@gmail.com",
+                "instagram": "@rafcreative"
+            },
+            "media_and_community_partners": [
+                "Sisi Kanan",
+                "Raman Cosplay",
+                "Media Formasi",
+                "Wibu Fest Jabodetabek",
+                "Info Jejepangan ID",
+                "Cosplay Santuy",
+                "Kawan Cosplay",
+                "Angkringan Event ID",
+                "Event Fest ID",
+                "Brother Media Collective ID",
+                "MZHN Organizer",
+                "Ken Hibari Photography Media",
+                "Nasabah Event",
+                "Ellenzia Community Cosplay",
+                "Cosplay Bekasi ID",
+                "Commun Ritme",
+                "JFest Sekai"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260411",
+        "Start Time": "",
+        "End Date": "20260412",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "IMAGICON VOL.III",
+        "Location": "Uptown Mall BSBcity",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "imagicon_vol_3_semarang",
+        "location_address": "Jl. RM. Hadi Soebeno Sosrowardoyo, Pesantren, Kec. Mijen, Kota Semarang, Jawa Tengah 50212",
+        "location_city": "Semarang",
+        "location_coordinate": "-7.044614284127799, 110.3247765207337",
+        "location_gmaps": "https://goo.gl/maps/3hQqY5RSLTBaPvYZ9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DWyV7vlElgG/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament"
+            ],
+            "edition": "3",
+            "ticket_info": {
+                "type": "FREE ENTRY"
+            },
+            "mc": [
+                "Mami Rita",
+                "Pelin"
+            ],
+            "guest_stars": {
+                "cosplayer": [
+                    "Punipun"
+                ]
+            },
+            "performers": {
+                "idol": [
+                    "Gochikara",
+                    "Kohi Sekai",
+                    "Eurifessa",
+                    "Equivalet"
+                ],
+                "band": [
+                    "Dua Serupa",
+                    "Giga of Spirit"
+                ],
+                "other": [
+                    "RPD",
+                    "DJ",
+                    "Karaoke Train"
+                ]
+            },
+            "activities": [
+                "CosWalk",
+                "CosComp",
+                "MLBB",
+                "Itasha Itansha",
+                "Japanese Food Eating"
+            ],
+            "prizes": {
+                "total_prizepool": "Rp 7.000.000"
+            },
+            "registration": {
+                "link": "https://kitsuki.id/imagicon2026"
+            },
+            "source": {
+                "repost": "@idol.semarang"
             }
         }
     },
@@ -7732,7 +8180,8 @@
         "links": [
             "https://www.instagram.com/p/DTSs7Gsko2o/",
             "https://www.instagram.com/p/DWtU2J6km2J/",
-            "https://www.instagram.com/p/DWyk9i-EsA6/"
+            "https://www.instagram.com/p/DWyk9i-EsA6/",
+            "https://www.instagram.com/p/DW1DHyqEjZC/"
         ],
         "Content": {
             "presenter": "Celestine Organizer",
@@ -7757,6 +8206,14 @@
                     "Arclesh"
                 ],
                 "random_play_dance": "Tunes by GANK"
+            },
+            "rundown": {
+                "13:10 - 13:50": "Arclesh",
+                "14:00 - 14:40": "Yannsuuu",
+                "14:50 - 15:10": "VividZ",
+                "15:20 - 15:50": "Yorucord",
+                "16:00 - 16:50": "Ultra Flow X Hyper Twinnie",
+                "17:00 - 18:00": "Random Play Dance (Tunes by \u00e8\u0160\u00b8GANK)"
             }
         },
         "location_country": "Indonesia"
@@ -7907,102 +8364,33 @@
         ],
         "Content": {
             "category": [
-              "Festival / Matsuri",
-              "Cosplay - Competition / Coswalk",
-              "Dance Cover Competition",
-              "Musik - Anisong / Karaoke"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
             ],
             "organizer": "Sidoarjo Japanese World",
-            "theme": "Semangat kebersamaan setelah lebaran",
-            "edition": "Vol. 2",
-            "description": "Event Jejepangan bertajuk Haru No Utage Vol. 2 yang menghadirkan berbagai kompetisi, penampilan komunitas, serta perayaan kebersamaan setelah Lebaran.",
-            "mc": [
-              "@tangggbinnn",
-              "@dvnyang"
-            ],
-            "judges": [
-              "@moondelarosaa",
-              "@jakyyy_cos",
-              "@jnnieell",
-              "@yourcandyqueen",
-              "@just__byh"
-            ],
-            "performers": [
-              "@mitsukare.id",
-              "@recall.ofc",
-              "@metanaru.id",
-              "@dreamsky_ofc",
-              "@seaberry.idol"
-            ],
-            "competition": {
-              "categories": [
-                "Dance Cover",
-                "Sing A Song",
-                "Coswalk"
-              ]
-            },
-            "ticket_info": {
-              "price": "Free"
-            },
-            "registration": {
-              "link": "linktr.ee/Sidoarjo_japanese_world"
-            },
-            "sponsors": [
-              "@superindounimas",
-              "@unimasdistrict",
-              "@amd.indonesia",
-              "@igamerworld"
-            ],
-            "media_partners": [
-              "@thezerny",
-              "@sidoarjo_cosplay",
-              "@event_cosplay_surabaya",
-              "@chujitsu.id",
-              "@japanmatsurisurabaya",
-              "@idolcos.id",
-              "@yeoppo.eo",
-              "@rokyuu.id",
-              "@robinnime_crack",
-              "@anime_lovers_gresik",
-              "@yuiitsu.people",
-              "@citadel_id",
-              "@kumaclan",
-              "@imsomnia_jatim",
-              "kpopmedbuzzer",
-              "@delta_cosplay.id",
-              "@konco_ngevent.info",
-              "@otakutoday_",
-              "@cosplay_gresik",
-              "@surabaya_jejepangan_cosplay",
-              "@zry.gallery",
-              "@tukangngevent",
-              "@punkidolcrew",
-              "@boygirlcos.rent",
-              "@capy_rent",
-              "@tokubetsu_na",
-              "@fomoevent.id",
-              "@wibunesa",
-              "@setsuna.frame"
-            ],
-            "rundown" : {
-                "Open Gate": "12.00",
-                "Opening": "12.00",
-                "Talkshow": "12.15",
-                "Fun Games": "12.30",
-                "Sing a Song": "13.45",
-                "Re:Call": "14.15",
-                "Dance Cover": "14.40",
-                "Dream Sky": "16.30",
-                "Coswalk": "16.55",
-                "Break": "17.20",
-                "Random Play Dance": "17.40",
-                "Awarding": "18.40",
-                "Seaberry": "19.00",
-                "Mitsukare": "19.25",
-                "Metanaru": "19.50"
-            },
             "theme": "Semangat kebersamaan pada musim semi setelah lebaran",
             "edition": "2",
+            "description": "Event Jejepangan bertajuk Haru No Utage Vol. 2 yang menghadirkan berbagai kompetisi, penampilan komunitas, serta perayaan kebersamaan setelah Lebaran.",
+            "mc": [
+                "@tangggbinnn",
+                "@dvnyang"
+            ],
+            "judges": [
+                "@moondelarosaa",
+                "@jakyyy_cos",
+                "@jnnieell",
+                "@yourcandyqueen",
+                "@just__byh"
+            ],
+            "performers": [
+                "@mitsukare.id",
+                "@recall.ofc",
+                "@metanaru.id",
+                "@dreamsky_ofc",
+                "@seaberry.idol"
+            ],
             "competition": {
                 "dance_cover": {
                     "categories": [
@@ -8027,6 +8415,60 @@
             },
             "registration": {
                 "link": "linktr.ee/Sidoarjo_japanese_world"
+            },
+            "sponsors": [
+                "@superindounimas",
+                "@unimasdistrict",
+                "@amd.indonesia",
+                "@igamerworld"
+            ],
+            "media_partners": [
+                "@thezerny",
+                "@sidoarjo_cosplay",
+                "@event_cosplay_surabaya",
+                "@chujitsu.id",
+                "@japanmatsurisurabaya",
+                "@idolcos.id",
+                "@yeoppo.eo",
+                "@rokyuu.id",
+                "@robinnime_crack",
+                "@anime_lovers_gresik",
+                "@yuiitsu.people",
+                "@citadel_id",
+                "@kumaclan",
+                "@imsomnia_jatim",
+                "kpopmedbuzzer",
+                "@delta_cosplay.id",
+                "@konco_ngevent.info",
+                "@otakutoday_",
+                "@cosplay_gresik",
+                "@surabaya_jejepangan_cosplay",
+                "@zry.gallery",
+                "@tukangngevent",
+                "@punkidolcrew",
+                "@boygirlcos.rent",
+                "@capy_rent",
+                "@tokubetsu_na",
+                "@fomoevent.id",
+                "@wibunesa",
+                "@setsuna.frame"
+            ],
+            "rundown": {
+                "Open Gate": "12.00",
+                "Opening": "12.00",
+                "Talkshow": "12.15",
+                "Fun Games": "12.30",
+                "Sing a Song": "13.45",
+                "Re:Call": "14.15",
+                "Dance Cover": "14.40",
+                "Dream Sky": "16.30",
+                "Coswalk": "16.55",
+                "Break": "17.20",
+                "Random Play Dance": "17.40",
+                "Awarding": "18.40",
+                "Seaberry": "19.00",
+                "Mitsukare": "19.25",
+                "Metanaru": "19.50"
             },
             "contact": {
                 "dance_cover": "0857-7350-6459 (Raffie)",
@@ -8168,249 +8610,68 @@
         }
     },
     {
-      "Start Date": "20260418",
-      "Start Time": "",
-      "End Date": "20260418",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Momoshiroi no hajimari モモシロイの始まり",
-      "Location": "Starsquare Mall Manado",
-      "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "",
-      "_id": "momoshiroi_no_hajimari_2026_manado",
-      "location_address": "FR6G+X4V, Jl. R.W. Monginsidi VI, Bahu, Kec. Malalayang, Kota Manado, Sulawesi Utara",
+        "Start Date": "20260418",
+        "Start Time": "",
+        "End Date": "20260418",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Momoshiroi no hajimari \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Location": "Starsquare Mall Manado",
+        "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "",
+        "_id": "momoshiroi_no_hajimari_2026_manado",
+        "location_address": "FR6G+X4V, Jl. R.W. Monginsidi VI, Bahu, Kec. Malalayang, Kota Manado, Sulawesi Utara",
         "location_city": "Manado",
         "location_coordinate": "1.462527602336502, 124.82531394447366",
         "location_gmaps": "https://maps.app.goo.gl/a5JHhYYBAVfY637A6",
         "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/p/DVA6v3GE6vD/"
-      ],
-      "Content": {
-        "category": ["Festival / Matsuri", "Gathering / Komunitas"],
-        "presenter": {
-          "community": "Momoshiroi Community",
-          "venue_partner": "Starsquare Manado"
-        },
-        "description": "Event komunitas dengan tema awal perjalanan menuju masa depan yang diselenggarakan oleh Momoshiroi Community di Manado.",
-        "media_partners": {
-          "list": [
-            "Wibufest Manado",
-            "manevecos",
-            "cosplaysulut",
-            "official.cosplaymanado",
-            "randamproject",
-            "dreamcometrue_community",
-            "dungeonmedia",
-            "abyssal_galactus",
-            "nata_dhe_koko",
-            "tokubetsu_na",
-            "zry.gallery"
-          ]
-        },
-        "social_media": {
-          "instagram": [
-            "@momos.rent",
-            "@momoshiroi.game",
-            "@momoshiroi.official",
-            "@momoshiroi.cosplay",
-            "@veyy_cosrentt"
-          ]
-        },
-        "source": [
-            "Instagram momoshiroi",
-            "DCT_Community"
-        ]
-      }
-    },
-    {
-      "Start Date": "20260524",
-      "Start Time": "",
-      "End Date": "20260524",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Japanese Festival Haru No Matsuri",
-      "Location": "SMKN 1 Ciamis",
-      "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "",
-      "_id": "haru_no_matsuri_2026_ciamis",
-      "location_address": "Jl. Jend. Sudirman Lingk. Cibeureum No.269, RT.01/RW.09, Sindangrasa, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46215",
-      "location_city": "Ciamis",
-      "location_coordinate": "-7.3232867226665315, 108.32697884147325",
-      "location_gmaps": "https://goo.gl/maps/isFvp6Ec1wZuXJ8H9",
-      "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/japaneseclub_smkn1ciamis/",
-        "https://www.instagram.com/p/DWOcsHjDBL7/",
-        "https://www.instagram.com/p/DWpZTQMEy5D/",
-        "https://www.instagram.com/p/DWtpPK8jLax/",
-        "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Competition / Coswalk",
-          "Musik - Anisong / Karaoke",
-          "Budaya Jepang - Bahasa / Akademik"
+        "links": [
+            "https://www.instagram.com/p/DVA6v3GE6vD/"
         ],
-        "organizer": "Japanese Club SMKN 1 Ciamis",
-        "description": "Festival budaya Jepang dengan berbagai lomba dan aktivitas bertema Jepang yang terbuka untuk umum.",
-        "competition": {
-          "uta_taikai": {
-            "description": "Kompetisi menyanyi lagu Jepang (anisong atau J-pop)"
-          },
-          "egaku_taikai": {
-            "description": "Kompetisi menggambar bertema anime atau manga"
-          },
-          "hiragana_taikai": {
-            "description": "Kompetisi menulis huruf Jepang (hiragana)"
-          },
-          "coswalk_competition": {
-            "description": "Kompetisi cosplay (CosCom)"
-          },
-          "supichi_taikai": {
-            "description": "Kompetisi pidato bahasa Jepang"
-          }
-        },
-        "ticket_info": {
-          "presale": {
-            "batch_1": "Rp 20.000",
-            "batch_2": "Rp 25.000"
-          },
-          "notes": "Tiket terbatas dan dibuka sampai kuota terpenuhi",
-          "purchase_link": "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor"
-        },
-        "contact": {
-          "whatsapp": "+6283895184044",
-          "contact_person": "Zidny"
-        },
-        "social_media": {
-          "instagram": "@japaneseclub_smkn1ciamis"
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas"
+            ],
+            "presenter": {
+                "community": "Momoshiroi Community",
+                "venue_partner": "Starsquare Manado"
+            },
+            "description": "Event komunitas dengan tema awal perjalanan menuju masa depan yang diselenggarakan oleh Momoshiroi Community di Manado.",
+            "media_partners": {
+                "list": [
+                    "Wibufest Manado",
+                    "manevecos",
+                    "cosplaysulut",
+                    "official.cosplaymanado",
+                    "randamproject",
+                    "dreamcometrue_community",
+                    "dungeonmedia",
+                    "abyssal_galactus",
+                    "nata_dhe_koko",
+                    "tokubetsu_na",
+                    "zry.gallery"
+                ]
+            },
+            "social_media": {
+                "instagram": [
+                    "@momos.rent",
+                    "@momoshiroi.game",
+                    "@momoshiroi.official",
+                    "@momoshiroi.cosplay",
+                    "@veyy_cosrentt"
+                ]
+            },
+            "source": [
+                "Instagram momoshiroi",
+                "DCT_Community"
+            ]
         }
-      }
-    },
-    {
-      "Start Date": "20260425",
-      "Start Time": "",
-      "End Date": "20260426",
-      "End Time": "",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "ASIAN CITY FESTIVAL 2026 \"BEYOND THE YOUTH\"",
-      "Location": "Tenth Avenue Mall",
-      "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
-      "Online/Offline": "Offline",
-      "status": "Scheduled",
-      "attended": "",
-      "_id": "asian_city_festival_2026_bandung",
-      "location_address": "Jl. Soekarno-Hatta No.526, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",
-      "location_city": "Bandung",
-      "location_country": "Indonesia",
-      "location_coordinate": "-6.94638646796399, 107.6410417598909",
-      "location_gmaps": "https://maps.app.goo.gl/xFvgaPjxLHn6Yn5P9",
-      "links": [
-        "https://www.instagram.com/p/DWqJ6hmE--4/",
-        "https://bit.ly/REGISTRASIACFTOKYO",
-        "https://bit.ly/REGISTRASIACFSEOUL"
-      ],
-      "Content": {
-        "category": [
-          "Festival / Matsuri",
-          "Cosplay - Competition / Coswalk",
-          "Dance Cover Competition",
-          "Musik - Idol / VTuber"
-        ],
-        "theme": "Beyond The Youth",
-        "description": "Event J-Culture dan K-Pop dengan dua konsep hari yaitu Tokyo (Jejepangan) dan Seoul (K-Pop), menghadirkan kompetisi cosplay, dance cover, serta guest performer.",
-        "rundown": {
-          "day_1_tokyo": {
-            "date": "2026-04-25",
-            "focus": "J-Culture dan Cosplay",
-            "mc": ["Adhan"],
-            "judges": ["Rangga Kanchiel", "Special Judge"],
-            "guest_star": ["Kirin Day"],
-            "competition": {
-              "coswalk": {
-                "registration_fee": "Rp 25.000",
-                "prize": "Winner All Best"
-              },
-              "coscom": {
-                "individual_fee": "Rp 20.000",
-                "team_fee": "Rp 50.000",
-                "prize": "1 individu dan 1 tim"
-              },
-              "dance_cover": {
-                "registration_fee": "Rp 100.000",
-                "prize": "Juara 1 dan 2"
-              }
-            }
-          },
-          "day_2_seoul": {
-            "date": "2026-04-26",
-            "focus": "K-Pop dan Dance Cover",
-            "mc": ["Mian", "Ammar"],
-            "judges": ["Singgih", "Gibran"],
-            "guest_star": ["CONNECT"],
-            "activities": ["Random Play Dance"],
-            "competition": {
-              "hoosun": {
-                "registration_fee": "Rp 250.000",
-                "prize": "Juara 1 dan 2"
-              },
-              "rookie": {
-                "registration_fee": "Rp 200.000",
-                "prize": "Juara 1 dan 2"
-              },
-              "solo": {
-                "registration_fee": "Rp 100.000",
-                "prize": "Juara 1 dan 2"
-              }
-            }
-          }
-        },
-        "contact": {
-          "name": "Matt",
-          "phone": "+62 898-8781-067"
-        },
-        "media_partners": {
-          "partners": [
-            "oppa_studiophoto",
-            "amd_works_official",
-            "tulinprojectbandung",
-            "kjjc_g",
-            "ukii.cosrent",
-            "idolcos.id",
-            "penggemarvideodance",
-            "foxcrewcommunity",
-            "kawancosplay",
-            "weaentertainment",
-            "bangtanworldbandung",
-            "aidorunationfans.id",
-            "japanmatsurisurabaya",
-            "hybefamilybandung",
-            "vibes_media_id",
-            "dancecoveridcam",
-            "lngshot4sho_bdg",
-            "coserbandung"
-          ]
-        },
-        "source": {
-          "platform": "Instagram",
-          "url": "https://www.instagram.com/p/DWqJ6hmE--4/"
-        }
-      }
     },
     {
         "Start Date": "20260418",
@@ -8489,7 +8750,8 @@
         "location_gmaps": "https://maps.app.goo.gl/tJBG1uPQsrW7zbbM6",
         "links": [
             "https://www.instagram.com/reel/DVipQ6oiZEi/",
-            "https://www.instagram.com/comipara"
+            "https://www.instagram.com/comipara",
+            "https://www.instagram.com/jfesthunter_/p/DW1Ttf1EYp5/"
         ],
         "Content": {
             "category": [
@@ -8899,6 +9161,221 @@
             "source": {
                 "platform": "Instagram",
                 "account": "kishomodelerscup"
+            }
+        }
+    },
+    {
+        "Start Date": "20260423",
+        "Start Time": "",
+        "End Date": "20260426",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nihon : Nagoya Fest 2026",
+        "Location": "Nagoya Hill Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nihon_nagoya_fest_2026",
+        "location_address": "Lower Ground level, Jl. Nagoya Hl, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444",
+        "location_city": "Batam",
+        "location_coordinate": "1.1466199942103332, 104.01263275889393",
+        "location_gmaps": "https://goo.gl/maps/Vs8Lsiz4Mapad64o8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DWyVuK0EmjL/",
+            "https://www.instagram.com/nihonnomise/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Nihon no Mise",
+            "social_media": {
+                "instagram": [
+                    "@nihonnomise",
+                    "@nagoyahillmall",
+                    "@cosplaybatam",
+                    "@project_cosplay_batam"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260425",
+        "Start Time": "",
+        "End Date": "20260425",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Stardust Symphony",
+        "Location": "J-Town Jatinegara",
+        "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "",
+        "_id": "stardust_symphony_jtown_2026",
+        "location_address": "Jl. Jatinegara Timur No.60, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13310",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.22061583661039, 106.86777622634148",
+        "location_gmaps": "https://maps.app.goo.gl/rSnTUBd5Bf76kwqVA",
+        "links": [
+            "https://www.instagram.com/p/DWJHC2fEnRg/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Idol / VTuber"
+            ],
+            "description": "Event Stardust Symphony dalam rangka perayaan anniversary Lunite dengan berbagai penampilan idol.",
+            "mc": "Lissa",
+            "performers": {
+                "guest_stars": [
+                    "HIRA DAZZLE",
+                    "EIGHTEEN+",
+                    "LA BELLE",
+                    "ELYRIA",
+                    "RADREAMS"
+                ]
+            },
+            "ticket_info": {
+                "price": "Free"
+            }
+        }
+    },
+    {
+        "Start Date": "20260425",
+        "Start Time": "",
+        "End Date": "20260426",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ASIAN CITY FESTIVAL 2026 \"BEYOND THE YOUTH\"",
+        "Location": "Tenth Avenue Mall",
+        "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "",
+        "_id": "asian_city_festival_2026_bandung",
+        "location_address": "Jl. Soekarno-Hatta No.526, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.94638646796399, 107.6410417598909",
+        "location_gmaps": "https://maps.app.goo.gl/xFvgaPjxLHn6Yn5P9",
+        "links": [
+            "https://www.instagram.com/p/DWqJ6hmE--4/",
+            "https://bit.ly/REGISTRASIACFTOKYO",
+            "https://bit.ly/REGISTRASIACFSEOUL"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Musik - Idol / VTuber"
+            ],
+            "theme": "Beyond The Youth",
+            "description": "Event J-Culture dan K-Pop dengan dua konsep hari yaitu Tokyo (Jejepangan) dan Seoul (K-Pop), menghadirkan kompetisi cosplay, dance cover, serta guest performer.",
+            "rundown": {
+                "day_1_tokyo": {
+                    "date": "2026-04-25",
+                    "focus": "J-Culture dan Cosplay",
+                    "mc": [
+                        "Adhan"
+                    ],
+                    "judges": [
+                        "Rangga Kanchiel",
+                        "Special Judge"
+                    ],
+                    "guest_star": [
+                        "Kirin Day"
+                    ],
+                    "competition": {
+                        "coswalk": {
+                            "registration_fee": "Rp 25.000",
+                            "prize": "Winner All Best"
+                        },
+                        "coscom": {
+                            "individual_fee": "Rp 20.000",
+                            "team_fee": "Rp 50.000",
+                            "prize": "1 individu dan 1 tim"
+                        },
+                        "dance_cover": {
+                            "registration_fee": "Rp 100.000",
+                            "prize": "Juara 1 dan 2"
+                        }
+                    }
+                },
+                "day_2_seoul": {
+                    "date": "2026-04-26",
+                    "focus": "K-Pop dan Dance Cover",
+                    "mc": [
+                        "Mian",
+                        "Ammar"
+                    ],
+                    "judges": [
+                        "Singgih",
+                        "Gibran"
+                    ],
+                    "guest_star": [
+                        "CONNECT"
+                    ],
+                    "activities": [
+                        "Random Play Dance"
+                    ],
+                    "competition": {
+                        "hoosun": {
+                            "registration_fee": "Rp 250.000",
+                            "prize": "Juara 1 dan 2"
+                        },
+                        "rookie": {
+                            "registration_fee": "Rp 200.000",
+                            "prize": "Juara 1 dan 2"
+                        },
+                        "solo": {
+                            "registration_fee": "Rp 100.000",
+                            "prize": "Juara 1 dan 2"
+                        }
+                    }
+                }
+            },
+            "contact": {
+                "name": "Matt",
+                "phone": "+62 898-8781-067"
+            },
+            "media_partners": {
+                "partners": [
+                    "oppa_studiophoto",
+                    "amd_works_official",
+                    "tulinprojectbandung",
+                    "kjjc_g",
+                    "ukii.cosrent",
+                    "idolcos.id",
+                    "penggemarvideodance",
+                    "foxcrewcommunity",
+                    "kawancosplay",
+                    "weaentertainment",
+                    "bangtanworldbandung",
+                    "aidorunationfans.id",
+                    "japanmatsurisurabaya",
+                    "hybefamilybandung",
+                    "vibes_media_id",
+                    "dancecoveridcam",
+                    "lngshot4sho_bdg",
+                    "coserbandung"
+                ]
+            },
+            "source": {
+                "platform": "Instagram",
+                "url": "https://www.instagram.com/p/DWqJ6hmE--4/"
             }
         }
     },
@@ -9670,6 +10147,134 @@
         }
     },
     {
+        "Start Date": "20260502",
+        "Start Time": "17:00",
+        "End Date": "20260502",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cleo Fest CosCon (Cosplay Contest)",
+        "Location": "Taman Tirtayasa Kediri",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "cleo_fest_coscon_2026_kediri",
+        "location_address": "Jalan Jenderal Ahmad Yani No.123, Banjaran, Kec. Kota, Kabupaten Kediri, Jawa Timur 64129",
+        "location_city": "Kediri",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.816432381928841, 112.02974942546757",
+        "location_gmaps": "https://maps.app.goo.gl/gEjJpngMoR2i3bTw8",
+        "links": [
+            "https://www.instagram.com/p/DWnvi3gE0j5/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Amphoreus Team",
+            "guest_stars": {
+                "judges": [
+                    "RyVao",
+                    "Amato"
+                ],
+                "special_perform": [
+                    "Cikaa",
+                    "Fanstarstic"
+                ],
+                "performers": [
+                    "Miuu",
+                    "Muka Semex",
+                    "Siriuz",
+                    "Yunia"
+                ]
+            },
+            "mc": [
+                "Aris",
+                "Akina"
+            ],
+            "competition": {
+                "coswalk": {
+                    "prizes": {
+                        "favorite_judges": [
+                            "Money",
+                            "Sertifikat",
+                            "Goodiebag"
+                        ],
+                        "favorite_entertain": [
+                            "Sertifikat",
+                            "Goodiebag"
+                        ]
+                    }
+                }
+            },
+            "ticket_info": {
+                "htm": "FREE",
+                "coswalk_registration": "FREE"
+            },
+            "rundown": {
+                "open_gate": "14:00",
+                "main_event": "17:00 - 21:00"
+            },
+            "contact": {
+                "whatsapp": "085177950630",
+                "instagram": "@amphoreus__team"
+            }
+        }
+    },
+    {
+        "Start Date": "20260503",
+        "Start Time": "",
+        "End Date": "20260503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "AIDORU COSPLAY MATSURI",
+        "Location": "KCP 2 (TECNOMART)",
+        "Comment": "Insert to J-Event List : 20260407 13:25:51\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "aidoru_cosplay_matsuri_2026_karawang",
+        "location_address": "Jl. Galuh Mas Raya, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",
+        "location_city": "Karawang",
+        "location_coordinate": "-6.329047462733708, 107.29335588464875",
+        "location_gmaps": "https://goo.gl/maps/g9snp3dwC5x6ScGW9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DWyttKXAhj-/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "@terasucommunity",
+            "ticket_info": {
+                "type": "Free Entry",
+                "price": "Gratis"
+            },
+            "social_media": {
+                "instagram": [
+                    "@terasucommunity",
+                    "@iroironanippon"
+                ]
+            },
+            "description": "Cahaya idol dan cosplay bersinar di Karawang.",
+            "source": {
+                "platform": "Instagram",
+                "account": "iroironanippon"
+            }
+        }
+    },
+    {
         "Start Date": "20260503",
         "Start Time": "",
         "End Date": "20260503",
@@ -9800,6 +10405,84 @@
         }
     },
     {
+        "Start Date": "20260503",
+        "Start Time": "",
+        "End Date": "20260503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "COSFEST 6",
+        "Location": "Ramayana Ciplaz Karawang",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "cosfest_6_karawang_2026",
+        "location_address": "Jl. Tuparev Karawang Wetan 110, Karawang, Nagasari, Kec. Karawang Bar., Karawang, Jawa Barat 41314",
+        "location_city": "Karawang",
+        "location_coordinate": "-6.308991490387609, 107.30710682117679",
+        "location_gmaps": "https://goo.gl/maps/WsG9FG9NMXEiu4td6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW2ihxVk3Rw/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri",
+                "Musik - Anisong / Karaoke",
+                "Party / Night Event"
+            ],
+            "organizer": "Sachi Event Organizer",
+            "presenter": "Erigo x Ramayana",
+            "edition": "6",
+            "judges": {
+                "coswalk": [
+                    "Kibaru Sama",
+                    "Gin Obito"
+                ]
+            },
+            "mc": {
+                "names": [
+                    "Ryuza",
+                    "Shaa"
+                ]
+            },
+            "performers": {
+                "dj": [
+                    "DJ H.L.D.N"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "registration_fee": "Rp 10.000",
+                    "registration_link": "bit.ly/Cosfest6Coswalk"
+                }
+            },
+            "ticket_info": {
+                "type": "Free Entry"
+            },
+            "activities": [
+                "Coswalk Competition",
+                "Cosplay Parade",
+                "Anisong",
+                "Games",
+                "Merchandise Shop",
+                "Live DJ Performance"
+            ],
+            "sponsors": {
+                "main": [
+                    "Erigo",
+                    "Ramayana",
+                    "Zone 2000",
+                    "Milky Verse"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260509",
         "Start Time": "",
         "End Date": "20260509",
@@ -9808,7 +10491,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "SASHIMI XIII 2026 The Bounty Princess",
+        "Subject": "SASHIMI XIII : The Bounty Princess",
         "Location": "Universitas Widyatama",
         "Comment": "Insert to J-Event List : 20260212 16:39:51\n",
         "Online/Offline": "Offline",
@@ -9821,15 +10504,64 @@
         "location_gmaps": "https://g.page/universitas-widyatama",
         "links": [
             "https://www.instagram.com/sashimi_jc/",
-            "https://www.instagram.com/p/DUh6b-AiVuZ/"
+            "https://www.instagram.com/p/DUh6b-AiVuZ/",
+            "https://www.instagram.com/p/DW0ykDdkx4_/",
+            "https://sashimixiii.carrd.co",
+            "https://www.instagram.com/jfesthunter_/p/DW1T5EzEVr8/"
         ],
         "Content": {
             "edition": "XIII",
-            "theme": "The Bounty Princess",
             "event_category": "Japan community and cosplay event",
             "organizer": "sashimi_jc",
-            "information_note": "Further information will be announced through official Instagram account",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Gathering / Komunitas",
+                "Bazaar / Market"
+            ],
+            "theme": "The Bounty Princess",
+            "guest_stars": [
+                "Thousand Sunny",
+                "SAMSITE"
+            ],
+            "judges": {
+                "coswalk": [
+                    "Daffawryyy",
+                    "Zwandoff",
+                    "Oga Shika"
+                ],
+                "covsing": [
+                    "Lavanji",
+                    "Kdwee",
+                    "Kazu Hyuu"
+                ]
+            },
+            "performers": {
+                "special_performances": [
+                    "Himanika",
+                    "Greek Bottle",
+                    "Virtu Real",
+                    "Kuru Kuru"
+                ]
+            },
+            "competition": {
+                "categories": [
+                    "Coswalk Competition",
+                    "Covsing (Cover Sing) Competition"
+                ],
+                "registration": "Open OTS Coswalk"
+            },
+            "community_partners": [
+                "Komunitas Gundam Bestie (KGB)",
+                "Beyblade User Bandung",
+                "Loffier Bandung",
+                "Itasha Region Bandung"
+            ],
+            "social_media": {
+                "instagram": "@sashimi_jc"
+            }
         },
         "location_country": "Indonesia"
     },
@@ -9921,7 +10653,8 @@
             "https://www.instagram.com/japanesiamatsuri/p/DV_BrS9kik6/",
             "https://www.instagram.com/japanesiamatsuri/p/DWLJlsqkt5S/",
             "https://www.instagram.com/japanesiamatsuri/p/DWL5nMZEsFq/",
-            "https://www.instagram.com/p/DVxfyT3E69_/"
+            "https://www.instagram.com/p/DVxfyT3E69_/",
+            "https://www.instagram.com/p/DW0qLK9FGlD/"
         ],
         "Content": {
             "organizer": [
@@ -9944,11 +10677,16 @@
                 "idol": [
                     "Muses",
                     "Aurora Dream",
-                    "Kirin Day"
+                    "Kirin Day",
+                    "Chorusella",
+                    "Velamasc",
+                    "Naira"
                 ],
                 "band": [
                     "Harvest",
-                    "Secret Hope"
+                    "Secret Hope",
+                    "Heno Heno Moheji",
+                    "Chikazuki"
                 ],
                 "traditional_performer": [
                     "Himade STBA",
@@ -10063,6 +10801,89 @@
             "edition": "2",
             "ticket_info": {
                 "price": "TBA"
+            }
+        }
+    },
+    {
+        "Start Date": "20260514",
+        "Start Time": "13:00",
+        "End Date": "20260514",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Guild Wotagei Thrones 2026",
+        "Location": "Ma Chung University's Theater Room",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "guild_wotagei_thrones_2026",
+        "location_address": "Villa Puncak Tidar N No.01, Doro, Karangwidoro, Dau, Malang Regency, East Java 65151",
+        "location_city": "Malang",
+        "location_coordinate": "-7.957716162003514, 112.58933177824989",
+        "location_gmaps": "https://maps.app.goo.gl/UEq8GhtTjmYUBeCQ6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW0WUXemHUV/",
+            "https://www.instagram.com/guildwotagei/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "GUILD",
+            "description": "Kompetisi wotagei rutin yang diadakan oleh GUILD untuk menemukan bakat terbaik dan meningkatkan antusiasme hobi wotagei di level kompetitif.",
+            "guest_stars": {
+                "performer": [
+                    "Stellaria",
+                    "Hanabi"
+                ]
+            },
+            "judges": {
+                "battle_judge": [
+                    "Latte"
+                ]
+            },
+            "mc": {
+                "names": [
+                    "Puuding",
+                    "Arum"
+                ]
+            },
+            "performers": {
+                "dj": [
+                    "DJ Todokete"
+                ],
+                "pioneer_battle": [
+                    "Vins",
+                    "Zal",
+                    "Paruru"
+                ],
+                "gsr_winner": [
+                    "Yura"
+                ],
+                "others": [
+                    "Desdemona"
+                ]
+            },
+            "ticket_info": {
+                "presale": "Rp 45.000",
+                "ots": "Rp 50.000",
+                "note": "Harga sudah termasuk registrasi battle dan minuman"
+            },
+            "media_partners": {
+                "list": [
+                    "Kougai Daigakusei",
+                    "Fensakonime.idn",
+                    "Japan Matsuri Surabaya",
+                    "Anime Event Malang",
+                    "Selang Media",
+                    "Jetava Official",
+                    "Kinishinai WTG"
+                ]
             }
         }
     },
@@ -10383,6 +11204,77 @@
             "edition": "20",
             "ticket_info": {
                 "price": "TBA"
+            }
+        }
+    },
+    {
+        "Start Date": "20260524",
+        "Start Time": "",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanese Festival Haru No Matsuri",
+        "Location": "SMKN 1 Ciamis",
+        "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "",
+        "_id": "haru_no_matsuri_2026_ciamis",
+        "location_address": "Jl. Jend. Sudirman Lingk. Cibeureum No.269, RT.01/RW.09, Sindangrasa, Kec. Ciamis, Kabupaten Ciamis, Jawa Barat 46215",
+        "location_city": "Ciamis",
+        "location_coordinate": "-7.3232867226665315, 108.32697884147325",
+        "location_gmaps": "https://goo.gl/maps/isFvp6Ec1wZuXJ8H9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/japaneseclub_smkn1ciamis/",
+            "https://www.instagram.com/p/DWOcsHjDBL7/",
+            "https://www.instagram.com/p/DWpZTQMEy5D/",
+            "https://www.instagram.com/p/DWtpPK8jLax/",
+            "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Budaya Jepang - Bahasa / Akademik"
+            ],
+            "organizer": "Japanese Club SMKN 1 Ciamis",
+            "description": "Festival budaya Jepang dengan berbagai lomba dan aktivitas bertema Jepang yang terbuka untuk umum.",
+            "competition": {
+                "uta_taikai": {
+                    "description": "Kompetisi menyanyi lagu Jepang (anisong atau J-pop)"
+                },
+                "egaku_taikai": {
+                    "description": "Kompetisi menggambar bertema anime atau manga"
+                },
+                "hiragana_taikai": {
+                    "description": "Kompetisi menulis huruf Jepang (hiragana)"
+                },
+                "coswalk_competition": {
+                    "description": "Kompetisi cosplay (CosCom)"
+                },
+                "supichi_taikai": {
+                    "description": "Kompetisi pidato bahasa Jepang"
+                }
+            },
+            "ticket_info": {
+                "presale": {
+                    "batch_1": "Rp 20.000",
+                    "batch_2": "Rp 25.000"
+                },
+                "notes": "Tiket terbatas dan dibuka sampai kuota terpenuhi",
+                "purchase_link": "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor"
+            },
+            "contact": {
+                "whatsapp": "+6283895184044",
+                "contact_person": "Zidny"
+            },
+            "social_media": {
+                "instagram": "@japaneseclub_smkn1ciamis"
             }
         }
     },

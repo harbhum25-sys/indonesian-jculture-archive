@@ -16705,6 +16705,102 @@
     },
     {
         "Start Date": "20250831",
+        "Start Time": "06:30",
+        "End Date": "20250831",
+        "End Time": "16:20",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "GOKUMA 2025",
+        "Location": "SMA Negeri 5 Kota Bekasi",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "gokuma_2025_sman5_bekasi",
+        "location_address": "Jl. Gamprit Raya, RT.007/RW.014, Jatiwaringin, Kec. Pd. Gede, Kota Bks, Jawa Barat 17411",
+        "location_city": "Bekasi",
+        "location_coordinate": "-6.273553005462776, 106.92234247668713",
+        "location_gmaps": "https://g.page/sman5bks",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/go_gokuma5bekasi",
+            "https://www.instagram.com/p/DNDSRmaSe65/",
+            "https://www.instagram.com/p/DN7LmiZEqng/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Dance Cover Competition"
+            ],
+            "organizer": "OSIS SMAN 5 Kota Bekasi",
+            "theme": "Konohana Sakuyahime: Haru no Amai no Kouen",
+            "description": "Festival tahunan SMAN 5 Bekasi yang merayakan budaya Jepang melalui kompetisi, pertunjukan musik, dan bazar.",
+            "guest_stars": {
+                "performer": [
+                    "Akemi",
+                    "Adam Zeins"
+                ]
+            },
+            "judges": {
+                "cosplay": [
+                    "Anezka",
+                    "Kawa"
+                ]
+            },
+            "competition": {
+                "list": [
+                    "Cosplay Competition",
+                    "Rodoku",
+                    "Fanart",
+                    "Fanfiction"
+                ]
+            },
+            "performers": {
+                "dance_cover": "GOKUNIKU"
+            },
+            "rundown": {
+                "06:30": "Open Registration",
+                "08:00 - 08:30": "Pembukaan Gokuma",
+                "08:30 - 09:00": "Penampilan Dance Cover GOKUNIKU",
+                "09:00 - 11:00": "Pelaksanaan Lomba (Cosplay, Rodoku, Fanart, Fanfic)",
+                "10:00 - 12:00": "Pembukaan Maid Cafe",
+                "11:00 - 11:55": "Kumaoke",
+                "11:55 - 12:40": "ISHOMA",
+                "12:40 - 13:40": "Penampilan DJ Adam Zeins",
+                "13:40 - 14:40": "Penampilan Akemi",
+                "14:40 - 15:30": "ISHOMA",
+                "15:30 - 15:50": "Pengumuman Pemenang Lomba",
+                "15:50 - 16:20": "Penutupan Gokuma"
+            },
+            "ticket_info": {
+                "presale": "Rp 15.000",
+                "ots": "Rp 20.000",
+                "special_ticket": "Rp 35.000 (Tiket masuk, ganci spesial, tiket photobooth)"
+            },
+            "features": [
+                "Cosplay Cafe / Maid Cafe",
+                "Street Dance",
+                "Bazar / Booth",
+                "Photobooth"
+            ],
+            "social_media": {
+                "instagram": [
+                    "@go_gokuma5bekasi",
+                    "@Sgokuma5"
+                ]
+            },
+            "contact": {
+                "whatsapp": "0856-6518-092"
+            }
+        }
+    },
+    {
+        "Start Date": "20250831",
         "Start Time": "",
         "End Date": "20250831",
         "End Time": "",
@@ -23140,6 +23236,150 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251213",
+        "Start Time": "10:00",
+        "End Date": "20251214",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Chichibu Matsuri 2025",
+        "Location": "District 1 Meikarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "chichibu_matsuri_2025_meikarta",
+        "location_address": "Jl. Orange County Boulevard, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Cikarang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.338330978150737, 107.16609649033555",
+        "location_gmaps": "https://maps.app.goo.gl/zU4cjg1NCmMkRaH17",
+        "links": [
+            "https://www.instagram.com/pt.maharaja.infinity/",
+            "https://www.instagram.com/p/DV_GsElk97U/",
+            "https://www.instagram.com/p/DP_RHzoklSx/",
+            "https://www.instagram.com/p/DQBcvYpkvy8/",
+            "https://www.instagram.com/p/DRQqsiYElPN/",
+            "https://www.instagram.com/p/DReqTuoEkEF/",
+            "https://www.instagram.com/p/DSCuPNTkh78/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Budaya Jepang - Seni Tradisional",
+                "Bazaar / Market",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "organizer": "CJA Ent",
+            "presenter": "Lippo Cikarang",
+            "theme": "Where Cultures Shine, Memories Begin",
+            "description": "Perayaan pertukaran budaya Indonesia - Jepang yang menghadirkan festival street market dengan 200+ tenant, pertunjukan musik, dan berbagai kompetisi budaya.",
+            "guest_stars": {
+                "main_guest": "J-Rocks",
+                "performers": [
+                    "Starbelle",
+                    "Oukami",
+                    "Cosmic Stars",
+                    "DJ Unravel",
+                    "Elyria",
+                    "D'Genjrenk",
+                    "Syndct",
+                    "Hidden Files",
+                    "Sky Fall",
+                    "Daruma Rollin'",
+                    "Raze",
+                    "Stellify",
+                    "Yume Mirage",
+                    "Andthrix",
+                    "Shirai Metal",
+                    "Crescendo",
+                    "Yuriwa",
+                    "Crystal E Crown",
+                    "Art~Pen~Ciel",
+                    "Rafu Rafu",
+                    "DJ Layla",
+                    "Moon Metal",
+                    "Fiki Firmanto",
+                    "Togimaru"
+                ]
+            },
+            "competition": {
+                "cosplay": "Coswalk Competition",
+                "music": "J-Song Cover",
+                "others": [
+                    "Lomba Mewarnai Anak",
+                    "Lomba Baju Adat Anak",
+                    "Karaoke Sambung Lagu"
+                ]
+            },
+            "rundown": {
+                "day_1_main_stage": {
+                    "10.00": "Starbelle",
+                    "10.30": "Yosakoi",
+                    "11.00": "J-Song Cover",
+                    "14.00": "Oukami",
+                    "14.35": "Cosmic Stars",
+                    "15.05": "Coswalk + DJ Unravel",
+                    "15.50": "Elyria",
+                    "16.30": "D'Genjrenk",
+                    "17.15": "Syndct",
+                    "17.45": "Pengumuman",
+                    "18.10": "Hidden Files",
+                    "18.45": "Sky Fall",
+                    "19.20": "Daruma Rollin'",
+                    "19.55": "DJ Performance"
+                },
+                "day_2_main_stage": {
+                    "11.15": "Sanggar Tari Puspa",
+                    "11.55": "Raze",
+                    "12.40": "Stellify",
+                    "13.25": "Yume Mirage",
+                    "14.10": "Coswalk",
+                    "15.20": "Andthrix",
+                    "16.05": "Shirai Metal",
+                    "16.40": "Crescendo",
+                    "17.25": "Yuriwa",
+                    "18.10": "Pengumuman",
+                    "18.25": "Crystal E Crown",
+                    "19.00": "Art~Pen~Ciel",
+                    "19.35": "Rafu Rafu",
+                    "20.10": "DJ Layla",
+                    "20.45": "J-Rocks"
+                },
+                "day_2_second_stage": {
+                    "10.00": "Lomba Mewarnai Anak & Lomba Baju Adat Anak",
+                    "12.15": "Moon Metal",
+                    "12.50": "Talkshow Kesehatan",
+                    "14.10": "Fiki Firmanto",
+                    "14.40": "Togimaru",
+                    "15.10": "Karaoke Sambung Lagu"
+                }
+            },
+            "ticket_info": {
+                "price": "Free Entry"
+            },
+            "market_info": {
+                "total_tenants": "200+ tenants",
+                "categories": [
+                    "Kuliner",
+                    "Fashion",
+                    "Craft",
+                    "Japanese Food Street"
+                ]
+            },
+            "contact": {
+                "zen": "0882-7655-1970",
+                "devie": "0813-9995-0086"
+            }
+        }
     },
     {
         "Start Date": "20251213",
