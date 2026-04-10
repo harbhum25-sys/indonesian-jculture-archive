@@ -6351,6 +6351,91 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20260331",
+        "Start Time": "",
+        "End Date": "20260405",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "TTG Fest (Tech Toys Game Fest)",
+        "Location": "Pakuwon Mall Jogja",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ttg_fest_jogja_2026",
+        "location_address": "Jl. Ring Road Utara, Kaliwaru, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "-7.758797570586958, 110.39926976249863",
+        "location_gmaps": "https://goo.gl/maps/f4uyPa1K6T29nENA7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DWlSXAZknhE/ "
+        ],
+        "Content": {
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Bazaar / Market",
+                "Game / Esports Tournament",
+                "Toy / Figure / Hobby",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "presenter": "Selaras Event",
+            "theme": "One Stop Gaming, Toys & Tech Experience",
+            "activities": [
+                "Expo",
+                "Free Fire Tournament",
+                "Cosplay",
+                "Beyblade Tournament",
+                "Idol Party",
+                "TCG Tournament",
+                "Kids Activities"
+            ],
+            "special_segment": {
+                "name": "Idol Party Bozz",
+                "date": "20260402",
+                "performers": [
+                    {
+                        "name": "Crayon Machi",
+                        "time": "19:00"
+                    },
+                    {
+                        "name": "Kohi Sekai",
+                        "time": "20:00"
+                    },
+                    {
+                        "name": "Sequinn",
+                        "time": "21:00"
+                    }
+                ]
+            },
+            "booth_participants": [
+                "H&M Toys & Hobbies",
+                "Kyoura Store",
+                "ADN Diecastore",
+                "Yuyu Toys",
+                "Wimcycle",
+                "Ninjavator",
+                "V-Flex Kpop Shop",
+                "3D Andrea",
+                "Nona Lolly",
+                "Cornella Craft",
+                "Bersua Face Painting"
+            ],
+            "sponsors": {
+                "main": "Wimcycle"
+            },
+            "media_partners": [
+                "Jeketian",
+                "Anigame",
+                "MNJ"
+            ]
+        }
+    },
+    {
         "Start Date": "20260401",
         "Start Time": "",
         "End Date": "20260405",
@@ -7286,6 +7371,100 @@
         }
     },
     {
+        "Start Date": "20260404",
+        "Start Time": "",
+        "End Date": "20260404",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "April Fun Cos",
+        "Location": "Mal Bali Galeria",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "april_fun_cos_bali_2026",
+        "location_address": "Jl. Bypass Ngurah Rai, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361",
+        "location_city": "Bali",
+        "location_coordinate": "-8.723222799668324, 115.18433940507296",
+        "location_gmaps": "https://maps.app.goo.gl/MgPQF3RF7EmDzqqg6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/xoxomanagement/p/DWidEcQktb8/",
+            "https://www.instagram.com/p/DWlM6fikh_y/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas"
+            ],
+            "theme": "APRIL FUN COS",
+            "performers": {
+                "special_performance": [
+                    "Mayru",
+                    "Sekaimate",
+                    "Takashinreisa",
+                    "KNH0048"
+                ]
+            },
+            "rundown": {
+                "15.30": "Open Mic",
+                "15.45": "Mayru Performance",
+                "16.00": "Games",
+                "16.30": "Sekaimate",
+                "17.00": "Coswalk",
+                "17.30": "Takashinreisa Performance",
+                "17.45": "KNH0048",
+                "18.15": "Break",
+                "18.30": "Announcement",
+                "19.00": "Closing"
+            },
+            "organizer": "XOXO Management",
+            "guest_stars": {
+                "judges": [
+                    "takashinreisa",
+                    "ssi.y"
+                ],
+                "performer": [
+                    "knh0048",
+                    "sekai_mate"
+                ]
+            },
+            "tenants": [
+                "infinitystore.bali",
+                "huskies.store_",
+                "gariskiita",
+                "nigirijapan",
+                "pegel.mas",
+                "uwu_fanmerch",
+                "craftologia",
+                "kirari_store",
+                "momo_vio",
+                "razyproject"
+            ],
+            "media_partners": [
+                "akari_community",
+                "nata_dhe_koko",
+                "eventhubid",
+                "dreamcometrue_community",
+                "sma_galry",
+                "yukkicommunity",
+                "wibufest.bali",
+                "shin.kotoba",
+                "eventcosbali",
+                "zry.gallery",
+                "tokubetsu_na"
+            ],
+            "contact": {
+                "whatsapp": "085735234023",
+                "instagram": "@xoxomanagement"
+            }
+        }
+    },
+    {
         "Start Date": "20260405",
         "Start Time": "",
         "End Date": "20260405",
@@ -7535,6 +7714,92 @@
                     "url": "https://www.instagram.com/p/DW2_8uLgHx8/",
                     "platform": "Instagram"
                 }
+            }
+        }
+    },
+    {
+        "Start Date": "20260411",
+        "Start Time": "09:00",
+        "End Date": "20260412",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "GACHAPON: HARU MATSURI 2026",
+        "Location": "SMA Negeri 1 Garut",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "gachapon_haru_matsuri_2026",
+        "location_address": "Jl. Merdeka No.91, Jayaraga, Kec. Tarogong Kidul, Kabupaten Garut, Jawa Barat 44151",
+        "location_city": "Garut",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.205829423119932, 107.90288164679677",
+        "location_gmaps": "https://maps.app.goo.gl/FrtcWHEj6MigEUUT9",
+        "links": [
+            "https://registrasigachapon.carrd.co/",
+            "https://www.instagram.com/gachapon91"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Dance Cover Competition",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Anime - Convention / Fan Event"
+            ],
+            "organizer": "Gachapon (SMA Negeri 1 Garut)",
+            "theme": "Musim Semi Jepang (Sakura)",
+            "performers": {
+                "guest_star": "Tomoshibi",
+                "band_performance": "Rebel With A Reason"
+            },
+            "competition": {
+                "lomba_tingkat_sma": [
+                    "Kana Contest",
+                    "Shuuji Contest (Kaligrafi Jepang)",
+                    "Rodoku Contest (Membaca Nyaring)",
+                    "Cerdas Cermat"
+                ],
+                "lomba_umum": [
+                    "Sing Cover",
+                    "Dance Cover",
+                    "Fanart",
+                    "Coswalk"
+                ]
+            },
+            "rundown": {
+                "20260411": "Lomba Tingkat SMA, Penyisihan Sing Cover, Penyisihan Dance Cover, Fanart",
+                "20260412": "Final Sing Cover, Final Dance Cover, Coswalk"
+            },
+            "registration": {
+                "link": "https://registrasigachapon.carrd.co/"
+            },
+            "media_partners": [
+                "@sastraweebs_",
+                "@ankokumedia",
+                "@garutevent",
+                "@wibu.keras_",
+                "@jinzein.com"
+            ],
+            "community_partners": [
+                "@cosplaygarut",
+                "@cosplayer.garut",
+                "@_commun.ritme"
+            ],
+            "contact": {
+                "whatsapp": [
+                    "087790968408 (Mentari)",
+                    "082320202391 (Fakhrudin)",
+                    "081224506800 (Adjeng)"
+                ],
+                "instagram": "@gachapon91"
+            },
+            "source": {
+                "instagram_post": "https://www.instagram.com/gachapon91/p/DWitMUVkWPL/"
             }
         }
     },
@@ -8311,6 +8576,58 @@
         }
     },
     {
+        "Start Date": "20260411",
+        "Start Time": "",
+        "End Date": "20260412",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "SAKURA COSPLAY PARTY",
+        "Location": "Lippo Plaza Manado",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "sakura_cosplay_party_manado_2026",
+        "location_address": "Jl. M.T. Haryono No.1, Kairagi Weru, Kec. Paal Dua, Kota Manado, Sulawesi Utara",
+        "location_city": "Manado",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "https://maps.app.goo.gl/QkLs1kd5wzs7FgwJ9",
+        "links": [
+            "https://www.instagram.com/p/DW8gWFwCDPA/",
+            "https://www.instagram.com/p/DW8gro3CJAv/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Gathering / Parade / Casual",
+                "Party / Night Event"
+            ],
+            "organizer": "Dungeon Events",
+            "presenter": "Lippo Plaza Manado",
+            "contact": {
+                "lino": "085173244273",
+                "yokuro": "087815116451"
+            },
+            "social_media": {
+                "discord": "discord.gg/dungeonmedia",
+                "facebook": "facebook.com/DungeonMed",
+                "instagram": "@dungeonevents",
+                "tiktok": "@dungeonmedia",
+                "youtube": "https://youtube.com/@Dungeonmed"
+            },
+            "media_partners": [
+                "Cosplay Sulut",
+                "Cosplay Manado",
+                "Wibufest Manado",
+                "Dungeon Media",
+                "DCT"
+            ]
+        }
+    },
+    {
         "Start Date": "20260412",
         "Start Time": "15:00",
         "End Date": "20260412",
@@ -8803,6 +9120,39 @@
                 "performance": "0878-5492-7906 (Naufal)",
                 "tenant": "0878-5492-7906 (Naufal)"
             }
+        }
+    },
+    {
+        "Start Date": "20260417",
+        "Start Time": "",
+        "End Date": "20260419",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mirai Japan Matsuri",
+        "Location": "Lantai 4, depan XXI, Mal Cijantung",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "mirai_japan_matsuri_cijantung_2026",
+        "location_address": "MVP6+XRC, Jl. Pendidikan, RT.1/RW.4, Cijantung, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13770",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.312559693120871, 106.86201614327652",
+        "location_gmaps": "https://maps.app.goo.gl/1U5rM1x5dxdj5zKU8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW5liRJgVrz/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "description": "Event cosplay seru di Mal Cijantung dengan kegiatan parade cosplay, kompetisi, dan foto bareng karakter."
         }
     },
     {
@@ -12008,6 +12358,40 @@
                 "Party / Night Event"
             ],
             "description": "Idol event featuring performances from 12 chika idol groups with anisong and anikura party."
+        }
+    },
+    {
+        "Start Date": "20260613",
+        "Start Time": "",
+        "End Date": "20260614",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "IROIRO NA Japan Festival",
+        "Location": "Points Mall",
+        "Comment": "Insert to J-Event List : 20260410 19:56:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "iroirona_japan_fest_2026",
+        "location_address": "",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DW8bRRREdhW/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Anime - Convention / Fan Event"
+            ],
+            "theme": "Storm of a Thousand Stars",
+            "description": "A celebration of anime, culture, creativity, and community featuring cosplay, performances, booths, and games."
         }
     },
     {
