@@ -13872,7 +13872,10 @@
         "links": [
             "https://linktr.ee/shafmanagement",
             "https://instagram.com/shafmanage",
-            "https://instagram.com/vieos.idol"
+            "https://instagram.com/vieos.idol",
+            "https://www.instagram.com/p/DL2K_AEBrWa/",
+            "http://bit.ly/Presale-UchuunoTabi",
+            "http://bit.ly/Dinner-UchuunoTabi"
         ],
         "Content": {
             "presenter": "VIEOS x SHAF Management",
@@ -13881,11 +13884,11 @@
                 "presale": "35k",
                 "ots": "40k"
             },
-            "events": {
-                "idols_performances": true,
-                "special_dinner": true,
-                "fun_games": true
-            },
+            "events": [
+                "idols_performances",
+                "special_dinner",
+                "fun_games"
+            ],
             "special_performances": {
                 "performers": [
                     "Idolize",
@@ -13925,8 +13928,31 @@
                 }
             },
             "open_tenant_merch_cp": "0812-1789-1472",
-            "contact": "0838-3854-5534 (Nao)",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "VIEOS",
+            "edition": "2",
+            "theme": "Uchuu No Tabi",
+            "activities": [
+                "Idol Performance",
+                "Dinner Session with VIEOS",
+                "3 Sessions of VIEOS Live Performance",
+                "Anisura Karaoke Night"
+            ],
+            "ticket_info": {
+                "presale": "Rp 35.000",
+                "ots": "Rp 40.000",
+                "dinner": "Rp 80.000"
+            },
+            "contact": [
+                {
+                    "whatsapp": "081217891472 (Daniel)"
+                },
+                "0838-3854-5534 (Nao)"
+            ]
         },
         "location_country": "Indonesia"
     },
@@ -19472,6 +19498,66 @@
     },
     {
         "Start Date": "20251012",
+        "Start Time": "10:00",
+        "End Date": "20251012",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "SAKAMICHI46 TEGAL 2nd ANNIVERSARY",
+        "Location": "Rumah Kopi Tegal",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "sakamichi46_tegal_2nd_anniv_2025",
+        "location_address": "Jln. Gatot Subroto blok Joma, Debong Kulon, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52137",
+        "location_city": "Tegal",
+        "location_coordinate": "-6.88173773990614, 109.11903476788561",
+        "location_gmaps": "https://maps.app.goo.gl/MsyDZdvMHyHcQhMT8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DPYDmDRjywN/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "organizer": "Sakamichi46 Tegal",
+            "edition": "2",
+            "ticket_info": {
+                "htm": "Free HTM"
+            },
+            "activities": [
+                "Idol Performance",
+                "Games & Quiz",
+                "Anniversary Celebration",
+                "Odottemita",
+                "Karaoke",
+                "Cosplay For Fun"
+            ],
+            "performers": [
+                "Fairy",
+                "Florytale Idol",
+                "Mochipyon Idol",
+                "School Idol Kingdom"
+            ],
+            "mc": [
+                "Kiki",
+                "Jesse"
+            ],
+            "sponsors": [
+                "FUN SAKURA SHOP",
+                "RUMAH KOPI TEGAL"
+            ]
+        }
+    },
+    {
+        "Start Date": "20251012",
         "Start Time": "",
         "End Date": "20251012",
         "End Time": "",
@@ -23631,6 +23717,46 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20251228",
+        "Start Time": "14:00",
+        "End Date": "20251228",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gathering SSB (Sakamichi Sa Kota Bandungeun)",
+        "Location": "K3MART Purnawarman",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ssb_gathering_sakamichi_bdg_2025",
+        "location_address": "Jl. Purnawarman No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.909289626594681, 107.60876313727461",
+        "location_gmaps": "https://maps.app.goo.gl/cXnsLdYGdepCCMT18",
+        "links": [
+            "https://www.instagram.com/p/DSmRdJFCaew/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Sakamichi Sa Kota Bandungeun (SSB)",
+            "description": "Gathering akhir tahun untuk penggemar Sakamichi Series (Nogizaka46, Sakurazaka46, Hinatazaka46) dan idol lainnya.",
+            "activities": [
+                "Silaturahmi sesama fans",
+                "Copy file variety show/konser idol",
+                "Giveaway",
+                "Showcase merch"
+            ],
+            "notes": "Peserta disarankan membawa flashdisk/hardisk eksternal untuk copy file dan membawa koleksi merchandise Sakamichi."
+        }
     },
     {
         "Start Date": "20251229",

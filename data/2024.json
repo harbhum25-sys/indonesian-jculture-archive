@@ -40351,7 +40351,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "zyyrlf_4",
+        "_id": "cjkgki_1",
         "location_address": "Jl. Gatot Subroto Tim., Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80235",
         "location_city": "Denpasar",
         "location_coordinate": "-8.634926295219515, 115.23190417604059",
@@ -40415,7 +40415,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "zyyrlf_4",
+        "_id": "cjkgki_1",
         "location_address": "Jl. Ahmad Yani, Muka Kuning, Kec. Sei Beduk, Kota Batam, Kepulauan Riau 29433",
         "location_city": "Batam",
         "location_coordinate": "1.0719001685616156, 104.02406785289169",
@@ -47838,6 +47838,95 @@
             "category": []
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20240810",
+        "Start Time": "13:00",
+        "End Date": "20240810",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wiralodra Fest",
+        "Location": "Grage City Mall",
+        "Comment": "Acara ini resmi dibatalkan oleh penyelenggara sebagaimana tercantum dalam surat pemberitahuan pembatalan.",
+        "Online/Offline": "Offline",
+        "status": "Cancelled",
+        "attended": "No",
+        "_id": "wiralodra_fest_2024_cirebon",
+        "location_address": "Jalan Jend. Ahmad Yani, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",
+        "location_city": "Cirebon",
+        "location_coordinate": "-6.740167050865643, 108.57088804520836",
+        "location_gmaps": "https://maps.app.goo.gl/EfhjjQEHjNdTE8Cr9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/C5f5upqB5Aw/",
+            "https://www.instagram.com/p/C6GEQZjBZz5/",
+            "https://www.instagram.com/p/C81BSLbhYG2/",
+            "https://www.instagram.com/p/C83sAomhsEa/",
+            "https://www.instagram.com/p/C9CWxD7B_YK/",
+            "https://www.instagram.com/p/C9ZJ2cEBMdE/",
+            "https://www.instagram.com/p/C9zKhGnBGZ3/",
+            "https://www.instagram.com/p/C-Cj4mdhLW_/",
+            "https://www.instagram.com/p/C-ZPF1ZhXUI/",
+            "https://www.instagram.com/p/C-edsAqBHtB/",
+            "https://www.instagram.com/p/C9WhhQThjIP/",
+            "https://www.instagram.com/p/C6TLj0sBx7h/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Festival / Matsuri"
+            ],
+            "organizer": "WFTN (Wave From The North)",
+            "performers": {
+                "lineup": [
+                    "JKT48",
+                    "Dikta Wicaksono Project",
+                    "Mr. Jono & Joni",
+                    "UP Girls",
+                    "Faith and Fate",
+                    "Noraebang Jeh!"
+                ],
+                "jkt48_members": [
+                    "Gita",
+                    "Adel",
+                    "Kathrina",
+                    "Indira",
+                    "Lia",
+                    "Lulu",
+                    "Amanda",
+                    "Michie",
+                    "Cynthia",
+                    "Anindya",
+                    "Trisha",
+                    "Regie"
+                ]
+            },
+            "rundown": {
+                "13.00": "Penukaran Tiket",
+                "15.00": "Open Gate",
+                "15.30": "Faith and Fate",
+                "16.30": "Dikta Wicaksono Project",
+                "18.10": "UP Girls",
+                "19.00": "Close Gate dan Noraebang Jeh!",
+                "20.00": "JKT48",
+                "21.00": "Mr. Jono & Joni"
+            },
+            "ticket_info": {
+                "platform": "Yesplis.com",
+                "categories": [
+                    "Blind Ticket"
+                ],
+                "refund_policy": "Pengembalian dana tiket secara penuh dan adil melalui formulir yang disediakan penyelenggara."
+            },
+            "contact": {
+                "whatsapp": "+6285956256761"
+            },
+            "description": "Festival musik yang awalnya dijadwalkan di Cirebon namun dibatalkan setelah pertimbangan matang dengan manajemen artis dan otoritas setempat."
+        }
     },
     {
         "Start Date": "20240811",
@@ -59482,95 +59571,6 @@
         "location_country": "Indonesia"
     },
     {
-      "Start Date": "20240810",
-      "Start Time": "13:00",
-      "End Date": "20240810",
-      "End Time": "21:00",
-      "Reminder On/Off": "No",
-      "Reminder Date": "",
-      "Reminder Time": "",
-      "Importance": "",
-      "Subject": "Wiralodra Fest",
-      "Location": "Grage City Mall",
-      "Comment": "Acara ini resmi dibatalkan oleh penyelenggara sebagaimana tercantum dalam surat pemberitahuan pembatalan.",
-      "Online/Offline": "Offline",
-      "status": "Cancelled",
-      "attended": "No",
-      "_id": "wiralodra_fest_2024_cirebon",
-      "location_address": "Jalan Jend. Ahmad Yani, Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45113",
-      "location_city": "Cirebon",
-      "location_coordinate": "-6.740167050865643, 108.57088804520836",
-      "location_gmaps": "https://maps.app.goo.gl/EfhjjQEHjNdTE8Cr9",
-      "location_country": "Indonesia",
-      "links": [
-        "https://www.instagram.com/p/C5f5upqB5Aw/",
-        "https://www.instagram.com/p/C6GEQZjBZz5/",
-        "https://www.instagram.com/p/C81BSLbhYG2/",
-        "https://www.instagram.com/p/C83sAomhsEa/",
-        "https://www.instagram.com/p/C9CWxD7B_YK/",
-        "https://www.instagram.com/p/C9ZJ2cEBMdE/",
-        "https://www.instagram.com/p/C9zKhGnBGZ3/",
-        "https://www.instagram.com/p/C-Cj4mdhLW_/",
-        "https://www.instagram.com/p/C-ZPF1ZhXUI/",
-        "https://www.instagram.com/p/C-edsAqBHtB/",
-        "https://www.instagram.com/p/C9WhhQThjIP/",
-        "https://www.instagram.com/p/C6TLj0sBx7h/"
-      ],
-      "Content": {
-        "category": [
-          "Musik - Band / Live Performance",
-          "Musik - Idol / VTuber",
-          "Festival / Matsuri"
-        ],
-        "organizer": "WFTN (Wave From The North)",
-        "performers": {
-          "lineup": [
-            "JKT48",
-            "Dikta Wicaksono Project",
-            "Mr. Jono & Joni",
-            "UP Girls",
-            "Faith and Fate",
-            "Noraebang Jeh!"
-          ],
-          "jkt48_members": [
-            "Gita",
-            "Adel",
-            "Kathrina",
-            "Indira",
-            "Lia",
-            "Lulu",
-            "Amanda",
-            "Michie",
-            "Cynthia",
-            "Anindya",
-            "Trisha",
-            "Regie"
-          ]
-        },
-        "rundown": {
-          "13.00": "Penukaran Tiket",
-          "15.00": "Open Gate",
-          "15.30": "Faith and Fate",
-          "16.30": "Dikta Wicaksono Project",
-          "18.10": "UP Girls",
-          "19.00": "Close Gate dan Noraebang Jeh!",
-          "20.00": "JKT48",
-          "21.00": "Mr. Jono & Joni"
-        },
-        "ticket_info": {
-          "platform": "Yesplis.com",
-          "categories": [
-            "Blind Ticket"
-          ],
-          "refund_policy": "Pengembalian dana tiket secara penuh dan adil melalui formulir yang disediakan penyelenggara."
-        },
-        "contact": {
-          "whatsapp": "+6285956256761"
-        },
-        "description": "Festival musik yang awalnya dijadwalkan di Cirebon namun dibatalkan setelah pertimbangan matang dengan manajemen artis dan otoritas setempat."
-      }
-    },
-    {
         "Start Date": "20241013",
         "Start Time": "",
         "End Date": "20241013",
@@ -64533,6 +64533,70 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20241215",
+        "Start Time": "",
+        "End Date": "20241215",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tsuyori 2",
+        "Location": "Kampus STIMATA Malang",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tsuyori_2_malang_2024",
+        "location_address": "Jl. Laksda Adi Sucipto No.249, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur 65126",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.945397425930526, 112.65278468632529",
+        "location_gmaps": "https://maps.app.goo.gl/GaDGtkSqTi8iRN9M8",
+        "links": [
+            "https://www.instagram.com/p/DDWth97yRWw/",
+            "https://linktr.ee/tsuyori2"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "STIMATA Malang",
+            "edition": "2",
+            "ticket_info": {
+                "htm": "Rp 20.000"
+            },
+            "guest_stars": {
+                "performers": [
+                    "Stellaria",
+                    "Nomisu",
+                    "Akarui",
+                    "Idolize",
+                    "Klab Karaoke Konoha"
+                ]
+            },
+            "mc": [
+                "Juyu"
+            ],
+            "judges": {
+                "j_song_and_coswalk": [
+                    "Renata Angel",
+                    "Ryan Nowe",
+                    "Pikappi"
+                ]
+            },
+            "prizes": {
+                "1st_place": "Rp 200.000 + merch + piala",
+                "2nd_place": "Rp 175.000 + merch + piala",
+                "3rd_place": "Rp 150.000 + merch + piala",
+                "judges_favorite": "Rp 100.000"
+            }
+        }
     },
     {
         "Start Date": "20241215",
