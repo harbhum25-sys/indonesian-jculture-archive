@@ -1,94 +1,5 @@
 [
     {
-        "Start Date": "",
-        "Start Time": "19:00",
-        "End Date": "",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Gathering Session Pukul Batam",
-        "Location": "EQ Coffee \u00e2\u20ac\u201c City Walk (samping lapangan futsal), Batam",
-        "Comment": "Tanggal spesifik tidak disebutkan dalam teks sumber.",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "pukul_batam_gathering_season3",
-        "location_address": "Nagoya Citywalk, Kompleks, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444",
-        "location_city": "Batam",
-        "location_country": "Indonesia",
-        "location_coordinate": "1.1437042473594805, 104.00711644144158",
-        "location_gmaps": "https://maps.app.goo.gl/QmtYiXNo1RkAWBaZ7",
-        "links": [
-            "https://www.instagram.com/pukulbatam/p/DWZM-AvEWfi/"
-        ],
-        "Content": {
-            "category": [
-                "Gathering / Komunitas",
-                "Game / Esports Tournament"
-            ],
-            "organizer": "Pukul Batam",
-            "description": "Gathering komunitas Tekken menyambut Season 3 untuk sharing, sparring, dan main bareng."
-        }
-    },
-    {
-        "Start Date": "20230128",
-        "Start Time": "",
-        "End Date": "20230128",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Japanese Fikom Party Otsu! JAFITY",
-        "Location": "Lagoon Avenue Lt. 1",
-        "Comment": "Data berdasarkan arsip promosi toko Jadoku Store.",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "otsu_jafity_2023_sby",
-        "location_address": "Blok RA No. Kav 9-10, Jl. KH Abdul Wahab Siamin Surabaya, Putat Gede, Kec. Dukuhpakis, Kota SBY, Jawa Timur 60225",
-        "location_city": "Surabaya",
-        "location_coordinate": "-7.289459625961954, 112.70674186946235",
-        "location_gmaps": "https://g.page/lagoon-avenue-mall-sungkono",
-        "location_country": "Indonesia",
-        "links": [
-            "https://www.instagram.com/p/Cn8r0HOhkNT/"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Competition / Coswalk",
-                "Musik - Anisong / Karaoke"
-            ],
-            "presenter": "Fakultas Ilmu Komunikasi Universitas Dr. Soetomo",
-            "performers": {
-                "guest_star": [
-                    "Baby Metal Surabaya",
-                    "Kiseki",
-                    "Jetsuki"
-                ]
-            },
-            "judges": {
-                "voice_acting": [
-                    "Fujio",
-                    "Nana Megumi"
-                ]
-            },
-            "competition": {
-                "list": [
-                    "Coswalk Competition",
-                    "J-Song Competition",
-                    "Voice Acting (online)"
-                ]
-            },
-            "ticket_info": {
-                "htm": "Free/Gratis"
-            }
-        }
-    },
-    {
         "Start Date": "20260103",
         "Start Time": "11:00",
         "End Date": "20260118",
@@ -5990,6 +5901,39 @@
     },
     {
         "Start Date": "20260328",
+        "Start Time": "19:00",
+        "End Date": "20260328",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gathering Session Pukul Batam",
+        "Location": "EQ Coffee \u00e2\u20ac\u201c City Walk (samping lapangan futsal), Batam",
+        "Comment": "Tanggal spesifik tidak disebutkan dalam teks sumber.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "pukul_batam_gathering_season3",
+        "location_address": "Nagoya Citywalk, Kompleks, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444",
+        "location_city": "Batam",
+        "location_country": "Indonesia",
+        "location_coordinate": "1.1437042473594805, 104.00711644144158",
+        "location_gmaps": "https://maps.app.goo.gl/QmtYiXNo1RkAWBaZ7",
+        "links": [
+            "https://www.instagram.com/pukulbatam/p/DWZM-AvEWfi/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Game / Esports Tournament"
+            ],
+            "organizer": "Pukul Batam",
+            "description": "Gathering komunitas Tekken menyambut Season 3 untuk sharing, sparring, dan main bareng."
+        }
+    },
+    {
+        "Start Date": "20260328",
         "Start Time": "",
         "End Date": "20260329",
         "End Time": "",
@@ -8698,6 +8642,46 @@
         }
     },
     {
+        "Start Date": "20260411",
+        "Start Time": "",
+        "End Date": "20260411",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sayonara Nanda (Tori Kaizoku 4th Anniversary & Farewell)",
+        "Location": "Tori Kaizoku",
+        "Comment": "Insert to J-Event List : 20260415 17:41:45\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "sayonara_nanda_tori_kaizoku_jkt",
+        "location_address": "Ktr. Taman E3.3, Lt.5 Unit A1, Jl. Mega Kuningan Barat No.3, RT.1/RW.2, Jakarta 12950",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2313838566353486, 106.82797565590465",
+        "location_gmaps": "https://goo.gl/maps/7WxB5ePknUdyxNrW8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DW8UMiLkoWr/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Anisong / Karaoke"
+            ],
+            "ticket_info": {
+                "type": "Free Entry",
+                "rsvp": "0851-5529-8856 (LINA)"
+            },
+            "performers": [
+                "Anikuma",
+                "Kaizobeats"
+            ],
+            "description": "Pesta perayaan ulang tahun ke-4 sekaligus penutupan resmi Tori Kaizoku Jakarta."
+        }
+    },
+    {
         "Start Date": "20260412",
         "Start Time": "",
         "End Date": "20260412",
@@ -9375,6 +9359,83 @@
     },
     {
         "Start Date": "20260417",
+        "Start Time": "20:00",
+        "End Date": "20260417",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Akai Jaya Esport 2026 - Tekken 8 Tournament",
+        "Location": "Warkop Fekon Unisa",
+        "Comment": "Insert to J-Event List : 20260415 03:21:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "akai_jaya_tekken8_palu_2026",
+        "location_address": "4V52+QG3, Jl. Tanjumbulu, Lere, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94111",
+        "location_city": "Palu",
+        "location_country": "Indonesia",
+        "location_coordinate": "-0.8905247221662566, 119.85117809092498",
+        "location_gmaps": "https://maps.app.goo.gl/XsXbbCak3BmwpLqu7",
+        "links": [
+            "https://www.instagram.com/p/DXHlB9EghFT/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "competition": {
+                "platform": "PS5",
+                "format": "Double Elimination, BO3",
+                "rules": "Individu, Non-DLC characters, Random Arena"
+            },
+            "ticket_info": {
+                "entry_fee": "Rp 25.000"
+            },
+            "contact": {
+                "phone": "0823-1373-6106"
+            }
+        }
+    },
+    {
+        "Start Date": "20260417",
+        "Start Time": "",
+        "End Date": "20260417",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "MALAM BUKU #90 - The Apothecary Diaries",
+        "Location": "Warung Sastra (Karangwaru, Yogyakarta)",
+        "Comment": "Discussing Light Novel 'The Apothecary Diaries'",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "malam_buku_90_apothecary_diaries_2026",
+        "location_address": "Depan Indonesia College, Blunyahrejo TR II No.1180, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55241",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.771529322737361, 110.36642852377435",
+        "location_gmaps": "https://maps.app.goo.gl/11Y1k2KPkNTLNuc19",
+        "links": [
+            "https://www.instagram.com/p/DW6vCg6Epwu/"
+        ],
+        "Content": {
+            "category": [
+                "Education / Seminar",
+                "Gathering / Komunitas"
+            ],
+            "speakers": [
+                "Kania Nabila (Editor Penerbit Clover)",
+                "Hary Prasojo (Ruang Obrol)"
+            ],
+            "moderator": "Kukuh Basuki"
+        }
+    },
+    {
+        "Start Date": "20260417",
         "Start Time": "",
         "End Date": "20260419",
         "End Time": "",
@@ -9404,6 +9465,174 @@
                 "Cosplay - Gathering / Parade / Casual"
             ],
             "description": "Event cosplay seru di Mal Cijantung dengan kegiatan parade cosplay, kompetisi, dan foto bareng karakter."
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "16:00",
+        "End Date": "20260418",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "OKIZEME CLASH! - Tekken 8 Tournament",
+        "Location": "EQ Coffee",
+        "Comment": "Insert to J-Event List : 20260415 03:51:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "okizeme_clash_tekken8_batam_2026",
+        "location_address": "Nagoya Citywalk, Kompleks, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444",
+        "location_city": "Batam",
+        "location_country": "Indonesia",
+        "location_coordinate": "1.1437042473594805, 104.00711644144158",
+        "location_gmaps": "https://maps.app.goo.gl/QmtYiXNo1RkAWBaZ7",
+        "links": [
+            "https://www.instagram.com/p/DXH06mDgSUQ/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Pukul Batam",
+            "ticket_info": {
+                "entry_fee": "Rp 25.000"
+            },
+            "contact": {
+                "whatsapp": "0895-3627-01200"
+            },
+            "supported_by": [
+                "@nyx.fgc",
+                "@eqcoffee.batam"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "",
+        "End Date": "20260419",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ANIFEST 2026",
+        "Location": "BOS MALL BALIKPAPAN (BALIKPAPAN OCEAN SQUARE)",
+        "Comment": "Insert to J-Event List : 20260415 03:21:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "anifest_balikpapan_2026",
+        "location_address": "Jl. Jenderal Sudirman, Pasar Baru, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur",
+        "location_city": "Balikpapan",
+        "location_coordinate": "-1.2777839600345369, 116.84144407347694",
+        "location_gmaps": "https://goo.gl/maps/p4DpXyyXq3Yk2ygH6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXG_q2VlC54/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas"
+            ],
+            "ticket_info": {
+                "price": "Rp 25.000/Day"
+            },
+            "activities": [
+                "Quest Board System (Rank S, A, B)",
+                "Quest Rewards"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "16:00",
+        "End Date": "20260418",
+        "End Time": "22:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "MyRepublic Mini Competition TEKKEN 7",
+        "Location": "PLAT KT Gn. Samarinda Wonorejo",
+        "Comment": "Insert to J-Event List : 20260415 03:21:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "myrepublic_tekken7_balikpapan_2026",
+        "location_address": "Jl. Waduk Wonorejo No.1B RT. 31, Gn. Samarinda, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76128",
+        "location_city": "Balikpapan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-1.232357015054399, 116.86072908528106",
+        "location_gmaps": "https://maps.app.goo.gl/3fhoq6oynpseKvpbA",
+        "links": [
+            "https://www.instagram.com/reel/DXGQ8RWkQwD/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "organizer": "MyRepublic",
+            "ticket_info": {
+                "entry_fee": "Rp 30.000"
+            },
+            "prizes": {
+                "total_hadiah": "Rp 1.700.000",
+                "rewards": [
+                    "Piagam Penghargaan",
+                    "Rewards Cashless",
+                    "Snack Box"
+                ]
+            },
+            "contact": {
+                "whatsapp": [
+                    "0851-5978-8543",
+                    "0858-4579-1473"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "",
+        "End Date": "20260418",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ANIWAVE FESTIVAL VOL.2",
+        "Location": "Cityplaza Jatinegara",
+        "Comment": "Insert to J-Event List : 20260415 03:21:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "aniwave_fest_v2_jkt_2026",
+        "location_address": "Jl. Matraman Raya No.173-175, RT.7/RW.6, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13310",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.213847260892432, 106.86440198179886",
+        "location_gmaps": "https://goo.gl/maps/bW42mb19JZb343QCA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXGoyMvkSP1/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "activities": [
+                "Coswalk Competition",
+                "Idol Performance",
+                "Bazaar",
+                "Cosplay Parade",
+                "Quiz & Games",
+                "Karaoke Session"
+            ]
         }
     },
     {
@@ -9846,6 +10075,55 @@
                 ]
             },
             "description": "Acara silaturahmi dan halal bihalal skena idol Yogyakarta."
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "",
+        "End Date": "20260419",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "REVO ANIMENATION",
+        "Location": "Revo Mall",
+        "Comment": "Insert to J-Event List : 20260415 17:41:45\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "revo_animenation_2026_bekasi",
+        "location_address": "Jl. Ahmad Yani No.Kav. 1, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.254799682078398, 106.98986954039195",
+        "location_gmaps": "https://maps.app.goo.gl/Nd8D3MxQVFcAd8Se6",
+        "links": [
+            "https://www.instagram.com/p/DXJgFCsFEw8/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Bazaar / Market"
+            ],
+            "organizer": "RAF Creative",
+            "mc": [
+                "Hisu",
+                "Yuuvankotsu"
+            ],
+            "activities": [
+                "Dance Cover Competition with Invasion DC (19 April)",
+                "RPD",
+                "Kameko Exhibition",
+                "Coswalk Competition with Yandzi Cosplay (18 April)",
+                "Karaoke Session",
+                "Bazaar"
+            ],
+            "contact": {
+                "registration_info": "0858-9191-6962"
+            }
         }
     },
     {
@@ -11183,6 +11461,38 @@
         }
     },
     {
+        "Start Date": "20260425",
+        "Start Time": "10:00",
+        "End Date": "20260425",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pra-Sashimi: Cover Band Audition (Sashimi XIII)",
+        "Location": "Harajuku District; Istana BEC lantai 2 Blok S",
+        "Comment": "Insert to J-Event List : 20260415 17:41:45\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "pra_sashimi_xiii_band_audition_2026",
+        "location_address": "Jl. Purnawarman No.13-15, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.9080975760626595, 107.60885132370976",
+        "location_gmaps": "https://maps.app.goo.gl/8kdVngZmRySMf89w5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXJT_LQE9Ha/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / J-Music",
+                "Competition"
+            ],
+            "description": "Live band audition untuk menyeleksi penampil yang akan beraksi di panggung utama Sashimi XIII."
+        }
+    },
+    {
         "Start Date": "20260426",
         "Start Time": "10:00",
         "End Date": "20260426",
@@ -11284,6 +11594,39 @@
                 "doujin",
                 "cosplay"
             ]
+        }
+    },
+    {
+        "Start Date": "20260427",
+        "Start Time": "14:00",
+        "End Date": "20260427",
+        "End Time": "15:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "The Ambassadorial Lecture on Japanese Studies XIV/2026",
+        "Location": "Auditorium, Center for Japanese Studies, Universitas Indonesia, Depok",
+        "Comment": "Topic: Japan\u00e2\u20ac\u201cIndonesia Partnership",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "ambassador_lecture_japan_studies_ui_2026",
+        "location_address": "Universitas Indonesia, Pusat Studi Jepang Universitas Indonesia (PSJ UI, Jl. Prof. DR. Selo Soemardjan, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.361837417268671, 106.82849617715488",
+        "location_gmaps": "https://maps.app.goo.gl/hgCdcWHnNJS28m2L9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXEj7b6lLS3/",
+            "https://bit.ly/REG_AmbLec_XIV"
+        ],
+        "Content": {
+            "category": [
+                "Education / Seminar"
+            ],
+            "organizer": "Center for Japanese Studies UI x Dept. of International Relations FISIP UI",
+            "speaker": "H.E. Mr. Myochin Mitsuru (Charg\u00c3\u00a9 d\u00e2\u20ac\u2122Affaires ad interim of Japan)"
         }
     },
     {
@@ -13004,6 +13347,51 @@
         }
     },
     {
+        "Start Date": "20260524",
+        "Start Time": "",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "KAWAII COSFEST",
+        "Location": "Metropolitan Mall Bekasi Lt.3",
+        "Comment": "Insert to J-Event List : 20260415 17:41:45\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "kawaii_cosfest_2026_bekasi",
+        "location_address": "Jl. Villa Raya, RT.008/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
+        "location_city": "Bekasi",
+        "location_coordinate": "-6.248460661386229, 106.99111651814006",
+        "location_gmaps": "https://maps.app.goo.gl/iAUuPXrC9ipvLSBAA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXGtOkYkdaP/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Sirkel CosJB x Cosplay Jabodetabek",
+            "activities": [
+                "Coswalk Competition",
+                "Idol Performance",
+                "Cosparade",
+                "Karaoke Session",
+                "Bazaar Merchandise",
+                "Quiz & Games",
+                "Talkshow & RPD Session",
+                "Community Gathering"
+            ],
+            "description": "Event spesial dari Sirkel CosJB yang menjadi wadah berkumpulnya komunitas wibu dan cosplayer."
+        }
+    },
+    {
         "Start Date": "20260530",
         "Start Time": "",
         "End Date": "20260531",
@@ -13438,17 +13826,17 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Yamato Damashii XIX x Anime Indonesia Festival",
-        "Location": "",
+        "Location": "STBA YAPARI ABA",
         "Comment": "Insert to J-Event List : 20260406 16:44:57\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "",
         "_id": "aif_yamato_matsuri_2026",
-        "location_address": "",
-        "location_city": "",
+        "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8919434688336985, 107.60445698295439",
+        "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
         "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
         "links": [
             "https://www.instagram.com/yamatodamashii_official/p/DWQ2grCESJx/",
             "https://www.instagram.com/yamatodamashii_official/p/DWTOgGOkWss/",
