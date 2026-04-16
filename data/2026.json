@@ -9268,7 +9268,7 @@
         "Location": "Lippo Mall Puri (LMP 1 - Main Atrium 1)",
         "Comment": "Insert to J-Event List : 20260414 03:59:26\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "jakarta_geek_market_2026",
         "location_address": "Jl. Puri Indah Raya, RT.3/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
@@ -9322,7 +9322,7 @@
         "Location": "K MALL at Menara Jakarta - K Space Atrium - GF",
         "Comment": "Insert to J-Event List : 20260414 16:59:28\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "toypalooza_2026_jkt",
         "location_address": "Jl. Kota Baru Bandar Kemayoran No.C8, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",
@@ -10127,6 +10127,75 @@
         }
     },
     {
+        "Start Date": "20260418",
+        "Start Time": "10:00",
+        "End Date": "20260418",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "RANAH IRON FIST TEKKEN 8 ONLINE TOURNAMENT",
+        "Location": "Online",
+        "Comment": "Live di YouTube Komunitas Tekken Padang.",
+        "Online/Offline": "Online",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "ranah_iron_fist_tekken8_online_2026",
+        "links": [
+            "https://www.instagram.com/p/DXGaUaTkw3m/",
+            "https://forms.gle/jgBWTDKqVqeSRuMCA"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "organizer": "Komunitas Tekken Padang",
+            "competition": {
+                "format": "Double Elimination System",
+                "slots": "48 Peserta",
+                "rules": "LAN Only & No Double Winner"
+            },
+            "ticket_info": {
+                "fee": "Rp 35.000 / SLOT"
+            },
+            "prizes": {
+                "prizepool": "Rp 1.000.000",
+                "bonus": "Fantech SHOOTER II GP13 for 1st winner"
+            },
+            "guest_stars": [
+                "Tongsanfeng"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260418",
+        "Start Time": "21:00",
+        "End Date": "20260418",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "TLC vs C.O Friendly Match",
+        "Location": "Online",
+        "Comment": "Live di YouTube Tekken Luwuk Community.",
+        "Online/Offline": "Online",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tlc_vs_co_tekken8_friendly_match_2026",
+        "links": [
+            "https://www.instagram.com/p/DXGz6swERrZ/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "description": "Pertandingan persahabatan Tekken 8 antara Tekken Luwuk Community vs C.O.",
+            "time_zone": "WITA"
+        }
+    },
+    {
         "Start Date": "20260419",
         "Start Time": "13:00",
         "End Date": "20260419",
@@ -10475,6 +10544,105 @@
                     "babymetalmalang"
                 ]
             }
+        }
+    },
+    {
+        "Start Date": "20260419",
+        "Start Time": "11:00",
+        "End Date": "20260419",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Animerz Indonesia Regional Bandung Gathering",
+        "Location": "Electric n' Chill Jln.Engkol No.2 Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "animerz_gath_bdg_2026",
+        "location_address": "Jl. Engkol No.2, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.930099105070653, 107.62308227556693",
+        "location_gmaps": "https://maps.app.goo.gl/s8yku9zXHPXaxcqu7",
+        "links": [
+            "https://www.instagram.com/p/DXIPbuNE60L/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas"
+            ],
+            "ticket_info": {
+                "type": "FREE ENTRY"
+            },
+            "activities": [
+                "Board game",
+                "Stand up comedy",
+                "Jamming session",
+                "Karaoke japan song"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260419",
+        "Start Time": "12:00",
+        "End Date": "20260419",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "TANGCITY COSPLAY HOLIC & KPOP PARTY",
+        "Location": "Main Atrium, GF Tangcity Mall Tangerang",
+        "Comment": "Kolaborasi Tangcity Mall x Seven Kingdom.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tangcity_cosplay_kpop_2026",
+        "location_address": "Tangcity Mall, Jl. Perintis Kemerdekaan No.1, RT.001/RW.005, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15117",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.193405049910561, 106.63283410400662",
+        "location_gmaps": "https://goo.gl/maps/SSHGA4diVoMwvhxC7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXJunLwk0vT/",
+            "bit.ly/COSHOLIC-V3",
+            "bit.ly/KPARTY-DC"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Gathering / Komunitas"
+            ],
+            "activities": [
+                "Noraebang",
+                "Random Play Dance",
+                "Coswalk Competition",
+                "Kpop Dance Cover Rookie Competition",
+                "Idol Performance"
+            ],
+            "guest_stars": {
+                "judges": [
+                    "Haru",
+                    "Sun",
+                    "Dwi",
+                    "Baim"
+                ],
+                "performers": [
+                    "Ametta",
+                    "Cherry Wish",
+                    "Cozyland",
+                    "7P"
+                ]
+            },
+            "mc": [
+                "Arin",
+                "Ken"
+            ]
         }
     },
     {
@@ -11493,6 +11661,44 @@
         }
     },
     {
+        "Start Date": "20260425",
+        "Start Time": "10:00",
+        "End Date": "20260425",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JACK\u00e2\u20ac\u2122S ROOKIE RISING COMPETITION (JRRC) VOL. 3",
+        "Location": "Online",
+        "Comment": "Live Stream: TikTok @_zpasha. Khusus Rookie.",
+        "Online/Offline": "Online",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jrrc_vol3_tekken8_online_2026",
+        "links": [
+            "https://www.instagram.com/p/DXJ0IsJgUcq/",
+            "https://forms.gle/2EQdueheb9nEaQobA"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "organizer": "Jack Organizer",
+            "competition": {
+                "platform": "Online (Crossplay-On)",
+                "format": "Double Elimination (Standard TWT Rules)",
+                "restrictions": "GOD RANK & BANNED-LIST PLAYER dilarang ikut"
+            },
+            "ticket_info": {
+                "fee": "Rp 30.000 / 1 Slot, Rp 55.000 / 2 Slot"
+            },
+            "prizes": {
+                "prizepool": "Rp 1.000.000 + E-Certificate for TOP 8"
+            }
+        }
+    },
+    {
         "Start Date": "20260426",
         "Start Time": "10:00",
         "End Date": "20260426",
@@ -11872,6 +12078,62 @@
                 "whatsapp": "085177950630",
                 "instagram": "@amphoreus__team"
             }
+        }
+    },
+    {
+        "Start Date": "20260502",
+        "Start Time": "17:00",
+        "End Date": "20260503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "SAKURA HANAMI FESTIVAL",
+        "Location": "Courtyard Pakuwon City Mall, Surabaya",
+        "Comment": "Open Gate: 16.00. Hari pertama Lomba Cosplay, hari kedua Coswalk.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "sakura_hanami_pakuwon_2026",
+        "location_address": "Jl. Raya Laguna KJW Putih Tambak No.2, Kejawaan Putih Tamba, Kec. Mulyorejo, Kota SBY, Jawa Timur 60112",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.276843641591544, 112.80618464669087",
+        "location_gmaps": "https://goo.gl/maps/9wKkUUswMhaWwiaWA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXJcOxIj74O/",
+            "https://bit.ly/CoscompSakuraHanami",
+            "https://bit.ly/CoswalkSakuraHanami"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Pakuwon City Mall x Japan Matsuri Surabaya",
+            "ticket_info": {
+                "type": "FREE HTM"
+            },
+            "prizes": {
+                "total": "IDR 7.5 Million"
+            },
+            "guest_stars": {
+                "judges": [
+                    "Ryoneesan",
+                    "Gerard",
+                    "Unu",
+                    "Andy Phebe",
+                    "Piikappi",
+                    "Sofya Ulfa"
+                ],
+                "performers": [
+                    "Nona Misty",
+                    "VIEOS"
+                ]
+            },
+            "mc": "Jhey Azalea"
         }
     },
     {
@@ -13421,6 +13683,42 @@
             ]
         },
         "location_country": "Indonesia"
+    },
+    {
+        "Start Date": "20260530",
+        "Start Time": "08:00",
+        "End Date": "20260530",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Fun Festival 2026 : Kachoufugetsu",
+        "Location": "Gedung H, Universitas Dr. Soetomo",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jff_unitomo_2026_surabaya",
+        "location_address": "Jl. Semolowaru No.84, Menur Pumpungan, Kec. Sukolilo, Surabaya, Jawa Timur 60118",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.299533412632623, 112.76535486538533",
+        "location_gmaps": "https://maps.app.goo.gl/WAcwkTMTzhS5dQWD9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DWlobAxCVFd/",
+            "https://jfunfestival2026.my.canva.site/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition",
+                "Education / Seminar"
+            ],
+            "description": "Festival budaya Jepang tahunan Universitas Dr. Soetomo dengan lomba akademik dan umum.",
+            "theme": "Kachoufugetsu",
+            "another_title": "Bunkasai Unitomo 2026"
+        }
     },
     {
         "Start Date": "20260531",
