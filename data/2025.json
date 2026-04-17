@@ -18628,6 +18628,52 @@
     },
     {
         "Start Date": "20251004",
+        "Start Time": "",
+        "End Date": "20251004",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "UI NIHON FAIR 2025",
+        "Location": "Area Fakultas Ilmu Pengetahuan Budaya, Universitas Indonesia",
+        "Comment": "Acara tahunan HIMAJA FIB UI. Sudah selesai (Tahun 2025).",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ui_nihon_fair_2025_depok",
+        "location_address": "Universitas Indonesia, Jl. Prof. DR. Selo Soemardjan Kampus, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.36306033828578, 106.82815720209867",
+        "location_gmaps": "https://goo.gl/maps/2Zrht6s2cTKd3jp16",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DNP6dDbP0eQ/"
+        ],
+        "Content": {
+            "category": [
+                "Education / Seminar",
+                "Competition",
+                "Festival / Matsuri"
+            ],
+            "organizer": "HIMAJA FIB UI 2025",
+            "competitions": [
+                "Essay (SMA/Mahasiswa)",
+                "Digital Fanart",
+                "Nihongo Shiken",
+                "Rodoku",
+                "Kanji Competition",
+                "Cerdas Cermat"
+            ],
+            "events": [
+                "Nihongo Class Workshop",
+                "Seminar Nihon E Manabe",
+                "Yukata Photobooth"
+            ]
+        }
+    },
+    {
+        "Start Date": "20251004",
         "Start Time": "12:00",
         "End Date": "20251005",
         "End Time": "",

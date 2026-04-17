@@ -10557,7 +10557,7 @@
         "Importance": "",
         "Subject": "Animerz Indonesia Regional Bandung Gathering",
         "Location": "Electric n' Chill Jln.Engkol No.2 Bandung",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260416 17:31:59\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -12137,6 +12137,44 @@
         }
     },
     {
+        "Start Date": "20260502",
+        "Start Time": "",
+        "End Date": "20260503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tournament Tekken 8 x Street Fighter 6",
+        "Location": "Delipark Medan | Terra Atrium (LG Floor)",
+        "Comment": "Insert to J-Event List : 20260417 16:29:35\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tekken8_sf6_delipark_medan_2026",
+        "location_address": "Jl. Putri Hijau No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111",
+        "location_city": "Medan",
+        "location_coordinate": "3.5938060438554262, 98.67344127358797",
+        "location_gmaps": "https://goo.gl/maps/HdemsM3hhyPEBjFP6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DXMXwZrk56n/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "organizer": "Delipark Medan x GlowKZR",
+            "prizes": {
+                "total": "IDR 3.000.000",
+                "breakdown": {
+                    "Tekken 8": "IDR 2.000.000",
+                    "Street Fighter 6": "IDR 1.000.000"
+                }
+            }
+        }
+    },
+    {
         "Start Date": "20260503",
         "Start Time": "12:00",
         "End Date": "20260503",
@@ -13516,7 +13554,8 @@
         "location_gmaps": "https://maps.app.goo.gl/vS9knLmSYn6DZVDs8",
         "links": [
             "https://www.instagram.com/p/DW6FdBkkxoj/",
-            "https://uns.id/OpenPerformerINN2026"
+            "https://uns.id/OpenPerformerINN2026",
+            "https://www.instagram.com/p/DW1IpFtCUxQ/"
         ],
         "Content": {
             "category": [
@@ -13695,7 +13734,7 @@
         "Importance": "",
         "Subject": "Japan Fun Festival 2026 : Kachoufugetsu",
         "Location": "Gedung H, Universitas Dr. Soetomo",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260416 17:31:59\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
