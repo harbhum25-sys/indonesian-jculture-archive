@@ -19488,10 +19488,17 @@
         "location_coordinate": "-6.36306033828578, 106.82815720209867",
         "location_gmaps": "https://goo.gl/maps/2Zrht6s2cTKd3jp16",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10161081859918836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10161081859918836/",
+            "https://www.instagram.com/p/Ckip-jbyUsd/",
+            "https://www.instagram.com/p/CjiE1EzvtzQ/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Education / Seminar",
+                "Competition"
+            ],
+            "theme": "Kaizen",
+            "organizer": "HIMAJA FIB UI 2022"
         },
         "location_country": "Indonesia"
     },
