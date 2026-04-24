@@ -1,279 +1,281 @@
 [
-    {
-        "Start Date": "2021015",
-        "Start Time": "13:00",
-        "End Date": "2021015",
-        "End Time": "",
-        "Reminder On/Off": "",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Attack on Titan Bind Up Edition",
-        "Location": "AoT The Final Exhibition, AKR Tower Lantai 3, Kebon Jeruk, Jakarta",
-        "Comment": "[Book Launching & Comic Talk]Insert to J-Event List : 20231004 08:57:37\n",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "attack_7",
-        "location_address": "Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
-        "location_city": "Jakarta Barat",
-        "location_coordinate": "-6.191053370722361, 106.76792697555379",
-        "location_gmaps": "https://maps.app.goo.gl/EcVrnRk86ahfFvyj7",
-        "links": [
-            "https://web.facebook.com/groups/251875943835/posts/10162106620318836/",
-            ""
-        ],
-        "Content": {
-            "category": []
-        },
-        "location_country": "Indonesia"
+  {
+    "Start Date": "20211015",
+    "Start Time": "13:00",
+    "End Date": "20211015",
+    "End Time": "",
+    "Reminder On/Off": "",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Attack on Titan Bind Up Edition",
+    "Location": "AoT The Final Exhibition, AKR Tower Lantai 3, Kebon Jeruk, Jakarta",
+    "Comment": "[Book Launching & Comic Talk]Insert to J-Event List : 20231004 08:57:37\n",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "No",
+    "_id": "attack_7",
+    "location_address": "Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "location_city": "Jakarta Barat",
+    "location_coordinate": "-6.191053370722361, 106.76792697555379",
+    "location_gmaps": "https://maps.app.goo.gl/EcVrnRk86ahfFvyj7",
+    "links": [
+      "https://web.facebook.com/groups/251875943835/posts/10162106620318836/",
+      ""
+    ],
+    "Content": {
+      "category": []
     },
-    {
-        "Start Date": "20210530",
-        "Start Time": "13.00",
-        "End Date": "20210530",
-        "End Time": "17.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "Reirin x Avenue J : MINOGASHITA KIMITACHI E",
-        "Location": "HALOA Coffee & Eatery",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "reirin_1",
-        "location_address": "Jl. Cipedes Tengah No.198, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.879079508272638, 107.59085715411672",
-        "location_gmaps": "https://goo.gl/maps/TJTuvoz84uM2RejE7",
-        "links": [
-            "https://www.instagram.com/p/CPOCBqSB-R4/"
-        ],
-        "Content": {
-            "category": []
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "verified"
+  },
+  {
+    "Start Date": "20210530",
+    "Start Time": "13.00",
+    "End Date": "20210530",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Reirin x Avenue J : MINOGASHITA KIMITACHI E",
+    "Location": "HALOA Coffee & Eatery",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "reirin_1",
+    "location_address": "Jl. Cipedes Tengah No.198, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.879079508272638, 107.59085715411672",
+    "location_gmaps": "https://goo.gl/maps/TJTuvoz84uM2RejE7",
+    "links": [
+      "https://www.instagram.com/p/CPOCBqSB-R4/"
+    ],
+    "Content": {
+      "category": []
     },
-    {
-        "Start Date": "20210606",
-        "Start Time": "10.00",
-        "End Date": "20210606",
-        "End Time": "13.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "Hi-Fest 2021",
-        "Location": "",
-        "Comment": "Live at Himabaja FPBS UPI's Youtube Channel",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "hifest_1",
-        "links": [
-            "https://www.instagram.com/p/COxG28thHQf/"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20210606",
+    "Start Time": "10.00",
+    "End Date": "20210606",
+    "End Time": "13.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Hi-Fest 2021",
+    "Location": "",
+    "Comment": "Live at Himabaja FPBS UPI's Youtube Channel",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "hifest_1",
+    "links": [
+      "https://www.instagram.com/p/COxG28thHQf/"
+    ],
+    "Content": {
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20210624",
-        "Start Time": "",
-        "End Date": "20210626",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Bunkasai Unpad",
-        "Location": "Online Event",
-        "Comment": "",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "cbssxz_9",
-        "links": [
-            "https://jepang.upi.edu"
-        ],
-        "Content": {
-            "edition": "46",
-            "reason": "held online due to pandemic",
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20210624",
+    "Start Time": "",
+    "End Date": "20210626",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Bunkasai Unpad",
+    "Location": "Online Event",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "cbssxz_9",
+    "links": [
+      "https://jepang.upi.edu"
+    ],
+    "Content": {
+      "edition": "46",
+      "reason": "held online due to pandemic",
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20210717",
-        "Start Time": "",
-        "End Date": "20210718",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Comivuro",
-        "Location": "Online",
-        "Comment": "",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "comivuro1",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "series": "Comivuro",
-            "edition": "CV1",
-            "description": "Comifuro Virtual pengganti event offline",
-            "estimated_attendance": "50000",
-            "category": []
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20210717",
+    "Start Time": "",
+    "End Date": "20210718",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Comivuro",
+    "Location": "Online",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "comivuro1",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "series": "Comivuro",
+      "edition": "CV1",
+      "description": "Comifuro Virtual pengganti event offline",
+      "estimated_attendance": "50000",
+      "category": []
     },
-    {
-        "Start Date": "20210829",
-        "Start Time": "13.00",
-        "End Date": "20211003",
-        "End Time": "17.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "YAMATO DAMASHII XV : Online Event (Sense of Mirai)",
-        "Location": "",
-        "Comment": "",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "yamato_9",
-        "links": [
-            "https://www.youtube.com/watch?v=vq2DXICbAlw"
-        ],
-        "Content": {
-            "category": []
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20210829",
+    "Start Time": "13.00",
+    "End Date": "20211003",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "YAMATO DAMASHII XV : Online Event (Sense of Mirai)",
+    "Location": "",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "No",
+    "_id": "yamato_9",
+    "links": [
+      "https://www.youtube.com/watch?v=vq2DXICbAlw"
+    ],
+    "Content": {
+      "category": []
     },
-    {
-        "Start Date": "20211031",
-        "Start Time": "08.00",
-        "End Date": "20211031",
-        "End Time": "17.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "Kibou Matsuri",
-        "Location": "The Parlor",
-        "Comment": "https://www.instagram.com/p/CVdWvlYA14y/",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "kiboum_1",
-        "location_address": "Jl. Rancakendal Luhur No.9, Ciburial, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.869391410544143, 107.62815786946041",
-        "location_gmaps": "https://goo.gl/maps/mT3CEJat2yGfH6W38",
-        "links": [
-            "https://www.youtube.com/watch?v=dmOKf-_O9_s",
-            "https://www.facebook.com/events/the-parlor/kibou-matsuri-bandung-event-offline/356486832643964/",
-            "https://web.facebook.com/Mhanz.Mccrea/posts/pfbid0XoHK3NE7BPE1YHg584tyd86ojHHBrMfcYFrNG5SM6feFBneZr6KZb87Tg6iLJjD2l"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20211031",
+    "Start Time": "08.00",
+    "End Date": "20211031",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Kibou Matsuri",
+    "Location": "The Parlor",
+    "Comment": "https://www.instagram.com/p/CVdWvlYA14y/",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "kiboum_1",
+    "location_address": "Jl. Rancakendal Luhur No.9, Ciburial, Kec. Cimenyan, Kabupaten Bandung, Jawa Barat 40191",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.869391410544143, 107.62815786946041",
+    "location_gmaps": "https://goo.gl/maps/mT3CEJat2yGfH6W38",
+    "links": [
+      "https://www.youtube.com/watch?v=dmOKf-_O9_s",
+      "https://www.facebook.com/events/the-parlor/kibou-matsuri-bandung-event-offline/356486832643964/",
+      "https://web.facebook.com/Mhanz.Mccrea/posts/pfbid0XoHK3NE7BPE1YHg584tyd86ojHHBrMfcYFrNG5SM6feFBneZr6KZb87Tg6iLJjD2l"
+    ],
+    "Content": {
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20211107",
-        "Start Time": "13.00",
-        "End Date": "20211107",
-        "End Time": "17.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "RE:WIND X CRITICAL 11",
-        "Location": "Critical 11",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "rewind_1",
-        "location_address": "Jl. Pajajaran Dalam No.148, Husen Sastranegara, Kec. Cicendo, Kota Bandung, Jawa Barat 40174",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.905074672708577, 107.58488582528362",
-        "location_gmaps": "https://goo.gl/maps/mZVSt2RtRKESJThu8",
-        "links": [
-            "https://www.instagram.com/p/CVpGUCthWsq/",
-            "https://www.instagram.com/re.windofficial/"
-        ],
-        "Content": {
-            "category": []
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20211107",
+    "Start Time": "13.00",
+    "End Date": "20211107",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "RE:WIND X CRITICAL 11",
+    "Location": "Critical 11",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "rewind_1",
+    "location_address": "Jl. Pajajaran Dalam No.148, Husen Sastranegara, Kec. Cicendo, Kota Bandung, Jawa Barat 40174",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.905074672708577, 107.58488582528362",
+    "location_gmaps": "https://goo.gl/maps/mZVSt2RtRKESJThu8",
+    "links": [
+      "https://www.instagram.com/p/CVpGUCthWsq/",
+      "https://www.instagram.com/re.windofficial/"
+    ],
+    "Content": {
+      "category": []
     },
-    {
-        "Start Date": "20211126",
-        "Start Time": "13.00",
-        "End Date": "20211127",
-        "End Time": "17.00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "YUKAINA FESTIVAL 2021 : Nihon no Shiki",
-        "Location": "Zoom Meeting",
-        "Comment": "https://linktr.ee/YukainaFest2021",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "yukain_2",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20211126",
+    "Start Time": "13.00",
+    "End Date": "20211127",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "YUKAINA FESTIVAL 2021 : Nihon no Shiki",
+    "Location": "Zoom Meeting",
+    "Comment": "https://linktr.ee/YukainaFest2021",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "yukain_2",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20211201",
-        "Start Time": "",
-        "End Date": "20211201",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Comivuro 2.0 You Can Not Miss It",
-        "Location": "Online",
-        "Comment": "",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "comivuro2",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "series": "Comivuro",
-            "edition": "CV2",
-            "estimated_attendance": "70000",
-            "category": []
-        },
-        "location_country": "Indonesia"
-    }
+    "location_country": "Indonesia"
+  },
+  {
+    "Start Date": "20211201",
+    "Start Time": "",
+    "End Date": "20211201",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Comivuro 2.0 You Can Not Miss It",
+    "Location": "Online",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "comivuro2",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "series": "Comivuro",
+      "edition": "CV2",
+      "estimated_attendance": "70000",
+      "category": []
+    },
+    "location_country": "Indonesia"
+  }
 ]
