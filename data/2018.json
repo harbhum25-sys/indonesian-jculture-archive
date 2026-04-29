@@ -1212,10 +1212,85 @@
         "location_coordinate": "-6.897720164368746, 107.64543348295432",
         "location_gmaps": "https://g.page/universitas-widyatama",
         "links": [
-            ""
+            "https://web.facebook.com/COS.BDG/posts/pfbid02KCHmmJPfMchckKCLhgm8cgNXr9JrahhNEHJyFeHdQbD16VZM8rRvw5ibrZCNwky9l",
+            "https://web.facebook.com/wjmutama/posts/pfbid02dJnJxmBoLfe4cMPvaaR8btCggno3rAbaYGXYsv5NPWhGZjx7GwzsnZnL1SHd9oMul",
+            "https://web.facebook.com/events/308170966343671/?post_id=362489517578482"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Bazaar / Market"
+            ],
+            "organizer": "Japan Community Widyatama",
+            "theme": "Sashimi X Mecha",
+            "edition": "2018",
+            "description": "Event tahunan Widyatama Japan Festival (Sashimi) dengan tema kolaborasi Mecha, menghadirkan berbagai penampilan musik, dance, dan budaya Jepang di GSG Widyatama.",
+            "guest_stars": {
+                "lineup": [
+                    "Kirari",
+                    "Re:CODE",
+                    "S.A.M Site",
+                    "Lunatic Tokyo",
+                    "Eyivose",
+                    "Thousand Sunny",
+                    "Umbrella Time"
+                ]
+            },
+            "judges": {
+                "cosplay": [
+                    "Nanaamao",
+                    "Akemi",
+                    "Kazuhyun"
+                ]
+            },
+            "performers": {
+                "special_performance": [
+                    "Sasvrita",
+                    "Dysphoric Disorder",
+                    "Nagasaki Sara Odori",
+                    "Nizoku"
+                ],
+                "widyatama_internal": [
+                    "Pika-pika Girls",
+                    "Onomatope"
+                ],
+                "bands": [
+                    "Blaze",
+                    "Quincy",
+                    "Harvest",
+                    "Ticking Timebomb",
+                    "Weaboo Project"
+                ],
+                "dance_cover": [
+                    "The Lulz",
+                    "Cerise",
+                    "The Sparkle Project",
+                    "Karasu Team",
+                    "Nichibotsu"
+                ],
+                "sing_cover": [
+                    "Fujiwara Essa",
+                    "Shiruu",
+                    "Ranti Rivani"
+                ]
+            },
+            "rundown": {
+                "time": "09.00 - 21.00"
+            },
+            "ticket_info": {
+                "type": "FREE ENTRY"
+            },
+            "social_media": {
+                "facebook": "https://www.facebook.com/WidyatamaJapanCommunity/",
+                "instagram": [
+                    "https://www.instagram.com/sashimiwidyatama/",
+                    "https://www.instagram.com/jcutama"
+                ]
+            }
         },
         "location_country": "Indonesia"
     },
@@ -2250,40 +2325,40 @@
                 "Musik - Anisong / Karaoke",
                 "Dance Cover Competition",
                 "Gathering / Komunitas"
-              ],
-              "presenter": "DISB PROJECT",
-              "mc": [
+            ],
+            "presenter": "DISB PROJECT",
+            "mc": [
                 "Andy Phebe",
                 "Gebry"
-              ],
-              "performers": {
+            ],
+            "performers": {
                 "dance_cover": [
-                  "Starlight",
-                  "Sugar Rush",
-                  "Tomodachi",
-                  "Ichigo",
-                  "Hymooi",
-                  "Akiramenna",
-                  "Masuta",
-                  "FIBeats",
-                  "Victory DC !"
+                    "Starlight",
+                    "Sugar Rush",
+                    "Tomodachi",
+                    "Ichigo",
+                    "Hymooi",
+                    "Akiramenna",
+                    "Masuta",
+                    "FIBeats",
+                    "Victory DC !"
                 ],
                 "band": [
-                  "Mikazuki",
-                  "Jack Rabbit",
-                  "Unlogic",
-                  "Daisy n Aster",
-                  "Moobeams"
+                    "Mikazuki",
+                    "Jack Rabbit",
+                    "Unlogic",
+                    "Daisy n Aster",
+                    "Moobeams"
                 ]
-              },
-              "competition": {
+            },
+            "competition": {
                 "list": [
-                  "Karaoke Competition",
-                  "Coswalk Competition",
-                  "Dance Cover Competition"
+                    "Karaoke Competition",
+                    "Coswalk Competition",
+                    "Dance Cover Competition"
                 ]
-              },
-              "sponsors": [
+            },
+            "sponsors": [
                 "Timezone",
                 "Otsukare",
                 "Kedai Yuki",
@@ -2291,11 +2366,11 @@
                 "Museum Angkut",
                 "7 Chicken",
                 "Burger Buto"
-              ],
-              "media_partners": [
+            ],
+            "media_partners": [
                 "Gwigwi",
                 "Korigengi"
-              ]
+            ]
         },
         "location_country": "Indonesia"
     },

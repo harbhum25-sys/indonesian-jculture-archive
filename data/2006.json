@@ -1468,8 +1468,7 @@
                 "Bon odori"
             ],
             "category": []
-        },
-        "location_country": "Indonesia"
+        }
     },
     {
         "Start Date": "20060513",
@@ -1615,7 +1614,7 @@
         "links": [],
         "Content": {
             "presenter": "Himpunan Mahasiswa Sastra dan Bahasa Jepang Universitas Gadjah Mada",
-            "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang Universitas Gadjah Mada",
+            "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang [HIMAJE] UGM",
             "detail_kegiatan": {
                 "tanggal_19_mei_2006": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan",
                 "tanggal_20_mei_2006": "Lomba Pidato Bahasa Jepang Se-Jateng dan DIY ke 16"
@@ -1633,19 +1632,21 @@
                 "UrChannel",
                 "Jogja TV"
             ],
-            "organizer": "Himpunan Mahasiswa Sastra dan Bahasa Jepang [HIMAJE] UGM",
             "event_day_1": "Seminar Bahasa Jepang dalam Perspektif Penerjemahan (19 Mei 2006)",
             "presenters": "Bapak Helmi Nonaka (PT. JAC Indonesia), Ibu Ikuyo Sato (penerjemah professional), Mbak Widati Utami (PT. Elex Media Komputindo), Mulyadi Sensei (Dosen UGM)",
             "event_day_2": "Lomba Pidato Bahasa Jepang [Nihon Go Benron Taikai] (20 Mei 2006)",
             "performances": "Tarian Kaka Kinki Odori, Penampilan Hiro-san (menyanyikan lagu True Love)",
             "speech_contest_winners": "Juara 1: T.A. Thaariq (UGM), Juara 2: Santi Purnamasari (UTY), Juara 3: Dwi Puji Asrini (UNNES)",
             "judges": "Saitou Mami (Japan Foundation), Haruna Misako (Wisma Bahasa Yogyakarta), Bapak Gunawan (Praktisi Bahasa Jepang)",
-            "source": [{
-                            "publikasi": "Animonster",
-                            "edisi": 87,
-                            "bulan": "Juni 2006",
-                            "halaman": "Rubrik Kabaru"
-                        }, "Animonster 88 - Juli 2006"],
+            "source": [
+                {
+                    "publikasi": "Animonster",
+                    "edisi": 87,
+                    "bulan": "Juni 2006",
+                    "halaman": "Rubrik Kabaru"
+                },
+                "Animonster 88 - Juli 2006"
+            ],
             "category": [
                 "Budaya Jepang - Bahasa / Akademik",
                 "Talkshow / Seminar / Workshop"
@@ -1819,7 +1820,10 @@
         "location_gmaps": "https://maps.app.goo.gl/2AipedynP6n1mFwK6",
         "links": [],
         "Content": {
-            "source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
+            "source": [
+                "Animonster 87 - Juni 2006",
+                "Animonster 88 - Juli 2006"
+            ],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Tournament",
@@ -1895,7 +1899,10 @@
             ""
         ],
         "Content": {
-            "Source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
+            "Source": [
+                "Animonster 87 - Juni 2006",
+                "Animonster 88 - Juli 2006"
+            ],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Demo",
@@ -1978,7 +1985,10 @@
         "location_gmaps": "https://maps.app.goo.gl/wN88Qb5sqbTmuMka9",
         "links": [],
         "Content": {
-            "source": ["Animonster 87 - Juni 2006", "Animonster 88 - Juli 2006"],
+            "source": [
+                "Animonster 87 - Juni 2006",
+                "Animonster 88 - Juli 2006"
+            ],
             "Activities": [
                 "Colouring Contest",
                 "Beyblade Demo",

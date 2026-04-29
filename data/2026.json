@@ -7834,7 +7834,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DWsnaYaCJkx/",
-            "https://www.instagram.com/p/DW7zOx1iITH/"
+            "https://www.instagram.com/p/DW7zOx1iITH/",
+            "https://www.instagram.com/infojejepangan.id/p/DXg2uP2ElKg/"
         ],
         "Content": {
             "category": [
@@ -10824,7 +10825,8 @@
         "links": [
             "https://www.instagram.com/p/DXJunLwk0vT/",
             "bit.ly/COSHOLIC-V3",
-            "bit.ly/KPARTY-DC"
+            "bit.ly/KPARTY-DC",
+            "https://www.instagram.com/infojejepangan.id/p/DXOoEHEku_E/"
         ],
         "Content": {
             "category": [
@@ -11086,6 +11088,135 @@
     },
     {
         "Start Date": "20260425",
+        "Start Time": "09:30",
+        "End Date": "20260425",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Honda Shuto Fest",
+        "Location": "Trio Motor Perintis",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "honda_shuto_fest_2026_bjm",
+        "location_address": "Jl. Perintis Kemerdekaan No.45, Ps. Lama, Kec. Banjarmasin Tengah, Kota Banjarmasin, Kalimantan Selatan 70123",
+        "location_city": "Banjarmasin",
+        "location_country": "Indonesia",
+        "location_coordinate": "-3.3106345142799785, 114.59043202609423",
+        "location_gmaps": "https://maps.app.goo.gl/SnMgybGbtMVMkzcx6",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DXOoT0YEj7S/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Trio Motor Perintis",
+            "guest_stars": {
+                "judges": [
+                    "Kyoo",
+                    "Karin",
+                    "Uta"
+                ]
+            },
+            "competition": {
+                "cosplay": {
+                    "registration_fee": "Gratis",
+                    "prizes": {
+                        "total_pool": "Rp 2.500.000",
+                        "categories": [
+                            "Juara 1",
+                            "Juara 2",
+                            "Juara 3",
+                            "Harapan 1",
+                            "Harapan 2",
+                            "Harapan 3",
+                            "Best Costume",
+                            "Favorite"
+                        ],
+                        "rewards": "Uang tunai, Piala, Piagam"
+                    }
+                }
+            },
+            "registration": {
+                "contact": "087785020644 (Tira)"
+            }
+        }
+    },
+    {
+        "Start Date": "20260425",
+        "Start Time": "10:00",
+        "End Date": "20260426",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "GHOST 4.0",
+        "Location": "Icon Mall Gresik",
+        "Comment": "Insert to J-Event List : 20260427 20:39:22\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ghost_4_0_gresik_2026",
+        "location_address": "Jl. DR. Wahidin Sudiro Husodo No.788, Kembangan, Dahanrejo, Kec. Kebomas, Kabupaten Gresik, Jawa Timur 61161",
+        "location_city": "Gresik",
+        "location_coordinate": "-7.166468914912117, 112.60187602713548",
+        "location_gmaps": "https://goo.gl/maps/YBqNBgYpaDbc9m2y6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/JMSurabaya/posts/pfbid02RUivkNJVV1xnymyXRqk4TRfYCMU9dpxgSh1Vg86UqxoQZFUcJhyfQBJANQ9aNE1Gl"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Idol / VTuber",
+                "Toy / Figure / Hobby"
+            ],
+            "organizer": {
+                "main": "Cosplay Gresik",
+                "partner": "Gresik Toys Community"
+            },
+            "edition": "4.0",
+            "ticket_info": {
+                "htm": "FREE"
+            },
+            "guest_stars": {
+                "judges": [
+                    "Unu",
+                    "Candytwirl"
+                ],
+                "performers": [
+                    "Hitatsu",
+                    "Metanaru",
+                    "Mitsukare",
+                    "Revive",
+                    "Dream Sky"
+                ]
+            },
+            "mc": [
+                "Rojali",
+                "Eza"
+            ],
+            "activities": [
+                "Cosplay Parade",
+                "Coswalk Competition",
+                "Idol Performances",
+                "Toys Photography",
+                "Diecast"
+            ],
+            "contact": {
+                "whatsapp": "0882-3594-2414 (Reka)",
+                "instagram": "@cosplay_gresik"
+            }
+        }
+    },
+    {
+        "Start Date": "20260425",
         "Start Time": "18:00",
         "End Date": "20260425",
         "End Time": "",
@@ -11145,7 +11276,8 @@
         "location_gmaps": "https://goo.gl/maps/94JVEhXbthHTVaQ47",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DXBLIgAmWMb/"
+            "https://www.instagram.com/p/DXBLIgAmWMb/",
+            "https://www.instagram.com/infojejepangan.id/p/DXJlXWSkoRk/"
         ],
         "Content": {
             "category": [
@@ -12100,9 +12232,84 @@
                 "Helmi (Midtown Carousel)",
                 "Dika (Midtown Carousel)"
             ],
-            "rundown": {
-                "start_time": "10 AM"
-            },
+            "rundown": [
+                {
+                    "time": "10.00 - 10.30",
+                    "activity": "Daftar Ulang Band"
+                },
+                {
+                    "time": "10.30 - 10.45",
+                    "activity": "Opening"
+                },
+                {
+                    "time": "10.45 - 11.00",
+                    "activity": "Perkenalan Juri"
+                },
+                {
+                    "time": "11.00 - 11.20",
+                    "activity": "Band 1 (Hokkyokuzaru)"
+                },
+                {
+                    "time": "11.20 - 11.40",
+                    "activity": "Band 2 (ANSR)"
+                },
+                {
+                    "time": "11.40 - 12.00",
+                    "activity": "Band 3 (Maru Kana)"
+                },
+                {
+                    "time": "12.00 - 12.35",
+                    "activity": "BREAK DZUHUR (BEC)"
+                },
+                {
+                    "time": "12.35 - 12.55",
+                    "activity": "Band 4 (YOUSOKA)"
+                },
+                {
+                    "time": "12.55 - 13.15",
+                    "activity": "Band 5 (The Pemai)"
+                },
+                {
+                    "time": "13.15 - 13.35",
+                    "activity": "Band 6 (Hanabira)"
+                },
+                {
+                    "time": "13.35 - 13.55",
+                    "activity": "Band 7 (Saturday Kensou)"
+                },
+                {
+                    "time": "13.55 - 14.15",
+                    "activity": "Band 8 (Ophelia)"
+                },
+                {
+                    "time": "14.15 - 14.35",
+                    "activity": "Band 9 (JOYFUL YOUTH)"
+                },
+                {
+                    "time": "14.35 - 14.55",
+                    "activity": "Band 10 (Band Dream)"
+                },
+                {
+                    "time": "14.55 - 15.15",
+                    "activity": "Band 11 (Boku No Heya)"
+                },
+                {
+                    "time": "15.15 - 16.15",
+                    "activity": "BREAK ASHAR (BEC)"
+                },
+                {
+                    "time": "16.15 - 16.30",
+                    "activity": "Awarding"
+                },
+                {
+                    "time": "16.30 - 16.40",
+                    "activity": "Foto Bersama"
+                },
+                {
+                    "time": "16.40 - 16.50",
+                    "activity": "Closing"
+                }
+            ],
             "ticket_info": {
                 "entry": "Free Entry"
             },
@@ -12205,7 +12412,7 @@
         "Location": "Graha Yowana Suci",
         "Comment": "Insert to J-Event List : 20260426 17:20:56\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "dewata_anime_frontier_2026_bali",
         "location_address": "Jl. Hasanuddin No.30, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80112",
@@ -12279,7 +12486,7 @@
         "Location": "Pakuwon Mall",
         "Comment": "Insert to J-Event List : 20260426 17:20:56\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "brewek_massal_taro_2026_sub",
         "location_address": "Jl. Mayjend. Jonosewojo No.2, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60227",
@@ -12311,7 +12518,7 @@
         "Location": "UC Plaza Universitas Ciputra Surabaya",
         "Comment": "Insert to J-Event List : 20260302 16:46:55\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "",
         "_id": "erbbgc_8",
         "location_address": "CitraLand CBD Boulevard, Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Surabaya, Jawa Timur 60219",
@@ -12370,7 +12577,7 @@
         "Location": "Otus Resto & Bar / Tiny Town Sensory Park",
         "Comment": "Insert to J-Event List : 20260312 17:17:56\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "",
         "_id": "dx_doujin_xpo_2026",
         "location_address": "Grand Mojopahit Regency Blok A8 No.A9, Krajan, Sempusari, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68135",
@@ -12415,7 +12622,7 @@
         "Location": "Sebelah GOR Saparua",
         "Comment": "Insert to J-Event List : 20260422 04:02:20\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "boffer_combat_bdg_20260426",
         "location_address": "Jl. Saparua No.28, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
@@ -12446,7 +12653,7 @@
         "Location": "Gramedia Matraman",
         "Comment": "Insert to J-Event List : 20260422 04:02:20\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "evangelion_collectors_edition_launch_jkt",
         "location_address": "Jl. Matraman Raya No.46-50, Kb. Manggis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13150",
@@ -12484,7 +12691,7 @@
         "Location": "Auditorium, Center for Japanese Studies, Universitas Indonesia, Depok",
         "Comment": "Topic: Japan\u00e2\u20ac\u201cIndonesia Partnership",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "ambassador_lecture_japan_studies_ui_2026",
         "location_address": "Universitas Indonesia, Pusat Studi Jepang Universitas Indonesia (PSJ UI, Jl. Prof. DR. Selo Soemardjan, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
@@ -12580,6 +12787,55 @@
             "performers": {
                 "idol": [],
                 "dj": []
+            }
+        }
+    },
+    {
+        "Start Date": "20260502",
+        "Start Time": "",
+        "End Date": "20260503",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "COSPLASH 2026",
+        "Location": "Delipark Medan",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "cosplash_2026_medan",
+        "location_address": "HMVG+P2M, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara",
+        "location_city": "Medan",
+        "location_coordinate": "3.594328086408032, 98.67503905027172",
+        "location_gmaps": "https://maps.app.goo.gl/ze8V1ejuVXhAk3bN6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DXY_oEDkq7e/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "KZR Inc",
+            "competition": {
+                "categories": [
+                    "Coswalk",
+                    "Cosperform",
+                    "Kids Cosplay"
+                ],
+                "prizes": {
+                    "total": "Rp 18.600.000",
+                    "type": "Cash + Voucher"
+                }
+            },
+            "guest_stars": {
+                "judges": [
+                    "Mint Aivlis",
+                    "Diananachan",
+                    "Choco Bean"
+                ]
             }
         }
     },
@@ -13127,7 +13383,8 @@
             "https://www.instagram.com/festivalaxia",
             "https://web.facebook.com/share/p/14WYRSREDh3/",
             "https://www.instagram.com/p/DVQkg-mAV4w/",
-            "https://www.instagram.com/festivalaxia/p/DVqO2NpAVjF/"
+            "https://www.instagram.com/festivalaxia/p/DVqO2NpAVjF/",
+            "https://www.instagram.com/p/DXobhjeCUNy/"
         ],
         "Content": {
             "category": [
@@ -13308,6 +13565,97 @@
                     "Milky Verse"
                 ]
             }
+        }
+    },
+    {
+        "Start Date": "20260508",
+        "Start Time": "20:30",
+        "End Date": "20260508",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "When I Was A Shounen",
+        "Location": "Limelight Family Karaoke",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "when_i_was_a_shounen_2026_jkt",
+        "location_address": "Jl. Tj. Duren Barat 1 Blok G1 No.11B, RT.6/RW.3, North Tanjung Duren, Grogol petamburan, West Jakarta City, Jakarta 11510",
+        "location_city": "Jakarta Barat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.173692423561392, 106.78200554185219",
+        "location_gmaps": "https://maps.app.goo.gl/7jfFUAuD4Dce3WzG8",
+        "links": [
+            "https://www.instagram.com/p/DXn24rdkzi3/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Anisong / Karaoke",
+                "Party / Night Event"
+            ],
+            "theme": "Anisong and Emo anthems",
+            "performers": {
+                "music": [
+                    "ORCAXP",
+                    "REDSHIFT",
+                    "Ribeat",
+                    "Kaizobeats"
+                ],
+                "visuals": "@omarojii"
+            },
+            "ticket_info": {
+                "htm": "Free Entry",
+                "note": "Limited space"
+            }
+        }
+    },
+    {
+        "Start Date": "20260509",
+        "Start Time": "",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Seoul to Tokyo 2026",
+        "Location": "Lippo Mall Cikarang",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "seoul_to_tokyo_2026_cikarang",
+        "location_address": "Jl. MH. Thamrin, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.334122024327556, 107.13701884913691",
+        "location_gmaps": "https://maps.app.goo.gl/85orrJut6e5esMXP6",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DXWmi5eEnVU/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
+            ],
+            "activities": [
+                "KPOP Dance & Sing Cover Competition",
+                "Cooking Class (Bento & Ramen)",
+                "Squid Games for Kids",
+                "Noraebang Party",
+                "Random Play Dance",
+                "Battle of Fanbase",
+                "Coswalk Competition",
+                "Idol Performance",
+                "Meet & Greet Cosplayer",
+                "DJ Anisong"
+            ]
         }
     },
     {
@@ -14212,16 +14560,41 @@
         "location_coordinate": "-7.774237053368115, 110.37480034883173",
         "location_gmaps": "https://maps.app.goo.gl/bsRGnDxvaPUyBv1GA",
         "links": [
-            "https://bit.ly/475RFU1"
+            "https://bit.ly/475RFU1",
+            "https://www.instagram.com/p/DXrmQItD1DN/",
+            "https://web.facebook.com/groups/251875943835/?multi_permalinks=10165384776163836"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Musik - Anisong / Karaoke"
+                "Musik - Anisong / Karaoke",
+                "Pendidikan / Workshop",
+                "Bazaar / Market"
             ],
-            "organizer": "Okaeri SV UGM",
-            "description": "Festival Jepang Okaeri Matsuri Day 2026 dengan berbagai perlombaan seperti Coswalk Competition dan J-Song Competition.",
+            "organizer": "Okaeri SV (Sekolah Vokasi) UGM",
+            "theme": "OKAERI 2026: KAWAMO NO KIRAMEKI",
+            "edition": "2026",
+            "description": [
+                "Festival Jepang tahunan yang terbagi menjadi Academic Day untuk perlombaan edukasi dan Matsuri Day untuk perayaan budaya populer serta penampilan panggung.",
+                "Festival Jepang Okaeri Matsuri Day 2026 dengan berbagai perlombaan seperti Coswalk Competition dan J-Song Competition."
+            ],
+            "location": [
+                "Halaman Depan Gedung Iso Reksohadiprodjo DBSMB",
+                "Gedung Tjahyono Adi DTK",
+                "Sekolah Vokasi UGM"
+            ],
+            "rundown": {
+                "Academic Day (Sabtu, 9 Mei 2026)": [
+                    "Kana Taikai",
+                    "Lomba Cerdas Cermat",
+                    "Sanpunkan Speech"
+                ],
+                "Matsuri Day (Minggu, 17 Mei 2026)": [
+                    "Coswalk Competition",
+                    "J-Song Competition"
+                ]
+            },
             "competition": {
                 "coswalk": {
                     "category": "Umum",
@@ -14239,15 +14612,82 @@
                     "note": "Termasuk pendaftaran dan pengumpulan video seleksi online"
                 }
             },
+            "bazaar": {
+                "tenants": "15+ tenants"
+            },
+            "ticket_info": {
+                "online": "25K",
+                "ots": "30K",
+                "platform": "Roetix",
+                "link": "https://bit.ly/42tDBRa"
+            },
+            "source": {
+                "platform": "Facebook Group",
+                "post_title": "LOMBA OKAERI MATSURI DAY RESMI DIBUKA"
+            },
             "registration": {
                 "guidebook": "https://bit.ly/475RFU1"
             },
             "social_media": {
                 "instagram": "@okaerisvugm"
+            }
+        }
+    },
+    {
+        "Start Date": "20260523",
+        "Start Time": "11:00",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bekasi Cosplay & Anime Fest Vol 2 (BCAF Vol 2)",
+        "Location": "Revo Z (Ug Floor), Revo Mall",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "bcaf_vol2_2026_bekasi",
+        "location_address": "Jl. Ahmad Yani No.Kav. 1, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.254799682078398, 106.98986954039195",
+        "location_gmaps": "https://maps.app.goo.gl/Nd8D3MxQVFcAd8Se6",
+        "links": [
+            "https://www.instagram.com/p/DXoArOOFNkN/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Bazaar / Market"
+            ],
+            "organizer": "RAF Creative",
+            "edition": "2",
+            "ticket_info": {
+                "htm": "Gratis Masuk"
             },
-            "source": {
-                "platform": "Facebook Group",
-                "post_title": "LOMBA OKAERI MATSURI DAY RESMI DIBUKA"
+            "competition": {
+                "coswalk": {
+                    "prizes": "1-2-3 Place"
+                },
+                "cosplay": {
+                    "prizes": "1-2-3 Place"
+                }
+            },
+            "activities": [
+                "Jpop Idol Performance",
+                "Random Play Dance (RPD)",
+                "Anikura",
+                "Creative Market (Merch, Toys, Fan art)",
+                "Japanese Food Bazaar",
+                "Photobooth",
+                "Cosplay Corner"
+            ],
+            "contact": {
+                "whatsapp": "085891816962"
             }
         }
     },
@@ -14437,6 +14877,68 @@
             "ticket_info": {
                 "price": "TBA"
             }
+        }
+    },
+    {
+        "Start Date": "20260524",
+        "Start Time": "",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mirai goes to sports plaza",
+        "Location": "Sports Plaza Manado",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "mirai_goes_to_sports_plaza_manado_2026",
+        "location_address": "Plaza Hotel, Jl. Walanda Maramis No.1 Lantai 4, Pinaesaan, Kec. Wenang, Kota Manado, Sulawesi Utara 95122",
+        "location_city": "Manado",
+        "location_country": "Indonesia",
+        "location_coordinate": "1.4917859779500897, 124.84377413521729",
+        "location_gmaps": "https://maps.app.goo.gl/Xt7pZQCTc7BLAKrh7",
+        "links": [
+            "https://www.instagram.com/p/DXjEEHGEyaL/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas"
+            ],
+            "organizer": {
+                "community": "Momoshiroi Community",
+                "venue_partner": "Sports Plaza Manado"
+            },
+            "ticket_info": {
+                "htm": "Free"
+            },
+            "activities": [
+                "Cosplay Gathering",
+                "Wibu Gathering",
+                "Pickleball",
+                "Olahraga"
+            ],
+            "social_media": {
+                "instagram": [
+                    "@sportsplazamanado",
+                    "@momos.rent",
+                    "@momoshiroi.game",
+                    "@momoshiroi.official",
+                    "@momoshiroi.cosplay",
+                    "@veyy_cosrentt"
+                ]
+            },
+            "media_partners": [
+                "@manevecos",
+                "@cosplaysulut",
+                "@official.cosplaymanado",
+                "@nata_dhe_koko",
+                "@tokubetsu_na",
+                "@zry.gallery"
+            ]
         }
     },
     {
@@ -14715,6 +15217,62 @@
                 }
             },
             "description": "Fandom cafe bertema Detektif Conan dengan atraksi mini drama interaktif."
+        }
+    },
+    {
+        "Start Date": "20260605",
+        "Start Time": "",
+        "End Date": "20260607",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "GEMES-GAMES Festival 2026",
+        "Location": "Green Pramuka Square",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "gemes_games_fest_2026_jkt",
+        "location_address": "Jl. Rw. Jaya No.49, RW.9, Rawasari, Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10570",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.188956002052517, 106.87412128479755",
+        "location_gmaps": "https://goo.gl/maps/HbRHDw1H3QuHAJ1v5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/infojejepangan.id/p/DXg26DGEpYN/"
+        ],
+        "Content": {
+            "category": [
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament",
+                "Bazaar / Market"
+            ],
+            "organizer": "RAF Creative",
+            "ticket_info": {
+                "htm": "Gratis Masuk"
+            },
+            "exhibition_area": [
+                "Toys",
+                "Diecast",
+                "Anime merch",
+                "Gaming accessories",
+                "Fan art",
+                "Action Figure"
+            ],
+            "competition": {
+                "tournaments": [
+                    "Tekken 8 Fun Match",
+                    "MLBB Tourney",
+                    "FC26 Tourney",
+                    "Grand Turismo Fun Rally",
+                    "Beyblade Tourney"
+                ]
+            },
+            "contact": {
+                "whatsapp": "085891816962"
+            }
         }
     },
     {
@@ -15562,6 +16120,39 @@
         "location_country": "Indonesia"
     },
     {
+        "Start Date": "20260711",
+        "Start Time": "",
+        "End Date": "20260712",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Area Creator VII",
+        "Location": "Dharma Negara Alaya",
+        "Comment": "Insert to J-Event List : 20260427 16:40:40\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "area_creator_7_2026_bali",
+        "location_address": "Jl. Mulawarman, Dauh Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80231",
+        "location_city": "Denpasar",
+        "location_country": "Indonesia",
+        "location_coordinate": "-8.636850834895537, 115.21229694092605",
+        "location_gmaps": "https://maps.app.goo.gl/AYA33SVMdF91x3A36",
+        "links": [
+            "https://www.instagram.com/p/DXiY7WWicLo/"
+        ],
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "edition": "7",
+            "theme": "Semua Bisa Jadi Kreator"
+        }
+    },
+    {
         "Start Date": "20260718",
         "Start Time": "",
         "End Date": "20260718",
@@ -15645,7 +16236,8 @@
         "location_coordinate": "-6.835618005818451, 107.53737692291242",
         "location_gmaps": "https://maps.app.goo.gl/sd1QQauMWyEpxRut5",
         "links": [
-            "https://www.instagram.com/p/DW6S2-uk6QB/"
+            "https://www.instagram.com/p/DW6S2-uk6QB/",
+            "https://www.instagram.com/p/DXtQf69EQuS/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
         ],
         "Content": {
             "category": [

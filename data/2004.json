@@ -708,7 +708,7 @@
         "Importance": "Normal",
         "Subject": "JLCC Ninihongan 2004",
         "Location": "JLCC, Jln. Sabang no.19 Bandung",
-        "Comment": "pertama kali aku bikin acara jejepangan bersama teman-teman JLCC. Aku mulai ikut rapat perencanaan acara dan ditunjuk jadi asisten sekretaris. aku berkenalan dengan Deli lalu kami pun mulai sering rapat. Albert Liang yang menemukan dan mengajukan ide dengan nama ninihongan dengan dia bisa buat kanjinya. aku berkenalan dengan Nandia, Nadya Kirana, Mulyanta, Arsyana, Muhammad Elfan Fauzan, Audy Exto, dan Kuntum Annisa. Ignasius Aditya Wisnuwardhana yang jadi ketuanya.\nAku sempat dipercaya mengambil barang dari PSBJ unpad dan HIMADE Maranatha bersama Audy yang diantar oleh Pak Marikun. \nhari sabtu education fair.\nhari minggu masuk pada bunkasai. MC batal datang 30 menit sebelum dimulai dan Albert Liang menjadi MC. \nKana Contest\nCha no Yuu\nGuest Star hari minggu : Spica, Lastifer, Shiroi Hana, dan Perfect Blue.\nPertama kali mengenal Dwi Rachmat Achadiyat\nhttp://forumm.wgaul.com/archive/index.php/t-27275.html\nada liputannya di Animonster Juli 2004 vol 63 hal 31 : \nJLCC ninihongan yang berarti jejepangan di JLCC, plesetan dalam bahasa sunda ini digelar selama 2 hari tanggal 1-2 mei 2004 sebagai perayaan ultah JLCC yang ke-10. hari pertama bertema education fair untuk menyambut hari pendidikan nasional. \n--\nada yang upload video pada tahun 2016 mengenai band di acara ini Shiroi Hana, SPICA & Perfect Blue @ JLCC Ninihongan 2004 \n--\n",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "Yes",
@@ -780,21 +780,19 @@
             },
             "featured_bands": [
                 "Perfect Blue",
-                "Iaruku",
                 "Lastifer",
-                "Malice Mizer",
                 "Shiroi Hana",
-                "-Zone-",
-                "Spica",
-                "Spitz"
+                "Spica"
             ],
             "source": [
                 "Animonster 62 - Mei 2004",
-                "Animonster 63 - Juni 2004"
+                "Animonster 63 - Juni 2004",
+                "http://forumm.wgaul.com/archive/index.php/t-27275.html"
             ],
             "event": {
                 "name": "JLCC Ninihongan",
                 "meaning": "Jejepangan di JLCC (plesetan bahasa Sunda)",
+                "ide_nama": "Albert Liang",
                 "organizer": "JLCC",
                 "anniversary": "10th Anniversary JLCC",
                 "dates": {
@@ -980,7 +978,12 @@
             ],
             "audience": "Komunitas otaku dan pecinta budaya Jepang di Bandung",
             "impact": "Menjadi salah satu agenda komunitas Jepang yang berkesan dan memperkuat perkembangan event Jejepangan di Bandung awal 2000-an.",
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Pendidikan / Workshop",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia"
     },
@@ -1244,8 +1247,8 @@
             "bunkasai5@nipponclub.net"
         ],
         "Content": {
-            "organizer": "Nippon Club Universitas Bina Nusantara",
-            "other_title" : "NATSU NO CHOUSEN!",
+            "organizer": "Nippon Club (NC) Binus",
+            "other_title": "NATSU NO CHOUSEN!",
             "event_type": "Festival Kebudayaan Peringatan Ulang Tahun ke 5",
             "activities": [
                 "Cosplay",
@@ -1320,8 +1323,11 @@
                 "day_1_system": "Round Robin",
                 "day_2_system": "Single Elimination"
             },
-            "source": ["Animonster 62 - Mei 2004", "Animonster 65 - Agustus 2004", "Animonster 63 - Juni 2004"],
-            "organizer": "Nippon Club (NC) Binus",
+            "source": [
+                "Animonster 62 - Mei 2004",
+                "Animonster 65 - Agustus 2004",
+                "Animonster 63 - Juni 2004"
+            ],
             "occasion": "Perayaan ulang tahun ke-5 Nippon Club",
             "duration": "6 hari",
             "performances": {
@@ -1629,63 +1635,63 @@
             "target_participants": "Anggota studio animasi Bandung (seperti Studio Te-tun [Tegal Kartun]) dan Jakarta, mahasiswa jurusan desain, ilustrator, serta guru seni rupa SMA di Bandung",
             "event_purpose": "Menambah wawasan bagi calon animator maupun animator profesional, serta menekankan keterampilan ilustrasi animator dan teknik animasi konvensional",
             "fee": "Gratis (Tidak dipungut biaya apapun)",
-            "Red_Rocket_Animation_history" : {
-  "company": {
-    "name": "Red Rocket Animation",
-    "country": "Indonesia",
-    "focus": "Animasi 2D",
-    "established": "1990-an akhir"
-  },
-  "background": {
-    "industry_condition": "Animasi lokal terbatas",
-    "mission": "Majukan animasi Indonesia",
-    "challenge": "SDM terbatas"
-  },
-  "team": {
-    "structure": {
-      "art_director": "Desain visual",
-      "animator": "Gerak karakter",
-      "background_artist": "Latar adegan",
-      "editor": "Penyuntingan akhir"
-    },
-    "members_source": "Alumni ITB"
-  },
-  "projects": {
-    "titles": [
-      "Gatotkaca 1998",
-      "Ever Late Boy 1998"
-    ],
-    "episodes": "13 episode",
-    "duration": "30 menit"
-  },
-  "process": {
-    "stages": {
-      "design": "Desain karakter",
-      "storyboard": "Visual cerita",
-      "layout": "Penempatan adegan",
-      "key_animation": "Gerakan utama",
-      "inbetween": "Gerakan tambahan",
-      "coloring": "Pewarnaan digital",
-      "compositing": "Gabung elemen",
-      "editing": "Finalisasi video"
-    }
-  },
-  "technology": {
-    "type": "2D digital",
-    "tools": "Komputer animasi",
-    "comparison": "Lebih hemat waktu"
-  },
-  "achievement": {
-    "recognition": "Apresiasi internasional",
-    "figure": "Poppy Palele",
-    "award": "Young Achiever 1998"
-  },
-  "vision": {
-    "goal": "Saingi animasi luar",
-    "hope": "Industri berkembang",
-    "impact": "Inspirasi animator baru"
-  }
-},
+            "Red_Rocket_Animation_history": {
+                "company": {
+                    "name": "Red Rocket Animation",
+                    "country": "Indonesia",
+                    "focus": "Animasi 2D",
+                    "established": "1990-an akhir"
+                },
+                "background": {
+                    "industry_condition": "Animasi lokal terbatas",
+                    "mission": "Majukan animasi Indonesia",
+                    "challenge": "SDM terbatas"
+                },
+                "team": {
+                    "structure": {
+                        "art_director": "Desain visual",
+                        "animator": "Gerak karakter",
+                        "background_artist": "Latar adegan",
+                        "editor": "Penyuntingan akhir"
+                    },
+                    "members_source": "Alumni ITB"
+                },
+                "projects": {
+                    "titles": [
+                        "Gatotkaca 1998",
+                        "Ever Late Boy 1998"
+                    ],
+                    "episodes": "13 episode",
+                    "duration": "30 menit"
+                },
+                "process": {
+                    "stages": {
+                        "design": "Desain karakter",
+                        "storyboard": "Visual cerita",
+                        "layout": "Penempatan adegan",
+                        "key_animation": "Gerakan utama",
+                        "inbetween": "Gerakan tambahan",
+                        "coloring": "Pewarnaan digital",
+                        "compositing": "Gabung elemen",
+                        "editing": "Finalisasi video"
+                    }
+                },
+                "technology": {
+                    "type": "2D digital",
+                    "tools": "Komputer animasi",
+                    "comparison": "Lebih hemat waktu"
+                },
+                "achievement": {
+                    "recognition": "Apresiasi internasional",
+                    "figure": "Poppy Palele",
+                    "award": "Young Achiever 1998"
+                },
+                "vision": {
+                    "goal": "Saingi animasi luar",
+                    "hope": "Industri berkembang",
+                    "impact": "Inspirasi animator baru"
+                }
+            },
             "source": "Animonster 67 - Oktober 2004",
             "category": [
                 "Anime - Convention / Fan Event",
@@ -2540,7 +2546,10 @@
                 "crowd_condition": "Venue full, some attendees outside due to limited space"
             },
             "overall_evaluation": "Despite technical and space limitations, event considered successful due to strong support from Japanese music community",
-            "reporter": ["D'Willow", "D*Illusion"],
+            "reporter": [
+                "D'Willow",
+                "D*Illusion"
+            ],
             "venue_details": {
                 "venue_name": "Old House Party Cafe",
                 "city": "Bandung"
