@@ -1,5 +1,149 @@
 [
   {
+    "Start Date": "20210530",
+    "Start Time": "13.00",
+    "End Date": "20210530",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Reirin x Avenue J : MINOGASHITA KIMITACHI E",
+    "Location": "HALOA Coffee & Eatery",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "reirin_1",
+    "location_address": "Jl. Cipedes Tengah No.198, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.879079508272638, 107.59085715411672",
+    "location_gmaps": "https://goo.gl/maps/TJTuvoz84uM2RejE7",
+    "links": [
+      "https://www.instagram.com/p/CPOCBqSB-R4/"
+    ],
+    "Content": {
+      "category": []
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20210606",
+    "Start Time": "10.00",
+    "End Date": "20210606",
+    "End Time": "13.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Hi-Fest 2021",
+    "Location": "",
+    "Comment": "Live at Himabaja FPBS UPI's Youtube Channel",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "hifest_1",
+    "links": [
+      "https://www.instagram.com/p/COxG28thHQf/"
+    ],
+    "Content": {
+      "category": [
+        "Festival / Matsuri"
+      ]
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20210624",
+    "Start Time": "",
+    "End Date": "20210626",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Bunkasai Unpad",
+    "Location": "Online Event",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "cbssxz_9",
+    "links": [
+      "https://jepang.upi.edu"
+    ],
+    "Content": {
+      "edition": "46",
+      "reason": "held online due to pandemic",
+      "category": [
+        "Festival / Matsuri"
+      ]
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20210717",
+    "Start Time": "",
+    "End Date": "20210718",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Comivuro",
+    "Location": "Online",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "comivuro1",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "series": "Comivuro",
+      "edition": "CV1",
+      "description": "Comifuro Virtual pengganti event offline",
+      "estimated_attendance": "50000",
+      "category": []
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20210829",
+    "Start Time": "13.00",
+    "End Date": "20211003",
+    "End Time": "17.00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "YAMATO DAMASHII XV : Online Event (Sense of Mirai)",
+    "Location": "",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "No",
+    "_id": "yamato_9",
+    "links": [
+      "https://www.youtube.com/watch?v=vq2DXICbAlw"
+    ],
+    "Content": {
+      "category": []
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
     "Start Date": "20211015",
     "Start Time": "13:00",
     "End Date": "20211015",
@@ -31,140 +175,6 @@
     "source_status": "verified"
   },
   {
-    "Start Date": "20210530",
-    "Start Time": "13.00",
-    "End Date": "20210530",
-    "End Time": "17.00",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "Normal",
-    "Subject": "Reirin x Avenue J : MINOGASHITA KIMITACHI E",
-    "Location": "HALOA Coffee & Eatery",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "",
-    "_id": "reirin_1",
-    "location_address": "Jl. Cipedes Tengah No.198, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.879079508272638, 107.59085715411672",
-    "location_gmaps": "https://goo.gl/maps/TJTuvoz84uM2RejE7",
-    "links": [
-      "https://www.instagram.com/p/CPOCBqSB-R4/"
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia"
-  },
-  {
-    "Start Date": "20210606",
-    "Start Time": "10.00",
-    "End Date": "20210606",
-    "End Time": "13.00",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "Normal",
-    "Subject": "Hi-Fest 2021",
-    "Location": "",
-    "Comment": "Live at Himabaja FPBS UPI's Youtube Channel",
-    "Online/Offline": "Online",
-    "status": "Finished",
-    "attended": "",
-    "_id": "hifest_1",
-    "links": [
-      "https://www.instagram.com/p/COxG28thHQf/"
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia"
-  },
-  {
-    "Start Date": "20210624",
-    "Start Time": "",
-    "End Date": "20210626",
-    "End Time": "",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "",
-    "Subject": "Bunkasai Unpad",
-    "Location": "Online Event",
-    "Comment": "",
-    "Online/Offline": "Online",
-    "status": "Finished",
-    "attended": "",
-    "_id": "cbssxz_9",
-    "links": [
-      "https://jepang.upi.edu"
-    ],
-    "Content": {
-      "edition": "46",
-      "reason": "held online due to pandemic",
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia"
-  },
-  {
-    "Start Date": "20210717",
-    "Start Time": "",
-    "End Date": "20210718",
-    "End Time": "",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "",
-    "Subject": "Comivuro",
-    "Location": "Online",
-    "Comment": "",
-    "Online/Offline": "Online",
-    "status": "Finished",
-    "attended": "",
-    "_id": "comivuro1",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "series": "Comivuro",
-      "edition": "CV1",
-      "description": "Comifuro Virtual pengganti event offline",
-      "estimated_attendance": "50000",
-      "category": []
-    },
-    "location_country": "Indonesia"
-  },
-  {
-    "Start Date": "20210829",
-    "Start Time": "13.00",
-    "End Date": "20211003",
-    "End Time": "17.00",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "Normal",
-    "Subject": "YAMATO DAMASHII XV : Online Event (Sense of Mirai)",
-    "Location": "",
-    "Comment": "",
-    "Online/Offline": "Online",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "yamato_9",
-    "links": [
-      "https://www.youtube.com/watch?v=vq2DXICbAlw"
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia"
-  },
-  {
     "Start Date": "20211031",
     "Start Time": "08.00",
     "End Date": "20211031",
@@ -194,7 +204,9 @@
         "Festival / Matsuri"
       ]
     },
-    "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
   },
   {
     "Start Date": "20211107",
@@ -223,7 +235,9 @@
     "Content": {
       "category": []
     },
-    "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
   },
   {
     "Start Date": "20211126",
@@ -249,7 +263,9 @@
         "Festival / Matsuri"
       ]
     },
-    "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
   },
   {
     "Start Date": "20211201",
@@ -276,6 +292,8 @@
       "estimated_attendance": "70000",
       "category": []
     },
-    "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
   }
 ]

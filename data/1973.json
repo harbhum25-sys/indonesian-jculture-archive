@@ -1,42 +1,44 @@
 [
-    {
-        "Start Date": "19730523",
-        "Start Time": "",
-        "End Date": "19730523",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Nihongo Nihon Bunkasai",
-        "Location": "Fakultas Sastra Unpad Dipati Ukur",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "tfmekb_9",
-        "location_address": "Jl. Dipati Ukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.893317712843067, 107.61730402883606",
-        "location_gmaps": "https://maps.app.goo.gl/ExD3BjqPHXUvncVQ7",
-        "links": [
-            "https://sj.unikom.ac.id/bunkasai-ke-48",
-            "https://www.medcom.id/pendidikan/news-pendidikan/GbmPzPeN-sejarah-panjang-kerja-sama-unpad-jepang-mulai-1963",
-            "https://jepang.fib.unpad.ac.id/bunkasai-ke-50",
-            "https://www.unpad.ac.id/2013/05/nihongo-nihon-bunkasai-semangat-mengenal-bahasa-jepang-melalui-pendekatan-budaya/",
-            "https://padjadjaran2.rssing.com/chan-12319804/all_p3.html",
-            "https://ejournal.hi.fisip-unmul.ac.id/site/wp-content/uploads/2017/09/Jurnal%20Happy%20Nugraha%20(fix%20%20upload)%20(09-21-17-03-08-27).pdf"
-        ],
-        "Content": {
-            "organizer": "Staf pengajar Program Studi Sastra Jepang FIB UNPAD",
-            "JapaneseLanguage_established": "1963",
-            "psbj_established": "1988",
-            "description": "Pekan Bahasa dan Budaya Jepang pertama kali diselenggarakan pada 23 Mei 1973, sebagai acara tahunan untuk mempromosikan bahasa dan budaya Jepang di kalangan perguruan tinggi se-Jawa Barat.",
-            "accuracy_explanation": "Meskipun ada perhitungan edisi ke-50 di 2025 yang mengarah ke 1976, beberapa sumber sejarah dari UNPAD dan terkait (seperti arsip 2013 dan UNIKOM) secara eksplisit menyebut edisi pertama pada 23 Mei 1973. Inkonsistensi mungkin karena jeda atau penomoran ulang, tapi tanggal spesifik 1973 lebih didukung oleh catatan lama.",
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
-    }
+  {
+    "Start Date": "19730523",
+    "Start Time": "",
+    "End Date": "19730523",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Nihongo Nihon Bunkasai",
+    "Location": "Fakultas Sastra Unpad Dipati Ukur",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "tfmekb_9",
+    "location_address": "Jl. Dipati Ukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.893317712843067, 107.61730402883606",
+    "location_gmaps": "https://maps.app.goo.gl/ExD3BjqPHXUvncVQ7",
+    "links": [
+      "https://sj.unikom.ac.id/bunkasai-ke-48",
+      "https://www.medcom.id/pendidikan/news-pendidikan/GbmPzPeN-sejarah-panjang-kerja-sama-unpad-jepang-mulai-1963",
+      "https://jepang.fib.unpad.ac.id/bunkasai-ke-50",
+      "https://www.unpad.ac.id/2013/05/nihongo-nihon-bunkasai-semangat-mengenal-bahasa-jepang-melalui-pendekatan-budaya/",
+      "https://padjadjaran2.rssing.com/chan-12319804/all_p3.html",
+      "https://ejournal.hi.fisip-unmul.ac.id/site/wp-content/uploads/2017/09/Jurnal%20Happy%20Nugraha%20(fix%20%20upload)%20(09-21-17-03-08-27).pdf"
+    ],
+    "Content": {
+      "organizer": "Staf pengajar Program Studi Sastra Jepang FIB UNPAD",
+      "JapaneseLanguage_established": "1963",
+      "psbj_established": "1988",
+      "description": "Pekan Bahasa dan Budaya Jepang pertama kali diselenggarakan pada 23 Mei 1973, sebagai acara tahunan untuk mempromosikan bahasa dan budaya Jepang di kalangan perguruan tinggi se-Jawa Barat.",
+      "accuracy_explanation": "Meskipun ada perhitungan edisi ke-50 di 2025 yang mengarah ke 1976, beberapa sumber sejarah dari UNPAD dan terkait (seperti arsip 2013 dan UNIKOM) secara eksplisit menyebut edisi pertama pada 23 Mei 1973. Inkonsistensi mungkin karena jeda atau penomoran ulang, tapi tanggal spesifik 1973 lebih didukung oleh catatan lama.",
+      "category": [
+        "Festival / Matsuri"
+      ]
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  }
 ]

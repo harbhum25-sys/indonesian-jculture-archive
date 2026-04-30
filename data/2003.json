@@ -1,779 +1,807 @@
 [
-    {
-        "Start Date": "20020727",
-        "Start Time": "",
-        "End Date": "20020727",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "Normal",
-        "Subject": "Kid Sunday: Digimon Frontier",
-        "Location": "Planet Hollywood",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Past",
-        "attended": "",
-        "_id": "xxarjp_1",
-        "location_address": "Jl. Gatot Subroto No.Kav. 19, RT.8/RW.2, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
-        "location_city": "Jakarta Selatan",
-        "location_coordinate": "-6.226954791593482, 106.81836951399232",
-        "location_gmaps": "https://maps.app.goo.gl/U5b8sSsZ7uDXVT539",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "PT. Vision Interprima Pictures",
-            "event_context": "Promosi peluncuran VCD Digimon Frontier",
-            "activities": {
-                "photo_session": "Foto bersama karakter Agumon, Palmon, dan Bubba",
-                "coloring_contest": "Lomba mewarnai karakter Digimon (Kategori: di bawah 5 tahun dan di atas 5 tahun)",
-                "puzzle_contest": "Lomba menyusun puzzle artwork Digimon",
-                "family_games": "Lomba bakiak keluarga (Ayah, Ibu, dan satu anak)",
-                "playland_area": "Tersedia demo origami oleh Jakarta Communication Club dan tato temporer untuk anak-anak"
-            },
-            "other_locations": {
-                "Anime_Machi_1": "Megamal Lantai 3 Unit 428, Jl. Pluit Indah Raya, Telp. 021-66670050",
-                "Anime_Machi_2": "Kelapa Gading Mal Tahap III, Fashion Hub Lantai 2 2A-27, Telp. 021-45853990",
-                "Anime_Machi_3": "Taman Anggrek Mal Lantai 3/334, Telp. 021-5639259"
-            },
-            "merchandise_highlights": "Trading Figure Love Hina, Sakura Card Captor Gashapon, Naruto Diorama Figure, Rurouni Kenshin Trading Figure, Prince of Tennis Trading Figure",
-            "source": "Animonster 54 - September 2003",
-            "category": []
-        },
-        "location_country": "Indonesia"
+  {
+    "Start Date": "20020727",
+    "Start Time": "",
+    "End Date": "20020727",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "Normal",
+    "Subject": "Kid Sunday: Digimon Frontier",
+    "Location": "Planet Hollywood",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Past",
+    "attended": "",
+    "_id": "xxarjp_1",
+    "location_address": "Jl. Gatot Subroto No.Kav. 19, RT.8/RW.2, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
+    "location_city": "Jakarta Selatan",
+    "location_coordinate": "-6.226954791593482, 106.81836951399232",
+    "location_gmaps": "https://maps.app.goo.gl/U5b8sSsZ7uDXVT539",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "PT. Vision Interprima Pictures",
+      "event_context": "Promosi peluncuran VCD Digimon Frontier",
+      "activities": {
+        "photo_session": "Foto bersama karakter Agumon, Palmon, dan Bubba",
+        "coloring_contest": "Lomba mewarnai karakter Digimon (Kategori: di bawah 5 tahun dan di atas 5 tahun)",
+        "puzzle_contest": "Lomba menyusun puzzle artwork Digimon",
+        "family_games": "Lomba bakiak keluarga (Ayah, Ibu, dan satu anak)",
+        "playland_area": "Tersedia demo origami oleh Jakarta Communication Club dan tato temporer untuk anak-anak"
+      },
+      "other_locations": {
+        "Anime_Machi_1": "Megamal Lantai 3 Unit 428, Jl. Pluit Indah Raya, Telp. 021-66670050",
+        "Anime_Machi_2": "Kelapa Gading Mal Tahap III, Fashion Hub Lantai 2 2A-27, Telp. 021-45853990",
+        "Anime_Machi_3": "Taman Anggrek Mal Lantai 3/334, Telp. 021-5639259"
+      },
+      "merchandise_highlights": "Trading Figure Love Hina, Sakura Card Captor Gashapon, Naruto Diorama Figure, Rurouni Kenshin Trading Figure, Prince of Tennis Trading Figure",
+      "source": "Animonster 54 - September 2003",
+      "category": []
     },
-    {
-        "Start Date": "20030228",
-        "Start Time": "",
-        "End Date": "20030302",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Beyblade Tournament 2003",
-        "Location": "Bandung Supermall (BSM)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "gqxpsv_4",
-        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.92482028135678, 107.63625083877746",
-        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "event_series": "3 Big Event 2003 Toys Fair",
-            "prizes": "Total 25.000.000 Rupiah",
-            "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
-            "sponsors": "Tamiya, Alkaline, Hobiland, Dago Plaza",
-            "additional_locations": "Vega Fantasy Land",
-            "source": "Animonster 48 - Maret 2003",
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030228",
+    "Start Time": "",
+    "End Date": "20030302",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Beyblade Tournament 2003",
+    "Location": "Bandung Supermall (BSM)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "gqxpsv_4",
+    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.92482028135678, 107.63625083877746",
+    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "event_series": "3 Big Event 2003 Toys Fair",
+      "prizes": "Total 25.000.000 Rupiah",
+      "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
+      "sponsors": "Tamiya, Alkaline, Hobiland, Dago Plaza",
+      "additional_locations": "Vega Fantasy Land",
+      "source": "Animonster 48 - Maret 2003",
+      "category": [
+        "Game / Esports Tournament"
+      ]
     },
-    {
-        "Start Date": "20030308",
-        "Start Time": "",
-        "End Date": "20030309",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Exhibition Mini Z Kyosho Race 2003",
-        "Location": "Bandung Supermall (BSM)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "nmfbjm_8",
-        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.92482028135678, 107.63625083877746",
-        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "event_series": "3 Big Event 2003 Toys Fair",
-            "prizes": "Total 25.000.000 Rupiah",
-            "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
-            "brand": "Kyosho",
-            "sponsors": "Tamiya, Alkaline, Hobiland, Dago Plaza",
-            "source": "Animonster 48 - Maret 2003",
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030308",
+    "Start Time": "",
+    "End Date": "20030309",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Exhibition Mini Z Kyosho Race 2003",
+    "Location": "Bandung Supermall (BSM)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "nmfbjm_8",
+    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.92482028135678, 107.63625083877746",
+    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "event_series": "3 Big Event 2003 Toys Fair",
+      "prizes": "Total 25.000.000 Rupiah",
+      "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
+      "brand": "Kyosho",
+      "sponsors": "Tamiya, Alkaline, Hobiland, Dago Plaza",
+      "source": "Animonster 48 - Maret 2003",
+      "category": [
+        "Game / Esports Tournament"
+      ]
     },
-    {
-        "Start Date": "20030309",
-        "Start Time": "",
-        "End Date": "20030316",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Great Indonesia Cup Tamiya 4WD 2003",
-        "Location": "Bandung Supermall (BSM)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "wpzkea_7",
-        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.92482028135678, 107.63625083877746",
-        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "event_series": "3 Big Event 2003 Toys Fair",
-            "specific_dates": "9 Maret dan 14-16 Maret 2003",
-            "prizes": "Total 25.000.000 Rupiah",
-            "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
-            "brand": "Tamiya",
-            "sponsors": "Alkaline, Hobiland, Dago Plaza",
-            "source": "Animonster 48 - Maret 2003",
-            "category": [
-                "Game / Esports Tournament"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030309",
+    "Start Time": "",
+    "End Date": "20030316",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Great Indonesia Cup Tamiya 4WD 2003",
+    "Location": "Bandung Supermall (BSM)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "wpzkea_7",
+    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.92482028135678, 107.63625083877746",
+    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "event_series": "3 Big Event 2003 Toys Fair",
+      "specific_dates": "9 Maret dan 14-16 Maret 2003",
+      "prizes": "Total 25.000.000 Rupiah",
+      "registration_info": "Vega Ranggamalela 3, BSM Lantai 3, Premier Plaza Lantai 3, Borma Kopo Bandung",
+      "brand": "Tamiya",
+      "sponsors": "Alkaline, Hobiland, Dago Plaza",
+      "source": "Animonster 48 - Maret 2003",
+      "category": [
+        "Game / Esports Tournament"
+      ]
     },
-    {
-        "Start Date": "20030511",
-        "Start Time": "",
-        "End Date": "20030511",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "CRE8TION: Creativity & Technology In One Competition",
-        "Location": "Kenanga Room, Istora Senayan",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "bcztjk_3",
-        "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.219993650644207, 106.8056960829497",
-        "location_gmaps": "https://goo.gl/maps/nvCpokwmLaPxUzmd6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "presenter": "SMUN 8 Jakarta",
-            "supported_by": "Animonster",
-            "competitions": {
-                "web_design": {
-                    "team_size": "1-3 orang/team",
-                    "fee": "Rp40.000",
-                    "contact_person": "Afta (08128578516)"
-                },
-                "programming": {
-                    "team_size": "1-3 orang/team",
-                    "fee": "Rp30.000",
-                    "contact_person": "Yovan (08561059700)"
-                },
-                "fotografi": {
-                    "fee": "Rp25.000",
-                    "contact_person": "Yulia (0811839751)"
-                },
-                "character_design": {
-                    "fee": "Rp20.000",
-                    "contact_person": "Fio (08129927545)"
-                }
-            },
-            "total_prize": "Rp7.500.000",
-            "additional_event": "Hovercraft Exhibition by SMUN 8 students",
-            "source": "Animonster 50 - Mei 2003",
-            "category": []
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030511",
+    "Start Time": "",
+    "End Date": "20030511",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "CRE8TION: Creativity & Technology In One Competition",
+    "Location": "Kenanga Room, Istora Senayan",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "bcztjk_3",
+    "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "location_city": "Jakarta Pusat",
+    "location_coordinate": "-6.219993650644207, 106.8056960829497",
+    "location_gmaps": "https://goo.gl/maps/nvCpokwmLaPxUzmd6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "presenter": "SMUN 8 Jakarta",
+      "supported_by": "Animonster",
+      "competitions": {
+        "web_design": {
+          "team_size": "1-3 orang/team",
+          "fee": "Rp40.000",
+          "contact_person": "Afta (08128578516)"
         },
-        "location_country": "Indonesia"
+        "programming": {
+          "team_size": "1-3 orang/team",
+          "fee": "Rp30.000",
+          "contact_person": "Yovan (08561059700)"
+        },
+        "fotografi": {
+          "fee": "Rp25.000",
+          "contact_person": "Yulia (0811839751)"
+        },
+        "character_design": {
+          "fee": "Rp20.000",
+          "contact_person": "Fio (08129927545)"
+        }
+      },
+      "total_prize": "Rp7.500.000",
+      "additional_event": "Hovercraft Exhibition by SMUN 8 students",
+      "source": "Animonster 50 - Mei 2003",
+      "category": []
     },
-    {
-        "Start Date": "20030517",
-        "Start Time": "09:00",
-        "End Date": "20030518",
-        "End Time": "17:00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Komikite 2003",
-        "Location": "Bentara Budaya Jakarta",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "wqzwjz_3",
-        "location_address": "Jl. Palmerah Sel. No.17, RT.4/RW.2, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.2102659219065215, 106.79550151179912",
-        "location_gmaps": "https://maps.app.goo.gl/WYBHuBVfjF7LjbWVA",
-        "links": [
-            "http://www.manc-komik.com"
-        ],
-        "Content": {
-            "organizer": "m&c! (Gramedia Majalah Group)",
-            "theme": "Budaya Lokal dalam Komik Indonesia",
-            "event_head": "Dwi Rahmat Wahyudi",
-            "featured_comic_launches": {
-                "title_1": "Alakazam oleh Donny Kurniawan",
-                "title_2": "Tomat oleh Libra",
-                "title_3": "Dua Warna oleh Allie"
-            },
-            "activities": {
-                "day_1": "Bazaar komik & cergam Indonesia, pameran komik, workshop komik",
-                "day_2": "Bazaar, pameran, pemutaran film animasi Jepang, talkshow, penyerahan standing character, book signing"
-            },
-            "workshop_mentors": {
-                "mentor_1": "Toni Masdiono (Penulis 14 Jurus Membuat Komik)",
-                "mentor_2": "Libra (Komikus gaek)",
-                "mentor_3": "Alfi dan Donny"
-            },
-            "talkshow_speakers": {
-                "academic": "Ibu Rahayu Hidayat (Ketua Kajian Komik Indonesia)",
-                "writer_critic": "Mas Dwiyanto Setyawan",
-                "director": "Rizal Mantovani",
-                "editor": "Uwi Mathovani (m&c!)",
-                "artists": "Alfi, Donny, Libra"
-            },
-            "talkshow_moderator": "Mbak Nurul Arifin",
-            "exhibition_contributors": {
-                "artists": "Dyotami Febrian, Is Yanuarto, Sugiarto Aliputra, DeeDee, Pugoeh, Wisnoe Lee, Sami, Swasana, Andaru",
-                "studios": "Bengkel Qomik, Papillon Studio, Karna dan Pradyanan, Rai Pandudita"
-            },
-            "source": "Animonster 52 - Juli 2003",
-            "category": [
-                "Anime - Convention / Fan Event"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030517",
+    "Start Time": "09:00",
+    "End Date": "20030518",
+    "End Time": "17:00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Komikite 2003",
+    "Location": "Bentara Budaya Jakarta",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "wqzwjz_3",
+    "location_address": "Jl. Palmerah Sel. No.17, RT.4/RW.2, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "location_city": "Jakarta Pusat",
+    "location_coordinate": "-6.2102659219065215, 106.79550151179912",
+    "location_gmaps": "https://maps.app.goo.gl/WYBHuBVfjF7LjbWVA",
+    "links": [
+      "http://www.manc-komik.com"
+    ],
+    "Content": {
+      "organizer": "m&c! (Gramedia Majalah Group)",
+      "theme": "Budaya Lokal dalam Komik Indonesia",
+      "event_head": "Dwi Rahmat Wahyudi",
+      "featured_comic_launches": {
+        "title_1": "Alakazam oleh Donny Kurniawan",
+        "title_2": "Tomat oleh Libra",
+        "title_3": "Dua Warna oleh Allie"
+      },
+      "activities": {
+        "day_1": "Bazaar komik & cergam Indonesia, pameran komik, workshop komik",
+        "day_2": "Bazaar, pameran, pemutaran film animasi Jepang, talkshow, penyerahan standing character, book signing"
+      },
+      "workshop_mentors": {
+        "mentor_1": "Toni Masdiono (Penulis 14 Jurus Membuat Komik)",
+        "mentor_2": "Libra (Komikus gaek)",
+        "mentor_3": "Alfi dan Donny"
+      },
+      "talkshow_speakers": {
+        "academic": "Ibu Rahayu Hidayat (Ketua Kajian Komik Indonesia)",
+        "writer_critic": "Mas Dwiyanto Setyawan",
+        "director": "Rizal Mantovani",
+        "editor": "Uwi Mathovani (m&c!)",
+        "artists": "Alfi, Donny, Libra"
+      },
+      "talkshow_moderator": "Mbak Nurul Arifin",
+      "exhibition_contributors": {
+        "artists": "Dyotami Febrian, Is Yanuarto, Sugiarto Aliputra, DeeDee, Pugoeh, Wisnoe Lee, Sami, Swasana, Andaru",
+        "studios": "Bengkel Qomik, Papillon Studio, Karna dan Pradyanan, Rai Pandudita"
+      },
+      "source": "Animonster 52 - Juli 2003",
+      "category": [
+        "Anime - Convention / Fan Event"
+      ]
     },
-    {
-        "Start Date": "20030612",
-        "Start Time": "",
-        "End Date": "20030614",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "NIPPON CLUB YON SHUNEN KINEN BUNKASAI",
-        "Location": "Kampus Universitas Bina Nusantara (Binus)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "nhieas_5",
-        "location_address": "Jl. Raya Kb. Jeruk No.27, RT.1/RW.9, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
-        "location_city": "Jakarta Barat",
-        "location_coordinate": "-6.201751624995036, 106.78225558155025",
-        "location_gmaps": "https://maps.app.goo.gl/H1YGxBQPm9tBSga8A",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Nippon Club",
-            "event_background": "Peringatan ulang tahun Nippon Club ke-4",
-            "day_1_activities": {
-                "date": "20030612",
-                "competitions": "Lomba karaoke lagu Jepang, Lomba seiyuu gelombang 1 (anime .hack//SIGN, Tenipuri, Sister Princess Repure)",
-                "highlights": "Atraksi kembang api di pelataran kampus jam 19:00"
-            },
-            "day_2_activities": {
-                "date": "20030613",
-                "workshops": "Demo kimono no kikata (cara memakai kimono), Workshop shodo (menulis kanji) bersama Meguro-sensei",
-                "screenings": "Pemutaran film Spirited Away",
-                "competitions": "Lomba seiyuu gelombang 2 (anime Pita Ten)"
-            },
-            "day_3_activities": {
-                "date": "20030614",
-                "screenings": "Pemutaran film Returner dan Kagemusha",
-                "workshops": "Workshop washi, origami, dan painting oleh Meguro-sensei",
-                "performances": "Tarian sayuyu oleh murid Sekolah Tinggi Bahasa LIA, demo ninjutsu, demo kendo, band UKM Binus, pertunjukan Taiko, dan tarian Bon Odori"
-            },
-            "general_workshops": {
-                "chado": "Demo tata cara minum teh Jepang oleh Ibu Sani dari Perkumpulan Chado",
-                "ikebana": "Workshop merangkai bunga selama 2 hari di balkon kampus lantai 2",
-                "washi_ningyou": "Membuat boneka kertas Jepang"
-            },
-            "area_details": {
-                "ruang_311_kampus_anggrek": "Lokasi lomba seiyuu",
-                "pelataran_kampus": "Lokasi stand, panggung utama, demo bela diri, dan kembang api",
-                "stands": "Stand fortune-telling, Kinokuniya (buku/manga), vcd dorama, majalah Animonster dan Anima"
-            },
-            "film_screenings_other": "Dreams dan Millenial Actress",
-            "source": "Animonster 53 - Agustus 2003",
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030612",
+    "Start Time": "",
+    "End Date": "20030614",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "NIPPON CLUB YON SHUNEN KINEN BUNKASAI",
+    "Location": "Kampus Universitas Bina Nusantara (Binus)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "nhieas_5",
+    "location_address": "Jl. Raya Kb. Jeruk No.27, RT.1/RW.9, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "location_city": "Jakarta Barat",
+    "location_coordinate": "-6.201751624995036, 106.78225558155025",
+    "location_gmaps": "https://maps.app.goo.gl/H1YGxBQPm9tBSga8A",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "Nippon Club",
+      "event_background": "Peringatan ulang tahun Nippon Club ke-4",
+      "day_1_activities": {
+        "date": "20030612",
+        "competitions": "Lomba karaoke lagu Jepang, Lomba seiyuu gelombang 1 (anime .hack//SIGN, Tenipuri, Sister Princess Repure)",
+        "highlights": "Atraksi kembang api di pelataran kampus jam 19:00"
+      },
+      "day_2_activities": {
+        "date": "20030613",
+        "workshops": "Demo kimono no kikata (cara memakai kimono), Workshop shodo (menulis kanji) bersama Meguro-sensei",
+        "screenings": "Pemutaran film Spirited Away",
+        "competitions": "Lomba seiyuu gelombang 2 (anime Pita Ten)"
+      },
+      "day_3_activities": {
+        "date": "20030614",
+        "screenings": "Pemutaran film Returner dan Kagemusha",
+        "workshops": "Workshop washi, origami, dan painting oleh Meguro-sensei",
+        "performances": "Tarian sayuyu oleh murid Sekolah Tinggi Bahasa LIA, demo ninjutsu, demo kendo, band UKM Binus, pertunjukan Taiko, dan tarian Bon Odori"
+      },
+      "general_workshops": {
+        "chado": "Demo tata cara minum teh Jepang oleh Ibu Sani dari Perkumpulan Chado",
+        "ikebana": "Workshop merangkai bunga selama 2 hari di balkon kampus lantai 2",
+        "washi_ningyou": "Membuat boneka kertas Jepang"
+      },
+      "area_details": {
+        "ruang_311_kampus_anggrek": "Lokasi lomba seiyuu",
+        "pelataran_kampus": "Lokasi stand, panggung utama, demo bela diri, dan kembang api",
+        "stands": "Stand fortune-telling, Kinokuniya (buku/manga), vcd dorama, majalah Animonster dan Anima"
+      },
+      "film_screenings_other": "Dreams dan Millenial Actress",
+      "source": "Animonster 53 - Agustus 2003",
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20030701",
-        "Start Time": "",
-        "End Date": "20030831",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Pendaftaran Kelas Komik & Karakter Desain Master Web School",
-        "Location": "Master Web School",
-        "Comment": "",
-        "Online/Offline": "Online",
-        "status": "Finished",
-        "attended": "",
-        "_id": "njqvso_5",
-        "links": [
-            "www.masterwebschool.com"
-        ],
-        "Content": {
-            "organizer": "Master Web School",
-            "program_details": {
-                "main_classes": "Kelas Komik dan Karakter Desain",
-                "other_classes": "Cartoon Animation, Flash Animation",
-                "learning_features": "Materi teori yang mudah dimengerti dengan panduan gambar, suasana belajar menghibur, pengajar humoris",
-                "target_months": "Pendaftaran dibuka kembali untuk bulan Juli dan Agustus 2003"
-            },
-            "contact_info": {
-                "phone_1": "021-79196345",
-                "phone_2": "021-79196525"
-            },
-            "partners": {
-                "supported_by": "Jagoan!, gibug.com, DHIAR, Master Web"
-            },
-            "source": "Animonster 53 - Agustus 2003",
-            "category": [
-                "Talkshow / Seminar / Workshop"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030701",
+    "Start Time": "",
+    "End Date": "20030831",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Pendaftaran Kelas Komik & Karakter Desain Master Web School",
+    "Location": "Master Web School",
+    "Comment": "",
+    "Online/Offline": "Online",
+    "status": "Finished",
+    "attended": "",
+    "_id": "njqvso_5",
+    "links": [
+      "www.masterwebschool.com"
+    ],
+    "Content": {
+      "organizer": "Master Web School",
+      "program_details": {
+        "main_classes": "Kelas Komik dan Karakter Desain",
+        "other_classes": "Cartoon Animation, Flash Animation",
+        "learning_features": "Materi teori yang mudah dimengerti dengan panduan gambar, suasana belajar menghibur, pengajar humoris",
+        "target_months": "Pendaftaran dibuka kembali untuk bulan Juli dan Agustus 2003"
+      },
+      "contact_info": {
+        "phone_1": "021-79196345",
+        "phone_2": "021-79196525"
+      },
+      "partners": {
+        "supported_by": "Jagoan!, gibug.com, DHIAR, Master Web"
+      },
+      "source": "Animonster 53 - Agustus 2003",
+      "category": [
+        "Talkshow / Seminar / Workshop"
+      ]
     },
-    {
-        "Start Date": "20030705",
-        "Start Time": "10:00",
-        "End Date": "20030706",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Jakarta Matsuri (Jakarta Matsuri Association)",
-        "Location": "Plaza Senayan",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "gbrppb_9",
-        "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.22537675192752, 106.79907606262888",
-        "location_gmaps": "https://maps.app.goo.gl/xCy2B39BqCduAMsL6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Jakarta Matsuri Association (Kepanitiaan Jakarta Matsuri)",
-            "context": "Tahun Persahabatan ASEAN-Jepang 2003",
-            "food_and_beverages": {
-                "takoyaki": "bola cumi panggang",
-                "ikayaki": "cumi bakar",
-                "yakisoba": "mie goreng",
-                "kakikori": "es serut sirup dan kacang merah manis",
-                "drinks": "Pocari Sweat, soft drink, bir dingin"
-            },
-            "cultural_performances": {
-                "ohayashi": "musik tradisional Jepang asal Chiba-ken",
-                "osuwa_daiko": "kelompok musik taiko senior dari Jepang",
-                "yosakai_soran": "tarian massal yang diikuti 220 penari Indonesia dan Jepang",
-                "mochitsuki": "demo pembuatan mochi tradisional oleh tim softball orang Jepang"
-            },
-            "martial_arts_demo": "Kendo, Aikido, Judo, Karate, Jyujutsu",
-            "booths": {
-                "games": "Yoyotsuri (pancing balon) dan Kingyou Sukui (pancing ikan mas)",
-                "merchandise": "Boneka, kartu washi, kain noren, kipas",
-                "media": "Stand Megindo (Animonster, Cinemags, GameStation) dengan diskon hingga 50%"
-            },
-            "attractions": {
-                "mikoshi": "Upacara mengarak miniatur kuil seberat 100 kg (anak-anak) hingga 1,5 ton (dewasa) yang didatangkan langsung dari Jepang",
-                "barongsai_jepang": "Sosok menyerupai kuda yang dilakukan satu orang dengan pemandu lonceng kecil",
-                "tarian_kolaborasi": "Tarian Poco-poco dan tari medley dengan lagu tradisional Indonesia sebagai wakil kebudayaan tuan rumah"
-            },
-            "future_events": {
-                "bon_odori": "Akan digelar di Hilton Hotel pada pertengahan Juli"
-            },
-            "souvenirs": "Pembagian kipas gratis bagi setiap pengunjung",
-            "featured_shops": {
-                "anime_machi_1": "Mega Mal Lantai 3 Unit 42B, Jl. Pluit Indah Raya (Telp: 021-66670050)",
-                "anime_machi_2": "Kelapa Gading Mal Tahap III, Fashion Hub Lantai 2 2A-27",
-                "anime_machi_3": "Taman Anggrek Mal Lantai 3/334 (Telp: 021-5639259)"
-            },
-            "acknowledgments": "Maeyama family dan Niki-san yang membantu pendaftaran stand dan reportase",
-            "source": "Animonster 53 - Agustus 2003",
-            "category": [
-                "Festival / Matsuri"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030705",
+    "Start Time": "10:00",
+    "End Date": "20030706",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Jakarta Matsuri (Jakarta Matsuri Association)",
+    "Location": "Plaza Senayan",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "gbrppb_9",
+    "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "location_city": "Jakarta Pusat",
+    "location_coordinate": "-6.22537675192752, 106.79907606262888",
+    "location_gmaps": "https://maps.app.goo.gl/xCy2B39BqCduAMsL6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "Jakarta Matsuri Association (Kepanitiaan Jakarta Matsuri)",
+      "context": "Tahun Persahabatan ASEAN-Jepang 2003",
+      "food_and_beverages": {
+        "takoyaki": "bola cumi panggang",
+        "ikayaki": "cumi bakar",
+        "yakisoba": "mie goreng",
+        "kakikori": "es serut sirup dan kacang merah manis",
+        "drinks": "Pocari Sweat, soft drink, bir dingin"
+      },
+      "cultural_performances": {
+        "ohayashi": "musik tradisional Jepang asal Chiba-ken",
+        "osuwa_daiko": "kelompok musik taiko senior dari Jepang",
+        "yosakai_soran": "tarian massal yang diikuti 220 penari Indonesia dan Jepang",
+        "mochitsuki": "demo pembuatan mochi tradisional oleh tim softball orang Jepang"
+      },
+      "martial_arts_demo": "Kendo, Aikido, Judo, Karate, Jyujutsu",
+      "booths": {
+        "games": "Yoyotsuri (pancing balon) dan Kingyou Sukui (pancing ikan mas)",
+        "merchandise": "Boneka, kartu washi, kain noren, kipas",
+        "media": "Stand Megindo (Animonster, Cinemags, GameStation) dengan diskon hingga 50%"
+      },
+      "attractions": {
+        "mikoshi": "Upacara mengarak miniatur kuil seberat 100 kg (anak-anak) hingga 1,5 ton (dewasa) yang didatangkan langsung dari Jepang",
+        "barongsai_jepang": "Sosok menyerupai kuda yang dilakukan satu orang dengan pemandu lonceng kecil",
+        "tarian_kolaborasi": "Tarian Poco-poco dan tari medley dengan lagu tradisional Indonesia sebagai wakil kebudayaan tuan rumah"
+      },
+      "future_events": {
+        "bon_odori": "Akan digelar di Hilton Hotel pada pertengahan Juli"
+      },
+      "souvenirs": "Pembagian kipas gratis bagi setiap pengunjung",
+      "featured_shops": {
+        "anime_machi_1": "Mega Mal Lantai 3 Unit 42B, Jl. Pluit Indah Raya (Telp: 021-66670050)",
+        "anime_machi_2": "Kelapa Gading Mal Tahap III, Fashion Hub Lantai 2 2A-27",
+        "anime_machi_3": "Taman Anggrek Mal Lantai 3/334 (Telp: 021-5639259)"
+      },
+      "acknowledgments": "Maeyama family dan Niki-san yang membantu pendaftaran stand dan reportase",
+      "source": "Animonster 53 - Agustus 2003",
+      "category": [
+        "Festival / Matsuri"
+      ]
     },
-    {
-        "Start Date": "20030915",
-        "Start Time": "23:40",
-        "End Date": "20030925",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "High",
-        "Subject": "ASIAN Journalist Fellowship Program",
-        "Location": "Jepang (Tokyo, Kyoto, Hiroshima, Fukuoka)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Completed",
-        "attended": "Yes",
-        "_id": "FPC-2003-JL",
-        "location_address": "Berbagai lokasi di Jepang",
-        "location_city": "Tokyo",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "presenter": "Joe Lesmana (Pimred Animonster)",
-            "organizer": "Foreign Press Center (FPC) Japan",
-            "under_auspices_of": "Departemen Luar Negeri Jepang",
-            "program_theme": "Perkembangan Japanese Pop Culture",
-            "participants": "10 jurnalis dari 7 negara Asia (Singapura, Hong Kong, China, Thailand, Korea, Malaysia, dan Indonesia)",
-            "accommodation_tokyo": "Sunshine City Prince Hotel, Ikebukuro",
-            "accommodation_fukuoka": "Nishitetsu Grand Hotel",
-            "itinerary_tokyo": {
-                "meetings": "President FPC Torusuke Terada, Computer Graphic Society",
-                "seminars": {
-                    "seminar_1": "Japanese Pop Culture in Asia oleh Koichi Iwabuchi (International Christian University)",
-                    "seminar_2": "Japanese Manga: its history and identity oleh Prof. Keiichi Makino (Kyoto Seika University)"
-                },
-                "industrial_visits": "Sanrio Co. (Yuko Yamaguchi), TOEI Animation Co. (Hiroyoshi Koiwai), Shufunotomo Co. (Majalah Kawaii, ef, Ray), Fuji Television, Kodansha",
-                "entertainment": "NHK Hall (Pop Jam), Panasonic Center, Pertunjukan Kabuki",
-                "shopping_hobbies": "Mandarake, Animate, K-Books di Ikebukuro"
-            },
-            "itinerary_kyoto": {
-                "transport": "Shinkansen",
-                "cultural_sites": "Nijo Castle, Sanjusangendo Temple (1001 patung Kannon), Kiyomizudera Temple"
-            },
-            "itinerary_hiroshima": {
-                "historical_sites": "Hiroshima Atomic Bomb Museum",
-                "notable_person": "Sunao Tsuboi (Survivor bom atom)"
-            },
-            "itinerary_fukuoka": {
-                "art_culture": "Fukuoka Asian Art Museum, Digital Stadium di NHK Fukuoka",
-                "youth_fashion": "Imaizumi dan Daimyo"
-            },
-            "key_learnings": "Disiplin hidup, kebiasaan menjaga privacy orang lain, tepat waktu, dan kerja keras",
-            "program_detail": {
-                "instansi_induk": "Departemen Luar Negeri Jepang",
-                "tema": "Perkembangan Japanese Pop Culture",
-                "peserta": "10 jurnalis dari 7 negara Asia (Indonesia, Singapura, Hong Kong, China, Thailand, Korea, Malaysia)"
-            },
-            "lokasi_menginap": {
-                "tokyo": "Sunshine City Prince Hotel, Ikebukuro",
-                "fukuoka": "Nishitetsu Grand Hotel"
-            },
-            "distrik_dan_toko_hobi": {
-                "ikebukuro": "Mandarake, Animate, K-Books",
-                "fukuoka": "Daimyo dan Imaizumi (Pusat fashion)"
-            },
-            "kunjungan_industri_dan_media": {
-                "animasi_dan_manga": "TOEI Animation Co. (Produser Hiroyoshi Koiwai), Shufunotomo Co. (Majalah Kawaii, ef, Ray), Kodansha",
-                "karakter": "Sanrio Co. (Desainer Hello Kitty Yuko Yamaguchi)",
-                "teknologi_dan_tv": "Panasonic Center Tokyo, Fuji Television, NHK Hall (Pop Jam), NHK Fukuoka (Digital Stadium)"
-            },
-            "seminar_dan_edukasi": {
-                "pop_culture": "Koichi Iwabuchi Sensei (International Christian University)",
-                "manga_history": "Prof. Keiichi Makino (Kyoto Seika University)",
-                "institusi": "Computer Graphic Society"
-            },
-            "situs_budaya_dan_sejarah": {
-                "kyoto": "Nijo Castle, Sanjusangendo Temple, Kiyomizudera Temple",
-                "hiroshima": "Hiroshima Atomic Bomb Museum (Bertemu Sunao Tsuboi)",
-                "tokyo": "Pertunjukan Kabuki"
-            },
-            "catatan_perjalanan": "Menggunakan Shinkansen untuk antar kota, durasi total 10 malam di Jepang",
-            "source": "Animonster 57 - Desember 2003",
-            "category": []
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20030915",
+    "Start Time": "23:40",
+    "End Date": "20030925",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "High",
+    "Subject": "ASIAN Journalist Fellowship Program",
+    "Location": "Jepang (Tokyo, Kyoto, Hiroshima, Fukuoka)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Completed",
+    "attended": "Yes",
+    "_id": "FPC-2003-JL",
+    "location_address": "Berbagai lokasi di Jepang",
+    "location_city": "Tokyo",
+    "location_coordinate": "",
+    "location_gmaps": "",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "presenter": "Joe Lesmana (Pimred Animonster)",
+      "organizer": "Foreign Press Center (FPC) Japan",
+      "under_auspices_of": "Departemen Luar Negeri Jepang",
+      "program_theme": "Perkembangan Japanese Pop Culture",
+      "participants": "10 jurnalis dari 7 negara Asia (Singapura, Hong Kong, China, Thailand, Korea, Malaysia, dan Indonesia)",
+      "accommodation_tokyo": "Sunshine City Prince Hotel, Ikebukuro",
+      "accommodation_fukuoka": "Nishitetsu Grand Hotel",
+      "itinerary_tokyo": {
+        "meetings": "President FPC Torusuke Terada, Computer Graphic Society",
+        "seminars": {
+          "seminar_1": "Japanese Pop Culture in Asia oleh Koichi Iwabuchi (International Christian University)",
+          "seminar_2": "Japanese Manga: its history and identity oleh Prof. Keiichi Makino (Kyoto Seika University)"
         },
-        "location_country": "Japan"
+        "industrial_visits": "Sanrio Co. (Yuko Yamaguchi), TOEI Animation Co. (Hiroyoshi Koiwai), Shufunotomo Co. (Majalah Kawaii, ef, Ray), Fuji Television, Kodansha",
+        "entertainment": "NHK Hall (Pop Jam), Panasonic Center, Pertunjukan Kabuki",
+        "shopping_hobbies": "Mandarake, Animate, K-Books di Ikebukuro"
+      },
+      "itinerary_kyoto": {
+        "transport": "Shinkansen",
+        "cultural_sites": "Nijo Castle, Sanjusangendo Temple (1001 patung Kannon), Kiyomizudera Temple"
+      },
+      "itinerary_hiroshima": {
+        "historical_sites": "Hiroshima Atomic Bomb Museum",
+        "notable_person": "Sunao Tsuboi (Survivor bom atom)"
+      },
+      "itinerary_fukuoka": {
+        "art_culture": "Fukuoka Asian Art Museum, Digital Stadium di NHK Fukuoka",
+        "youth_fashion": "Imaizumi dan Daimyo"
+      },
+      "key_learnings": "Disiplin hidup, kebiasaan menjaga privacy orang lain, tepat waktu, dan kerja keras",
+      "program_detail": {
+        "instansi_induk": "Departemen Luar Negeri Jepang",
+        "tema": "Perkembangan Japanese Pop Culture",
+        "peserta": "10 jurnalis dari 7 negara Asia (Indonesia, Singapura, Hong Kong, China, Thailand, Korea, Malaysia)"
+      },
+      "lokasi_menginap": {
+        "tokyo": "Sunshine City Prince Hotel, Ikebukuro",
+        "fukuoka": "Nishitetsu Grand Hotel"
+      },
+      "distrik_dan_toko_hobi": {
+        "ikebukuro": "Mandarake, Animate, K-Books",
+        "fukuoka": "Daimyo dan Imaizumi (Pusat fashion)"
+      },
+      "kunjungan_industri_dan_media": {
+        "animasi_dan_manga": "TOEI Animation Co. (Produser Hiroyoshi Koiwai), Shufunotomo Co. (Majalah Kawaii, ef, Ray), Kodansha",
+        "karakter": "Sanrio Co. (Desainer Hello Kitty Yuko Yamaguchi)",
+        "teknologi_dan_tv": "Panasonic Center Tokyo, Fuji Television, NHK Hall (Pop Jam), NHK Fukuoka (Digital Stadium)"
+      },
+      "seminar_dan_edukasi": {
+        "pop_culture": "Koichi Iwabuchi Sensei (International Christian University)",
+        "manga_history": "Prof. Keiichi Makino (Kyoto Seika University)",
+        "institusi": "Computer Graphic Society"
+      },
+      "situs_budaya_dan_sejarah": {
+        "kyoto": "Nijo Castle, Sanjusangendo Temple, Kiyomizudera Temple",
+        "hiroshima": "Hiroshima Atomic Bomb Museum (Bertemu Sunao Tsuboi)",
+        "tokyo": "Pertunjukan Kabuki"
+      },
+      "catatan_perjalanan": "Menggunakan Shinkansen untuk antar kota, durasi total 10 malam di Jepang",
+      "source": "Animonster 57 - Desember 2003",
+      "category": []
     },
-    {
-        "Start Date": "20031022",
-        "Start Time": "19:30",
-        "End Date": "20031022",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "J-ASEAN's Pop Concert",
-        "Location": "JHCC",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "hwlafx_1",
-        "location_address": "1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
-        "location_city": "Jakarta Pusat",
-        "location_coordinate": "-6.214384955999119, 106.80754994538829",
-        "location_gmaps": "https://maps.app.goo.gl/pksxRjwZS9b8ysrx8",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "presenter": "Japan Foundation",
-            "program": "Japan-ASEAN Exchange Program 2003",
-            "performers_indonesia": {
-                "group_1": "AB Three",
-                "soloist_1": "Inul Daratista",
-                "opening_act": "Silver Quint"
-            },
-            "performers_japan": {
-                "group_1": "The Boom",
-                "group_2": "INSPi",
-                "soloist_1": "Yuri Chika"
-            },
-            "setlist_highlights": {
-                "theme_song": "Treasure The World",
-                "the_boom_songs": "Berangkat, Lian Bee, Hinamoto no Uta, Karatachi Nomichi, Shimauta"
-            },
-            "event_details": "Konser kolaborasi antara musisi Jepang dan negara-negara ASEAN sebagai penutup rangkaian tur di Kuala Lumpur dan Bangkok.",
-            "tour_context": {
-                "kuala_lumpur": "25 Juni 2003",
-                "bangkok": "26 Oktober 2003",
-                "yokohama_final": "21 Oktober 2003"
-            },
-            "source": "Animonster 57 - Desember 2003",
-            "category": [
-                "Musik - Band / Live Performance"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Japan",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20031022",
+    "Start Time": "19:30",
+    "End Date": "20031022",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "J-ASEAN's Pop Concert",
+    "Location": "JHCC",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "hwlafx_1",
+    "location_address": "1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "location_city": "Jakarta Pusat",
+    "location_coordinate": "-6.214384955999119, 106.80754994538829",
+    "location_gmaps": "https://maps.app.goo.gl/pksxRjwZS9b8ysrx8",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "presenter": "Japan Foundation",
+      "program": "Japan-ASEAN Exchange Program 2003",
+      "performers_indonesia": {
+        "group_1": "AB Three",
+        "soloist_1": "Inul Daratista",
+        "opening_act": "Silver Quint"
+      },
+      "performers_japan": {
+        "group_1": "The Boom",
+        "group_2": "INSPi",
+        "soloist_1": "Yuri Chika"
+      },
+      "setlist_highlights": {
+        "theme_song": "Treasure The World",
+        "the_boom_songs": "Berangkat, Lian Bee, Hinamoto no Uta, Karatachi Nomichi, Shimauta"
+      },
+      "event_details": "Konser kolaborasi antara musisi Jepang dan negara-negara ASEAN sebagai penutup rangkaian tur di Kuala Lumpur dan Bangkok.",
+      "tour_context": {
+        "kuala_lumpur": "25 Juni 2003",
+        "bangkok": "26 Oktober 2003",
+        "yokohama_final": "21 Oktober 2003"
+      },
+      "source": "Animonster 57 - Desember 2003",
+      "category": [
+        "Musik - Band / Live Performance"
+      ]
     },
-    {
-        "Start Date": "20031024",
-        "Start Time": "",
-        "End Date": "20031026",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "High",
-        "Subject": "Gundam Road Show",
-        "Location": "SD Bethel, SD Mawar Sharon, Kidz Station Pondok Indah Mall, Metro Plaza Senayan",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Completed",
-        "attended": "",
-        "_id": "jvtwmr_8",
-        "location_address": "Jl. Swasembada Timur XI No.36 38, RT.12/RW.10, Kebon Bawang, Tanjung Priok, North Jakarta City, Jakarta 14320",
-        "location_city": "Jakarta Utara",
-        "location_coordinate": "-6.122584574452069, 106.89101733254512",
-        "location_gmaps": "https://maps.app.goo.gl/P8npVvwDqFbnB4Dh9",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Bandai (Hobby Products Department & Asia Business Department) bekerja sama dengan Mitra Adi Perkasa",
-            "presenter": "Mr. Kamohara, Mr. Takahashi, Mr. Iwata, Mr. Kojima, dan Mr. Momo (Professional Builder)",
-            "description": "Kunjungan resmi perwakilan Bandai Jepang ke Indonesia untuk memperkenalkan produk model kits Gundam kepada anak-anak dan modeler dewasa serta meningkatkan kreativitas melalui penggunaan Gundam Marker.",
-            "itinerary": {
-                "Day_1": "Workshop singkat merakit dan mengecat model kits menggunakan Gundam Marker di SD Bethel dan SD Mawar Sharon Jakarta Selatan.",
-                "Day_2": "Press conference bersama media terkait di Chatter Box, Kidz Station, Pondok Indah Mall. Dilanjutkan dengan 2 kelas workshop (pemula untuk anak-anak dan advance untuk dewasa) serta kuis berhadiah dari Bandai.",
-                "Day_3": "Workshop di Metro, Plaza Senayan dengan antusiasme pengunjung yang tinggi."
-            },
-            "special_announcement": "Penyisihan untuk event Bandai Asia Cup (BAC). Grand Final pertama akan digelar di Hong Kong pada Desember 2003. Indonesia direncanakan ikut serta mulai tahun depan pada Asia Cup ke-2.",
-            "tools_highlighted": "Gundam Marker sebagai alternatif teknik pengecatan yang lebih sederhana.",
-            "source": "Animonster 57 - Desember 2003",
-            "category": [
-                "Toy / Figure / Hobby"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20031024",
+    "Start Time": "",
+    "End Date": "20031026",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "High",
+    "Subject": "Gundam Road Show",
+    "Location": "SD Bethel, SD Mawar Sharon, Kidz Station Pondok Indah Mall, Metro Plaza Senayan",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Completed",
+    "attended": "",
+    "_id": "jvtwmr_8",
+    "location_address": "Jl. Swasembada Timur XI No.36 38, RT.12/RW.10, Kebon Bawang, Tanjung Priok, North Jakarta City, Jakarta 14320",
+    "location_city": "Jakarta Utara",
+    "location_coordinate": "-6.122584574452069, 106.89101733254512",
+    "location_gmaps": "https://maps.app.goo.gl/P8npVvwDqFbnB4Dh9",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "Bandai (Hobby Products Department & Asia Business Department) bekerja sama dengan Mitra Adi Perkasa",
+      "presenter": "Mr. Kamohara, Mr. Takahashi, Mr. Iwata, Mr. Kojima, dan Mr. Momo (Professional Builder)",
+      "description": "Kunjungan resmi perwakilan Bandai Jepang ke Indonesia untuk memperkenalkan produk model kits Gundam kepada anak-anak dan modeler dewasa serta meningkatkan kreativitas melalui penggunaan Gundam Marker.",
+      "itinerary": {
+        "Day_1": "Workshop singkat merakit dan mengecat model kits menggunakan Gundam Marker di SD Bethel dan SD Mawar Sharon Jakarta Selatan.",
+        "Day_2": "Press conference bersama media terkait di Chatter Box, Kidz Station, Pondok Indah Mall. Dilanjutkan dengan 2 kelas workshop (pemula untuk anak-anak dan advance untuk dewasa) serta kuis berhadiah dari Bandai.",
+        "Day_3": "Workshop di Metro, Plaza Senayan dengan antusiasme pengunjung yang tinggi."
+      },
+      "special_announcement": "Penyisihan untuk event Bandai Asia Cup (BAC). Grand Final pertama akan digelar di Hong Kong pada Desember 2003. Indonesia direncanakan ikut serta mulai tahun depan pada Asia Cup ke-2.",
+      "tools_highlighted": "Gundam Marker sebagai alternatif teknik pengecatan yang lebih sederhana.",
+      "source": "Animonster 57 - Desember 2003",
+      "category": [
+        "Toy / Figure / Hobby"
+      ]
     },
-    {
-        "Start Date": "20031122",
-        "Start Time": "",
-        "End Date": "20031124",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "High",
-        "Subject": "Pekan KOMIKASIA 2003",
-        "Location": "Aula Timur ITB",
-        "Comment": "Implementasi praktis telaah kritis visual manga/anime.",
-        "Online/Offline": "Offline",
-        "status": "Past Event",
-        "attended": "",
-        "_id": "ctxxgq_9",
-        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.892322243487059, 107.61102770000001",
-        "location_gmaps": "https://goo.gl/maps/4KeYdMiiZaS6UBbr9",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Drs. Iman Sudjudi (Ketua Panitia Pelaksana)",
-            "co_organizer": "Ikatan Pemuda-pemudi Desain Grafis (IPPDIG) PS-DKV FSRD ITB",
-            "sponsors": {
-                "foundations": "The Japan Foundation, The Sumitomo Foundation",
-                "publishers": "Mizan, Elex Media Komputindo, DAR! Mizan, m&c!",
-                "media": "102.3 RASE FM Bandung, Animonster"
-            },
-            "seminar_speakers": "Kosei Ono, Dr. Muliyadi Mahamood, Dr. Edi Sedyawati, Drs. T. Sutanto, MSc.",
-            "talkshow_speakers": "Dr. Rahayu Hidayat, Retno Kristy, Andi Yudha Asfandiyar, Hafiz Aziz Ahmad",
-            "moderators": "Priyanto S., Toni Masdiono",
-            "workshop_details": {
-                "date": "23 November 2003",
-                "theme": "Keseharian Dalam Komik",
-                "type": "Lomba Komik Sehari dan Workshop"
-            },
-            "exhibition_details": {
-                "period": "22 - 24 Maret 2003",
-                "content": "Karya lomba, workshop, karya studio, karya penerbit"
-            },
-            "research_background": {
-                "title": "Learning from Pokemon Design Phenomenon",
-                "period": "2001 - 2002",
-                "team_lead": "Tendy Y. Ramadin"
-            },
-            "source": "Animonster 50 - Mei 2003",
-            "presented_by": "Kelompok Bidang Keahlian (KBK) Ilustrasi dan Seni Sekuensial PS-DKV FSRD ITB",
-            "opening_ceremony": {
-                "officiated_by": "Dr. Boy Kombaitan (Sekretaris Eksekutif ITB)",
-                "keynote_speaker": "Dr. Setiawan Sabana, MFA (Dekan FSRD ITB)",
-                "schedule_note": "Acara dibuka pukul 10.00, bergeser dari jadwal semula pukul 08.00"
-            },
-            "seminar_details": {
-                "topic": "Bahasa Visual Jepang: Deskripsi dan Bagaimana Pengaruhnya Masuk di Asia Tenggara",
-                "moderator": "Drs. Priyanto S.",
-                "speakers": {
-                    "Prof_Kosei_Ono": "Kokushikan University, membahas sejarah anime/manga",
-                    "Dr_Muliyadi_Mahamood": "Universiti Teknologi MARA Malaysia, membahas pengaruh manga di Malaysia",
-                    "Dr_Edi_Sedyawati": "Universitas Indonesia, membahas klasifikasi komik Indonesia",
-                    "T_Sutanto": "DKV ITB, membahas pengaruh asing dalam dunia komik Indonesia"
-                }
-            },
-            "talkshow_details": {
-                "topic": "Sinergi Dalam Berbagai Bahasa Visual: Jepang dan Lokal",
-                "moderator": "Toni Masdiono",
-                "speakers": [
-                    "Ratna Sari (Elex Media Komputindo)",
-                    "Uwi Mathovani (m&c!)",
-                    "Andi Yudha (DAR! Mizan)",
-                    "Pitra Satvika (Studio Bajing Loncat)",
-                    "Shieny/Calista (Studio Format)",
-                    "Hafiz Aziz Ahmad (Pengajian Komik DKV)"
-                ]
-            },
-            "workshop_and_competitions": {
-                "workshop_instructors": "Triyadi Guntur, Oyasujiwo, Dyotami",
-                "workshop_participants": "170 peserta (Kelas Basic & Advanced)",
-                "competition_entries": "250 karya dari seluruh Indonesia",
-                "prize_pool": "Rp 7.500.000 (Komik Pendek) dan Rp 1.500.000 (Komik Sehari)"
-            },
-            "exhibition_participants": [
-                "Bengkel Qomik Solo",
-                "Calista",
-                "Vania",
-                "Istana Kartun (Iskar)",
-                "Gibug Komik Surabaya",
-                "Studio UNI Komik Bandung",
-                "Comic Tribe Unpar",
-                "Comicon Comic and Illustration School",
-                "DKV Trisakti",
-                "DKV Interstudi",
-                "DKV ITB"
-            ],
-            "special_guest": "Machiko Maeyama dari Machiko Manga School",
-            "category": [
-                "Festival / Matsuri",
-                "Anime - Convention / Fan Event"
-            ]
-        },
-        "location_country": "Indonesia"
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20031122",
+    "Start Time": "",
+    "End Date": "20031124",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "High",
+    "Subject": "Pekan KOMIKASIA 2003",
+    "Location": "Aula Timur ITB",
+    "Comment": "Implementasi praktis telaah kritis visual manga/anime.",
+    "Online/Offline": "Offline",
+    "status": "Past Event",
+    "attended": "",
+    "_id": "ctxxgq_9",
+    "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.892322243487059, 107.61102770000001",
+    "location_gmaps": "https://goo.gl/maps/4KeYdMiiZaS6UBbr9",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "Drs. Iman Sudjudi (Ketua Panitia Pelaksana)",
+      "co_organizer": "Ikatan Pemuda-pemudi Desain Grafis (IPPDIG) PS-DKV FSRD ITB",
+      "sponsors": {
+        "foundations": "The Japan Foundation, The Sumitomo Foundation",
+        "publishers": "Mizan, Elex Media Komputindo, DAR! Mizan, m&c!",
+        "media": "102.3 RASE FM Bandung, Animonster"
+      },
+      "seminar_speakers": "Kosei Ono, Dr. Muliyadi Mahamood, Dr. Edi Sedyawati, Drs. T. Sutanto, MSc.",
+      "talkshow_speakers": "Dr. Rahayu Hidayat, Retno Kristy, Andi Yudha Asfandiyar, Hafiz Aziz Ahmad",
+      "moderators": "Priyanto S., Toni Masdiono",
+      "workshop_details": {
+        "date": "23 November 2003",
+        "theme": "Keseharian Dalam Komik",
+        "type": "Lomba Komik Sehari dan Workshop"
+      },
+      "exhibition_details": {
+        "period": "22 - 24 Maret 2003",
+        "content": "Karya lomba, workshop, karya studio, karya penerbit"
+      },
+      "research_background": {
+        "title": "Learning from Pokemon Design Phenomenon",
+        "period": "2001 - 2002",
+        "team_lead": "Tendy Y. Ramadin"
+      },
+      "source": "Animonster 50 - Mei 2003",
+      "presented_by": "Kelompok Bidang Keahlian (KBK) Ilustrasi dan Seni Sekuensial PS-DKV FSRD ITB",
+      "opening_ceremony": {
+        "officiated_by": "Dr. Boy Kombaitan (Sekretaris Eksekutif ITB)",
+        "keynote_speaker": "Dr. Setiawan Sabana, MFA (Dekan FSRD ITB)",
+        "schedule_note": "Acara dibuka pukul 10.00, bergeser dari jadwal semula pukul 08.00"
+      },
+      "seminar_details": {
+        "topic": "Bahasa Visual Jepang: Deskripsi dan Bagaimana Pengaruhnya Masuk di Asia Tenggara",
+        "moderator": "Drs. Priyanto S.",
+        "speakers": {
+          "Prof_Kosei_Ono": "Kokushikan University, membahas sejarah anime/manga",
+          "Dr_Muliyadi_Mahamood": "Universiti Teknologi MARA Malaysia, membahas pengaruh manga di Malaysia",
+          "Dr_Edi_Sedyawati": "Universitas Indonesia, membahas klasifikasi komik Indonesia",
+          "T_Sutanto": "DKV ITB, membahas pengaruh asing dalam dunia komik Indonesia"
+        }
+      },
+      "talkshow_details": {
+        "topic": "Sinergi Dalam Berbagai Bahasa Visual: Jepang dan Lokal",
+        "moderator": "Toni Masdiono",
+        "speakers": [
+          "Ratna Sari (Elex Media Komputindo)",
+          "Uwi Mathovani (m&c!)",
+          "Andi Yudha (DAR! Mizan)",
+          "Pitra Satvika (Studio Bajing Loncat)",
+          "Shieny/Calista (Studio Format)",
+          "Hafiz Aziz Ahmad (Pengajian Komik DKV)"
+        ]
+      },
+      "workshop_and_competitions": {
+        "workshop_instructors": "Triyadi Guntur, Oyasujiwo, Dyotami",
+        "workshop_participants": "170 peserta (Kelas Basic & Advanced)",
+        "competition_entries": "250 karya dari seluruh Indonesia",
+        "prize_pool": "Rp 7.500.000 (Komik Pendek) dan Rp 1.500.000 (Komik Sehari)"
+      },
+      "exhibition_participants": [
+        "Bengkel Qomik Solo",
+        "Calista",
+        "Vania",
+        "Istana Kartun (Iskar)",
+        "Gibug Komik Surabaya",
+        "Studio UNI Komik Bandung",
+        "Comic Tribe Unpar",
+        "Comicon Comic and Illustration School",
+        "DKV Trisakti",
+        "DKV Interstudi",
+        "DKV ITB"
+      ],
+      "special_guest": "Machiko Maeyama dari Machiko Manga School",
+      "category": [
+        "Festival / Matsuri",
+        "Anime - Convention / Fan Event"
+      ]
     },
-    {
-        "Start Date": "20031215",
-        "Start Time": "",
-        "End Date": "20031221",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "VEGA HOBBY CHALLENGE 2003 - ANIMONSTER MODEL KIT NATIONAL CHALLENGE 2003",
-        "Location": "Bandung Super Mall (BSM)",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "zqntvz_6",
-        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.92482028135678, 107.63625083877746",
-        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Animonster, Vega, Bandai, Tamiya",
-            "categories": {
-                "gundam_model_kit": "Single (Standard), Modifikasi (Scratch Build), Diorama",
-                "tamiya_model_kit": "Mobil, Motor",
-                "militer": "Single"
-            },
-            "prizes": {
-                "gundam_class": "Juara 1: Perfect Grade + Piala, Juara 2: Master Grade + Piala, Juara 3: High Grade + Piala",
-                "tamiya_and_military_class": "Juara 1: Paket Tamiya 1,5 Juta + Piala, Juara 2: Paket Tamiya 1 Juta + Piala, Juara 3: Paket Tamiya 750 Ribu + Piala"
-            },
-            "judging_criteria": "1. Kualitas Finishing Paint, 2. Tingkat Realitas, 3. Kerapihan, 4. Detail, 5. Pose",
-            "registration_requirements": {
-                "form_locations": "Animonster #41, Vega BSM, Vega Ranggamalela, Peter Partner (Taman Anggrek)",
-                "fee": "Rp. 35.000,-",
-                "notes": "Tiap peserta boleh mengikut sertakan lebih dari satu model/kelas"
-            },
-            "submission_locations": {
-                "location_1": "Vega, Jl. Ranggamalela no. 3 Bandung. Telp 022-4209873",
-                "location_2": "Vega, Bandung Super Mall Lt. 3 Bandung. Telp 022-9101322"
-            },
-            "event_schedule": {
-                "exhibition_dates": "20-21 Desember 2003",
-                "judging_date": "20-21 Desember 2003"
-            },
-            "source": "Animonster 56 - November 2003",
-            "category": [
-                "Anime - Convention / Fan Event",
-                "Toy / Figure / Hobby"
-            ]
-        },
-        "location_country": "Indonesia"
-    }
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  },
+  {
+    "Start Date": "20031215",
+    "Start Time": "",
+    "End Date": "20031221",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "VEGA HOBBY CHALLENGE 2003 - ANIMONSTER MODEL KIT NATIONAL CHALLENGE 2003",
+    "Location": "Bandung Super Mall (BSM)",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "",
+    "_id": "zqntvz_6",
+    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.92482028135678, 107.63625083877746",
+    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+    "links": [
+      ""
+    ],
+    "Content": {
+      "organizer": "Animonster, Vega, Bandai, Tamiya",
+      "categories": {
+        "gundam_model_kit": "Single (Standard), Modifikasi (Scratch Build), Diorama",
+        "tamiya_model_kit": "Mobil, Motor",
+        "militer": "Single"
+      },
+      "prizes": {
+        "gundam_class": "Juara 1: Perfect Grade + Piala, Juara 2: Master Grade + Piala, Juara 3: High Grade + Piala",
+        "tamiya_and_military_class": "Juara 1: Paket Tamiya 1,5 Juta + Piala, Juara 2: Paket Tamiya 1 Juta + Piala, Juara 3: Paket Tamiya 750 Ribu + Piala"
+      },
+      "judging_criteria": "1. Kualitas Finishing Paint, 2. Tingkat Realitas, 3. Kerapihan, 4. Detail, 5. Pose",
+      "registration_requirements": {
+        "form_locations": "Animonster #41, Vega BSM, Vega Ranggamalela, Peter Partner (Taman Anggrek)",
+        "fee": "Rp. 35.000,-",
+        "notes": "Tiap peserta boleh mengikut sertakan lebih dari satu model/kelas"
+      },
+      "submission_locations": {
+        "location_1": "Vega, Jl. Ranggamalela no. 3 Bandung. Telp 022-4209873",
+        "location_2": "Vega, Bandung Super Mall Lt. 3 Bandung. Telp 022-9101322"
+      },
+      "event_schedule": {
+        "exhibition_dates": "20-21 Desember 2003",
+        "judging_date": "20-21 Desember 2003"
+      },
+      "source": "Animonster 56 - November 2003",
+      "category": [
+        "Anime - Convention / Fan Event",
+        "Toy / Figure / Hobby"
+      ]
+    },
+    "location_country": "Indonesia",
+    "date_precision": "day",
+    "source_status": "archived"
+  }
 ]
