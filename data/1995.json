@@ -1,48 +1,46 @@
 [
-    {
-        "Start Date": "19950701",
-        "Start Time": "10:00",
-        "End Date": "19950709",
-        "End Time": "19:00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Pertunjukan Langsung Jiban & Winspector",
-        "Location": "Istora Senayan",
-        "Comment": "Pertunjukan panggung langsung pahlawan super Jepang (Tokusatsu) yang menghadirkan Jiban dan Winspector ke Jakarta. Data diambil dari arsip tiket fisik tahun 1995.",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "Yes",
-        "_id": "tokusatsu_show_senayan_1995",
-        "location_address": "Istora Senayan, Kompleks Gelora Bung Karno",
-        "location_city": "Jakarta",
-        "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
-        "links": [
-            "https://www.facebook.com/share/p/1LnsggYy6h/"
-        ],
-        "date_precision": "day",
-        "source_status": "archived",
-        "Content": {
-            "category": [
-                "Live Action Show",
-                "Tokusatsu",
-                "Entertainment"
-            ],
-            "organizer": "Indosiar",
-            "description": "Acara spesial yang membawa pemeran asli atau stuntman resmi dari serial Jiban dan Winspector untuk tampil di depan penggemar di Indonesia.",
-            "performers": [
-                "Jiban",
-                "Winspector (Fire, Bikel, Walter)"
-            ],
-            "ticket_info": {
-                "type": "Tanda Masuk Pertunjukan",
-                "price": "Rp 5.000,-",
-                "seat_section": "Tribun"
-            },
-            "historical_context": "Diselenggarakan bertepatan dengan masa awal penyiaran serial tersebut di stasiun televisi Indosiar."
-        }
+  {
+    "Start Date": "19951104",
+    "Start Time": "10:00",
+    "End Date": "19951105",
+    "End Time": "19:00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Pertunjukan Langsung Jiban & Winspector",
+    "Location": "Istora Senayan",
+    "Comment": "Pertunjukan panggung langsung pahlawan super Jepang (Tokusatsu) yang menghadirkan Jiban dan Winspector ke Jakarta. Data diambil dari arsip tiket fisik tahun 1995.",
+    "Online/Offline": "Offline",
+    "status": "Finished",
+    "attended": "Yes",
+    "_id": "tokusatsu_show_senayan_1995",
+    "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "location_city": "Jakarta Pusat",
+    "location_coordinate": "-6.219993650644207, 106.8056960829497",
+    "location_gmaps": "https://goo.gl/maps/nvCpokwmLaPxUzmd6",
+    "location_country": "Indonesia",
+    "links": [
+      "https://www.facebook.com/share/p/1LnsggYy6h/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Tokusatsu"
+      ],
+      "organizer": "Indosiar",
+      "description": "Acara spesial yang membawa pemeran asli atau stuntman resmi dari serial Jiban dan Winspector untuk tampil di depan penggemar di Indonesia.",
+      "performers": [
+        "Jiban",
+        "Winspector (Fire, Bikel, Walter)"
+      ],
+      "ticket_info": {
+        "type": "Tanda Masuk Pertunjukan",
+        "price": "Rp 5.000,-",
+        "seat_section": "Tribun"
+      },
+      "historical_context": "Diselenggarakan bertepatan dengan masa awal penyiaran serial tersebut di stasiun televisi Indosiar."
     }
+  }
 ]
