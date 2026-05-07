@@ -869,10 +869,64 @@
         "location_coordinate": "-6.897720164368746, 107.64543348295432",
         "location_gmaps": "https://g.page/universitas-widyatama",
         "links": [
-            ""
+            "https://www.instagram.com/p/Buqx_tRhZdO/",
+            "https://www.instagram.com/sashimiwidyatama/",
+            "https://www.facebook.com/WidyatamaJapanCommunity/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Dance - Competition / Cover"
+            ],
+            "organizer": "Japan Community Universitas Widyatama",
+            "theme": "DUNGEON",
+            "description": "Edisi kesebelas dari SASHIMI (Satu Hari Bersama Japan Community Widyatama) yang menghadirkan berbagai hiburan budaya populer Jepang.",
+            "guest_stars": {
+                "list": [
+                    "Thousand Sunny",
+                    "Lunatic Tokyo",
+                    "LuSca (@lusca.id)",
+                    "Eyivose",
+                    "S.A.M Site",
+                    "Aozora"
+                ]
+            },
+            "special_performances": {
+                "list": [
+                    "Harvest",
+                    "Ticking Timebomb",
+                    "Quincy",
+                    "Blaze",
+                    "Japan Community Cosplay Group",
+                    "Onomatope",
+                    "PPGirls (@ppgirlsofficial)"
+                ]
+            },
+            "activities": {
+                "list": [
+                    "Live Music",
+                    "Cosplay Competition",
+                    "Cover Dance Competition",
+                    "Cosplay Photobooth",
+                    "Community Booth",
+                    "Idol Group Performance",
+                    "Food Bazaar (Jepang & Lokal)",
+                    "Merchandise Booth"
+                ]
+            },
+            "judges": {
+                "cosplay": [
+                    "Nanaamao",
+                    "Dimboyz",
+                    "Kazuhyun"
+                ]
+            },
+            "ticket_info": {
+                "htm": "FREE ENTRY"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -963,7 +1017,8 @@
         "location_coordinate": "-7.771334334808857, 110.37663902190323",
         "location_gmaps": "https://goo.gl/maps/SgUPZmGA4t9pXuFb8",
         "links": [
-            "https://web.facebook.com/ikimasujogja/posts/pfbid034rCq68chKr6MwWrUnfPbZkijeKRyjUuW54x8hwNFwx811qdPX2yFUWGHW6Nm2sDgl"
+            "https://web.facebook.com/ikimasujogja/posts/pfbid034rCq68chKr6MwWrUnfPbZkijeKRyjUuW54x8hwNFwx811qdPX2yFUWGHW6Nm2sDgl",
+            "https://www.instagram.com/p/BvAtlRKhGpv/"
         ],
         "Content": {
             "category": [
@@ -1051,10 +1106,45 @@
         "location_coordinate": "-7.255675975114304, 112.73356876228164",
         "location_gmaps": "https://goo.gl/maps/usc92jnWWFXNynLKA",
         "links": [
-            ""
+            "https://www.instagram.com/p/BvAtGevB-er/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Performance Lainnya"
+            ],
+            "organizer": "Sakamichi Surabaya",
+            "theme": "Sakamichi Surabaya Punya!!! 2nd Anniversary",
+            "edition": "2nd Anniversary",
+            "description": "Perayaan ulang tahun ke-2 komunitas Sakamichi Surabaya yang menghadirkan berbagai penampilan grup idol dan komunitas dance cover.",
+            "location": "L2 Multifunction Hall BG Junction",
+            "date": "Sabtu, 30 Maret 2019",
+            "ticket_info": {
+                "htm": "15K"
+            },
+            "guest_stars": [
+                "Story Maker",
+                "HT One",
+                "Fibeats",
+                "Kiseki"
+            ],
+            "performers": {
+                "special_performer": [
+                    "TDC48 Project",
+                    "Akiramenna.id",
+                    "Sea Berry (Unit ITS10.sby)",
+                    "VVoice48",
+                    "SSxSSB"
+                ]
+            },
+            "contact": {
+                "vickimoto": "081353229779",
+                "marcogp": "08819641797"
+            },
+            "social_media": {
+                "instagram": "@sakamichi_sby"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1123,6 +1213,89 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20190331",
+        "Start Time": "",
+        "End Date": "20190331",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "The Seasons of Cosplay Japan Party",
+        "Location": "Seasons City Jakarta",
+        "Comment": "Berdasarkan poster resmi, acara dilaksanakan pada hari Minggu, 31 Maret 2019.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "the_seasons_of_cosplay_japan_party_2019",
+        "location_address": "Jemb. Besi, Kec. Tambora, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.153402311227914, 106.79608391249302",
+        "location_gmaps": "https://maps.app.goo.gl/k56TgLidde6zzpMDA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/Bvg6JrQBFB4/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance - Competition / Cover",
+                "Bazaar / Market"
+            ],
+            "organizer": "Seasons City",
+            "description": "Acara perayaan budaya Jepang yang menghadirkan pesta cosplay, kompetisi, dan berbagai penampilan idola.",
+            "guest_stars": {
+                "guest_performance": [
+                    "Star Sugar (@starsugar.id)",
+                    "DDM x Monolite"
+                ],
+                "special_performance": [
+                    "Hanami (@hanamiidolgrup)",
+                    "Fiki Firmanto",
+                    "Arigachuu (@arigachuu_)",
+                    "Noahchafuri"
+                ],
+                "judges": {
+                    "coswalk": [
+                        "Laurensia",
+                        "Mariana Garcia",
+                        "Zuzu"
+                    ]
+                }
+            },
+            "special_hosts": [
+                "Asami",
+                "Kizuna"
+            ],
+            "activities": {
+                "list": [
+                    "Cosplay Party",
+                    "Dance Cover Performance",
+                    "Community Gathering",
+                    "Games Music",
+                    "Bazaar",
+                    "Competition",
+                    "FlashMob"
+                ]
+            },
+            "ticket_info": {
+                "htm": "FREE ENTRY"
+            },
+            "contact_person": {
+                "andri": "081313248510 (WA)"
+            },
+            "supported_by": [
+                "ZYGMA",
+                "ANVERSTA",
+                "HOBIKU.NET"
+            ]
+        }
+    },
+    {
         "Start Date": "20190406",
         "Start Time": "12:00 AM",
         "End Date": "20190408",
@@ -1173,10 +1346,83 @@
         "location_coordinate": "-7.95391183067087, 112.6132624829626",
         "location_gmaps": "https://goo.gl/maps/AsKK8jjitckx3vz27",
         "links": [
-            ""
+            "https://www.instagram.com/p/Bvg60BnBesP/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Pendidikan / Workshop",
+                "Bazaar / Market",
+                "Performance Lainnya"
+            ],
+            "organizer": "Fakultas Ilmu Budaya Universitas Brawijaya",
+            "theme": "Isshoni Tanoshimimashou 14: Sora no Bouken",
+            "edition": "14",
+            "description": "Japanese Total Festival yang menghadirkan berbagai kompetisi budaya dan seni Jepang, wahana hiburan, serta penampilan dari idol populer.",
+            "location": "Fakultas Ilmu Budaya Universitas Brawijaya, Malang",
+            "date": "20-21 April 2019",
+            "rundown": {
+                "time": "09.00 AM - Drop"
+            },
+            "ticket_info": {
+                "type": "FREE ENTRY"
+            },
+            "guest_stars": [
+                "Cindy Gulla",
+                "Momiji Velvet",
+                "Shojo Complex",
+                "Nekonoi Katsu"
+            ],
+            "performers": {
+                "workshop": "Lintankleen",
+                "other_performances": [
+                    "Re-Live",
+                    "Zennith",
+                    "Maestoso",
+                    "Vista"
+                ]
+            },
+            "competition": {
+                "list": [
+                    "Karaoke",
+                    "Manga",
+                    "Kanji",
+                    "Cerdas Cermat",
+                    "Shodou",
+                    "Benron",
+                    "Kikikakitori",
+                    "Dance Cover",
+                    "Roudoku",
+                    "Doujinshi",
+                    "Fanart",
+                    "Cosplay"
+                ]
+            },
+            "activities": [
+                "Bazar",
+                "Shodou Gallery",
+                "Obake Yashiki",
+                "Komunitas",
+                "Yukata Photobooth",
+                "Games",
+                "Maid Cafe",
+                "Workshop Manga",
+                "Kurabu Exhibition",
+                "Rewind",
+                "Shodou Performance"
+            ],
+            "social_media": {
+                "instagram": "@isshonitanoshi"
+            },
+            "supported_by": [
+                "Japan Foundation",
+                "IM3 Ooredoo"
+            ],
+            "source": {
+                "file": "image_f92cc0.jpg"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1211,6 +1457,84 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20190421",
+        "Start Time": "09:00",
+        "End Date": "20190421",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nihon Matsuri 2019: Nihon no Utsukushisa",
+        "Location": "Lapangan B1 FBS Universitas Negeri Semarang",
+        "Comment": "Festival Jepang tahunan yang diselenggarakan oleh @nimats_unnes dengan tema 'Nihon no Utsukushisa'.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nihon_matsuri_unnes_2019",
+        "location_address": "FBS UNNES, Unnes, Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229",
+        "location_city": "Semarang",
+        "location_coordinate": "-7.048850538223871, 110.3921804551702",
+        "location_gmaps": "https://maps.app.goo.gl/vabamHPgLHHooLdD9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/Bv_O--RhU6J/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Dance - Competition / Cover",
+                "Seni / Workshop"
+            ],
+            "organizer": "@nimats_unnes (UNNES)",
+            "theme": "Nihon no Utsukushisa",
+            "description": "Nihon Matsuri 2019 menghadirkan berbagai kompetisi budaya Jepang, bazar makanan, dan penampilan dari bintang tamu populer.",
+            "guest_stars": {
+                "list": [
+                    "Matchamei (@matchamei)",
+                    "Redshift (@redshiftvocaloid)"
+                ]
+            },
+            "special_performances": {
+                "list": [
+                    "Black Pearl (@blackpearlcrusader)",
+                    "Lighthouse Band (@lighthouseband_smg)",
+                    "Hokago (@hokago_id)",
+                    "DJ Ruswanda"
+                ]
+            },
+            "activities": {
+                "event_list": [
+                    "Meet & Greet Matcha Mei",
+                    "Games",
+                    "Drama",
+                    "Food Corner",
+                    "Photobooth",
+                    "Merchandise",
+                    "Bon Odori",
+                    "Odori"
+                ],
+                "competitions": [
+                    "Band Competition",
+                    "Dance Cover",
+                    "Song Cover",
+                    "Cosplay Competition",
+                    "Fanart",
+                    "Makan Takoyaki (Lomba OTS)",
+                    "Costreet (Lomba OTS)"
+                ]
+            },
+            "ticket_info": {
+                "presale": "12k (8 - 20 April)",
+                "ots": "15k (21 April)"
+            }
+        }
     },
     {
         "Start Date": "20190421",
@@ -1335,6 +1659,168 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20190428",
+        "Start Time": "10:00",
+        "End Date": "20190428",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-Coshokai 4: Hibana no Utopia",
+        "Location": "Graha Politeknik Negeri Malang",
+        "Comment": "Acara festival Jepang tahunan yang diselenggarakan oleh Japan Corner Polinema.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "j_coshokai_4_polinema_2019",
+        "location_address": "Jl. Soekarno Hatta No.9, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+        "location_city": "Malang",
+        "location_coordinate": "-7.947446780069792, 112.61670909695157",
+        "location_gmaps": "https://goo.gl/maps/XB6x6SmXgVNDRAPb6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/Bv_P_y7h6wu/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Guest",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "@japancornerpolinema",
+            "theme": "Hibana no Utopia",
+            "description": "J-Coshokai 4 merupakan ajang unjuk kreativitas budaya Jepang yang menghadirkan penampil idola, tamu cosplay, dan berbagai kompetisi.",
+            "guest_stars": {
+                "cosplay": [
+                    "Nekonoi Katsu",
+                    "Takiya Edi"
+                ]
+            },
+            "performers": {
+                "idol_groups": [
+                    "@htone_dc",
+                    "@masutaidolcover",
+                    "@aminus.dc"
+                ]
+            },
+            "mc": "Andi Phebe",
+            "activities": [
+                "Performers",
+                "Competitions",
+                "Booth"
+            ],
+            "ticket_info": {
+                "htm": "Rp. 15.000"
+            },
+            "contact_person": {
+                "wiga": "083833500433",
+                "fenta": "081230793138"
+            },
+            "social_media": {
+                "instagram": [
+                    "japancornerpolinema",
+                    "japancornerid"
+                ],
+                "facebook": "japancornerpolinema.com"
+            }
+        }
+    },
+    {
+        "Start Date": "20190428",
+        "Start Time": "09:00",
+        "End Date": "20190428",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Monogatari: School of Magic",
+        "Location": "Kampus 3 UTY, Yogyakarta",
+        "Comment": "Acara ini merupakan festival Jepang yang diselenggarakan oleh Monogatari UTY dengan tema 'School of Magic'. Berdasarkan pembaruan informasi, tanggal pelaksanaan adalah 28 April 2019.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "monogatari_uty_school_of_magic_2019",
+        "location_address": "Jl. Prof. DR. Soepomo Sh No.21, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.80452052672672, 110.39113173804756",
+        "location_gmaps": "https://maps.app.goo.gl/1rkMaHA3rLWjzYvQ9",
+        "links": [
+            "https://www.instagram.com/p/BvTBq1XBHcB/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance - Competition / Cover",
+                "Seni / Workshop"
+            ],
+            "organizer": "@monogatariuty",
+            "theme": "School of Magic",
+            "description": "Festival Jepang yang menghadirkan berbagai kompetisi, pertunjukan musik, dan rumah hantu.",
+            "guest_stars": {
+                "idol": [
+                    "@near.id",
+                    "@momijivelvet"
+                ],
+                "others": [
+                    "2n2 Project",
+                    "Cross X Over",
+                    "Tsukiyomi"
+                ],
+                "judges": {
+                    "cosplay": [
+                        "Daruma",
+                        "Leone JT",
+                        "Recca"
+                    ]
+                }
+            },
+            "special_performances": [
+                "@eqourz",
+                "SBJ"
+            ],
+            "mc": [
+                "Yoana & NaaNaa"
+            ],
+            "activities": [
+                "Competitions",
+                "Music Performance",
+                "Obake Yashiki",
+                "Ramen Eating",
+                "Food Court",
+                "Community Corner"
+            ],
+            "competitions": {
+                "list": [
+                    "Menghias Bento (5K)",
+                    "Moji Goi (25K)",
+                    "Karaoke (30K)",
+                    "Dance Cover (50K)",
+                    "Design Character (15K)",
+                    "Coswalk (25K)",
+                    "Cosplay Competition (30K)",
+                    "Ramen (FREE)"
+                ]
+            },
+            "ticket_info": {
+                "htm_normal": "15k",
+                "pre_sale": "10k",
+                "obake": "8k"
+            },
+            "contact_person": {
+                "bayu": "+62 896-6511-9954"
+            }
+        }
     },
     {
         "Start Date": "20190501",
@@ -1591,6 +2077,76 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20190721",
+        "Start Time": "",
+        "End Date": "20190721",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jinsei Wa Kibou Desu (Jinsei Fest 2019)",
+        "Location": "Auditorium UNISRI",
+        "Comment": "Acara festival budaya populer Jepang yang diselenggarakan oleh Divisi Bahasa dan Budaya Himahi Unisri.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jinsei_fest_2019_solo",
+        "location_address": "Jl. Sumpah Pemuda No.18, Kadipiro, Kec. Banjarsari, Kota Surakarta, Jawa Tengah",
+        "location_city": "Solo",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.540891941352116, 110.82292293746805",
+        "location_gmaps": "https://maps.app.goo.gl/TaeXfpn8sjGi31tQA",
+        "links": [
+            "https://www.instagram.com/p/B0AB31rBr-0/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Talkshow"
+            ],
+            "organizer": "Div. Bahasa dan Budaya Himahi Unisri",
+            "description": "Jinsei Fest kembali hadir di tahun 2019 dengan tema 'Jinsei Wa Kibou Desu'.",
+            "guest_stars": {
+                "list": [
+                    "Nekonoi Katsu",
+                    "Dejikai"
+                ]
+            },
+            "special_performances": {
+                "list": [
+                    "DASH Idol Project",
+                    "Rose Metal"
+                ]
+            },
+            "activities": {
+                "list": [
+                    "Talkshow",
+                    "Food bazaar",
+                    "Merchandise selling",
+                    "Games",
+                    "Tanabata wish"
+                ]
+            },
+            "competitions": {
+                "list": [
+                    "Coswalk",
+                    "Anisong",
+                    "Oogui Challenge (Lomba Makan)"
+                ]
+            },
+            "ticket_info": {
+                "presale_1": "10k",
+                "presale_2": "12k",
+                "ots": "15k"
+            }
+        }
+    },
+    {
         "Start Date": "20190727",
         "Start Time": "",
         "End Date": "20190727",
@@ -1777,6 +2333,80 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20190824",
+        "Start Time": "10:00",
+        "End Date": "20190824",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "B-Bunkasai 2019: Orihime to Hikoboshi no Monogatari",
+        "Location": "SMAN 3 Malang",
+        "Comment": "Festival budaya Jepang tahunan yang diselenggarakan oleh SMAN 3 Malang dengan tema legenda Tanabata.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "b_bunkasai_sman_3_malang_2019",
+        "location_address": "Jl. Sultan Agung No.7, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65144",
+        "location_city": "Malang",
+        "location_coordinate": "-7.976462150394544, 112.63482357392769",
+        "location_gmaps": "https://goo.gl/maps/DDQC6drNimRDmmoM6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/B0svVdmBoPq/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Dance - Competition / Cover",
+                "Seni / Workshop"
+            ],
+            "organizer": "SMAN 3 Malang",
+            "theme": "Orihime to Hikoboshi no Monogatari",
+            "description": "B-Bunkasai 2019 mengundang publik untuk menikmati festival budaya Jepang dengan berbagai kompetisi dan acara spesial.",
+            "guest_stars": {
+                "featuring": "KameAam",
+                "guest_stars_list": [
+                    "Moon Beams",
+                    "Baby Metal",
+                    "Jack Rabbit",
+                    "You & I"
+                ]
+            },
+            "activities": {
+                "special_events": [
+                    "Maid Cafe",
+                    "Obake (Rumah Hantu)",
+                    "Theater"
+                ],
+                "competitions": [
+                    "Dance",
+                    "Artwork",
+                    "Band",
+                    "Coswalk"
+                ]
+            },
+            "ticket_info": {
+                "presale": "13k",
+                "ots": "15k (Siang/Malam)",
+                "siswa_smanti": "5k"
+            },
+            "contact_person": {
+                "elthan": "+62 852-3426-4026"
+            },
+            "social_media": {
+                "instagram": "@bbunkasai2k19",
+                "facebook": "B-Bunkasai",
+                "website": "b-bunkasai.ictbhawikarsu.com"
+            }
+        }
     },
     {
         "Start Date": "20190825",
@@ -2214,12 +2844,81 @@
         "location_coordinate": "-7.771334334808857, 110.37663902190323",
         "location_gmaps": "https://goo.gl/maps/SgUPZmGA4t9pXuFb8",
         "links": [
-            ""
+            "https://www.instagram.com/p/B2B_AnABXS9/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Game / Esports Tournament",
+                "Bazaar / Market"
+            ],
+            "organizer": "Gadjah Mada Bunka Taika UGM",
+            "theme": "Gamabunta Techno Matsuri! (GAMBATTERU)",
+            "guest_stars": {
+                "performer": [
+                    "DJ Saddam",
+                    "Minerva Land",
+                    "Say!Won!",
+                    "Crossover Band"
+                ]
+            },
+            "judges": {
+                "karaoke": [
+                    "Yayan",
+                    "Zetto"
+                ],
+                "cosplay": [
+                    "Yonan",
+                    "Juan Switch",
+                    "Zeun"
+                ],
+                "dance_cover": [
+                    "Shahira",
+                    "Ninda",
+                    "Maki"
+                ]
+            },
+            "mc": [
+                "Dhaxtama",
+                "Lvlfina",
+                "Yudha",
+                "Fina"
+            ],
+            "performers": {
+                "special_performances": [
+                    "Gamabunta Band",
+                    "Kokkuri Girls",
+                    "2N2 Project",
+                    "Victoria Symphony",
+                    "Unmanly",
+                    "E-Qourz"
+                ]
+            },
+            "description": "Festival kuliner, treasure map, community area, mini games area, dan berbagai perlombaan budaya pop Jepang.",
+            "competition": {
+                "categories": [
+                    "Karaoke",
+                    "Dance Cover",
+                    "Cosplay",
+                    "Coswalk",
+                    "Tekken",
+                    "Yu-Gi-Oh!",
+                    "Osu!"
+                ]
+            },
+            "ticket_info": {
+                "ots": "Rp 15.000"
+            },
+            "social_media": {
+                "instagram": "gambatteru_matsuri",
+                "facebook": "Gamabunta Techno Matsuri",
+                "line": "@mjy2022j"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2722,12 +3421,79 @@
         "location_coordinate": "-6.221455142000975, 106.92746794311208",
         "location_gmaps": "https://goo.gl/maps/GJdpKdVCTRfA2MsN9",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10158028387758836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10158028387758836/",
+            "https://www.instagram.com/p/B3NuVSmhVvH/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Bazaar / Market",
+                "Anime - Convention / Fan Event"
+            ],
+            "organizer": "Hikari Japan Club - SMAN 44 Jakarta",
+            "theme": "HIKARI NO MATSURI (Tanabata Matsuri)",
+            "edition": "2019",
+            "mc": [
+                "Cinthya Lorene",
+                "Kikis"
+            ],
+            "performers": [
+                "Nanoka",
+                "Occata",
+                "Space Cowboy Band",
+                "MYTH MUSIC",
+                "Niwakara",
+                "Rikka21",
+                "Yuzukyuu",
+                "Zuu_zuzu",
+                "Komodonothingtodo",
+                "Cherry Aniqueen"
+            ],
+            "competition": {
+                "categories": [
+                    "Cosplay",
+                    "Dance Cover",
+                    "Eatcon",
+                    "Fanart",
+                    "Fanfiction",
+                    "Fotografi",
+                    "Kana",
+                    "Mading",
+                    "Singcon"
+                ]
+            },
+            "description": "Japanese Festival bertema Tanabata yang menghadirkan comic room, photo spots, merchandise, dan bazaar kuliner Jepang.",
+            "ticket_info": {
+                "ots": "Rp 20.000"
+            },
+            "sponsors": [
+                "Takeshi Tako"
+            ],
+            "media_partners": [
+                "wibunews_medpart",
+                "KAORI Nusantara",
+                "wibu_sableng.event",
+                "ligi_media",
+                "eventjepang",
+                "ayooberitadotcom",
+                "Furahasekai",
+                "jakarta_nihonbu",
+                "hantu.komunitas",
+                "Japanese Station"
+            ],
+            "social_media": {
+                "instagram": "@hikari_hinotsu",
+                "twitter": "@hikarinomatsuri",
+                "facebook": "facebook.com/hinotsu.sman44",
+                "website": "http://hinotsu.blog.fc2.com/"
+            },
+            "contact": {
+                "email": "hikarinomatsuri@gmail.com"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2764,6 +3530,85 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20191020",
+        "Start Time": "11:00",
+        "End Date": "20191020",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "2nd Akatsuki No Matsuri",
+        "Location": "Gedung Kesenian Gajayana",
+        "Comment": "Acara budaya populer Jepang yang menghadirkan kompetisi cosplay, dance cover, dan J-Song. Data diekstrak dari gambar image_59c271.jpg dan deskripsi teks.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "akatsuki_no_matsuri_2019",
+        "location_address": "Gedung Kesenian Gajayana, Malang",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/B3tp9kBBHVk/",
+            "https://www.instagram.com/akatsukimatsuri",
+            "https://www.instagram.com/histora.id/",
+            "https://www.instagram.com/p/B3y_sd4BBnd/"
+        ],
+        "date_precision": "day",
+        "source_status": "active",
+        "Content": {
+            "category": [
+                "Matsuri",
+                "Cosplay",
+                "Competition",
+                "Culinary"
+            ],
+            "organizer": "Mikata x Kishira OS x BNC",
+            "description": "Festival tahunan Akatsuki No Matsuri yang kedua dengan berbagai kegiatan komunitas, kuliner, dan panggung hiburan.",
+            "featured_guests": [
+                "Anzu Chic",
+                "mocatune.",
+                "Kururin"
+            ],
+            "performers": [
+                "Kiseki",
+                "Dyolow",
+                "Cosmo",
+                "Maestoso"
+            ],
+            "competitions": [
+                "J-Song",
+                "Cosplay Competition",
+                "Coswalk",
+                "Dance Cover"
+            ],
+            "contact_info": {
+                "name": "Aulia",
+                "phone": "089638260804"
+            },
+            "ticket_info": {
+                "on_the_spot": "20k"
+            },
+            "rundown": {
+                "11.00": "Open Gate",
+                "12.00": "Pembukaan acara",
+                "12.10": "Maestoso",
+                "12.40": "Lomba Karaoke",
+                "14.40": "Komentar Juri",
+                "15.00": "Kiseki",
+                "15.30": "Lomba Dance Cover",
+                "16.10": "Coswalk",
+                "17.30": "Cosplay perform + COSMO",
+                "18.00": "Ishoma",
+                "18.30": "Pengumuman",
+                "19.00": "Moccatune",
+                "19.45": "Dyolow"
+            }
+        }
     },
     {
         "Start Date": "20191026",
@@ -3130,7 +3975,8 @@
             "https://www.instagram.com/disb.project/p/B3XXAdyBbb5/",
             "https://www.instagram.com/p/B34esfIhxHh/",
             "https://www.instagram.com/disb.project/p/B4M2zw6BnZ8/",
-            "https://www.instagram.com/ligi_media/p/B3YFIjMBDfd/"
+            "https://www.instagram.com/ligi_media/p/B3YFIjMBDfd/",
+            "https://www.instagram.com/p/B3YFIjMBDfd/"
         ],
         "Content": {
             "Rundown": [
@@ -3393,7 +4239,7 @@
         "location_coordinate": "-6.329047462733708, 107.29335588464875",
         "location_gmaps": "https://goo.gl/maps/g9snp3dwC5x6ScGW9",
         "links": [
-            ""
+            "https://www.instagram.com/p/B31EGqnBzpC/"
         ],
         "Content": {
             "Rundown": [
@@ -3616,8 +4462,75 @@
             ],
             "category": [
                 "Festival / Matsuri",
-                "Musik - Idol / VTuber"
-            ]
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Budaya Jepang - Seni Tradisional",
+                "Bazaar / Market"
+            ],
+            "organizer": "JKT48 Karawang x Karaage Otaku",
+            "theme": "We Love Our Local Idols",
+            "edition": "2019",
+            "description": "Pesta idol terbesar di kota Karawang yang menjadi wadah apresiasi bagi grup idol lokal, band, dan penyanyi dengan kultur J-Pop dan J-Rock.",
+            "guest_stars": {
+                "idol": [
+                    "AIDORUMON",
+                    "Amaimonogatari",
+                    "Hira Dazzle",
+                    "Aniqueen",
+                    "Occata",
+                    "Naira",
+                    "Nanoka",
+                    "Gochikara",
+                    "Nekodachi",
+                    "Aidorukohana",
+                    "Animus",
+                    "Akemi",
+                    "Avenue",
+                    "Kireishii",
+                    "Verst"
+                ],
+                "band": [
+                    "Melodicious Reiwa",
+                    "Shafira x Dewan Merdu",
+                    "After 10 Minutes"
+                ],
+                "classical_music": [
+                    "Trama & Friends"
+                ],
+                "traditional_music": [
+                    "Arumba Fatkar"
+                ]
+            },
+            "performers": {
+                "wotagei": [
+                    "GPS Team"
+                ]
+            },
+            "mc": [
+                "Nime (Ex. Lusca)",
+                "Yuu-chan (Ex. Lusca)"
+            ],
+            "ticket_info": {
+                "htm": "Free"
+            },
+            "community_partners": [
+                "JKT48 Karawang",
+                "Karaage Otaku"
+            ],
+            "media_partners": [
+                "SNI",
+                "MPG"
+            ],
+            "social_media": {
+                "instagram": "@kif_2019",
+                "twitter": "@kif_2019",
+                "facebook": "Karawang Idol Fest"
+            },
+            "contact": {
+                "whatsapp": "0812-8098-5890",
+                "email": "karawangidolfest@gmail.com"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

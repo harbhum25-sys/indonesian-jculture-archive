@@ -9381,7 +9381,8 @@
             "https://www.instagram.com/jcd.network/p/DVn5C0skiZZ/",
             "https://www.instagram.com/jcd.network/p/DVvybY4Enj5/",
             "https://www.instagram.com/jcd.network/p/DVyRNLgDywj/",
-            "https://www.instagram.com/p/DRuhHbEkvnR/"
+            "https://www.instagram.com/p/DRuhHbEkvnR/",
+            "https://www.instagram.com/ligi_media/reel/DW8gR-1k_Ue/"
         ],
         "Content": {
             "organizer": "Japan Culture Daisuki",
@@ -15127,7 +15128,8 @@
         "location_gmaps": "https://maps.app.goo.gl/RQ2pd8aUT73hqg6n6",
         "links": [
             "https://www.instagram.com/p/DW_CycRk1R7/",
-            "https://web.facebook.com/groups/251875943835/posts/10165332316963836/"
+            "https://web.facebook.com/groups/251875943835/posts/10165332316963836/",
+            "https://www.instagram.com/p/DYBKAoqCJi_/"
         ],
         "Content": {
             "category": [
@@ -15174,10 +15176,158 @@
                 "@eventhubid",
                 "@lsora_graphy",
                 "@perintisotaku"
-            ]
+            ],
+            "rundown": {
+                "day_1_09_mei_2026": {
+                    "12.30": "Opening",
+                    "13.00": "Anisong Karoke",
+                    "13.30": "Mini Games by Sponsor",
+                    "13.50": "Free performance",
+                    "14.50": "Cosstreet",
+                    "15.20": "Idol Performance Anomawave",
+                    "15.50": "Idol Performance Nyxia",
+                    "16.20": "Random Play Dance",
+                    "17.20": "Karoke Party",
+                    "18.20": "Winner Cosstreet"
+                },
+                "day_2_10_mei_2026": {
+                    "12.30": "Opening",
+                    "13.00": "Mini Talkshow Seira Amayo",
+                    "13.30": "J song Han & Milky",
+                    "14.10": "Idol Performance Miraishi",
+                    "15.00": "Coswalk Competition",
+                    "16.00": "Idol Performance Stars",
+                    "16.30": "Idol Performance R3ach",
+                    "17.10": "J Band Sky Fall",
+                    "18.15": "Soloist Kazu",
+                    "18.50": "Idol Performance Sora Hikari",
+                    "19.30": "Winner Coswalk Competition + Close"
+                }
+            }
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260509",
+        "Start Time": "14:30",
+        "End Date": "20260509",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sylus Cosplayer (Love and Deepspace) at Bola Obi Raos",
+        "Location": "Supermal Karawaci & Alam Sutera",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "sylus_cosplayer_raos_2026",
+        "location_address": "Outlet Bola Obi Raos (Supermal Karawaci & Alam Sutera)",
+        "location_city": "Tangerang",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.facebook.com/share/1P7WoKFcXY/",
+            "https://www.instagram.com/limcosfit"
+        ],
+        "date_precision": "day",
+        "source_status": "active",
+        "Content": {
+            "category": [
+                "Cosplay",
+                "Fan Meeting",
+                "Culinary"
+            ],
+            "organizer": "Bola Obi Raos",
+            "description": "Kunjungan spesial cosplayer Sylus ke dua outlet Bola Obi Raos untuk sesi foto bareng dan fan service.",
+            "featured_guests": [
+                "Sylus (Cosplayer: @limcosfit)"
+            ],
+            "schedule": [
+                {
+                    "time": "14:30 - 16:00",
+                    "venue": "Bola Obi Raos Supermal Karawaci"
+                },
+                {
+                    "time": "18:00 - 21:00",
+                    "venue": "Bola Obi Raos Alam Sutera"
+                }
+            ],
+            "special_events": [
+                "Free Foto Bareng (minimal pembelian 2 porsi)",
+                "Free Fan Service"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260510",
+        "Start Time": "15:00",
+        "End Date": "20260510",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BACK TO PARTY 12",
+        "Location": "Convention Hall Tirtonadi Solo",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "back_to_party_12_solo_2026",
+        "location_address": "JL. Jend A Yani 200 RT 004/01 ( Lantai Atas Terminal Tirtonadi ), Solo, 57167, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",
+        "location_city": "Solo",
+        "location_coordinate": "-7.550978018754268, 110.81833183643265",
+        "location_gmaps": "https://goo.gl/maps/GJUxYFNLrmn5TPsG8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DX9Q8IxEQCV/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance - Competition / Cover",
+                "Fashion / Lifestyle"
+            ],
+            "organizer": "Market Place (MP)",
+            "description": "Edisi ke-12 dari acara Back To Party dengan tema \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd (Perjalanan yang Menyenangkan).",
+            "guest_stars": {
+                "judges": [
+                    "Rizky Shirosaki (@rizkyshirosaki)"
+                ],
+                "line_up": [
+                    "Sora Hana (@sorahana.idol)",
+                    "Mikazuki (@mikazuki.idol)",
+                    "Sequinn (@sequinn.ofc)",
+                    "Kiseki No Hi (@kisekinohi_official)",
+                    "Sanno Yuka (@sannoyuka)",
+                    "Atakaze Cosplay (@atakaze.cosplay)"
+                ]
+            },
+            "activities": {
+                "list": [
+                    "Coswalk Competition",
+                    "Clash of Wibu",
+                    "Idol Performance",
+                    "Dance Performance",
+                    "Wibugar",
+                    "Games",
+                    "Fashion",
+                    "Kuliner (F&B)",
+                    "Karaoke"
+                ]
+            },
+            "ticket_info": {
+                "htm": "FREE HTM"
+            }
+        }
     },
     {
         "Start Date": "20260510",
@@ -15204,7 +15354,8 @@
             "https://www.instagram.com/loveouridol.fest/",
             "https://www.instagram.com/p/DWQttOIkg6U/",
             "https://www.instagram.com/p/DVyQ4Y9koFe/",
-            "https://www.instagram.com/p/DXbOk0WEsaa/"
+            "https://www.instagram.com/p/DXbOk0WEsaa/",
+            "https://www.instagram.com/p/DX-2Cz8kjhd/"
         ],
         "Content": {
             "category": [
@@ -15235,7 +15386,24 @@
                 "whatsapp": "089504832381 (Yuzin)",
                 "instagram": "@loveouridol.fest"
             },
-            "description": "Love Our Idol Fest (LOIF) 2026 di Bandung."
+            "description": "Love Our Idol Fest (LOIF) 2026 di Bandung.",
+            "rundown": {
+                "11:00": "Persiapan Dan Pembukaan Stage",
+                "11:30": "SUMMERTIME",
+                "12:05": "LUMINA SCARLET",
+                "12:40": "PRISM",
+                "13:20": "KIRA QUEEN",
+                "13:55": "KARAFURU",
+                "14:30": "YAMISAKI",
+                "15:05": "HANASTA",
+                "15:40": "SIRENE STAR",
+                "16:20": "STELLARIA",
+                "16:55": "TOMOSHIBI",
+                "17:30": "NEKODACHI",
+                "18:05": "CHORUSELA",
+                "18:40": "STELLARLUNA",
+                "19:15": "KIRINDAY"
+            }
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -15457,7 +15625,10 @@
             "https://www.instagram.com/japanesiamatsuri/p/DWLJlsqkt5S/",
             "https://www.instagram.com/japanesiamatsuri/p/DWL5nMZEsFq/",
             "https://www.instagram.com/p/DVxfyT3E69_/",
-            "https://www.instagram.com/p/DW0qLK9FGlD/"
+            "https://www.instagram.com/p/DW0qLK9FGlD/",
+            "https://www.instagram.com/p/DX9NgovksFg/",
+            "https://web.facebook.com/share/p/1BxqYpX2Ei/",
+            "https://www.instagram.com/p/DX_fEFqEapP/"
         ],
         "Content": {
             "organizer": [
@@ -15562,6 +15733,32 @@
                     ],
                     "note": "Seat terbatas"
                 }
+            },
+            "rundown": {
+                "09.30": "Open Gate",
+                "10.00": "Traditional Performance STBA",
+                "10.15": "Chikazuki",
+                "10.35": "Wibu Battle Arena Qualify",
+                "11.35": "Velamasc",
+                "11.55": "Traditional Performance ITB",
+                "12.10": "Naira",
+                "12.30": "Japanese Food Eating 1",
+                "12.45": "Heno Heno Moheji",
+                "13.05": "Coswalk Competition 1",
+                "13.30": "Chorusella",
+                "13.50": "Secret Hope",
+                "14.20": "Coswalk Competition 2",
+                "14.45": "Aurora Dream",
+                "15.15": "Harvest Band",
+                "15.45": "Kirin Day",
+                "16.15": "Wibu Battle Arena Final",
+                "16.45": "Japanese Food Eating 2",
+                "17.00": "Coswalk Aniverse",
+                "17.45": "Muses",
+                "18.25": "Awarding",
+                "18.55": "Twenty Nine Teens",
+                "19.25": "DJ Hiramaki",
+                "19.55": "Parade x Hanabi"
             },
             "social_media": {
                 "instagram": "@japanesiamatsuri"
@@ -15760,6 +15957,60 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20260515",
+        "Start Time": "18:30",
+        "End Date": "20260515",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Beginner Tekken 8 Tournament",
+        "Location": "Kickoff Coffee (Jembatan Basit)",
+        "Comment": "Turnamen Tekken 8 khusus pemula dengan sistem Double Elimination dan aturan Standard TWT. Pendaftaran gratis dengan pembelian minimal 1 item di Kickoff Coffee.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "beginner_tekken_8_tournament_2026",
+        "location_address": "Berangas Tim., Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan",
+        "location_city": "Banjarmasin",
+        "location_country": "Indonesia",
+        "location_coordinate": "-3.2777835870565664, 114.58994239800474",
+        "location_gmaps": "https://maps.app.goo.gl/sJvjAoSD5mtHF4k16",
+        "links": [
+            "https://www.instagram.com/p/DX_OJqvE_1D/"
+        ],
+        "date_precision": "day",
+        "source_status": "active",
+        "Content": {
+            "category": [
+                "Tournament",
+                "Esports",
+                "Gaming"
+            ],
+            "organizer": "SBIF | Kickoff Coffee",
+            "description": "Turnamen Tekken 8 yang ditujukan bagi pemain tingkat pemula dengan hadiah ratusan ribu rupiah.",
+            "tournament_details": {
+                "format": "Double Elimination",
+                "rules": "Standard TWT Rule",
+                "slots": "Maksimal 18-32 slot"
+            },
+            "ban_list": [
+                "Semua atlet/player Kejurprov dan Porprov",
+                "Juara tournament local",
+                "Pemain yang terpantau bukan beginner (Reysc, Capo, Eri, Kevin, Amin, Aulia, Ayay, Juan, Ilyas, Dhiya)"
+            ],
+            "requirements": {
+                "registration": "Gratis",
+                "note": "Wajib membeli minimal 1 item menu Kickoff Coffee dan follow Instagram @kickoffcoffee"
+            },
+            "contact_info": {
+                "wa": "082250085496",
+                "instagram": "@tekken_kalsel"
+            }
+        }
+    },
+    {
         "Start Date": "20260516",
         "Start Time": "08:00",
         "End Date": "20260516",
@@ -15868,7 +16119,8 @@
             "https://www.instagram.com/p/DWr2Zd8E-vU/",
             "https://www.instagram.com/larcenciel_bandung/p/DWtgy6vkkx6/",
             "https://www.instagram.com/larcenciel_bandung/p/DWtgy6vkkx6/",
-            "https://www.instagram.com/larcenciel_bandung/p/DWuRwFBExJg/"
+            "https://www.instagram.com/larcenciel_bandung/p/DWuRwFBExJg/",
+            "https://www.instagram.com/p/DX_GJnYErpK/"
         ],
         "Content": {
             "category": [
@@ -15879,8 +16131,103 @@
             "theme": "35th L'Anniversary Year",
             "description": "Event tribute untuk band Jepang L'Arc en Ciel dengan konsep anniversary ke-35.",
             "ticket_info": {
-                "presale": "Rp 35.000"
+                "presale": "Rp 35.000",
+                "ots": "Rp 50.000"
             },
+            "rundown": [
+                {
+                    "time": "10.00 - 11.00",
+                    "activity": "Open Gate"
+                },
+                {
+                    "time": "11.00 - 11.30",
+                    "activity": "Opening MC & Preparation"
+                },
+                {
+                    "time": "11.30 - 12.00",
+                    "activity": "Break"
+                },
+                {
+                    "time": "12.00 - 12.30",
+                    "activity": "Den-den mushi"
+                },
+                {
+                    "time": "12.30 - 13.00",
+                    "activity": "Higanbana"
+                },
+                {
+                    "time": "13.00 - 13.30",
+                    "activity": "Enrei"
+                },
+                {
+                    "time": "13.30 - 14.00",
+                    "activity": "Aozora"
+                },
+                {
+                    "time": "14.00 - 14.30",
+                    "activity": "Lunatic Tokyo"
+                },
+                {
+                    "time": "14.30 - 14.45",
+                    "activity": "Jousei no Melody"
+                },
+                {
+                    "time": "14.45 - 15.00",
+                    "activity": "Break"
+                },
+                {
+                    "time": "15.00 - 15.30",
+                    "activity": "Foto Bersama & Doorprize"
+                },
+                {
+                    "time": "15.30 - 16.00",
+                    "activity": "Mirai"
+                },
+                {
+                    "time": "16.00 - 16.30",
+                    "activity": "Saturday Kensou"
+                },
+                {
+                    "time": "16.30 - 17.00",
+                    "activity": "Fairy Tales"
+                },
+                {
+                    "time": "17.30 - 18.00",
+                    "activity": "Artpenciel"
+                },
+                {
+                    "time": "18.00 - 18.15",
+                    "activity": "Break"
+                },
+                {
+                    "time": "18.15 - 18.45",
+                    "activity": "Desired"
+                },
+                {
+                    "time": "18.45 - 19.15",
+                    "activity": "Thousand Sunny"
+                },
+                {
+                    "time": "19.15 - 19.30",
+                    "activity": "Break"
+                },
+                {
+                    "time": "19.30 - 20.00",
+                    "activity": "Chikazuki"
+                },
+                {
+                    "time": "20.00 - 20.30",
+                    "activity": "MOA"
+                },
+                {
+                    "time": "20.30 - 21.00",
+                    "activity": "WYZ"
+                },
+                {
+                    "time": "21.00 - Selesai",
+                    "activity": "Closing"
+                }
+            ],
             "social_media": {
                 "instagram": "@tribute_laruku"
             },
@@ -16978,7 +17325,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DWlobAxCVFd/",
-            "https://jfunfestival2026.my.canva.site/"
+            "https://jfunfestival2026.my.canva.site/",
+            "https://www.instagram.com/p/DX82k3umKUL/"
         ],
         "Content": {
             "category": [
