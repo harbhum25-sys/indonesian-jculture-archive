@@ -825,6 +825,87 @@
     "source_status": "archived"
   },
   {
+    "Start Date": "20260510",
+    "Start Time": "",
+    "End Date": "20260510",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "NIKUMA 9: Summer Odyssey",
+    "Location": "SMA Negeri 1 Cianjur",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "nikuma_9_summer_odyssey_2026",
+    "location_address": "Jl. Pangeran Hidayatullah No.62, Sawah Gede, Kec. Cianjur, Kabupaten Cianjur, Jawa Barat 43212",
+    "location_city": "Cianjur",
+    "location_country": "Indonesia",
+    "location_coordinate": "-6.8174415, 107.1395542",
+    "location_gmaps": "https://maps.app.goo.gl/P6Yn8w8Vb4x8Yx4Y7",
+    "links": [
+      "https://www.instagram.com/jc_smansacjr/",
+      "https://www.instagram.com/p/DXrgovWkVjq/",
+      "https://www.instagram.com/p/DX_3BcVma6-/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Festival / Matsuri",
+        "Cosplay - Competition / Coswalk",
+        "Budaya Jepang - Seni Tradisional",
+        "Anime - Convention / Fan Event"
+      ],
+      "organizer": "Japanese Club SMAN 1 Cianjur",
+      "theme": "Summer Odyssey",
+      "edition": "9",
+      "ticket_info": {
+        "presale_2": "Rp 20.000"
+      },
+      "competition": {
+        "coswalk": {
+          "name": "Coswalk Competition"
+        },
+        "fanart": {
+          "name": "Fanart Competition"
+        },
+        "rodoku": {
+          "name": "Rodoku Contest"
+        }
+      },
+      "activities": [
+        "Kingyo Sukui",
+        "Jackpot Drop",
+        "Tanzaku Wish Tree"
+      ],
+      "social_media": {
+        "instagram": "@jc_smansacjr"
+      },
+      "rundown" : {
+  "09.00": "Pendaftaran Ulang Coswalk & Fanart Competition",
+  "09.00": "Open Gate",
+  "09.15": "Opening",
+  "09.30": "Guess the Anime: Sundanese Edition",
+  "10.00": "Kirakiraisy",
+  "10.20": "Reiko Akira",
+  "10.40": "Coswalk Competition",
+  "11.20": "Guess the Lyrics",
+  "11.50": "ISHOMA",
+  "12.35": "Yoona",
+  "12.50": "Saukya",
+  "13.00": "Redlyn Wong",
+  "13.10": "Talkshow With Guest Star",
+  "13.45": "Lunarian Piece",
+  "14.05": "Pengumuman Pemenang Lomba",
+  "14.25": "Shirai Zone",
+  "15.05": "Closing"
+}
+    }
+  },
+  {
     "Start Date": "20260117",
     "Start Time": "",
     "End Date": "20260117",
@@ -1628,6 +1709,109 @@
     },
     "date_precision": "day",
     "source_status": "archived"
+  },
+  {
+    "Start Date": "20260510",
+    "Start Time": "13:00",
+    "End Date": "20260510",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Tekken Malang Mini Tournament",
+    "Location": "Niskala 2.0",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "tekken_malang_mini_tournament_2026_05",
+    "location_address": "Jl. Soekarno Hatta No.9a, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "location_city": "Malang",
+    "location_country": "Indonesia",
+    "location_coordinate": "-7.945964519869726, 112.6180243926595",
+    "location_gmaps": "https://maps.app.goo.gl/uDocLZhc2AXABGnS6",
+    "links": [
+      "https://www.instagram.com/p/DYCyhAeGsuq/",
+      "https://www.instagram.com/niskala2.0/"
+    ],
+    "date_precision": "day",
+    "source_status": "active",
+    "Content": {
+      "category": [
+        "Festival / Matsuri"
+      ],
+      "organizer": "Tekken Malang",
+      "description": "Mini turnamen komunitas Tekken yang direncanakan akan rutin diadakan setiap bulan.",
+      "prizepool": "Rp 150.000",
+      "schedule": {
+        "re-registration": "12:00",
+        "start": "13:00"
+      },
+      "registration_info": {
+        "method": "Scan QR Code pada slide kedua Instagram",
+        "fee": "Free",
+        "eligibility": "Open for everyone"
+      },
+      "contact_person": "0857 4500 0189 (Yoza)"
+    }
+  },
+  {
+    "Start Date": "20260530",
+    "Start Time": "08:00",
+    "End Date": "20260530",
+    "End Time": "17:00",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "KIMONO 2026: Ame ni nureru Ajisai",
+    "Location": "SMA Negeri 7 Kota Bekasi",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "kimono_sman7_bekasi_2026",
+    "location_address": "Jl. Lkr. Tata Kota No.107, RT.012/RW.015, Jatisampurna, Kec. Jatisampurna, Kota Bks, Jawa Barat 17433",
+    "location_city": "Bekasi",
+    "location_coordinate": "-6.3665023719987275, 106.92144663491977",
+    "location_gmaps": "https://goo.gl/maps/jAfSbx72P5JsszDD8",
+    "location_country": "Indonesia",
+    "links": [
+      "https://www.facebook.com/share/p/1E542YjoKH/",
+      "https://www.instagram.com/p/DYCYfYeIPfy/"
+    ],
+    "date_precision": "day",
+    "source_status": "active",
+    "Content": {
+      "category": [
+        "Festival / Matsuri",
+        "Cosplay - Competition / Coswalk"
+      ],
+      "organizer": "SMA Negeri 7 Kota Bekasi",
+      "theme": "Ame ni nureru Ajisai (Bunga Ajisai yang Basah oleh Hujan)",
+      "description": "Acara ini mengangkat kisah fiksi antara Monoganashi dan Kitagari yang dikaitkan dengan keajaiban perubahan warna bunga Ajisai (Nanahenge).",
+      "activities": [
+        "LCT (Lomba Cerdas Tangkas)",
+        "Coswalk",
+        "Speedart",
+        "Fanart",
+        "Karaoke"
+      ],
+      "registration_info": {
+        "period": "30 April 2026 - 23 May 2026",
+        "links": {
+          "LCT": "https://forms.gle/XwGVdxKAveJK3wU66",
+          "Coswalk": "https://forms.gle/jfYazsKkJcxgmiEb6",
+          "Speedart": "https://forms.gle/rhfJ37Wapnvaptmu8",
+          "Fanart": "https://forms.gle/u4Pi2YXFDYQuJZF67",
+          "Karaoke": "https://forms.gle/nPgaQKajVZS29aPJ6"
+        }
+      },
+      "ticket_info": {
+        "htm": "Update HTM menyusul"
+      }
+    }
   },
   {
     "Start Date": "20260125",
@@ -5799,6 +5983,74 @@
     },
     "date_precision": "day",
     "source_status": "archived"
+  },
+  {
+    "Start Date": "20260510",
+    "Start Time": "",
+    "End Date": "20260510",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Banzai Cosplay Depok",
+    "Location": "Ciplaz Depok",
+    "Comment": "",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "banzai_cosplay_depok_2026",
+    "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+    "location_city": "Depok",
+    "location_coordinate": "-6.391816768232732, 106.82521213985275",
+    "location_gmaps": "https://maps.app.goo.gl/oVWsgu1K7d5Mbfpu7",
+    "location_country": "Indonesia",
+    "links": [
+      "https://www.facebook.com/share/1DogKqjgN3/",
+      "https://metaco.gg/event/sFjjzK2y2CThQfBgLqJeL"
+    ],
+    "date_precision": "day",
+    "source_status": "active",
+    "Content": {
+      "category": [
+        "Festival / Matsuri",
+        "Cosplay - Competition / Coswalk",
+        "Musik - Idol / VTuber"
+      ],
+      "organizer": "Rising Sun Cosplay Corp, Cosplay Depok, & Ramayana Depok",
+      "description": "Acara silaturahmi bagi para cosplayer, idol, dan otaku yang dimeriahkan oleh kompetisi coswalk berhadiah uang tunai serta penampilan DJ Anisong.",
+      "featured_guests": [
+        "Alice Domino (Judge)",
+        "DJ Banzai Squad",
+        "La Belle",
+        "Ndu & Uvia",
+        "Fujinkai43",
+        "Jump7"
+      ],
+      "activities": [
+        "Cosplay Party",
+        "Lomba Coswalk",
+        "DJ Anisong",
+        "Random Dance Play",
+        "Band Performance",
+        "Idol Dance Show",
+        "Bazaar Merchandise Wibu"
+      ],
+      "ticket_info": {
+        "htm": "FREE / GRATIS"
+      },
+      "rundown" : {
+  "13.00": "Pembukaan oleh MC",
+  "13.15": "Special Perform Duo Singer Nduu & Uvia",
+  "14.00": "Special Perform Band Jump 7",
+  "14.35": "Guest Star Idol Fujinkai43",
+  "15.00": "Break Ashar",
+  "15.20": "Lomba Coswalk",
+  "16.20": "Guest Star Idol La Belle",
+  "17.05": "Random Dance Play & Guest Star DJ Banzai Squad",
+  "17.35": "Pengumuman Lomba Coswalk"
+}
+    }
   },
   {
     "Start Date": "20260315",
@@ -14855,7 +15107,7 @@
     "Importance": "",
     "Subject": "KOMBAT 2K26: Japan Edition",
     "Location": "Lapangan SMA Negeri 9 Kota Bekasi",
-    "Comment": "",
+    "Comment": "Kompetisi Sastra & Budaya bertema Jepang dengan slogan 'Hana ga saku, aratana kibou ga umareru' (Disaat bunga mekar, harapan baru lahir).",
     "Online/Offline": "Offline",
     "status": "Scheduled",
     "attended": "No",
@@ -15411,84 +15663,6 @@
   },
   {
     "Start Date": "20260510",
-    "Start Time": "",
-    "End Date": "20260510",
-    "End Time": "",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "",
-    "Subject": "Love Our Idol Fest 2026",
-    "Location": "Metro Indah Mall",
-    "Comment": "Insert to J-Event List : 20260414 03:59:26\n",
-    "Online/Offline": "Offline",
-    "status": "Scheduled",
-    "attended": "No",
-    "_id": "loif_2026_bdg",
-    "location_address": "Kawasan Niaga, Jl. Soekarno Hatta Jl. MTC Barat No.590, Sekejati, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.941875540417611, 107.65878041179016",
-    "location_gmaps": "https://goo.gl/maps/EpXKTFBT22b6Yf5ZA",
-    "location_country": "Indonesia",
-    "links": [
-      "https://www.instagram.com/loveouridol.fest/",
-      "https://www.instagram.com/p/DWQttOIkg6U/",
-      "https://www.instagram.com/p/DVyQ4Y9koFe/",
-      "https://www.instagram.com/p/DXbOk0WEsaa/",
-      "https://www.instagram.com/p/DX-2Cz8kjhd/"
-    ],
-    "Content": {
-      "category": [
-        "Fanmeet",
-        "Festival / Matsuri"
-      ],
-      "organizer": "YK Vision",
-      "edition": "2026",
-      "ticket_info": {
-        "type": "Free HTM"
-      },
-      "performers": {
-        "idol_groups": [
-          "Lumina Scarlet",
-          "Hanasta",
-          "Karafuru",
-          "Prism",
-          "Yamisaki",
-          "Chorusella",
-          "Nekodachi",
-          "Sirene Star",
-          "Stellaria",
-          "Tomoshibi"
-        ]
-      },
-      "contact": {
-        "whatsapp": "089504832381 (Yuzin)",
-        "instagram": "@loveouridol.fest"
-      },
-      "description": "Love Our Idol Fest (LOIF) 2026 di Bandung.",
-      "rundown": {
-        "11:00": "Persiapan Dan Pembukaan Stage",
-        "11:30": "SUMMERTIME",
-        "12:05": "LUMINA SCARLET",
-        "12:40": "PRISM",
-        "13:20": "KIRA QUEEN",
-        "13:55": "KARAFURU",
-        "14:30": "YAMISAKI",
-        "15:05": "HANASTA",
-        "15:40": "SIRENE STAR",
-        "16:20": "STELLARIA",
-        "16:55": "TOMOSHIBI",
-        "17:30": "NEKODACHI",
-        "18:05": "CHORUSELA",
-        "18:40": "STELLARLUNA",
-        "19:15": "KIRINDAY"
-      }
-    },
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20260510",
     "Start Time": "13:00",
     "End Date": "20260510",
     "End Time": "",
@@ -15636,6 +15810,10 @@
     "location_gmaps": "",
     "links": [
       "https://www.instagram.com/loveouridol.fest/",
+      "https://www.instagram.com/p/DWQttOIkg6U/",
+      "https://www.instagram.com/p/DVyQ4Y9koFe/",
+      "https://www.instagram.com/p/DXbOk0WEsaa/",
+      "https://www.instagram.com/p/DX-2Cz8kjhd/",
       "https://www.instagram.com/p/DVSacYQktHP/"
     ],
     "Content": {
@@ -15660,12 +15838,47 @@
         "entry": "Free",
         "notes": "Free HTM"
       },
-      "location_info": {
-        "venue_note": "To Be Announced"
-      },
-      "source": {
-        "instagram": "loveouridol.fest"
-      }
+            "organizer": "YK Vision",
+            "edition": "2026",
+            "ticket_info": {
+              "type": "Free HTM"
+            },
+            "performers": {
+              "idol_groups": [
+                "Lumina Scarlet",
+                "Hanasta",
+                "Karafuru",
+                "Prism",
+                "Yamisaki",
+                "Chorusella",
+                "Nekodachi",
+                "Sirene Star",
+                "Stellaria",
+                "Tomoshibi"
+              ]
+            },
+            "contact": {
+              "whatsapp": "089504832381 (Yuzin)",
+              "instagram": "@loveouridol.fest"
+            },
+            "description": "Love Our Idol Fest (LOIF) 2026 di Bandung.",
+            "rundown": {
+              "11:00": "Persiapan Dan Pembukaan Stage",
+              "11:30": "SUMMERTIME",
+              "12:05": "LUMINA SCARLET",
+              "12:40": "PRISM",
+              "13:20": "KIRA QUEEN",
+              "13:55": "KARAFURU",
+              "14:30": "YAMISAKI",
+              "15:05": "HANASTA",
+              "15:40": "SIRENE STAR",
+              "16:20": "STELLARIA",
+              "16:55": "TOMOSHIBI",
+              "17:30": "NEKODACHI",
+              "18:05": "CHORUSELA",
+              "18:40": "STELLARLUNA",
+              "19:15": "KIRINDAY"
+            }
     },
     "date_precision": "day",
     "source_status": "archived"
@@ -17164,7 +17377,8 @@
     "location_gmaps": "https://goo.gl/maps/KhNHTpXjFY5MqiSF6",
     "location_country": "Indonesia",
     "links": [
-      "https://www.instagram.com/p/DX7CEwaAf6O/"
+      "https://www.instagram.com/p/DX7CEwaAf6O/",
+      "https://www.instagram.com/p/DX_aVJdgTNJ/"
     ],
     "date_precision": "day",
     "source_status": "archived",
@@ -18944,31 +19158,32 @@
     "source_status": "archived"
   },
   {
-    "Start Date": "20260900",
+    "Start Date": "20260919",
     "Start Time": "",
-    "End Date": "20260900",
+    "End Date": "20260919",
     "End Time": "",
     "Reminder On/Off": "No",
     "Reminder Date": "",
     "Reminder Time": "",
     "Importance": "",
     "Subject": "SAHABAT ATAU CINTA: Anniversary 3TH Concert",
-    "Location": "TBA",
+    "Location": "Kebayoran Park Mall Jakarta, Indonesia",
     "Comment": "Insert to J-Event List : 20260430 16:32:46\n",
     "Online/Offline": "Offline",
     "status": "Scheduled",
     "attended": "No",
     "_id": "sahabat_atau_cinta_3th_anniv_2026",
-    "location_address": "",
-    "location_city": "Jakarta",
+    "location_address": "Jl. Ciledug Raya No.1, RT.9/RW.5, Ulujami, Kec. Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12250",
+    "location_city": "Jakarta Selatan",
+    "location_coordinate": "-6.238225950837609, 106.76419768275285",
+    "location_gmaps": "https://maps.app.goo.gl/kVPWLAA174axX38t8",
     "location_country": "Indonesia",
-    "location_coordinate": "",
-    "location_gmaps": "",
     "links": [
       "https://www.instagram.com/p/DXekhMMkuNh/",
       "https://www.instagram.com/p/DXot2tpkoIp/",
       "https://www.instagram.com/p/DXrVNr0Eh_R/",
-      "https://www.instagram.com/p/DXt-BOnFITB/"
+      "https://www.instagram.com/p/DXt-BOnFITB/",
+      "https://www.instagram.com/p/DYFMjewE-Lc/"
     ],
     "date_precision": "month",
     "source_status": "archived",
@@ -18983,14 +19198,18 @@
       "description": "Anniversary 3TH Concert dengan rangkaian acara Idol Performance, DJ Performance, Talkshow, dan Community Activity.",
       "guest_stars": {
         "idol": [
-          "Twenty Nine Teens"
+          "Twenty Nine Teens",
+          "Stellar Luna",
+          "Stars",
+          "Crescendo",
+          "Summertime"
         ]
       },
       "performers": {
         "note": "Lebih dari 10 performance"
       },
       "ticket_info": {
-        "price": "IDR xx.xxx (TBA)"
+        "presale_1": "IDR 20.000"
       },
       "registration": {
         "open_positions": [
