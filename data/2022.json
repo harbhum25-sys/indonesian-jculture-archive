@@ -7712,9 +7712,47 @@
             "https://web.facebook.com/103758338232215/photos/a.446189153989130/466132705328108/",
             "https://web.facebook.com/ofcnaira/posts/pfbid0JtbbSUTbcaajeKsyFuu5XsJR7v9rjTKPx2vKtMcSsqVZV4h1fy3yAPfjEWU4wmLvl?__cft__[0]=AZXi2-0tIco4xJ35zWuFZoHaT66W8obY8_HLKbdiPCVx6qqaVGbrgCHb44AGUuNaUHiRKASuShSw7jFSdpkaVMk5L8O4r-S6mYPi2gg2u5cyWZqNuSImhqHYJiy9ny3hjpOyjE5bjNAhbIVbBNggjv33cmJqcMjid5LDZoqtghBuhmXbGYkSUI9cXGD-1oMBh-I",
             "https://www.instagram.com/pelitanebutamatsuri/",
-            "https://www.instagram.com/p/ChgTyxzhW-I/"
+            "https://www.instagram.com/p/ChgTyxzhW-I/",
+            "https://www.instagram.com/p/CkxiWuUhcx_/"
         ],
         "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "organizer": "Idoltopia",
+            "theme": "JAVA IDOL WINTER FEST 2022",
+            "description": "Festival musik idol bertema musim dingin yang diselenggarakan di penghujung tahun 2022.",
+            "edition": "2022",
+            "performers": [
+                "Amai Monogatari",
+                "Hyouri",
+                "Avenue J",
+                "Amehana",
+                "Aurora Dream",
+                "ReiRin",
+                "Kuriba Bakuen-HA",
+                "Naira",
+                "Hoshiko no Hikari",
+                "Nextanative",
+                "Kurimu Soda"
+            ],
+            "media_partners": [
+                "Delta Creative",
+                "Idol Grup Indonesia",
+                "LIGI Media",
+                "Sukabumi Pop Culture",
+                "Wibu Baleendah",
+                "AIDORU Nakama Bandung",
+                "RAION Media",
+                "Daichi Unite Familia"
+            ],
+            "supported_by": [
+                "BANDUNG CREATIVE HUB",
+                "LASWEE"
+            ],
+            "social_media": {
+                "instagram": "@jav.idoltopia"
+            },
             "Rundown": [
                 {
                     "Start": "08.30",
@@ -8082,9 +8120,6 @@
                     "Jenis": "",
                     "Index": 39
                 }
-            ],
-            "category": [
-                "Festival / Matsuri"
             ]
         },
         "location_country": "Indonesia",

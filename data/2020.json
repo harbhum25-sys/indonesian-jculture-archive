@@ -126,6 +126,49 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20200202",
+        "Start Time": "",
+        "End Date": "20200202",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "IDOLTOPIA",
+        "Location": "Food Junction Grand Pakuwon Surabaya",
+        "Comment": "Acara bertema idol yang menghadirkan kompetisi idol dan turnamen janken. Data diekstrak dari gambar image_74d016.png dan deskripsi teks Instagram.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "idoltopia_surabaya_2020",
+        "location_address": "Jalan Grand Banjar Mutiara Asri No.1, Banjar Sugihan, Kec. Tandes, Kota SBY, Jawa Timur 60184",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.250841063141211, 112.66200529645026",
+        "location_gmaps": "https://goo.gl/maps/MtggPtJok5TaUt1u7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/B772paNBMYr/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Pentol Sewuan feat Food Junction GP",
+            "description": "Sebuah pesta idol yang melibatkan berbagai kompetisi unik dan pertunjukan panggung.",
+            "activities": [
+                "Idol Competition",
+                "Janken Tournament",
+                "Miss Popular"
+            ],
+            "mc": [
+                "Cherie"
+            ]
+        }
+    },
+    {
         "Start Date": "20200208",
         "Start Time": "09.00",
         "End Date": "20200208",
@@ -211,16 +254,109 @@
         "location_coordinate": "-7.250610876978619, 112.73545895412157",
         "location_gmaps": "https://goo.gl/maps/nHNmNfj5dahrh4818",
         "links": [
-            ""
+            "https://www.instagram.com/p/B77GYSUhNY_/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "Iki No Team",
+            "theme": "Hajimemashou! (Mari Kita Mulai!)",
+            "description": "Sebuah acara Japanese pop culture yang dirancang untuk segala kalangan, menampilkan berbagai pertunjukan panggung dan area bazar.",
+            "featured_guests": [
+                "HT One",
+                "Baby Metal Malang",
+                "Mutiara Yongga (Judge Cosplay)",
+                "Kyuusagi (Judge Cosplay)",
+                "Johny Fulan (Judge Cosplay)"
+            ],
+            "performers": [
+                "Seaberry.ID",
+                "Start Up Visual Kei",
+                "Ai No Hana",
+                "Ion Fusion Music",
+                "Gakusei Okaeri",
+                "Touken Ranbu Dance",
+                "One Ok Rock Cover band"
+            ],
+            "activities": [
+                "Japan Song",
+                "Coswalk",
+                "Kids Coloring Contest",
+                "Otaku Contest",
+                "Bazzar Merchandise & Food (Ramen & Takoyaki)",
+                "Community Perform"
+            ],
+            "ticket_info": {
+                "presale": "10.000",
+                "on_the_spot": "15.000"
+            },
+            "special_event": "Doorprize Tiket Konser ONE OK ROCK 2020"
         },
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20200215",
+        "Start Time": "",
+        "End Date": "20200216",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunkasai Udinus: Kyoto no Hanafubuki",
+        "Location": "Gedung G Universitas Dian Nuswantoro",
+        "Comment": "Festival budaya Jepang tahunan yang diselenggarakan oleh Himpunan Mahasiswa Sastra Jepang UDINUS dengan penampilan spesial dari JKT48. Data diekstrak dari gambar image_b38499.jpg dan deskripsi teks Instagram.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bunkasai_udinus_2020",
+        "location_address": "Jl. Imam Bonjol No.207, Pindrikan Lor, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",
+        "location_city": "Semarang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.982688315514451, 110.4091704612196",
+        "location_gmaps": "https://maps.app.goo.gl/YGMB61VA8WLYa2tC7",
+        "links": [
+            "https://www.instagram.com/p/B6MTcySBXPX/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Himpunan Mahasiswa Program Studi Sastra Jepang (HIKARI) Universitas Dian Nuswantoro",
+            "theme": "Kyoto no Hanafubuki",
+            "description": "Festival Jepang yang menghadirkan berbagai kompetisi seni, penampilan grup idol, serta pameran kebudayaan seperti Chanoyu dan Soranbushi.",
+            "featured_guests": [
+                "JKT48",
+                "DJ Hiramaki",
+                "DDM x Monolite"
+            ],
+            "activities": [
+                "Lomba Karaoke",
+                "Band Cover",
+                "Dance Cover",
+                "Fotografi",
+                "Seiyuu",
+                "Cosplay",
+                "Manga",
+                "Soranbushi",
+                "Chanoyu",
+                "Yosakoi",
+                "Omikoshi",
+                "Obake Yashiki"
+            ],
+            "ticket_info": {
+                "htm": "25k (untuk 2 hari)"
+            }
+        }
     },
     {
         "Start Date": "20200222",
@@ -439,10 +575,72 @@
         "location_coordinate": "-7.255542836268178, 112.73358891179248",
         "location_gmaps": "https://goo.gl/maps/QXZcHApYaxJJr9jUA",
         "links": [
-            ""
+            "https://www.instagram.com/p/B8qcrV4htbn/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Seoul Matsuri",
+            "theme": "Surabaya Japan Community",
+            "description": "Event yang mempertemukan berbagai komunitas pecinta budaya Jepang di Surabaya dengan kompetisi coswalk, mini games, dan pertunjukan musik.",
+            "guest_stars": {
+                "guest_star": [
+                    "HT-ONE",
+                    "Baby Metal SBY"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "Jetsuki",
+                    "Shina"
+                ]
+            },
+            "mc": [
+                "Ocha Rosita",
+                "Velin"
+            ],
+            "performers": {
+                "special_performance": [
+                    "Foc dc",
+                    "Jetsuki",
+                    "Starlight",
+                    "Aidle",
+                    "Shina",
+                    "Inobu",
+                    "Nambaone",
+                    "Indiradamay",
+                    "Shibadabada Project",
+                    "Jhey azalea",
+                    "Matajari",
+                    "Seaberry"
+                ]
+            },
+            "competition": {
+                "categories": [
+                    "Coswalk Competition"
+                ],
+                "prizes": [
+                    "Uang Tunai",
+                    "Sertifikat",
+                    "Berbagai Hadiah Menarik"
+                ]
+            },
+            "ticket_info": {
+                "htm": "Rp 10.000",
+                "note": "Sudah termasuk tiket gelang dan stiker"
+            },
+            "contact": {
+                "aflah": "0896-1035-3778",
+                "rudi": "0895-3970-42656"
+            },
+            "social_media": {
+                "instagram": "@seoul.matsuri"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -901,9 +1099,54 @@
         "location_coordinate": "-7.771334334808857, 110.37663902190323",
         "location_gmaps": "https://goo.gl/maps/SgUPZmGA4t9pXuFb8",
         "links": [
-            ""
+            "https://www.instagram.com/p/B9mNWjaB9mP/"
         ],
         "Content": {
+            "category": [],
+            "organizer": "IKIMASU feat CLAS:H",
+            "theme": "IKIMASU 2020",
+            "description": "Event cosplay dan pop culture yang menghadirkan penyisihan Indonesian Cosplay Grand Prix (ICGP) Regional Jawa Tengah, food bazaar, dan community showcase.",
+            "edition": "2020",
+            "guest_stars": [
+                "DJ Saddam",
+                "DeJikai"
+            ],
+            "performers": {
+                "special_performer": [
+                    "Minerva Land",
+                    "Unmanly Idol",
+                    "Say! Won!",
+                    "Kohi Sekai",
+                    "2n2 Project",
+                    "Dewo x Death"
+                ],
+                "other_performers": [
+                    "Babymetal Malang",
+                    "Rainbow Soseji",
+                    "Heavy Machine Gun"
+                ]
+            },
+            "judges": {
+                "cosplay": [
+                    "Nekonoi Katsu",
+                    "YUMAKI MONSTER Studio",
+                    "Yonchan Cos",
+                    "John Switch",
+                    "Dharma Setiawan",
+                    "Gilbert Jovan",
+                    "Gerard Jason Anthony"
+                ]
+            },
+            "competition": {
+                "main_event": "Indonesian Cosplay Grand Prix (ICGP) Regional Jawa Tengah",
+                "other_categories": [
+                    "Cosplay Freestyle Competition"
+                ]
+            },
+            "ticket_info": {
+                "ots": "Rp 25.000",
+                "note": "Penukaran tiket presale tersedia di Ticket Box bagian selatan."
+            },
             "Rundown": [
                 {
                     "Start": "10.00",
@@ -1073,8 +1316,7 @@
                     "Kategori": "Guest Star",
                     "Index": 20
                 }
-            ],
-            "category": []
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1454,6 +1696,53 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20200719",
+        "Start Time": "12:00",
+        "End Date": "20200719",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shin Matsuri #CFH",
+        "Location": "Instagram Live @seoul.matsuri",
+        "Comment": "Event online bertema 'Cosplay From Home' (CFH) yang diselenggarakan oleh Seoul Matsuri selama masa pandemi. Data diekstrak dari gambar image_0884d5.jpg dan deskripsi teks media sosial.",
+        "Online/Offline": "Online",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "shin_matsuri_cfh_2020",
+        "links": [
+            "https://www.instagram.com/p/CCfcMmjBD19/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Seoul Matsuri",
+            "description": "Acara matsuri daring yang mengajak audiens untuk tetap menikmati budaya pop Jepang dari rumah melalui siaran langsung Instagram.",
+            "activities": [
+                "Cosplay Online Competition",
+                "Instagram Live Session"
+            ],
+            "performers": [
+                "Starlight",
+                "Aidle",
+                "Matajari",
+                "Aizhiteru",
+                "Babymetal Surabaya"
+            ],
+            "prizes": [
+                "Uang Tunai",
+                "Goodie Bag by Dhika Shoppu",
+                "Sertifikat"
+            ],
+            "contact_person": "0896-1035-3778 (Aflah)"
+        }
     },
     {
         "Start Date": "20200726",

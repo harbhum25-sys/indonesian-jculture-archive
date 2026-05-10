@@ -2471,11 +2471,73 @@
         "location_gmaps": "https://maps.app.goo.gl/TXihGMYm5yVdRrDF7",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10163414987483836/",
-            "https://www.instagram.com/akitajapanfest"
+            "https://www.instagram.com/akitajapanfest",
+            "https://www.instagram.com/p/DFApSvKp11J/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance",
+                "Budaya Jepang - Seni Tradisional",
+                "Dance Cover Competition",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Akita Japan Festival",
+            "theme": "Festivy, Cultury, Party",
+            "edition": "Akita Japan Festival 2",
+            "description": "Festival budaya Jepang di Purwokerto yang menghadirkan dua panggung (indoor & outdoor) dengan berbagai penampilan musik, tarian tradisional, serta hiburan interaktif seperti Hanabi Party dan Random Play Dance.",
+            "date": "26 Januari 2025",
+            "venue": "Gedung Kesenian Soetedja, Purwokerto",
+            "performers": {
+                "cultury_stage_indoor": [
+                    "Gochikara",
+                    "Sunflow",
+                    "Mochipyon",
+                    "Shichie",
+                    "Anak Noob",
+                    "Mochimetal",
+                    "Kuroningen",
+                    "Morning After"
+                ],
+                "festivy_stage_outdoor": [
+                    "Djitu Suaru",
+                    "Deztars",
+                    "Hyperline",
+                    "Iroha Yosakoi",
+                    "Nandemosan",
+                    "Uvi",
+                    "Fumiko",
+                    "Cemeng"
+                ]
+            },
+            "judges": [
+                "Joe",
+                "Erin",
+                "Ryuu",
+                "Stefan",
+                "Elsa"
+            ],
+            "mc": [
+                "Iclas",
+                "Ariana",
+                "Kevin"
+            ],
+            "activities": [
+                "Hanabi Party",
+                "Random Play Dance",
+                "Stamp Rally Berhadiah Menarik"
+            ],
+            "ticket_info": {
+                "htm": "Rp 30.000",
+                "open_gate": "09:00 AM"
+            },
+            "supported_by": [
+                "rr.shoppu_cosrent",
+                "Tendaku Unsoed",
+                "Whistea.id",
+                "New Heviitro",
+                "Vivo Purwokerto"
             ]
         },
         "location_country": "Indonesia",

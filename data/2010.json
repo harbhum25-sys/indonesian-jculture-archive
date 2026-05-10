@@ -1,1332 +1,1332 @@
 [
-  {
-    "Start Date": "20100103",
-    "Start Time": "2:30 PM",
-    "End Date": "20100103",
-    "End Time": "3:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100103",
-    "Reminder Time": "2:00 PM",
-    "Importance": "Normal",
-    "Subject": "Tamagochi",
-    "Location": "SMAN 5 Bandung",
-    "Comment": "pertama kali Sandy Erlangga kenal Zikrie (Dzikrirodhatul Jannah)\nSummer Sound\nShiroi Hana bawakan AKB48 - Bingo",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "tamago_2",
-    "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.911944369256297, 107.61552869644652",
-    "location_gmaps": "https://goo.gl/maps/SPHRdLNtVkGTz7638",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100119",
-    "Start Time": "4:30 PM",
-    "End Date": "20100119",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100119",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Japan Festival For Teens",
-    "Location": "STIE PASIM",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "japanf_1",
-    "location_address": "Jl. Dr. Djunjunan No.167, Sukagalih, Kota Bandung, Jawa Barat",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.892377412545588, 107.58180491178983",
-    "location_gmaps": "https://goo.gl/maps/JsQLjWAaGPuxP9WN6",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1219752430040&set=a.1079063912915&__tn__=%2CO*F"
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100129",
-    "Start Time": "",
-    "End Date": "20100130",
-    "End Time": "",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100129",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Japan Fair 2010",
-    "Location": "Universitas Dharma Persada",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "japanf_2",
-    "location_address": "Jl. Taman Malaka Selatan No.8, RT.8/RW.6, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
-    "location_city": "Jakarta Timur",
-    "location_coordinate": "-6.230205837587133, 106.92432664256893",
-    "location_gmaps": "https://goo.gl/maps/e9qQFXxYGGbUSVve9",
-    "links": [
-      "https://web.facebook.com/tanera.pro/posts/271336922506",
-      "https://web.facebook.com/233363572573/photos/a.415477397573/256673632573/"
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100213",
-    "Start Time": "11:00 AM",
-    "End Date": "20100213",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100213",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Iconners Cosplay Competition - Magical Kingdom",
-    "Location": "Bandung Super Mall (BSM)",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "iconne_1",
-    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.92482028135678, 107.63625083877746",
-    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Cosplay - Competition / Coswalk"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100214",
-    "Start Time": "11:00 AM",
-    "End Date": "20100214",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100214",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Lucky Love Day",
-    "Location": "Lucky Square",
-    "Comment": "Foto Nooru, Chige, dan Fuu :\n\nSummer Sound",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "luckyl_1",
-    "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91371128188617, 107.64496322528368",
-    "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100228",
-    "Start Time": "4:30 PM",
-    "End Date": "20100228",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100228",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Animax Cosplay Competition",
-    "Location": "BSM",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "animax_1",
-    "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.92482028135678, 107.63625083877746",
-    "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Cosplay - Competition / Coswalk",
-        "Convention / Expo / Comic Market"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100306",
-    "Start Time": "4:30 PM",
-    "End Date": "20100306",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100306",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Japan-Indonesia Culture And Education Festival 2010",
-    "Location": "Lapangan Parkir atas Balai Bahasa UPI",
-    "Comment": "foto Nooru dan Ayu :\n\nFoto Lingga Gahara, Ajo, Ijal, dan Adit :\n\nFoto Fuu (Fanny) dan Nano (Wina) :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "japani_1",
-    "location_address": "Jl. Dr. Setiabudi No.229, Isola, Kec. Sukasari, Kota Bandung, Jawa Barat 40154",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.860406613539642, 107.59192652926521",
-    "location_gmaps": "https://g.page/balaibahasaupiofficial",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100314",
-    "Start Time": "4:30 PM",
-    "End Date": "20100314",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100314",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Honnoukai Star Final Battle",
-    "Location": "Lucky Square",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "honnou_1",
-    "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91371128188617, 107.64496322528368",
-    "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
-    "links": [
-      "https://web.facebook.com/events/10152835037111938/",
-      "https://web.facebook.com/events/186688204786971/",
-      "https://web.facebook.com/photo/?fbid=1239559745429&set=a.1171523604568"
-    ],
-    "Content": {
-      "kompetisi": [
-        {
-          "nama": "J-BAND COMPETITION",
-          "peserta": [
-            "AFTER HANABI",
-            "INFINITI",
-            "RAKURAI",
-            "SATURDAY NIGHT AT TOKYO'",
-            "SHANAROO'",
-            "SORA AOI",
-            "SUNNY DAY HANABI",
-            "TRIP TO VENUS",
-            "URBANEE"
-          ]
-        },
-        {
-          "nama": "COSPLAY COMPETITION",
-          "jenis": "BENTUK FASHION SHOW",
-          "kategori": "COSPLAY INDIVIDU",
-          "persyaratan": [
-            "KATEGORI BEBAS",
-            "TIDAK MENGANDUNG UNSUR SARA",
-            "TIDAK MENGGUNAKAN SENJATA TAJAM DAN BERBAHAYA"
-          ],
-          "pendaftaran": {
-            "harga": "RP 10.000",
-            "kontak": "ROCHMA (085720090424)"
-          }
-        }
-      ],
-      "acara_lain": [
-        "J-MUSIC COMPETITION",
-        "DUEL ANTAR BAND",
-        "MUSIC BAZAAR",
-        "COSPLAY MUSICAL",
-        "BON ODORI",
-        "HANABI"
-      ],
-      "guest_star": [
-        "SUICIDE MAYA",
-        "HIMITSU",
-        "LUNAR COSPLAY TEAM"
-      ],
-      "kontak_info_lanjut": "ADE (085721122702)",
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100321",
-    "Start Time": "9:00 AM",
-    "End Date": "20100321",
-    "End Time": "6:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100321",
-    "Reminder Time": "8:30 AM",
-    "Importance": "Normal",
-    "Subject": "I-POP",
-    "Location": "Lucky Square",
-    "Comment": "pertama kali mengenal Apit,aku langsung diajak membantu. saat itu aku masih KP. tapi membantu acara ini sangat menyenangkan. Arlisa Ghaissani Utami ditunjuk menjadi MC dari saran Nisa. penataan panitia awalnya bakal dipimpin oleh Jeff. ternyata pada hari H, jeff tidak datang sama sekali walau dia sms secara mendadak memberikan semangat. Apit lumayan kesal. H-1 kami memeriksa lokasi bersama Gya dan Tri Sutrisno. Tri berperan sebagai soundman pada Hari H. Aku memegang kamera. Rio Guntur sempat bertanya padaku mengenai apakah aku panitia atau bukan. aku sudah dapat name tag panitia saat itu. banyak kejadian lucu mulai dari aku main Percussion Master dulu sebelum acara mulai lalu teman-teman wotaIndo pada datang. Kami menyiapkan panggung pagi-pagi sekali. aku datang sekitar pukul 8 dan ternyata belum banyak yang datang. ada Domo dan Nissa di tempat. Apit perlu mengambil barang lagi ke Matrix. V-Rush membawakan Kimagure Princess. band banyak yang datang dan Teguh membuat stand sekaligus konfirmasi daftar ulang. Di situ, aku mulai melihat Erick bersama fairytails membawakan One Ok Rock. sempat tercabut kabel listrik saat Urbanee tampil. Voice of June tampil dengan kekurangan keyboardist. aku dan beberapa teman WotaIndo sempat wotagei. kami bahkan wotagei saat SO dan Himitsu tampil berdasarkan tantangan wotagei selain lagu H!P. Kami wotagei saat lagu Tomei Ningen. Agil, Achmad, dan Pandu datang saat VOJ tampil. saat terakhir, ada jam session dari beberapa band. Acara pas sekali walau ada beberapa keterlambatan. Aku, Dami, dan Rangga membawa kembali peralatan band ke matrix lalu kami makan sate padang di jasokawan.\nfoto dari kamera Awal :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "ipopip_1",
-    "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91371128188617, 107.64496322528368",
-    "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=467664259481&set=a.58668714481",
-      "https://web.facebook.com/photo/?fbid=372581999481&set=a.58668714481"
-    ],
-    "Content": {
-      "category": [
-        "Dance Cover Competition",
-        "Musik - Band / Live Performance",
-        "Gathering / Komunitas"
-      ],
-      "organizer": "i-pop community!",
-      "edition": "Session 1",
-      "performers": [
-        "Urbanee",
-        "Voice of June",
-        "Himitsu, The Visible Secret",
-        "Misty Lady",
-        "NYE"
-      ],
-      "description": "Performing 20 Band and Dancer",
-      "media_partners": [
-        "MADLab Multimedia Art & Design Studio",
-        "Doki Doki Station",
-        "Matrix Game Centre, Hobby, & Toys",
-        "Bikkuri!!"
-      ],
-      "contact": {
-        "person": [
-          {
-            "name": "Julian",
-            "phone": "08522 66 20616"
-          },
-          {
-            "name": "Jef",
-            "phone": "0856 212 9529"
-          }
+    {
+        "Start Date": "20100103",
+        "Start Time": "2:30 PM",
+        "End Date": "20100103",
+        "End Time": "3:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100103",
+        "Reminder Time": "2:00 PM",
+        "Importance": "Normal",
+        "Subject": "Tamagochi",
+        "Location": "SMAN 5 Bandung",
+        "Comment": "pertama kali Sandy Erlangga kenal Zikrie (Dzikrirodhatul Jannah)\nSummer Sound\nShiroi Hana bawakan AKB48 - Bingo",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "tamago_2",
+        "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.911944369256297, 107.61552869644652",
+        "location_gmaps": "https://goo.gl/maps/SPHRdLNtVkGTz7638",
+        "links": [
+            ""
         ],
-        "email": "ipop_community@yahoo.com",
-        "address": "Sekretariat: Matrix Game Centre & Hobbies, Jl. Anggrek Boulevard no 27 lt.3 komp. SURAPATI CORE Jl. Ph.H. Mustopha - BANDUNG"
-      },
-      "social_media": {
-        "blog": "i-popcommunity.blogspot.com"
-      },
-      "theme": "Show Your Power Move!!!",
-      "competition": {
-        "categories": [
-          "dance performance"
-        ]
-      },
-      "registration": {
-        "fee": "Rp 10.000 / orang",
-        "deadline": "14 March 2010"
-      }
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100403",
-    "Start Time": "4:30 PM",
-    "End Date": "20100403",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100403",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Ohayou Fashion Festival",
-    "Location": "Lucky Square",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "ohayou_2",
-    "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91371128188617, 107.64496322528368",
-    "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1294779384044&set=a.1288471186343",
-      "https://web.facebook.com/events/905162879525260/"
-    ],
-    "Content": {
-      "organizer": "Ohayou",
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100417",
-    "Start Time": "4:30 PM",
-    "End Date": "20100417",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100417",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Cosplay Magical Sound & Costum of Japan",
-    "Location": "Plaza Parahyangan",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "cospla_2",
-    "location_address": "Jl. Dalem Kaum No.54, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.922220731823803, 107.6061339982963",
-    "location_gmaps": "https://goo.gl/maps/T9eVXXbg1trDEwXu9",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100502",
-    "Start Time": "11:00 AM",
-    "End Date": "20100502",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100502",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Hotaru no Matsuri",
-    "Location": "18th Park Jl Sumatera Bandung",
-    "Comment": "Summer Sound",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "hotaru_1",
-    "location_address": "Jl. Sumatera No.31, Babakan Ciamis, Kota Bandung, Jawa Barat",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.913956275482468, 107.61355835411912",
-    "location_gmaps": "https://goo.gl/maps/Nb4pcQkcBrCk6pba8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100508",
-    "Start Time": "4:30 PM",
-    "End Date": "20100508",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100508",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "Pagelaran Seni Budaya ITB 2010",
-    "Location": "Institut Teknologi Bandung (ITB)",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "pagela_1",
-    "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.8916344441454305, 107.610777117188",
-    "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100522",
-    "Start Time": "4:30 PM",
-    "End Date": "20100522",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100522",
-    "Reminder Time": "4:00 PM",
-    "Importance": "Normal",
-    "Subject": "CosSkate Fusion-The Opening Gate of Shibuya",
-    "Location": "18th Park Jl Sumatera Bandung",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "cosska_1",
-    "location_address": "Jl. Sumatera No.31, Babakan Ciamis, Kota Bandung, Jawa Barat",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.913956275482468, 107.61355835411912",
-    "location_gmaps": "https://goo.gl/maps/Nb4pcQkcBrCk6pba8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100523",
-    "Start Time": "5:00 PM",
-    "End Date": "20100523",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100523",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Obake Matsuri",
-    "Location": "Pusat Studi Bahasa Jepang (PSBJ), Universitas Pajajaran, Jatinangor, Sumedang",
-    "Comment": "ceritanya saat pra-event banyak yang marah-marah dari pihak band. panitianya memang kurang ramah dalam menghadapi pengisi acara. Prima Ramadhan salah satu orang yang marah-marah. V-Rush tampil dan anak-anak WotaIndo pada datang waktu itu. Foto teman-teman Wota bersama Diru dan Wahyu :\n\nV-Rush tampil tepat saat mereka datang. \n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "obakem_1",
-    "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
-    "location_city": "Sumedang",
-    "location_coordinate": "-6.927510188828021, 107.77620014417715",
-    "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1236070663352&set=a.1062705649335",
-      "https://web.facebook.com/events/952604988097286/"
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100605",
-    "Start Time": "11:00 AM",
-    "End Date": "20100605",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100605",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "J-Sound no Matsuri",
-    "Location": "Braga City Walk",
-    "Comment": "V-Rush tampil :\n\nSummer Sound tampil malam hari dengan lagu dipotong. ",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "jsound_1",
-    "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91693047857716, 107.60896289644823",
-    "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100615",
-    "Start Time": "8:00 AM",
-    "End Date": "20100616",
-    "End Time": "9:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100615",
-    "Reminder Time": "7:30 AM",
-    "Importance": "Normal",
-    "Subject": "E3 2010",
-    "Location": "Los Angeles Convention Center",
-    "Comment": "The 2010 show was held at the Los Angeles Convention Center.[14] Nintendo revealed The Legend of Zelda: Skyward Sword, a Wii MotionPlus-compatible title in the The Legend of Zelda series, as well as the Nintendo 3DS handheld.[15] THQ's Danny Bilson stated that Saints Row: The Third would debut at E3 and dubbed it as \"mind-blowing\". Also, THQ has announced the debut for Red Faction: Armageddon at E3. As well as this, Kingdom Hearts 3D has been revealed. Microsoft has announced Kinect, (formerly known as Project Natal) and unveiled its new Xbox 360 S model, while Sony displayed its upcoming motion-sensing game controller for the PlayStation 3 named PlayStation Move. About 45,600 attendees were present for E3 2010, an 11% increase over E3 2009's attendance.",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "eeohuy_1",
-    "location_address": "1201 S Figueroa St, Los Angeles, CA 90015, Amerika Serikat",
-    "location_city": "Los Angeles",
-    "location_coordinate": "34.04051626882755, -118.26955167415021",
-    "location_gmaps": "https://goo.gl/maps/CsSCaGk5kiRJ3ZBV8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "United States",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100620",
-    "Start Time": "11:00 AM",
-    "End Date": "20100620",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100620",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Shinobi Shiawase no Hibi (Shinobi) 3",
-    "Location": "SMAN 3 Bandung",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "shinob_3",
-    "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.912122425343767, 107.61500855227105",
-    "location_gmaps": "https://goo.gl/maps/nhpJwpBE879b5AX39",
-    "links": [
-      "https://nk3bdg.wordpress.com/2010/04/24/shiawase-no-hibi-chan-2010/"
-    ],
-    "Content": {
-      "sifat": "Perlombaan Bahasa dan Kebudayaan Jepang",
-      "jenis_kegiatan": {
-        "lomba_design_character": "Tema ditentukan oleh panitia saat Technical Meeting. Peserta membawa peralatan menggambar sendiri, kertas gambar disediakan oleh panitia.",
-        "lomba_kaligrafi_kanji": "Tema dan kanji ditentukan oleh panitia pada saat Technical Meeting. Peserta membawa fude (kuas) dan tinta sendiri, kertas singkong disediakan oleh panitia.",
-        "lomba_menyampaikan_cerita": "Siswa SMA/SMK menjadi Warga Negara Indonesia dan tidak berbahasa Jepang sebagai bahasa ibu. Siswa yang bersangkutan masih menjadi siswa SMA/SMK. Belum pernah tinggal di Jepang lebih dari 6 bulan dalam kurun waktu 5 tahun terakhir dan/atau belum pernah tinggal di Jepang lebih dari 1 minggu dalam kurun waktu 1 tahun terakhir. Tema ditentukan oleh panitia saat Technical Meeting.",
-        "kana_contest": "Siswa SMA/SMK masih menjadi siswa. Peserta membawa alat tulis sendiri.",
-        "rodoku_contest": "Siswa SMA/SMK masih menjadi siswa. Tema dan naskah ditentukan oleh panitia saat Technical Meeting. Waktu yang dipergunakan maksimal 3 menit.",
-        "speech_contest": "Siswa SMA/SMK menjadi Warga Negara Indonesia dan tidak berbahasa Jepang sebagai bahasa ibu. Bagi yang mempunyai orang tua baik salah seorang maupun keduanya merupakan keturunan Jepang generasi pertama, tidak diperkenankan untuk ikut serta. Siswa yang bersangkutan masih menjadi siswa SMA/SMK. Belum pernah tinggal di Jepang lebih dari 6 bulan dalam kurun waktu 5 tahun terakhir dan/atau belum pernah tinggal di Jepang lebih dari 1 minggu dalam kurun waktu 1 tahun terakhir. Tema bebas dan ditulis dalam bahasa Jepang dengan memenuhi ketentuan-ketentuan yang berlaku."
-      },
-      "peserta": "Siswa-Siswi SMA/SMK se-Jawa Barat. Pendaftaran dibuka mulai tanggal 20 Mei 2010 hingga tanggal 20 Juni 2010 melalui contact person dibawah. Untuk pendaftaran di tempat akan diberitahu selanjutnya.",
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100704",
-    "Start Time": "11:00 PM",
-    "End Date": "20100704",
-    "End Time": "11:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100704",
-    "Reminder Time": "10:30 PM",
-    "Importance": "Normal",
-    "Subject": "Anime Festival",
-    "Location": "Bale Pare - Kotabaru Parahyangan",
-    "Comment": "koleksi foto Zo memotret Noorshafia Faridathalla saat acara :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "animef_1",
-    "location_address": "Jalan Panyawangan, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.856796992633288, 107.49046865411867",
-    "location_gmaps": "https://g.page/baleparekotabaruparahyangan",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1149179545896&set=a.1147240097411"
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100717",
-    "Start Time": "11:00 AM",
-    "End Date": "20100717",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100717",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Poppish Lovish 2 : Colorful Life",
-    "Location": "Lucky Square Convention Hall",
-    "Comment": "acaranya dimulai setelah acara sariayu. susahnya, kursi-kursi bekas acara Sariayu tidak dibereskan sehingga banyak penonton acara ini yang duduk-duduk. pas check sound, apit berantem dengan soundman yang belagu sehingga pas acara langsung ganti soundman. \nGirlfriends tampil. banyak dance korea. Seno Rita juga ada. \n\nSummer Sound tampil dan MMI menang komunitas terbaik di acara tersebut. \nSnowflake juga tampil akhir acara sekaligus penutupan dengan foto MMI sebagai pemenang komunitas terbaik.\ninilah salah satu foto yang kuambil dengan kamera 550D Jeff:\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "poppis_2",
-    "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91371128188617, 107.64496322528368",
-    "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1506794789178&set=p.1506794789178"
-    ],
-    "Content": {
-      "category": []
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100717",
-    "Start Time": "5:00 PM",
-    "End Date": "20100717",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100717",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Road To Hero Cosplay Contest",
-    "Location": "Cimahi Mall",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "roadto_2",
-    "location_address": "Jl. Gandawijaya, Setiamanah, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40524",
-    "location_city": "Cimahi",
-    "location_coordinate": "-6.8783858530931274, 107.53969696761257",
-    "location_gmaps": "https://goo.gl/maps/U7E34TZqYobBAu8PA",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Cosplay - Competition / Coswalk"
-      ]
-    },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100724",
-    "Start Time": "09:00",
-    "End Date": "20100724",
-    "End Time": "20:00",
-    "Reminder On/Off": "No",
-    "Reminder Date": "",
-    "Reminder Time": "",
-    "Importance": "",
-    "Subject": "Yamato Damashii 5",
-    "Location": "Kampus STBA YAPARI ABA Bandung",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "",
-    "_id": "khshxx_4",
-    "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.8919434688336985, 107.60445698295439",
-    "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
-    "links": [
-      "https://web.facebook.com/himade.stba.yapari/posts/pfbid0FpzEEQ6LLaDuWWNDz7bzJZbApMpNxDuHkgmEK9TTutPA7dZgcEZba5GK1GW2PCkUl",
-      "https://web.facebook.com/himade.stba.yapari/posts/pfbid0KfEKg4coQgx1bqT7F9VAMvee83wMvBAoCckS5zwTEbJJCVcxFVX8GtZLgRrfreuwl",
-      "https://web.facebook.com/photo/?fbid=1308777765036&set=a.1308777725035",
-      "https://x.com/infobdg/status/16219792343"
-    ],
-    "Content": {
-      "edition": "5",
-      "theme": "Tua Muda Merah Putih",
-      "tagline": "Yamato Damashii 2010",
-      "competitions": {
-        "kana_contest": {
-          "type": "Individual",
-          "fee": "15000 IDR per person"
+        "Content": {
+            "category": []
         },
-        "shuuji_contest": {
-          "type": "Individual",
-          "fee": "15000 IDR per person"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100119",
+        "Start Time": "4:30 PM",
+        "End Date": "20100119",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100119",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Japan Festival For Teens",
+        "Location": "STIE PASIM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "japanf_1",
+        "location_address": "Jl. Dr. Djunjunan No.167, Sukagalih, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.892377412545588, 107.58180491178983",
+        "location_gmaps": "https://goo.gl/maps/JsQLjWAaGPuxP9WN6",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1219752430040&set=a.1079063912915&__tn__=%2CO*F"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
-        "doujinshi_contest": {
-          "type": "Individual",
-          "fee": "15000 IDR per person"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100129",
+        "Start Time": "",
+        "End Date": "20100130",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100129",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Japan Fair 2010",
+        "Location": "Universitas Dharma Persada",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "japanf_2",
+        "location_address": "Jl. Taman Malaka Selatan No.8, RT.8/RW.6, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.230205837587133, 106.92432664256893",
+        "location_gmaps": "https://goo.gl/maps/e9qQFXxYGGbUSVve9",
+        "links": [
+            "https://web.facebook.com/tanera.pro/posts/271336922506",
+            "https://web.facebook.com/233363572573/photos/a.415477397573/256673632573/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
-        "speech_contest": {
-          "type": "Individual",
-          "fee": "15000 IDR per person"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100213",
+        "Start Time": "11:00 AM",
+        "End Date": "20100213",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100213",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Iconners Cosplay Competition - Magical Kingdom",
+        "Location": "Bandung Super Mall (BSM)",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "iconne_1",
+        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.92482028135678, 107.63625083877746",
+        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
-        "cosplay": {
-          "type": "Group",
-          "fee": "50000 IDR per group",
-          "maximum_participant": "5 persons"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100214",
+        "Start Time": "11:00 AM",
+        "End Date": "20100214",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100214",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Lucky Love Day",
+        "Location": "Lucky Square",
+        "Comment": "Foto Nooru, Chige, dan Fuu :\n\nSummer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "luckyl_1",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
         },
-        "kabaret_cosplay": {
-          "fee": "75000 IDR"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100228",
+        "Start Time": "4:30 PM",
+        "End Date": "20100228",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100228",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Animax Cosplay Competition",
+        "Location": "BSM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "animax_1",
+        "location_address": "Jl. Gatot Subroto No.289A, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.92482028135678, 107.63625083877746",
+        "location_gmaps": "https://goo.gl/maps/3AnVoPxA9REpsQ9Q6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Convention / Expo / Comic Market"
+            ]
         },
-        "band_audition": {
-          "fee": "50000 IDR per band",
-          "audition_date": "20100707 to 20100708"
-        }
-      },
-      "performances": {
-        "band_performance": {
-          "black_fuji": "Band",
-          "onsu": "Band"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100306",
+        "Start Time": "4:30 PM",
+        "End Date": "20100306",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100306",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Japan-Indonesia Culture And Education Festival 2010",
+        "Location": "Lapangan Parkir atas Balai Bahasa UPI",
+        "Comment": "foto Nooru dan Ayu :\n\nFoto Lingga Gahara, Ajo, Ijal, dan Adit :\n\nFoto Fuu (Fanny) dan Nano (Wina) :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "japani_1",
+        "location_address": "Jl. Dr. Setiabudi No.229, Isola, Kec. Sukasari, Kota Bandung, Jawa Barat 40154",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.860406613539642, 107.59192652926521",
+        "location_gmaps": "https://g.page/balaibahasaupiofficial",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
-        "dance_and_culture": {
-          "souran_bushi": "Performance",
-          "sakura_odori": "Performance",
-          "kabaret_okashi": "Performance",
-          "bon_odori": "Performance",
-          "yosakoi_souran": "Performance",
-          "gentrasaba_stba": "Performance",
-          "kaze_no_hiku": "Performance",
-          "para_para_dance": "Performance"
-        }
-      },
-      "registration": {
-        "deadline": "20100703"
-      },
-      "contact_person": {
-        "lomba_dan_cosplay": {
-          "name": "DK",
-          "phone": "085659303156"
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100314",
+        "Start Time": "4:30 PM",
+        "End Date": "20100314",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100314",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Honnoukai Star Final Battle",
+        "Location": "Lucky Square",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "honnou_1",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            "https://web.facebook.com/events/10152835037111938/",
+            "https://web.facebook.com/events/186688204786971/",
+            "https://web.facebook.com/photo/?fbid=1239559745429&set=a.1171523604568"
+        ],
+        "Content": {
+            "kompetisi": [
+                {
+                    "nama": "J-BAND COMPETITION",
+                    "peserta": [
+                        "AFTER HANABI",
+                        "INFINITI",
+                        "RAKURAI",
+                        "SATURDAY NIGHT AT TOKYO'",
+                        "SHANAROO'",
+                        "SORA AOI",
+                        "SUNNY DAY HANABI",
+                        "TRIP TO VENUS",
+                        "URBANEE"
+                    ]
+                },
+                {
+                    "nama": "COSPLAY COMPETITION",
+                    "jenis": "BENTUK FASHION SHOW",
+                    "kategori": "COSPLAY INDIVIDU",
+                    "persyaratan": [
+                        "KATEGORI BEBAS",
+                        "TIDAK MENGANDUNG UNSUR SARA",
+                        "TIDAK MENGGUNAKAN SENJATA TAJAM DAN BERBAHAYA"
+                    ],
+                    "pendaftaran": {
+                        "harga": "RP 10.000",
+                        "kontak": "ROCHMA (085720090424)"
+                    }
+                }
+            ],
+            "acara_lain": [
+                "J-MUSIC COMPETITION",
+                "DUEL ANTAR BAND",
+                "MUSIC BAZAAR",
+                "COSPLAY MUSICAL",
+                "BON ODORI",
+                "HANABI"
+            ],
+            "guest_star": [
+                "SUICIDE MAYA",
+                "HIMITSU",
+                "LUNAR COSPLAY TEAM"
+            ],
+            "kontak_info_lanjut": "ADE (085721122702)",
+            "category": []
         },
-        "band": {
-          "name": "Reynaldo",
-          "phone": "085724094319"
-        }
-      },
-      "description": "Japanese culture event Yamato Damashii 5 held at STBA YAPARI ABA Bandung featuring contests, cosplay, band audition, and cultural performances",
-      "category": []
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100725",
-    "Start Time": "5:00 PM",
-    "End Date": "20100725",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100725",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Tanjoubi Omedetou Cosplay Bandung",
-    "Location": "Braga city Walk",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "tanjou_1",
-    "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91693047857716, 107.60896289644823",
-    "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Musik - Band / Live Performance"
-      ]
+    {
+        "Start Date": "20100321",
+        "Start Time": "9:00 AM",
+        "End Date": "20100321",
+        "End Time": "6:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100321",
+        "Reminder Time": "8:30 AM",
+        "Importance": "Normal",
+        "Subject": "I-POP",
+        "Location": "Lucky Square",
+        "Comment": "pertama kali mengenal Apit,aku langsung diajak membantu. saat itu aku masih KP. tapi membantu acara ini sangat menyenangkan. Arlisa Ghaissani Utami ditunjuk menjadi MC dari saran Nisa. penataan panitia awalnya bakal dipimpin oleh Jeff. ternyata pada hari H, jeff tidak datang sama sekali walau dia sms secara mendadak memberikan semangat. Apit lumayan kesal. H-1 kami memeriksa lokasi bersama Gya dan Tri Sutrisno. Tri berperan sebagai soundman pada Hari H. Aku memegang kamera. Rio Guntur sempat bertanya padaku mengenai apakah aku panitia atau bukan. aku sudah dapat name tag panitia saat itu. banyak kejadian lucu mulai dari aku main Percussion Master dulu sebelum acara mulai lalu teman-teman wotaIndo pada datang. Kami menyiapkan panggung pagi-pagi sekali. aku datang sekitar pukul 8 dan ternyata belum banyak yang datang. ada Domo dan Nissa di tempat. Apit perlu mengambil barang lagi ke Matrix. V-Rush membawakan Kimagure Princess. band banyak yang datang dan Teguh membuat stand sekaligus konfirmasi daftar ulang. Di situ, aku mulai melihat Erick bersama fairytails membawakan One Ok Rock. sempat tercabut kabel listrik saat Urbanee tampil. Voice of June tampil dengan kekurangan keyboardist. aku dan beberapa teman WotaIndo sempat wotagei. kami bahkan wotagei saat SO dan Himitsu tampil berdasarkan tantangan wotagei selain lagu H!P. Kami wotagei saat lagu Tomei Ningen. Agil, Achmad, dan Pandu datang saat VOJ tampil. saat terakhir, ada jam session dari beberapa band. Acara pas sekali walau ada beberapa keterlambatan. Aku, Dami, dan Rangga membawa kembali peralatan band ke matrix lalu kami makan sate padang di jasokawan.\nfoto dari kamera Awal :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "ipopip_1",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=467664259481&set=a.58668714481",
+            "https://web.facebook.com/photo/?fbid=372581999481&set=a.58668714481"
+        ],
+        "Content": {
+            "category": [
+                "Dance Cover Competition",
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "i-pop community!",
+            "edition": "Session 1",
+            "performers": [
+                "Urbanee",
+                "Voice of June",
+                "Himitsu, The Visible Secret",
+                "Misty Lady",
+                "NYE"
+            ],
+            "description": "Performing 20 Band and Dancer",
+            "media_partners": [
+                "MADLab Multimedia Art & Design Studio",
+                "Doki Doki Station",
+                "Matrix Game Centre, Hobby, & Toys",
+                "Bikkuri!!"
+            ],
+            "contact": {
+                "person": [
+                    {
+                        "name": "Julian",
+                        "phone": "08522 66 20616"
+                    },
+                    {
+                        "name": "Jef",
+                        "phone": "0856 212 9529"
+                    }
+                ],
+                "email": "ipop_community@yahoo.com",
+                "address": "Sekretariat: Matrix Game Centre & Hobbies, Jl. Anggrek Boulevard no 27 lt.3 komp. SURAPATI CORE Jl. Ph.H. Mustopha - BANDUNG"
+            },
+            "social_media": {
+                "blog": "i-popcommunity.blogspot.com"
+            },
+            "theme": "Show Your Power Move!!!",
+            "competition": {
+                "categories": [
+                    "dance performance"
+                ]
+            },
+            "registration": {
+                "fee": "Rp 10.000 / orang",
+                "deadline": "14 March 2010"
+            }
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100828",
-    "Start Time": "11:00 AM",
-    "End Date": "20100828",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100828",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "BUBAR GASUKA",
-    "Location": "Rock House",
-    "Comment": "Summer Sound",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "bubarg_1",
-    "location_address": "Jl. Kautamaan Istri No.26, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.925544031199475, 107.60595861179007",
-    "location_gmaps": "https://goo.gl/maps/5adedyTG9pXwtPYR9",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1363685101190&set=a.1021886756445"
-    ],
-    "Content": {
-      "category": []
+    {
+        "Start Date": "20100403",
+        "Start Time": "4:30 PM",
+        "End Date": "20100403",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100403",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Ohayou Fashion Festival",
+        "Location": "Lucky Square",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "ohayou_2",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1294779384044&set=a.1288471186343",
+            "https://web.facebook.com/events/905162879525260/"
+        ],
+        "Content": {
+            "organizer": "Ohayou",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100829",
-    "Start Time": "11:00 AM",
-    "End Date": "20100829",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100828",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Ngabuburit bareng Bikkuri",
-    "Location": "Cafe Prefere 72",
-    "Comment": "Himitsu",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "ngabub_3",
-    "location_address": "Jl. Ir. H. Juanda No.72, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.8973477057215575, 107.61308829977513",
-    "location_gmaps": "https://goo.gl/maps/y4eYFECjSyjg9ojK7",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=426522604005&set=a.391419359005",
-      "https://web.facebook.com/photo.php?fbid=155078534506015&set=t.1715801691&type=3"
-    ],
-    "Content": {
-      "category": []
+    {
+        "Start Date": "20100417",
+        "Start Time": "4:30 PM",
+        "End Date": "20100417",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100417",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Cosplay Magical Sound & Costum of Japan",
+        "Location": "Plaza Parahyangan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "cospla_2",
+        "location_address": "Jl. Dalem Kaum No.54, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.922220731823803, 107.6061339982963",
+        "location_gmaps": "https://goo.gl/maps/T9eVXXbg1trDEwXu9",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20100926",
-    "Start Time": "5:00 PM",
-    "End Date": "20100926",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20100926",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Bandung Hamamatsu Festival",
-    "Location": "Braga City Walk",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "bandun_1",
-    "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.91693047857716, 107.60896289644823",
-    "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri",
-        "Musik - Band / Live Performance"
-      ]
+    {
+        "Start Date": "20100502",
+        "Start Time": "11:00 AM",
+        "End Date": "20100502",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100502",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Hotaru no Matsuri",
+        "Location": "18th Park Jl Sumatera Bandung",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "hotaru_1",
+        "location_address": "Jl. Sumatera No.31, Babakan Ciamis, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.913956275482468, 107.61355835411912",
+        "location_gmaps": "https://goo.gl/maps/Nb4pcQkcBrCk6pba8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101016",
-    "Start Time": "11:00 AM",
-    "End Date": "20101016",
-    "End Time": "5:00 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101016",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "Gomu-Gomu Matsuri",
-    "Location": "SMA Negeri 2 Bandung",
-    "Comment": "Foto Iboo yang kuambil dengan K600i :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "gomugo_1",
-    "location_address": "Jl. Cihampelas No.173, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.888967570246753, 107.60351241363773",
-    "location_gmaps": "https://g.page/sman2bandung",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
+    {
+        "Start Date": "20100508",
+        "Start Time": "4:30 PM",
+        "End Date": "20100508",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100508",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "Pagelaran Seni Budaya ITB 2010",
+        "Location": "Institut Teknologi Bandung (ITB)",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "pagela_1",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8916344441454305, 107.610777117188",
+        "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101016",
-    "Start Time": "5:00 PM",
-    "End Date": "20101016",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101016",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Bandung Blossom 200th Flower Carnaval",
-    "Location": "Balai Kota Bandung",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "bandun_2",
-    "location_address": "Jl. Wastukencana No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.911538486310211, 107.60980041178988",
-    "location_gmaps": "https://goo.gl/maps/EqERAy5hT1ZH37jG7",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Musik - Band / Live Performance"
-      ]
+    {
+        "Start Date": "20100522",
+        "Start Time": "4:30 PM",
+        "End Date": "20100522",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100522",
+        "Reminder Time": "4:00 PM",
+        "Importance": "Normal",
+        "Subject": "CosSkate Fusion-The Opening Gate of Shibuya",
+        "Location": "18th Park Jl Sumatera Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "cosska_1",
+        "location_address": "Jl. Sumatera No.31, Babakan Ciamis, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.913956275482468, 107.61355835411912",
+        "location_gmaps": "https://goo.gl/maps/Nb4pcQkcBrCk6pba8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101030",
-    "Start Time": "5:00 PM",
-    "End Date": "20101030",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101030",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "JFEST 2-japan Culture Festival For Teens 2",
-    "Location": "STIE PASIM",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "jfestj_1",
-    "location_address": "Jl. Dr. Djunjunan No.167, Sukagalih, Kota Bandung, Jawa Barat",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.892377412545588, 107.58180491178983",
-    "location_gmaps": "https://goo.gl/maps/JsQLjWAaGPuxP9WN6",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
+    {
+        "Start Date": "20100523",
+        "Start Time": "5:00 PM",
+        "End Date": "20100523",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100523",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Obake Matsuri",
+        "Location": "Pusat Studi Bahasa Jepang (PSBJ), Universitas Pajajaran, Jatinangor, Sumedang",
+        "Comment": "ceritanya saat pra-event banyak yang marah-marah dari pihak band. panitianya memang kurang ramah dalam menghadapi pengisi acara. Prima Ramadhan salah satu orang yang marah-marah. V-Rush tampil dan anak-anak WotaIndo pada datang waktu itu. Foto teman-teman Wota bersama Diru dan Wahyu :\n\nV-Rush tampil tepat saat mereka datang. \n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "obakem_1",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1236070663352&set=a.1062705649335",
+            "https://web.facebook.com/events/952604988097286/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101031",
-    "Start Time": "5:00 PM",
-    "End Date": "20101031",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101031",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Cosplay Competition-Halloween Session",
-    "Location": "GardenIce",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "cospla_3",
-    "location_address": "Paris Van Java, Jl. Sukajadi No.08, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.888950167490923, 107.59604048295435",
-    "location_gmaps": "https://goo.gl/maps/jtgNp2dN6R86dzHv7",
-    "links": [
-      "https://web.facebook.com/photo/?fbid=1209129084597&set=a.1209128804590"
-    ],
-    "Content": {
-      "category": [
-        "Cosplay - Competition / Coswalk"
-      ]
+    {
+        "Start Date": "20100605",
+        "Start Time": "11:00 AM",
+        "End Date": "20100605",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100605",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "J-Sound no Matsuri",
+        "Location": "Braga City Walk",
+        "Comment": "V-Rush tampil :\n\nSummer Sound tampil malam hari dengan lagu dipotong. ",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "jsound_1",
+        "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91693047857716, 107.60896289644823",
+        "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101106",
-    "Start Time": "5:00 PM",
-    "End Date": "20101106",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101106",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Maranatha Daigaku-Shiki Matsuri",
-    "Location": "Maranatha",
-    "Comment": "Fotoku bersama Aldy dkk :\n\nFoto Arbud, Lingga, Fanny, dan Japz yang kuambil dengan K660i :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "marana_2",
-    "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.886322772047325, 107.58090566761265",
-    "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Festival / Matsuri"
-      ]
+    {
+        "Start Date": "20100615",
+        "Start Time": "8:00 AM",
+        "End Date": "20100616",
+        "End Time": "9:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100615",
+        "Reminder Time": "7:30 AM",
+        "Importance": "Normal",
+        "Subject": "E3 2010",
+        "Location": "Los Angeles Convention Center",
+        "Comment": "The 2010 show was held at the Los Angeles Convention Center.[14] Nintendo revealed The Legend of Zelda: Skyward Sword, a Wii MotionPlus-compatible title in the The Legend of Zelda series, as well as the Nintendo 3DS handheld.[15] THQ's Danny Bilson stated that Saints Row: The Third would debut at E3 and dubbed it as \"mind-blowing\". Also, THQ has announced the debut for Red Faction: Armageddon at E3. As well as this, Kingdom Hearts 3D has been revealed. Microsoft has announced Kinect, (formerly known as Project Natal) and unveiled its new Xbox 360 S model, while Sony displayed its upcoming motion-sensing game controller for the PlayStation 3 named PlayStation Move. About 45,600 attendees were present for E3 2010, an 11% increase over E3 2009's attendance.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "eeohuy_1",
+        "location_address": "1201 S Figueroa St, Los Angeles, CA 90015, Amerika Serikat",
+        "location_city": "Los Angeles",
+        "location_coordinate": "34.04051626882755, -118.26955167415021",
+        "location_gmaps": "https://goo.gl/maps/CsSCaGk5kiRJ3ZBV8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "United States",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101120",
-    "Start Time": "5:00 PM",
-    "End Date": "20101121",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101120",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Cosplay Charity",
-    "Location": "GardenIce",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "No",
-    "_id": "cospla_4",
-    "location_address": "Paris Van Java, Jl. Sukajadi No.08, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.888950167490923, 107.59604048295435",
-    "location_gmaps": "https://goo.gl/maps/jtgNp2dN6R86dzHv7",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
+    {
+        "Start Date": "20100620",
+        "Start Time": "11:00 AM",
+        "End Date": "20100620",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100620",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Shinobi Shiawase no Hibi (Shinobi) 3",
+        "Location": "SMAN 3 Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "shinob_3",
+        "location_address": "Jl. Belitung No.8, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.912122425343767, 107.61500855227105",
+        "location_gmaps": "https://goo.gl/maps/nhpJwpBE879b5AX39",
+        "links": [
+            "https://nk3bdg.wordpress.com/2010/04/24/shiawase-no-hibi-chan-2010/"
+        ],
+        "Content": {
+            "sifat": "Perlombaan Bahasa dan Kebudayaan Jepang",
+            "jenis_kegiatan": {
+                "lomba_design_character": "Tema ditentukan oleh panitia saat Technical Meeting. Peserta membawa peralatan menggambar sendiri, kertas gambar disediakan oleh panitia.",
+                "lomba_kaligrafi_kanji": "Tema dan kanji ditentukan oleh panitia pada saat Technical Meeting. Peserta membawa fude (kuas) dan tinta sendiri, kertas singkong disediakan oleh panitia.",
+                "lomba_menyampaikan_cerita": "Siswa SMA/SMK menjadi Warga Negara Indonesia dan tidak berbahasa Jepang sebagai bahasa ibu. Siswa yang bersangkutan masih menjadi siswa SMA/SMK. Belum pernah tinggal di Jepang lebih dari 6 bulan dalam kurun waktu 5 tahun terakhir dan/atau belum pernah tinggal di Jepang lebih dari 1 minggu dalam kurun waktu 1 tahun terakhir. Tema ditentukan oleh panitia saat Technical Meeting.",
+                "kana_contest": "Siswa SMA/SMK masih menjadi siswa. Peserta membawa alat tulis sendiri.",
+                "rodoku_contest": "Siswa SMA/SMK masih menjadi siswa. Tema dan naskah ditentukan oleh panitia saat Technical Meeting. Waktu yang dipergunakan maksimal 3 menit.",
+                "speech_contest": "Siswa SMA/SMK menjadi Warga Negara Indonesia dan tidak berbahasa Jepang sebagai bahasa ibu. Bagi yang mempunyai orang tua baik salah seorang maupun keduanya merupakan keturunan Jepang generasi pertama, tidak diperkenankan untuk ikut serta. Siswa yang bersangkutan masih menjadi siswa SMA/SMK. Belum pernah tinggal di Jepang lebih dari 6 bulan dalam kurun waktu 5 tahun terakhir dan/atau belum pernah tinggal di Jepang lebih dari 1 minggu dalam kurun waktu 1 tahun terakhir. Tema bebas dan ditulis dalam bahasa Jepang dengan memenuhi ketentuan-ketentuan yang berlaku."
+            },
+            "peserta": "Siswa-Siswi SMA/SMK se-Jawa Barat. Pendaftaran dibuka mulai tanggal 20 Mei 2010 hingga tanggal 20 Juni 2010 melalui contact person dibawah. Untuk pendaftaran di tempat akan diberitahu selanjutnya.",
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101128",
-    "Start Time": "11:00 AM",
-    "End Date": "20101128",
-    "End Time": "11:30 AM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101128",
-    "Reminder Time": "10:30 AM",
-    "Importance": "Normal",
-    "Subject": "MMI Gath 2010",
-    "Location": "Caramba Cafe",
-    "Comment": "Berangkat ke sana dengan Rio. Summer Sound dengan penampilan terakhir Titan sebagai Drummer. \n\nAku sempat traktir Reda dan Mizu dengan copy struk seperti ini :\nNasi putih \t\t2x = 8rb\nTutug oncom komplit\t1x = 20rb\nprasmanan \t\t1x = 4rb\npete goreng\t\t1x = 5rb\nayam goreng\t\t1x = 12rb\nayam bakar\t\t1x = 14rb\njuice alpukat\t\t1x = 11rb\nHot kopi susu\t\t1x = 7rb\nTeh manis\t\t1x = 4rb\nEs jeruk\t\t\t1x = 10rb\n----------------------------------------\nJumlah \t\t\t=  95rb\nPPN 10%\t\t= 9,5rb\n----------------------------------------\nTotal \t\t\t= 104,5rb\nBayar\t\t\t= 110rb\n----------------------------------------\nKembalian\t\t= 5,5rb\n-\ninilah foto dari struknya :\n\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "mmigat_2",
-    "location_address": "Jl. Sultan Tirtayasa No.26, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.903093218562712, 107.61413793877723",
-    "location_gmaps": "https://goo.gl/maps/L9gtmT7U9wQ9a8s8A",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
+    {
+        "Start Date": "20100704",
+        "Start Time": "11:00 PM",
+        "End Date": "20100704",
+        "End Time": "11:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100704",
+        "Reminder Time": "10:30 PM",
+        "Importance": "Normal",
+        "Subject": "Anime Festival",
+        "Location": "Bale Pare - Kotabaru Parahyangan",
+        "Comment": "koleksi foto Zo memotret Noorshafia Faridathalla saat acara :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "animef_1",
+        "location_address": "Jalan Panyawangan, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.856796992633288, 107.49046865411867",
+        "location_gmaps": "https://g.page/baleparekotabaruparahyangan",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1149179545896&set=a.1147240097411"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101201",
-    "Start Time": "",
-    "End Date": "20101203",
-    "End Time": "",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101211",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Bandung Indie Comic Now",
-    "Location": "Campus Center Barat ITB",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "bandun_3",
-    "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.891248490088989, 107.61007695585553",
-    "location_gmaps": "https://goo.gl/maps/YcoxgoNw4xoYqe7K7",
-    "links": [
-      "https://web.facebook.com/notes/267643321324665/"
-    ],
-    "Content": {
-      "category": [
-        "Musik - Band / Live Performance"
-      ]
+    {
+        "Start Date": "20100717",
+        "Start Time": "11:00 AM",
+        "End Date": "20100717",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100717",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Poppish Lovish 2 : Colorful Life",
+        "Location": "Lucky Square Convention Hall",
+        "Comment": "acaranya dimulai setelah acara sariayu. susahnya, kursi-kursi bekas acara Sariayu tidak dibereskan sehingga banyak penonton acara ini yang duduk-duduk. pas check sound, apit berantem dengan soundman yang belagu sehingga pas acara langsung ganti soundman. \nGirlfriends tampil. banyak dance korea. Seno Rita juga ada. \n\nSummer Sound tampil dan MMI menang komunitas terbaik di acara tersebut. \nSnowflake juga tampil akhir acara sekaligus penutupan dengan foto MMI sebagai pemenang komunitas terbaik.\ninilah salah satu foto yang kuambil dengan kamera 550D Jeff:\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "poppis_2",
+        "location_address": "Jl. Terusan Jakarta No.2, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91371128188617, 107.64496322528368",
+        "location_gmaps": "https://goo.gl/maps/72FBuPckQjBTeuYk8",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1506794789178&set=p.1506794789178"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101211",
-    "Start Time": "5:00 PM",
-    "End Date": "20101211",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101211",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Nihon No Matsuri : Minna No Densetsu",
-    "Location": "Ciwalk",
-    "Comment": "Foto Iboo, Yue, fanny, Wina, dan Nooru yang kuambil dengan kamera jeff :\n",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "nihonn_4",
-    "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.894959018939662, 107.60429474062266",
-    "location_gmaps": "https://g.page/ciwalk-bandung",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "CEO": "Agung Radistya Putra",
-      "category": [
-        "Festival / Matsuri"
-      ]
+    {
+        "Start Date": "20100717",
+        "Start Time": "5:00 PM",
+        "End Date": "20100717",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100717",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Road To Hero Cosplay Contest",
+        "Location": "Cimahi Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "roadto_2",
+        "location_address": "Jl. Gandawijaya, Setiamanah, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40524",
+        "location_city": "Cimahi",
+        "location_coordinate": "-6.8783858530931274, 107.53969696761257",
+        "location_gmaps": "https://goo.gl/maps/U7E34TZqYobBAu8PA",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101219",
-    "Start Time": "5:00 PM",
-    "End Date": "20101219",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101219",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Be Inspired Cosplay Competition",
-    "Location": "Blitzmegaplex - PVJ",
-    "Comment": "Yue dan V-Rush cosplay jadi Tokyo Mew Mew.",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "beinsp_1",
-    "location_address": "Jl. Sukajadi No.137-139, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.887980926222503, 107.59565121349372",
-    "location_gmaps": "https://goo.gl/maps/tQkqD95QWJwhHxFL6",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": [
-        "Cosplay - Competition / Coswalk"
-      ]
+    {
+        "Start Date": "20100724",
+        "Start Time": "09:00",
+        "End Date": "20100724",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yamato Damashii 5",
+        "Location": "Kampus STBA YAPARI ABA Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "khshxx_4",
+        "location_address": "Jl. Cihampelas No.194, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8919434688336985, 107.60445698295439",
+        "location_gmaps": "https://goo.gl/maps/wHmfHziDueDXC4tX7",
+        "links": [
+            "https://web.facebook.com/himade.stba.yapari/posts/pfbid0FpzEEQ6LLaDuWWNDz7bzJZbApMpNxDuHkgmEK9TTutPA7dZgcEZba5GK1GW2PCkUl",
+            "https://web.facebook.com/himade.stba.yapari/posts/pfbid0KfEKg4coQgx1bqT7F9VAMvee83wMvBAoCckS5zwTEbJJCVcxFVX8GtZLgRrfreuwl",
+            "https://web.facebook.com/photo/?fbid=1308777765036&set=a.1308777725035",
+            "https://x.com/infobdg/status/16219792343"
+        ],
+        "Content": {
+            "edition": "5",
+            "theme": "Tua Muda Merah Putih",
+            "tagline": "Yamato Damashii 2010",
+            "competitions": {
+                "kana_contest": {
+                    "type": "Individual",
+                    "fee": "15000 IDR per person"
+                },
+                "shuuji_contest": {
+                    "type": "Individual",
+                    "fee": "15000 IDR per person"
+                },
+                "doujinshi_contest": {
+                    "type": "Individual",
+                    "fee": "15000 IDR per person"
+                },
+                "speech_contest": {
+                    "type": "Individual",
+                    "fee": "15000 IDR per person"
+                },
+                "cosplay": {
+                    "type": "Group",
+                    "fee": "50000 IDR per group",
+                    "maximum_participant": "5 persons"
+                },
+                "kabaret_cosplay": {
+                    "fee": "75000 IDR"
+                },
+                "band_audition": {
+                    "fee": "50000 IDR per band",
+                    "audition_date": "20100707 to 20100708"
+                }
+            },
+            "performances": {
+                "band_performance": {
+                    "black_fuji": "Band",
+                    "onsu": "Band"
+                },
+                "dance_and_culture": {
+                    "souran_bushi": "Performance",
+                    "sakura_odori": "Performance",
+                    "kabaret_okashi": "Performance",
+                    "bon_odori": "Performance",
+                    "yosakoi_souran": "Performance",
+                    "gentrasaba_stba": "Performance",
+                    "kaze_no_hiku": "Performance",
+                    "para_para_dance": "Performance"
+                }
+            },
+            "registration": {
+                "deadline": "20100703"
+            },
+            "contact_person": {
+                "lomba_dan_cosplay": {
+                    "name": "DK",
+                    "phone": "085659303156"
+                },
+                "band": {
+                    "name": "Reynaldo",
+                    "phone": "085724094319"
+                }
+            },
+            "description": "Japanese culture event Yamato Damashii 5 held at STBA YAPARI ABA Bandung featuring contests, cosplay, band audition, and cultural performances",
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  },
-  {
-    "Start Date": "20101223",
-    "Start Time": "5:00 PM",
-    "End Date": "20101223",
-    "End Time": "5:30 PM",
-    "Reminder On/Off": "Yes",
-    "Reminder Date": "20101223",
-    "Reminder Time": "4:30 PM",
-    "Importance": "Normal",
-    "Subject": "Genesis 2010",
-    "Location": "Institut Teknologi Bandung (ITB)",
-    "Comment": "",
-    "Online/Offline": "Offline",
-    "status": "Finished",
-    "attended": "Yes",
-    "_id": "genesi_1",
-    "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
-    "location_city": "Bandung",
-    "location_coordinate": "-6.8916344441454305, 107.610777117188",
-    "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
-    "links": [
-      ""
-    ],
-    "Content": {
-      "category": []
+    {
+        "Start Date": "20100725",
+        "Start Time": "5:00 PM",
+        "End Date": "20100725",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100725",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Tanjoubi Omedetou Cosplay Bandung",
+        "Location": "Braga city Walk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tanjou_1",
+        "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91693047857716, 107.60896289644823",
+        "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
     },
-    "location_country": "Indonesia",
-    "date_precision": "day",
-    "source_status": "archived"
-  }
+    {
+        "Start Date": "20100828",
+        "Start Time": "11:00 AM",
+        "End Date": "20100828",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100828",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "BUBAR GASUKA",
+        "Location": "Rock House",
+        "Comment": "Summer Sound",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "bubarg_1",
+        "location_address": "Jl. Kautamaan Istri No.26, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.925544031199475, 107.60595861179007",
+        "location_gmaps": "https://goo.gl/maps/5adedyTG9pXwtPYR9",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1363685101190&set=a.1021886756445"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100829",
+        "Start Time": "11:00 AM",
+        "End Date": "20100829",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100828",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Ngabuburit bareng Bikkuri",
+        "Location": "Cafe Prefere 72",
+        "Comment": "Himitsu",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "ngabub_3",
+        "location_address": "Jl. Ir. H. Juanda No.72, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8973477057215575, 107.61308829977513",
+        "location_gmaps": "https://goo.gl/maps/y4eYFECjSyjg9ojK7",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=426522604005&set=a.391419359005",
+            "https://web.facebook.com/photo.php?fbid=155078534506015&set=t.1715801691&type=3"
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20100926",
+        "Start Time": "5:00 PM",
+        "End Date": "20100926",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20100926",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Bandung Hamamatsu Festival",
+        "Location": "Braga City Walk",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "bandun_1",
+        "location_address": "Jl. Braga No.99-101, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.91693047857716, 107.60896289644823",
+        "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101016",
+        "Start Time": "11:00 AM",
+        "End Date": "20101016",
+        "End Time": "5:00 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101016",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "Gomu-Gomu Matsuri",
+        "Location": "SMA Negeri 2 Bandung",
+        "Comment": "Foto Iboo yang kuambil dengan K600i :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "gomugo_1",
+        "location_address": "Jl. Cihampelas No.173, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888967570246753, 107.60351241363773",
+        "location_gmaps": "https://g.page/sman2bandung",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101016",
+        "Start Time": "5:00 PM",
+        "End Date": "20101016",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101016",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Bandung Blossom 200th Flower Carnaval",
+        "Location": "Balai Kota Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandun_2",
+        "location_address": "Jl. Wastukencana No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.911538486310211, 107.60980041178988",
+        "location_gmaps": "https://goo.gl/maps/EqERAy5hT1ZH37jG7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101030",
+        "Start Time": "5:00 PM",
+        "End Date": "20101030",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101030",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "JFEST 2-japan Culture Festival For Teens 2",
+        "Location": "STIE PASIM",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "jfestj_1",
+        "location_address": "Jl. Dr. Djunjunan No.167, Sukagalih, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.892377412545588, 107.58180491178983",
+        "location_gmaps": "https://goo.gl/maps/JsQLjWAaGPuxP9WN6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101031",
+        "Start Time": "5:00 PM",
+        "End Date": "20101031",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101031",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Cosplay Competition-Halloween Session",
+        "Location": "GardenIce",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "cospla_3",
+        "location_address": "Paris Van Java, Jl. Sukajadi No.08, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888950167490923, 107.59604048295435",
+        "location_gmaps": "https://goo.gl/maps/jtgNp2dN6R86dzHv7",
+        "links": [
+            "https://web.facebook.com/photo/?fbid=1209129084597&set=a.1209128804590"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101106",
+        "Start Time": "5:00 PM",
+        "End Date": "20101106",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101106",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Maranatha Daigaku-Shiki Matsuri",
+        "Location": "Maranatha",
+        "Comment": "Fotoku bersama Aldy dkk :\n\nFoto Arbud, Lingga, Fanny, dan Japz yang kuambil dengan K660i :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "marana_2",
+        "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.886322772047325, 107.58090566761265",
+        "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101120",
+        "Start Time": "5:00 PM",
+        "End Date": "20101121",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101120",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Cosplay Charity",
+        "Location": "GardenIce",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "cospla_4",
+        "location_address": "Paris Van Java, Jl. Sukajadi No.08, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888950167490923, 107.59604048295435",
+        "location_gmaps": "https://goo.gl/maps/jtgNp2dN6R86dzHv7",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101128",
+        "Start Time": "11:00 AM",
+        "End Date": "20101128",
+        "End Time": "11:30 AM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101128",
+        "Reminder Time": "10:30 AM",
+        "Importance": "Normal",
+        "Subject": "MMI Gath 2010",
+        "Location": "Caramba Cafe",
+        "Comment": "Berangkat ke sana dengan Rio. Summer Sound dengan penampilan terakhir Titan sebagai Drummer. \n\nAku sempat traktir Reda dan Mizu dengan copy struk seperti ini :\nNasi putih \t\t2x = 8rb\nTutug oncom komplit\t1x = 20rb\nprasmanan \t\t1x = 4rb\npete goreng\t\t1x = 5rb\nayam goreng\t\t1x = 12rb\nayam bakar\t\t1x = 14rb\njuice alpukat\t\t1x = 11rb\nHot kopi susu\t\t1x = 7rb\nTeh manis\t\t1x = 4rb\nEs jeruk\t\t\t1x = 10rb\n----------------------------------------\nJumlah \t\t\t=  95rb\nPPN 10%\t\t= 9,5rb\n----------------------------------------\nTotal \t\t\t= 104,5rb\nBayar\t\t\t= 110rb\n----------------------------------------\nKembalian\t\t= 5,5rb\n-\ninilah foto dari struknya :\n\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "mmigat_2",
+        "location_address": "Jl. Sultan Tirtayasa No.26, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.903093218562712, 107.61413793877723",
+        "location_gmaps": "https://goo.gl/maps/L9gtmT7U9wQ9a8s8A",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101201",
+        "Start Time": "",
+        "End Date": "20101203",
+        "End Time": "",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101211",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Bandung Indie Comic Now",
+        "Location": "Campus Center Barat ITB",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "bandun_3",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.891248490088989, 107.61007695585553",
+        "location_gmaps": "https://goo.gl/maps/YcoxgoNw4xoYqe7K7",
+        "links": [
+            "https://web.facebook.com/notes/267643321324665/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101211",
+        "Start Time": "5:00 PM",
+        "End Date": "20101211",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101211",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Nihon No Matsuri : Minna No Densetsu",
+        "Location": "Ciwalk",
+        "Comment": "Foto Iboo, Yue, fanny, Wina, dan Nooru yang kuambil dengan kamera jeff :\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "nihonn_4",
+        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.894959018939662, 107.60429474062266",
+        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "CEO": "Agung Radistya Putra",
+            "category": [
+                "Festival / Matsuri"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101219",
+        "Start Time": "5:00 PM",
+        "End Date": "20101219",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101219",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Be Inspired Cosplay Competition",
+        "Location": "Blitzmegaplex - PVJ",
+        "Comment": "Yue dan V-Rush cosplay jadi Tokyo Mew Mew.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "beinsp_1",
+        "location_address": "Jl. Sukajadi No.137-139, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40162",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.887980926222503, 107.59565121349372",
+        "location_gmaps": "https://goo.gl/maps/tQkqD95QWJwhHxFL6",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    },
+    {
+        "Start Date": "20101223",
+        "Start Time": "5:00 PM",
+        "End Date": "20101223",
+        "End Time": "5:30 PM",
+        "Reminder On/Off": "Yes",
+        "Reminder Date": "20101223",
+        "Reminder Time": "4:30 PM",
+        "Importance": "Normal",
+        "Subject": "Genesis 2010",
+        "Location": "Institut Teknologi Bandung (ITB)",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "Yes",
+        "_id": "genesi_1",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8916344441454305, 107.610777117188",
+        "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
+        "links": [
+            ""
+        ],
+        "Content": {
+            "category": []
+        },
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "archived"
+    }
 ]

@@ -4663,10 +4663,50 @@
         "location_coordinate": "-7.952731097807997, 112.61266089083126",
         "location_gmaps": "https://goo.gl/maps/bCTj1DF3LisftMvK8",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10161217248543836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10161217248543836/",
+            "https://www.instagram.com/p/CnyTSJ6h7oV/",
+            "https://www.instagram.com/p/Cx23FcPhgn1/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Bazaar / Market",
+                "Obake Yashiki",
+                "Games",
+                "Lomba Makan Ramen",
+                "Academic / School Competition"
+            ],
+            "organizer": "Fakultas Ilmu Budaya Universitas Brawijaya",
+            "theme": "Futuristic Japan",
+            "edition": "17",
+            "description": "Festival Jepang tahunan Isshoni Tanoshimimashou ke-17 yang mengusung tema masa depan, menghadirkan berbagai lomba tingkat SMA, bazar, dan wahana hiburan.",
+            "date": "11 Februari 2023",
+            "competition": {
+                "general": [
+                    "Lomba Makan Ramen"
+                ],
+                "target_audience": [
+                    "Lomba SMA"
+                ]
+            },
+            "activities": [
+                "Bazar",
+                "Yukata Photobooth",
+                "Games",
+                "Obake Yashiki",
+                "Omikuji"
+            ],
+            "ticket_info": {
+                "htm": "Free HTM",
+                "note": "Pembelian tiket presale (untuk konten berbayar tertentu) dapat dilakukan melalui loket.com atau instagram @isshonitanoshi."
+            },
+            "social_media": {
+                "instagram": "@isshonitanoshi",
+                "twitter": "Isshonitanoshi",
+                "tiktok": "isshonitanoshi",
+                "facebook": "Isshoni Tanoshimimashou",
+                "youtube": "Isshoni Tanoshimimashou"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8813,7 +8853,8 @@
         "links": [
             "https://www.facebook.com/groups/251875943835/permalink/10161579392253836/",
             "https://web.facebook.com/ryandhikaadi/posts/pfbid0br9kFVcZfcqRkFWyZ4ZFCRBKvLaMahSrW6ifP97XTfSApE1udoTFDpcwxyQMSRBLl",
-            "https://web.facebook.com/events/2133363106865248/"
+            "https://web.facebook.com/events/2133363106865248/",
+            "https://www.instagram.com/p/CoCdpnKhtYp/"
         ],
         "Content": {
             "penyelenggara": "@48fams_ngalam",
@@ -10590,10 +10631,53 @@
         "location_coordinate": "-6.326254972818167, 107.29151340144045",
         "location_gmaps": "https://goo.gl/maps/xB2r2NCtPzQmLVyv7",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10161385190893836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10161385190893836/",
+            "https://www.instagram.com/p/CoTUhw7B5kM/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Bazaar / Market",
+                "Game Competition",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Anime Lovers Karawang",
+            "theme": "Karawang Anicosmic 2023",
+            "description": "Event budaya pop Jepang di Karawang yang menghadirkan kompetisi cosplay dan game, talkshow, serta pertunjukan musik selama dua hari.",
+            "edition": "2023",
+            "date": "4-5 Maret 2023",
+            "venue": "Gramedia World Karawang",
+            "activities": [
+                "Cosplay Competition",
+                "Game Competition",
+                "Anicosmic Talkshow",
+                "Community Activities",
+                "Animerch Bazzar",
+                "Idol Performance",
+                "J-Music Performance",
+                "Karaoke Anisong",
+                "Stage Quiz",
+                "Flashmob"
+            ],
+            "ticket_info": {
+                "1_day_pass": "Rp 35.000 (1pcs Wristband, Freebies)",
+                "2_day_pass": "Rp 60.000 (2pcs Wristband Ticket Pass, Freebies + Merch by @elex)",
+                "note": "Pembelian tiket dilakukan secara online melalui link bit.ly/TIKETKARAMIC2023 dan jumlah tiket terbatas sesuai kapasitas."
+            },
+            "contact": {
+                "ticketing": "Aldi (+62877-1828-4480)",
+                "tenant": "Reza (+62822-4582-1008)",
+                "cosplay_competition": "Azhari (+62858-9459-5590)",
+                "game_tournament": "Rayhan (+62812-1283-3640)"
+            },
+            "special_thanks_to": [
+                "Gramedia World Karawang",
+                "Elex Media Komputindo",
+                "MNC Gramedia"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -21231,13 +21315,102 @@
         "location_coordinate": "-7.261928579817443, 112.75000880765676",
         "location_gmaps": "https://goo.gl/maps/txHhsFibxTcXBRKx8",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10161711503863836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10161711503863836/",
+            "https://www.instagram.com/p/CqfQglQhf1m/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik - Idol / VTuber"
-            ]
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "A2P Event",
+            "theme": "DREAM IDOL FESTIVAL",
+            "description": "Festival musik idol di Surabaya yang menghadirkan konser mini, berbagai kompetisi hobi, serta bazar komunitas dan hiburan lainnya.",
+            "edition": "2023",
+            "date": "Minggu, 7 Mei 2023",
+            "venue": "Grand City Mall, Multifunction Hall Lt. 1, Surabaya",
+            "guest_stars": [
+                "Zeroxia",
+                "Seirabel"
+            ],
+            "performers": {
+                "idol_performance": [
+                    "HTOne",
+                    "Aidle",
+                    "Seizaka46",
+                    "Dreamies",
+                    "Girls Ocean",
+                    "Idolize"
+                ]
+            },
+            "competition": {
+                "categories": [
+                    "Jsong Sing Cover",
+                    "Coswalk Competition",
+                    "Photography Competition"
+                ],
+                "judges": [
+                    "Seirabel",
+                    "Zeroxia",
+                    "Arsy"
+                ],
+                "registration_fee": {
+                    "jsong_competition": "Rp 10.000",
+                    "coswalk_competition": "Rp 10.000",
+                    "photography_competition": "Free"
+                }
+            },
+            "activities": [
+                "Bazaar",
+                "Communities",
+                "Tarot Reading",
+                "Games",
+                "Mini Concert",
+                "Photobooth",
+                "Doorprize",
+                "Fan Sign"
+            ],
+            "ticket_info": {
+                "presale": "Rp 20.000 (Slot Terbatas)",
+                "htm_ots": "Rp 25.000",
+                "benefits": [
+                    "Free Mini Glowstick untuk nonton Idol Concert",
+                    "Free Koecha Voucher"
+                ]
+            },
+            "contact": {
+                "presale": "+62 823-3148-5068 (Clara)",
+                "competition": "+62 895-4025-39380 (Angel)",
+                "tenant_community": "+62 822-6433-3650 (Rika)"
+            },
+            "sponsors": [
+                "Cincau Station",
+                "Koecha.id",
+                "AP22Apparel"
+            ],
+            "social_media": {
+                "instagram": "@a2p.event"
+            },
+            "rundown": {
+                "10.00": "Open Gate",
+                "11.00": "Opening",
+                "11.30": "HT-One Performance",
+                "12.00": "Break",
+                "12.30": "Games",
+                "12.45": "Aidle Performance",
+                "13.15": "Coswalk Competition",
+                "14.30": "Dreamies Performance",
+                "15.00": "J-Song Competition",
+                "16.30": "Seizaka46 Performance",
+                "17.00": "Girls Ocean Performance",
+                "17.30": "Break",
+                "18.00": "Idolize Performance",
+                "18.30": "Winner Announcement"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -51329,7 +51502,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dpvmsw_7",
+        "_id": "pkrtmd_4",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -51526,7 +51699,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dpvmsw_7",
+        "_id": "pkrtmd_4",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -52101,7 +52274,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "dpvmsw_7",
+        "_id": "pkrtmd_4",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
@@ -55218,10 +55391,49 @@
             "https://www.instagram.com/p/CvkD7JNBYaY/",
             "https://www.instagram.com/utsurufest_/",
             "https://web.facebook.com/jfesthunter/posts/pfbid0VMFWEEwAKcFzcUdzygjn8c4FKW6AoSaSBp4WLDrgEbmd68HxMHwskA1eChk4u3oZl",
-            "https://web.facebook.com/groups/251875943835/posts/10162007681283836/"
+            "https://web.facebook.com/groups/251875943835/posts/10162007681283836/",
+            "https://www.instagram.com/p/Cv4CKn0BiRK/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition"
+            ],
+            "organizer": "Japan Culture Daisuki",
+            "theme": "Agustusan ala Shonen 2023",
+            "edition": "Utsuru #8",
+            "description": "Pesta komunitas tahunan di Jawa Timur yang menggabungkan perayaan kemerdekaan dengan budaya pop Jepang, menghadirkan booth komunitas, pertunjukan panggung, dan berbagai lomba.",
+            "date": "20 Agustus 2023",
+            "venue": "Mall Dinoyo City, Malang",
+            "performers": [
+                "Hyakushiki",
+                "Big G Nation",
+                "Hanagatsu Wotagei",
+                "Love Live! Malang",
+                "Klab Karaoke Konoha",
+                "Bocchi Noizu",
+                "Akiramenna",
+                "Moonbeams",
+                "Cosuki",
+                "Sakurajima",
+                "Mugai Ryu",
+                "Idolize",
+                "Luxuria",
+                "Aminus",
+                "Cosmo"
+            ],
+            "activities": [
+                "Booth Komunitas (Hobby, Anime, Cosplay, Toys, Music, Dance)",
+                "Lomba-lomba Agustusan ala Shonen",
+                "Live Performance"
+            ],
+            "ticket_info": {
+                "htm": "Rp 25.000"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -60693,10 +60905,42 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162048669223836/",
             "https://instagram.com/helloweebs_id",
-            "https://www.instagram.com/p/CxFxJzVxbUW/"
+            "https://www.instagram.com/p/CxFxJzVxbUW/",
+            "https://www.instagram.com/p/CxFlTSJBzk3/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "JVIBES.ID",
+            "theme": "HELLOWEEBS Road Show to Malang",
+            "description": "Acara festival budaya pop Jepang yang menghadirkan lomba cosplay, lomba menyanyi, serta berbagai pertunjukan dari performer dan booth komunitas di Malang.",
+            "edition": "2023",
+            "date": "Sabtu & Minggu, 16 & 17 September 2023",
+            "venue": "Mall Dinoyo City (Rooftop), Malang",
+            "activities": [
+                "Lomba Cosplay",
+                "Lomba Nyanyi (J-Song)",
+                "Cosplayer & Performer Performance",
+                "Booth Bazaar"
+            ],
+            "ticket_info": {
+                "htm": "GRATIS"
+            },
+            "contact": {
+                "whatsapp_group": "https://bit.ly/jvibes-regional"
+            },
+            "social_media": {
+                "instagram": [
+                    "@jvibes.id",
+                    "@helloweebs_id"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -63255,51 +63499,52 @@
             "https://web.facebook.com/jpnakama.ta/posts/pfbid02Gt5g9oP7Zxj8Jtjqgai6py8wji5YZBncnuGGBMWn8nNMMusanwHkCdmhzsSLKtCKl",
             "https://web.facebook.com/groups/1426621254262907/?multi_permalinks=3471445839780428",
             "https://web.facebook.com/groups/251875943835/posts/10162072749273836/",
-            "https://web.facebook.com/reel/1352768785355986"
+            "https://web.facebook.com/reel/1352768785355986",
+            "https://www.instagram.com/p/CxMsUQ1hJ6C/"
         ],
         "Content": {
-            "theme": " () - Revolusi",
+            "theme": "Revolusi",
+            "origami": {
+                "definition": "the Japanese art of folding paper into decorative shapes and figures."
+            },
+            "social_media": {
+                "instagram": "_origami.project",
+                "facebook": "Origami Project"
+            },
+            "performers": {
+                "main": [
+                    "@breakernbutcher.id",
+                    "@goldensaints_band",
+                    "@knsplus",
+                    "@lxastories",
+                    "@badai.kendo"
+                ],
+                "guest_stars": [
+                    "@idolize.officials",
+                    "@moonbeams_band",
+                    "@hyakushikimlg"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "@exia.73",
+                    "@florencedyjhe",
+                    "@hisa_me"
+                ],
+                "jsong": [
+                    "Juju from @moonbeams_band",
+                    "Yovi from @hyakushikimlg"
+                ],
+                "dance_cover": [
+                    "@firacchi",
+                    "@tifa_septian"
+                ]
+            },
+            "mc": {
+                "name": "Juyu",
+                "description": "Juyu adalah seorang seorang cosplayer baru dari dunia jejepangan malang. Namun meski terbilang cosplayer baru, dia tetap eksis dengan memenangkan berbagai ajang kompetisi cosplay bergengsi dan Juyu juga memiliki skill MC yang memukau. With her great and cheerful personality she's ready to keep the stage on fireee"
+            },
             "category": []
-        },
-        "origami": {
-            "definition": "the Japanese art of folding paper into decorative shapes and figures."
-        },
-        "social_media": {
-            "instagram": "_origami.project",
-            "facebook": "Origami Project"
-        },
-        "performers": {
-            "main": [
-                "@breakernbutcher.id",
-                "@goldensaints_band",
-                "@knsplus",
-                "@lxastories",
-                "@badai.kendo"
-            ],
-            "guest_stars": [
-                "@idolize.officials",
-                "@moonbeams_band",
-                "@hyakushikimlg"
-            ]
-        },
-        "judges": {
-            "coswalk": [
-                "@exia.73",
-                "@florencedyjhe",
-                "@hisa_me"
-            ],
-            "jsong": [
-                "Juju from @moonbeams_band",
-                "Yovi from @hyakushikimlg"
-            ],
-            "dance_cover": [
-                "@firacchi",
-                "@tifa_septian"
-            ]
-        },
-        "mc": {
-            "name": "Juyu",
-            "description": "Juyu adalah seorang seorang cosplayer baru dari dunia jejepangan malang. Namun meski terbilang cosplayer baru, dia tetap eksis dengan memenangkan berbagai ajang kompetisi cosplay bergengsi dan Juyu juga memiliki skill MC yang memukau. With her great and cheerful personality she's ready to keep the stage on fireee"
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -74080,13 +74325,46 @@
         "location_gmaps": "https://maps.app.goo.gl/JDf1DYfySMJoBD3x5",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162119872048836/",
-            "https://instagram.com/sukabumipopculture"
+            "https://instagram.com/sukabumipopculture",
+            "https://www.instagram.com/p/CxDXRVmBhYd/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Anime - Convention / Fan Event"
-            ]
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance",
+                "Bazaar / Market",
+                "Dance Cover Competition"
+            ],
+            "organizer": "Wisata Alam Oasis x Sukabumi Pop Culture",
+            "theme": "OASIS ANIME FEST",
+            "description": "Festival anime yang diselenggarakan di objek wisata alam di Sukabumi, menghadirkan kompetisi cosplay, berbagai pertunjukan musik, serta bazar makanan dan merchandise.",
+            "date": "Minggu, 5 November 2023",
+            "venue": "Wisata Alam Oasis, Jl. Mayor Mahmud No.9 Ds. Sukajaya, Kec. Sukabumi, Kabupaten Sukabumi",
+            "activities": [
+                "Coswalk Competition",
+                "Cosplay Competition",
+                "Cosplay Corner",
+                "Guest Star Performance",
+                "Music Performance",
+                "Idol & Dance Performance",
+                "Merchandise & Food Bazaar"
+            ],
+            "competition": {
+                "total_prize": "Jutaan Rupiah"
+            },
+            "ticket_info": {
+                "presale_1": "Rp 25.000 (Limited)",
+                "presale_2": "xxx",
+                "normal": "xxx"
+            },
+            "contact": {
+                "event_info": "0856-5949-9905 (Geki)"
+            },
+            "social_media": {
+                "instagram": "@sukabumipopculture"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
