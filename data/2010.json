@@ -858,6 +858,77 @@
     },
     {
         "Start Date": "20100725",
+        "Start Time": "14:00",
+        "End Date": "20100725",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fashion Hub Cosplay Competition",
+        "Location": "Mal Kelapa Gading 3",
+        "Comment": "Total hadiah 18 juta rupiah; Menampilkan kompetisi individu dalam 3 kategori",
+        "Online/Offline": "Offline",
+        "status": "archived",
+        "attended": "No",
+        "_id": "fashion_hub_cosplay_mkg3_2010",
+        "location_address": "Jl. Boulevard Raya, RT.13/RW.18, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.157807776815269, 106.90838911265199",
+        "location_gmaps": "https://maps.app.goo.gl/4fwEsZsN6oiwaDVV9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/events/820102868037022/",
+            "https://web.facebook.com/share/p/1DXDW61M5Y/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay - Competition",
+                "Musik - Band",
+                "Performance / Cabaret"
+            ],
+            "organizer": "GoRaikon Event Organizer",
+            "sponsored_by": "Summarecon",
+            "description": "Kompetisi cosplay bergengsi di Mal Kelapa Gading yang terbagi menjadi kategori Anime/Manga, Game, dan Tokusatsu dengan total hadiah jutaan rupiah per kategori.",
+            "activities": [
+                "Cosplay Competition",
+                "Shuriken Band Performance",
+                "KomuToku: S.A.T Performance",
+                "On! Project Performance"
+            ],
+            "competition_details": {
+                "categories": [
+                    "Anime/Manga",
+                    "Game",
+                    "Tokusatsu"
+                ],
+                "prizes_per_category": {
+                    "juara_1": "Rp 3.000.000,-",
+                    "juara_2": "Rp 2.000.000,-",
+                    "juara_3": "Rp 1.000.000,-"
+                },
+                "registration_fee": "Rp 50.000 (ditukar voucher bernilai sama)"
+            },
+            "judges": [
+                "Pinky Luanda (Pinky Endiru)",
+                "Richie GoRaikon",
+                "Perwakilan MKG"
+            ],
+            "rundown": [
+                "11:40 \u00e2\u20ac\u201c 13:40: Pendaftaran ulang",
+                "14:00 \u00e2\u20ac\u201c 14:15: Shuriken Band eps. 1",
+                "14:20 \u00e2\u20ac\u201c 15:20: Cosplay Competition",
+                "15:25 \u00e2\u20ac\u201c 15:45: KomuToku: S.A.T",
+                "15:50 \u00e2\u20ac\u201c 16:05: Pengumuman Pemenang",
+                "16:10 \u00e2\u20ac\u201c 16:35: Shuriken Band eps. 2",
+                "16:40 \u00e2\u20ac\u201c 17:00: On! Project"
+            ]
+        }
+    },
+    {
+        "Start Date": "20100725",
         "Start Time": "5:00 PM",
         "End Date": "20100725",
         "End Time": "5:30 PM",

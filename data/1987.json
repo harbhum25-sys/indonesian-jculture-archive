@@ -1,0 +1,51 @@
+[
+    {
+        "Start Date": "19870903",
+        "Start Time": "16:00",
+        "End Date": "19870907",
+        "End Time": "19:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pertunjukan Goggle V & Gaban",
+        "Location": "Istora Senayan",
+        "Comment": "Drama anak-anak yang khusus didatangkan dari Jepang; 2x pertunjukan setiap hari (16.00 WIB & 19.30 WIB)",
+        "Online/Offline": "Offline",
+        "status": "archived",
+        "attended": "No",
+        "_id": "goggle_v_gaban_jakarta_1987",
+        "location_address": "Jl. Pintu Satu Senayan No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219993650644207, 106.8056960829497",
+        "location_gmaps": "https://goo.gl/maps/nvCpokwmLaPxUzmd6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.facebook.com/share/p/1Gvjiy5dvv/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Tokusatsu - Show",
+                "Drama / Theater",
+                "Historical Archive"
+            ],
+            "organizer": [
+                "Yayasan Dharma Satya",
+                "PT Citra Lamtoro Gung Persada",
+                "Ono Artists Promotion"
+            ],
+            "description": "Pertunjukan terbesar tahun 1987 yang membawa karakter Goggle V dan Gaban langsung dari Jepang ke Jakarta.",
+            "ticket_info": {
+                "vip": "Rp 30.000,00",
+                "kelas_1": "Rp 20.000,00",
+                "kelas_2": "Rp 10.000,00",
+                "kelas_3": "Rp 5.000,00"
+            },
+            "source": "Facebook Page Perpustakaan Nasional",
+            "source_archive": "Kompas, 13-08-1987 hal. 7. Koleksi Surat Kabar Langka Salemba, Perpustakaan Nasional RI (SKALA Team)",
+            "historical_context": "Karakter ini sangat populer di Indonesia pada pertengahan era 1980-an sebelum era Power Rangers dimulai."
+        }
+    }
+]

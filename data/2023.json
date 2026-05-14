@@ -49987,13 +49987,39 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10161962302833836/",
             "https://instagram.com/partevia.entertainment",
-            "https://instagram.com/auroradream.ofc"
+            "https://instagram.com/auroradream.ofc",
+            "https://www.instagram.com/p/C0RKMGbhskO/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri",
-                "Musik - Band / Live Performance"
-            ]
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas",
+                "Audisi / Talent Search"
+            ],
+            "organizer": "Partevia Management",
+            "theme": "Aurora Dream's 2nd Generation",
+            "description": "Acara audisi final secara langsung untuk memilih anggota generasi kedua dari grup idol Aurora Dream, di mana 5 orang akan dipilih dari 12 finalis.",
+            "date": "Saturday, 2nd December 2023",
+            "venue": "Harajuku District BEC, Bandung",
+            "time": "12.40 - End",
+            "activities": [
+                "Final Audition Live Performance",
+                "Fan Support Session"
+            ],
+            "competition": {
+                "total_finalists": 12,
+                "winners_to_be_chosen": 5
+            },
+            "social_media": {
+                "media_partners": [
+                    "@wibu_baleendah",
+                    "@kumaclan",
+                    "@baraya_weebu",
+                    "@bdg.aidoru.nakama",
+                    "@ligi_media",
+                    "@bae_anime_event"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -51502,7 +51528,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "pkrtmd_4",
+        "_id": "zqfoil_8",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -51699,7 +51725,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "pkrtmd_4",
+        "_id": "zqfoil_8",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -52274,7 +52300,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "pkrtmd_4",
+        "_id": "zqfoil_8",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
@@ -65015,7 +65041,8 @@
             "https://web.facebook.com/QTakashistore/posts/pfbid02fLCRgZUzuqUwx4wW5QjxVvsa39HduQhGfzcqQebSXq8KNAf8VzV7at55WEbLkp3el",
             "http://bit.ly/GagaCoswalkCompetition",
             "https://web.facebook.com/groups/251875943835/posts/10162088785458836/",
-            "https://www.instagram.com/p/CxqCHaBh3i-/"
+            "https://www.instagram.com/p/CxqCHaBh3i-/",
+            "https://www.instagram.com/p/C0Q61CJhlko/"
         ],
         "Content": {
             "Rundown": [
@@ -65117,8 +65144,68 @@
                 }
             ],
             "category": [
-                "Cosplay - Competition / Coswalk"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Game Competition",
+                "Musik - Idol / VTuber",
+                "Bazaar / Market",
+                "Food Festival"
+            ],
+            "organizer": "Gaga 100 Extra Pedas",
+            "theme": "Spicy Carnival",
+            "description": "Karnaval bertema pedas yang menggabungkan kompetisi makan, turnamen e-sports, dan budaya pop Jepang, menghadirkan brand ambassador Tanboy Kun serta tim AURA MPL.",
+            "date": "Sabtu, 02 Desember 2023",
+            "venue": "Rooftop Dinoyo Mall - Kota Malang",
+            "guest_stars": [
+                "Tanboy Kun (Grand Ambassador)",
+                "AURA MPL",
+                "Elaine"
+            ],
+            "performers": [
+                "Baby Metal Surabaya",
+                "Himawari",
+                "Klab Karaoke Konoha",
+                "Stellaria",
+                "Say!Won!"
+            ],
+            "competition": {
+                "huhah_challenge": {
+                    "description": "Lomba makan pedas",
+                    "registration_link": "https://bit.ly/huhahmalang2023"
+                },
+                "coswalk_competition": {
+                    "judges": [
+                        "Nanda Kriz",
+                        "Wika",
+                        "Ars Ramdha"
+                    ],
+                    "registration_link": "https://bit.ly/coswalkmalang2023"
+                },
+                "mlbb_tournament": "Mini Tournament MLBB by GAGA Aura Gaming Academy"
+            },
+            "activities": [
+                "Meet and Greet Tanboy Kun & AURA MPL",
+                "Gaga Collaboration Menu (UMKM Malang x Gaga 100)",
+                "Live Performance",
+                "Aura x Gaga MLBB Tournament"
+            ],
+            "mc": [
+                "Sahabel",
+                "Andy Phebe"
+            ],
+            "ticket_info": {
+                "htm": "FREE ENTRY",
+                "note": "Hanya untuk pengikut (followers) Instagram @gaga100extrapedas"
+            },
+            "social_media": {
+                "instagram": "@gaga100extrapedas",
+                "hashtag": [
+                    "#SpicyCarnaval",
+                    "#huhahchallenge",
+                    "#miegaga100extrapedas",
+                    "#eventmalang"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -68642,10 +68729,46 @@
             "https://www.instagram.com/p/CyN10GZRpOQ/",
             "https://www.instagram.com/p/CyN1MmrBre7/",
             "https://www.instagram.com/p/CyDotv7hBt2/",
-            "https://web.facebook.com/groups/251875943835/posts/10162131301293836/"
+            "https://web.facebook.com/groups/251875943835/posts/10162131301293836/",
+            "https://www.instagram.com/p/CyN5DOah69c/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas",
+                "Musik - Anisong / Karaoke"
+            ],
+            "organizer": "Japan Culture Daisuki",
+            "theme": "Road to Chocodays 10th",
+            "description": "Acara pemanasan sekaligus perayaan menyambut satu dekade (10 tahun) Chocodays di Malang, menghadirkan berbagai grup idol dan komunitas hobi.",
+            "date": "15 Oktober 2023",
+            "venue": "Mall Dinoyo City, Malang",
+            "time": "Open Gate: 10:00 WIB",
+            "guest_stars": [
+                "Moonbeams",
+                "Akiramenna",
+                "Little Black Cherie",
+                "Seirabel",
+                "Luxuria",
+                "Aminus",
+                "Himawari",
+                "KKK",
+                "Alaricia Girls",
+                "Sezaku",
+                "KNS Plus",
+                "Love Live Malang"
+            ],
+            "ticket_info": {
+                "htm": "Rp 30.000"
+            },
+            "social_media": {
+                "hashtag": [
+                    "#chocodays",
+                    "#culturedaisuki",
+                    "#eventmalang"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -73580,7 +73703,71 @@
             "https://www.instagram.com/p/Cy23dPUx7uP/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Bazaar / Market",
+                "Creator Market",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "CHIBICON",
+            "theme": "ChibiCon X GHOSTY'S Comic",
+            "edition": "ChibiCon 3",
+            "description": "Pasar kreator terbesar di Jawa Timur yang berkolaborasi dengan GHOSTY'S Comic, menghadirkan berbagai bintang tamu kreator, penampil musik, dan booth komunitas.",
+            "date": "4-5 November 2023",
+            "venue": "Galaxy Exhibition Center, Galaxy Mall 2 Lt. 6, Surabaya, Jawa Timur",
+            "guest_stars": [
+                "Reika",
+                "Xiaoyu",
+                "Ola",
+                "Ochi & Unu",
+                "Dio",
+                "Joca",
+                "Moonclub",
+                "Akemi",
+                "Alenka",
+                "Elainee",
+                "Airi",
+                "Frederett",
+                "KKK",
+                "Foryska & Saskia",
+                "Elaine",
+                "Vibetronic",
+                "Fajar (GHOSTY'S Comic)",
+                "Counter Attack",
+                "Akiba Street"
+            ],
+            "performers": [
+                "Himawari",
+                "Capristar",
+                "Jousick",
+                "Idolize"
+            ],
+            "announcer_radio": [
+                "Noct",
+                "Candra Salay"
+            ],
+            "mc": [
+                "Andy",
+                "Meaw"
+            ],
+            "activities": [
+                "Creator Market",
+                "Live Performance",
+                "Announcer Radio Session"
+            ],
+            "ticket_info": {
+                "presale": "Tersedia hingga 29 Oktober 2023 melalui linktr.ee/chibicon"
+            },
+            "social_media": {
+                "instagram": "@chibicon.id",
+                "hashtag": [
+                    "#CreatingCreators",
+                    "#eventjepang",
+                    "#creatormarket",
+                    "#chibicon"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -74326,7 +74513,8 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162119872048836/",
             "https://instagram.com/sukabumipopculture",
-            "https://www.instagram.com/p/CxDXRVmBhYd/"
+            "https://www.instagram.com/p/CxDXRVmBhYd/",
+            "https://www.instagram.com/p/CzETv0fhfd4/"
         ],
         "Content": {
             "category": [
@@ -77899,10 +78087,71 @@
         "location_coordinate": "-7.926690825286354, 112.60250263354027",
         "location_gmaps": "https://maps.app.goo.gl/s6TkbBQPRyyYniWi7",
         "links": [
-            "https://www.instagram.com/p/CzsMFoLxmJd/"
+            "https://www.instagram.com/p/CzsMFoLxmJd/",
+            "https://www.instagram.com/p/Czr4xB5hWta/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Ohayou Sekai",
+            "theme": "Unlock The Portal: Explore New Worlds!",
+            "edition": "2023",
+            "description": "Festival budaya pop Jepang di Malang yang menghadirkan berbagai kompetisi hobi, penampilan grup musik dan idol, serta pasar kreator dan komunitas.",
+            "date": "Minggu, 19 November 2023",
+            "venue": "Plaza Begawan Malang - Atrium Lt. GF & UG",
+            "time": "Open Gate: 10.00",
+            "guest_stars": {
+                "guest_cosplayer": [
+                    "Seirabel"
+                ],
+                "performers": [
+                    "Akiramenna",
+                    "Aphrodite",
+                    "Babymetal Malang",
+                    "Bakaranger",
+                    "Himawari",
+                    "KNS Plus",
+                    "Little Black Cherie",
+                    "Stellaria"
+                ]
+            },
+            "competition": {
+                "jsong_competition": {
+                    "judges": [
+                        "Tirta (Bakaranger)",
+                        "Rahma (Little Black Cherie)"
+                    ],
+                    "registration_link": "https://bit.ly/JsongOhayouSekai"
+                },
+                "coswalk_competition": {
+                    "judges": [
+                        "Seirabel",
+                        "Johny (Cosmo)"
+                    ],
+                    "registration_link": "https://bit.ly/CoswalkOhayouSekai"
+                }
+            },
+            "activities": [
+                "Random Play Dance",
+                "Fun Karaoke",
+                "Food Bazaar",
+                "Community Booth"
+            ],
+            "mc": [
+                "Fii & Nae"
+            ],
+            "ticket_info": {
+                "htm": "Rp 25.000"
+            },
+            "social_media": {
+                "instagram": "@ohayousekai.id"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
