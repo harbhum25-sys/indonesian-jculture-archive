@@ -16629,11 +16629,11 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "7th Anniversary Johnson Indonesia",
+        "Subject": "Anime Padel Clash (7th Anniversary Johnson Indonesia)",
         "Location": "Amber Padel Club, Batununggal, Bandung",
         "Comment": "Perayaan ulang tahun ke-7 Sepatu Johnson dengan tema kolaborasi anime dan lifestyle sporty (padel). Data diekstrak dari gambar image_b46cd9.jpg dan deskripsi teks media sosial.",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "johnson_indonesia_7th_anniversary_2026",
         "location_address": "Batununggal, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40266",
@@ -16681,7 +16681,7 @@
         "Location": "Ma Chung University's Theater Room",
         "Comment": "Insert to J-Event List : 20260410 04:17:38\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "guild_wotagei_thrones_2026",
         "location_address": "Villa Puncak Tidar N No.01, Doro, Karangwidoro, Dau, Malang Regency, East Java 65151",
@@ -16994,16 +16994,16 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Tribute to L'Arc en Ciel",
-        "Location": "Rooftop Coffee & Eatery",
+        "Location": "Spill & Bites",
         "Comment": "Insert to J-Event List : 20260404 10:30:35\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "",
         "_id": "tribute_larc_bandung_2026",
-        "location_address": "Jl. AH. Nasution No.35 A, Pakemitan, Kec. Ujung Berung, Kota Bandung, Jawa Barat 40294",
+        "location_address": "Jl. Purnawarman No.24-26, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
         "location_city": "Bandung",
-        "location_coordinate": "-6.9128774572865055, 107.69271305813194",
-        "location_gmaps": "https://maps.app.goo.gl/4F4dnhm7r4sovb2G9",
+        "location_coordinate": "-6.908559857562073, 107.60960142184257",
+        "location_gmaps": "https://maps.app.goo.gl/ZyKkAuHekWzVp4ys8",
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/tribute_laruku",
@@ -17706,7 +17706,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DYGvrEhk_30/",
-            "https://bit.ly/PendaftaranLombaJCN2026"
+            "https://bit.ly/PendaftaranLombaJCN2026",
+            "https://www.instagram.com/p/DYHLnsYgZrX/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -18181,6 +18182,141 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260524",
+        "Start Time": "",
+        "End Date": "20260524",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "AniMetro",
+        "Location": "Metro Indah Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "animetro_bandung_2026",
+        "location_address": "Kawasan Niaga, Jl. Soekarno Hatta Jl. MTC Barat No.590, Sekejati, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.941875540417611, 107.65878041179016",
+        "location_gmaps": "https://goo.gl/maps/EpXKTFBT22b6Yf5ZA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYUkdHLv1n_/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Anikura",
+                "Idol Performance",
+                "2.5D Dance Cover",
+                "Random Play Dance",
+                "Coswalk"
+            ],
+            "organizer": "GANK x ANKOKU FEST",
+            "description": "Event jejepangan yang berlokasi di Metro Indah Mall Bandung dengan berbagai konten mulai dari Anikura hingga Coswalk.",
+            "activities": [
+                "Anikura",
+                "Idol",
+                "2.5D Dance Cover",
+                "Random Play Dance",
+                "Coswalk"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260524",
+        "Start Time": "11:00",
+        "End Date": "20260524",
+        "End Time": "18:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "NATSU-ZORA!",
+        "Location": "Hotel Fortuna Grande Jember Lt.2",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "natsu_zora_jember_2026",
+        "location_address": "Jl. Karimata No.43, Gumuk Kerang, Sumbersari, Kec. Sumbersari, Kabupaten Jember, Jawa Timur 68121",
+        "location_city": "Jember",
+        "location_country": "Indonesia",
+        "location_coordinate": "-8.176499659063753, 113.71708656728711",
+        "location_gmaps": "https://maps.app.goo.gl/Gb5AsNEpdxi7HrwAA",
+        "links": [
+            "https://www.instagram.com/p/DYTkA89MD2D/",
+            "https://bit.ly/natsu-zora",
+            "https://www.instagram.com/p/DXobYFema7x/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover - Competition",
+                "Game Tournament",
+                "Idol Performance",
+                "Festival / Matsuri"
+            ],
+            "organizer": "Fortuna Grande Jember x Nara Project",
+            "description": "Event jejepangan di Jember yang menghadirkan kompetisi coswalk, dance cover, turnamen game, serta berbagai penampilan idol dan komunitas.",
+            "activities": [
+                "Coswalk Competition",
+                "J-Dance Cover Competition",
+                "Game Tournament (Tekken 8 & Naruto Ninja Storm Connections)",
+                "Idol Performance",
+                "Random Play Dance",
+                "Merchandise & Food & Beverage Bazaar",
+                "Community Booth",
+                "Japan Games Booth (Kingyo Sukui, Gacha, Shateki)",
+                "Ramen Battle"
+            ],
+            "guest_judges": [
+                "Hasuna (J-Dance Cover)",
+                "Faw-Kun (Coswalk)"
+            ],
+            "guest_stars": [
+                "Ichigonosho",
+                "Aozora"
+            ],
+            "special_performers": [
+                "Cuwa",
+                "Angga FM",
+                "Rei & Regina",
+                "Mita",
+                "Ai-One",
+                "Starlette"
+            ],
+            "cosplay_stars": [
+                "Pvrplepii",
+                "Balqis",
+                "Omi",
+                "Lisa",
+                "Netha",
+                "Michi"
+            ],
+            "mc": "Nana",
+            "contact_person": {
+                "general": "0851 4311 8181 (Aizen)",
+                "tenant": "0897 8541 883",
+                "competition_perform": "0896 3222 8758"
+            },
+            "sponsors": [
+                "Naavagreen",
+                "Kahf",
+                "Kyou Hobby Shop",
+                "Mager Bowl",
+                "Mie Ganbatte",
+                "Basuke Samurai Fest",
+                "Playbox Jember"
+            ]
+        }
     },
     {
         "Start Date": "20260524",
@@ -21524,7 +21660,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DX0u6ryAINq/",
-            "https://www.instagram.com/reel/DX6aXf-Rv2z/"
+            "https://www.instagram.com/reel/DX6aXf-Rv2z/",
+            "https://www.instagram.com/p/DYUQdWHJwOA/"
         ],
         "date_precision": "day",
         "source_status": "archived",
