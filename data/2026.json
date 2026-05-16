@@ -16905,7 +16905,7 @@
         "Location": "Online (Crossplay-On)",
         "Comment": "",
         "Online/Offline": "Online",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "jtoc_vol3_online_2026",
         "links": [
@@ -16947,7 +16947,7 @@
         "Location": "Atrium Tokyo & Shibuya, Phinisi Point Mall Makassar",
         "Comment": "",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tournament_tekken_8_makassar_2026",
         "location_address": "Jl. Metro Tj. Bunga No.2, Panambungan, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90121",
@@ -16997,7 +16997,7 @@
         "Location": "THE EAST MALL, Batam",
         "Comment": "Insert to J-Event List : 20260512 14:26:16\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "opening_the_east_tournament_batam_2026",
         "location_address": "Piston Barbershop, Jl. Imam Bonjol, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444",
@@ -17053,7 +17053,7 @@
         "Location": "SMAN 2 Wonosari",
         "Comment": "Insert to J-Event List : 20260507 16:39:54\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "banzai_hi_japan_2026_wonosari",
         "location_address": "Jl. Ki Ageng Giring No.3, Trimulyo II, Kepek, Kec. Wonosari, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55813",
@@ -17136,7 +17136,7 @@
         "Location": "Spill & Bites",
         "Comment": "Insert to J-Event List : 20260404 10:30:35\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "",
         "_id": "tribute_larc_bandung_2026",
         "location_address": "Jl. Purnawarman No.24-26, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
@@ -17219,7 +17219,7 @@
                 },
                 {
                     "time": "16.30 - 17.00",
-                    "activity": "Fairy Tales"
+                    "activity": "FairyTails"
                 },
                 {
                     "time": "17.30 - 18.00",
@@ -17283,7 +17283,7 @@
         "Location": "ICE BSD City",
         "Comment": "Insert to J-Event List : 20251117 16:12:15\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "",
         "_id": "njlifm_3",
         "location_address": "Jl. BSD Grand Boulevard Raya No.1, Pagedangan, Tangerang, Banten 15339",
@@ -17409,7 +17409,7 @@
         "Location": "Jl. H. Lamuse (Dekat Kampus UHO)",
         "Comment": "Slot terbatas hanya 32 peserta; Waktu WITA",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tekken8_mini_tournament_kendari_2026",
         "location_address": "Jl. H. Lamuse, Lepo-Lepo, Kec. Baruga, Kota Kendari, Sulawesi Tenggara",
@@ -17459,7 +17459,7 @@
         "Location": "QQ Gaming Bojonegoro",
         "Comment": "Insert to J-Event List : 20260515 11:01:54\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tcb_gathering_league_s4_2026",
         "location_address": "Depan Warung mak tri, Selatan IKIP PGRI Jl. Panglima Polim, Pacul, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62114",
@@ -19426,6 +19426,34 @@
                     "JavaYoru",
                     "IdolStage"
                 ]
+            },
+            "rundown": {
+                "day_1": {
+                    "12.00": "OPEN GATE",
+                    "13.30": "OPENING CEREMONY",
+                    "13.50": "KALEIDO",
+                    "14.20": "STELLARIA",
+                    "14.50": "HOTARUBI",
+                    "15.20": "NONA MISTY",
+                    "15.50": "VIEOS",
+                    "16.20": "TALKSHOW",
+                    "16.50": "CHORUSELLA",
+                    "17.20": "MINERVALAND",
+                    "17.50": "KOHISEKAI"
+                },
+                "day_2": {
+                    "12.00": "OPEN GATE",
+                    "13.30": "OPENING CEREMONY",
+                    "13.50": "CROWNETTE",
+                    "14.20": "TSUYOSA",
+                    "14.50": "CRAYON MACHI",
+                    "15.20": "SHIZUNA",
+                    "15.50": "COSWALK",
+                    "16.30": "SEABERRY",
+                    "17.00": "IDOLIZE",
+                    "17.30": "AURORA DREAM",
+                    "18.00": "KIRIN DAY"
+                }
             }
         }
     },
