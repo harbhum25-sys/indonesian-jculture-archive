@@ -3372,12 +3372,99 @@
         "location_coordinate": "-6.285348579921392, 106.72794598110217",
         "location_gmaps": "https://g.page/BXcMall",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/1EQxc3hpUg/",
+            "https://web.facebook.com/photo/?fbid=495694743945814&set=a.151346567510678&__cft__[0]=AZaqbp4rDe2Vu3bYkBhYHZvd9Kg_Aichis9twRonnkj2SMt2AROA8G25HgSMqATiMSo9Gm_0QD-3013WcH4I5ETunSUovBPcCH6-U_4sPnju5XcWeDS8A8dmakBpNxRgRCmkI0bGasUUXrr96VsRaloeVeFYNsaUl6tyrO26X8wurFHzfYLL5lMZco8ELnwY1RI&__tn__=%2CO%2CP-R"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas",
+                "Workshop / Demo Culture"
+            ],
+            "organizer": "Bintaro Jaya Xchange Mall",
+            "theme": "Bintaro Jaya Xchange Mall Japan Festival",
+            "description": "Festival budaya Jepang yang menghadirkan perpaduan antara penampilan musik populer, demo kebudayaan tradisional seperti Ikebana dan Chanoyu, hingga aktivitas komunitas hobi seperti Gundam dan Cosplay.",
+            "date": "14 \ufffd\ufffd\ufffd 23 November 2015",
+            "venue": "Main Atrium, Bintaro Jaya Xchange Mall, Tangerang",
+            "guest_stars": [
+                "Vierratale",
+                "Chef Harada",
+                "Yumi",
+                "Hiroaki Kato",
+                "Lumina Scarlet",
+                "Kirari (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)"
+            ],
+            "performers": [
+                "Sekar Khatulistiwa",
+                "CLAS:H Angels",
+                "Amakusa",
+                "Love Tune",
+                "Eisa Okinawa"
+            ],
+            "activities": [
+                "Cosplayer Appearance",
+                "Origami Workshop",
+                "Ikebana Workshop",
+                "Demo Gundam",
+                "Demo Chanoyu",
+                "Taiko & Bon Odori Performance"
+            ],
+            "social_media": {
+                "twitter": "@BXchange_Mall",
+                "facebook": "Bintaro Jaya Xchange Mall"
+            },
+            "rundown": {
+                "day_1_14_nov_2015": {
+                    "13.00": "Opening MC 1 (U-maku Eisa Shinka, Hyakka Ryouran Yosakoi, Wadaiko)",
+                    "14.00": "Opening MC 2",
+                    "14.10": "Demo Ikebana",
+                    "14.40": "Demo Origami",
+                    "15.10": "Martial Art",
+                    "15.40": "Dance ChouChou",
+                    "16.10": "Cosplay Single & Announce",
+                    "16.40": "Traditional Music Taishogoto",
+                    "17.30": "Cosplay Cabaret Goggle V",
+                    "18.00": "Chef Harada",
+                    "19.30": "Closing Day 1"
+                },
+                "day_2_15_nov_2015": {
+                    "13.00": "Cover Song THE",
+                    "13.30": "Band Angelina Hirawan",
+                    "14.00": "Band Yumi Akimoto",
+                    "14.30": "Cosplay Cabaret Gundam (GGI & Daikon sky)",
+                    "15.30": "Band Ega & Aya",
+                    "16.30": "Band Sekar Khatulistiwa",
+                    "17.00": "Band Kepilk Terbang",
+                    "18.00": "Band Jakarta Keion (Grand Lawn)",
+                    "19.00": "Band Hiroaki Kato (Grand Lawn)"
+                },
+                "day_3_21_nov_2015": {
+                    "13.30": "Idol popstripe",
+                    "14.00": "Lolita Fashion show",
+                    "14.30": "Zeemi.TV",
+                    "15.00": "JS Section Fashion Styling",
+                    "15.30": "Idol Kawaii Metal",
+                    "16.00": "Cosplay Cabaret Sailormoon",
+                    "16.30": "Cosplay Single Competition",
+                    "17.00": "Toenebelle",
+                    "17.30": "BREAK",
+                    "18.00": "Idol WISH",
+                    "18.30": "Idol KIRARI",
+                    "19.00": "Idol Ministry of Idol",
+                    "19.30": "Idol Group Lumina Scarlet"
+                },
+                "day_4_22_nov_2015": {
+                    "13.00": "Taiko U-maku Eisa Shinka Indonesia",
+                    "13.30": "Demo Yukata Ibu Iin",
+                    "14.00": "Cosplay Competition",
+                    "16.00": "Cosplay Performance AAC",
+                    "18.00": "Cosplay Cabaret Ninninger (Grand Lawn)",
+                    "18.30": "Announcement Cosplay Comp (Grand Lawn)",
+                    "19.00": "VIERRATALE (Grand Lawn)",
+                    "20.00": "Taiko U-maku Eisa Shinka & Bon Odori (Grand Lawn)"
+                }
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

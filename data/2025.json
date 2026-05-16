@@ -783,6 +783,68 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20250112",
+        "Start Time": "",
+        "End Date": "20250112",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Atarashii Sekai",
+        "Location": "Rooftop Malang Town Square",
+        "Comment": "Free Entry (Gratis); Link pendaftaran coswalk: bit.ly/CoswalkAtarashiiSekai2025",
+        "Online/Offline": "Offline",
+        "status": "archived",
+        "attended": "No",
+        "_id": "atarashii_sekai_malang_2025",
+        "location_address": "Jl. Veteran No.2, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+        "location_city": "Malang",
+        "location_coordinate": "-7.956861182723852, 112.61877697415309",
+        "location_gmaps": "https://maps.app.goo.gl/cccsBH1SXHcvKfBz5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DEpGUh5T3z4/",
+            "https://bit.ly/CoswalkAtarashiiSekai2025"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Music / Performance",
+                "Community Gathering"
+            ],
+            "organizer": "E-Fair x Ikigai",
+            "description": "Event budaya pop Jepang di Rooftop Malang Town Square yang berfokus pada kompetisi coswalk dan penampilan komunitas.",
+            "coswalk_judges": [
+                "Yashinya Noel",
+                "Kevin Kosputra",
+                "Wika"
+            ],
+            "masters_of_ceremony": [
+                "Juyu",
+                "Zelvanka"
+            ],
+            "guest_stars": [
+                "Klab Karaoke Konoha",
+                "Piikap!"
+            ],
+            "performers": [
+                "Aozora Skycrew",
+                "Sunshines",
+                "Stellaria",
+                "Hikaikagura",
+                "Kurogane",
+                "Little Idol"
+            ],
+            "contact_person": {
+                "Moe": "0821-3118-3333",
+                "Aldo": "0838-6679-9282"
+            }
+        }
+    },
+    {
         "Start Date": "20250117",
         "Start Time": "",
         "End Date": "20250117",
@@ -7405,6 +7467,102 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20250223",
+        "Start Time": "10:00",
+        "End Date": "20250223",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Utsuru 9.5",
+        "Location": "Rooftop Mall Dinoyo City, Malang",
+        "Comment": "HTM 25k; Pesta komunitas kostum; Menampilkan banyak guest stars dan komunitas lokal Malang.",
+        "Online/Offline": "Offline",
+        "status": "archived",
+        "attended": "No",
+        "_id": "utsuru_9_5_malang_2025",
+        "location_address": "Jl. MT. Haryono No.195 - 197, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+        "location_city": "Malang",
+        "location_coordinate": "-7.937816851678696, 112.60706952529164",
+        "location_gmaps": "https://goo.gl/maps/DzxmXTmtfacVFpvu8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DGHQSN8BO1P/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay",
+                "Idol Performance",
+                "Community Gathering"
+            ],
+            "organizer": "Utsuru Team",
+            "description": "Event yang dikenal sebagai pesta komunitas terbesar di Malang, menghadirkan kolaborasi antar komunitas hobi Jepang, penampilan idol, dan cosplayer.",
+            "guest_stars": [
+                "Luxuria",
+                "Anisura",
+                "Stellaria",
+                "Refresh Breeze",
+                "Himawari",
+                "Nozomi no Kisetsu",
+                "Counter Attack ID",
+                "Little Black Cherie",
+                "Cosuki",
+                "Seaberry",
+                "Vibetronic",
+                "KKK",
+                "Wika",
+                "Veronyaan",
+                "Joca",
+                "Vasya",
+                "Limoon"
+            ],
+            "special_guests": [
+                "NGCS",
+                "Kanai",
+                "Vivii Aoi",
+                "Tegar",
+                "Svyybill"
+            ],
+            "mc": "Meaw",
+            "communities": [
+                "APS Weeb Corps",
+                "Coltac",
+                "Uma Musume Malang",
+                "Malang Revengers",
+                "Akid Regional Malang",
+                "Hana Cos",
+                "Bocchi Noizu",
+                "Cosuki Cosplay Malang",
+                "YMGM",
+                "Cosmo",
+                "EJM",
+                "Hoyocos.id",
+                "Project Dream x PJ3K SBY",
+                "Mabar Malang",
+                "48 Family Ngalam",
+                "Imoto",
+                "Aruta J-Fashion",
+                "Mihoku UB",
+                "LoveLive! Malang",
+                "Malang Kendo Association",
+                "Gundama",
+                "Gamers Gate",
+                "UB48",
+                "Bzones",
+                "Malang Tekken Brotherhood",
+                "Cross Gathering",
+                "Full Moon Malang",
+                "Seikoumirai",
+                "WTC",
+                "Kaori Nusantara"
+            ]
+        }
+    },
+    {
         "Start Date": "20250225",
         "Start Time": "",
         "End Date": "20250225",
@@ -8630,6 +8788,63 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20250420",
+        "Start Time": "10:00",
+        "End Date": "20250420",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BGR48 7th Anniversary: Mini Concert Lavender",
+        "Location": "Mall BTM Bogor",
+        "Comment": "HTM Gratis (FREE); Tema: 7ogether We're S7ronger; Menampilkan member generasi 1-8.",
+        "Online/Offline": "Offline",
+        "status": "archived",
+        "attended": "No",
+        "_id": "bgr48_7th_anniv_bogor_2025",
+        "location_address": "Jl. Ir. H. Juanda No.68, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.604591458820669, 106.79618241756523",
+        "location_gmaps": "https://goo.gl/maps/nk1sQWGejPTjyVEJ9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DImoc0wBd5K/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Idol Performance",
+                "Anniversary",
+                "Mini Concert"
+            ],
+            "organizer": "BGR48 Management",
+            "description": "Konser mini perayaan ulang tahun BGR48 yang ke-7 di Bogor, menampilkan berbagai pertunjukan idola J-Pop dan K-Pop.",
+            "special_performances": [
+                "BGR48 (Gen 1 - Gen 8)",
+                "Polaris",
+                "Rayve"
+            ],
+            "masters_of_ceremony": [
+                "Desya (Gen 8)",
+                "Nadira (Gen 8)"
+            ],
+            "activities": [
+                "BGR48 Performance",
+                "Games",
+                "Tenant",
+                "Kpop & Jpop Idol Performance"
+            ],
+            "sponsors": [
+                "Sari Roti",
+                "Ito En",
+                "Mangkok Kertas",
+                "Meowtaku Events"
+            ]
+        }
     },
     {
         "Start Date": "20250421",
@@ -12418,10 +12633,38 @@
         "location_gmaps": "https://maps.app.goo.gl/gQVZavvXNMdEiEqw8",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10163438192783836/",
-            "https://www.instagram.com/chibicon.id"
+            "https://www.instagram.com/chibicon.id",
+            "https://www.instagram.com/p/DLFnAscBZlc/",
+            "https://www.instagram.com/p/DMz20gfJuQE/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Bazaar / Market",
+                "Gathering / Komunitas",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Chibicon!",
+            "theme": "Creating Creators",
+            "description": "Festival besar tahunan di Surabaya yang mempertemukan berbagai kreator, komunitas, dan penggemar budaya populer Jepang dalam satu acara.",
+            "date": "21 - 22 Juni 2025",
+            "venue": "Convention Hall Tunjungan Plaza 3 & Chameleon Hall Tunjungan Plaza 6, Surabaya",
+            "activities": [
+                "Vibrant Booths Exploration",
+                "Talent Meet & Greet",
+                "Community Gathering",
+                "Cosplay Appearance"
+            ],
+            "ticket_info": {
+                "htm_ots": "Rp 55.000"
+            },
+            "social_media": {
+                "hashtag": [
+                    "#CreatingCreators",
+                    "#eventjepang",
+                    "#chibicon"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -15301,6 +15544,74 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "I-ZONE (\u00e3\u201a\u00a2\u00e3\u201a\u00a4\u00e3\u0192\u2030\u00e3\u0192\u00ab)",
+        "Location": "Ma Chung University",
+        "Comment": "Organized by Ikigai Project; Menampilkan pertunjukan idol, creator market, dan cosstreet.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "izone_malang_2025",
+        "location_address": "Villa Puncak Tidar N No.01, Doro, Karangwidoro, Dau, Malang Regency, East Java 65151",
+        "location_city": "Malang",
+        "location_coordinate": "-7.957716162003514, 112.58933177824989",
+        "location_gmaps": "https://maps.app.goo.gl/UEq8GhtTjmYUBeCQ6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DLhrXsehhN-/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Idol Performance",
+                "Cosstreet",
+                "Creator Market",
+                "Karaoke",
+                "Odottemita"
+            ],
+            "organizer": "Ikigai Project",
+            "description": "Event bertema idol dan cosplay yang diselenggarakan di Universitas Ma Chung, fokus pada penampilan panggung dan interaksi komunitas.",
+            "special_performances": [
+                "Stellaria",
+                "Shizuna",
+                "Refresh Breeze",
+                "Nonamisty",
+                "Mozalelly & Limoon",
+                "Mitsukare",
+                "Eurydice",
+                "Deluna",
+                "Aqua Lilium",
+                "Aozora No Belt",
+                "Aminus",
+                "Akenohoshi",
+                "Idolize",
+                "Klab Karaoke Konoha"
+            ],
+            "masters_of_ceremony": [
+                "Dora",
+                "Juyu"
+            ],
+            "activities": [
+                "Cosstreet",
+                "Idol Performance",
+                "Creator Market",
+                "Karaoke",
+                "Odottemita",
+                "Community Gathering",
+                "F&B and Merchandise Bazaar"
+            ],
+            "contact": "0851-0718-5333"
+        }
+    },
+    {
+        "Start Date": "20250727",
+        "Start Time": "",
+        "End Date": "20250727",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "OTAKU WAVE: Versatility meets Authenticity",
         "Location": "Pusat Studi Jepang UI Depok",
         "Comment": "Coming Soon posted at 20250428 16:26:51\nInsert to J-Event List : 20250703 16:32:35 + 20250307 17:33:10\n",
@@ -15838,14 +16149,65 @@
         "location_gmaps": "https://goo.gl/maps/LQUxBgt6aH1AuF7dA",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10163438194138836/",
-            "https://www.instagram.com/chibicon.id"
+            "https://www.instagram.com/chibicon.id",
+            "https://www.instagram.com/p/DMztRUqBcsH/",
+            "linktr.ee/chibicon"
         ],
-        "Content": {
-            "category": []
-        },
-        "location_country": "Indonesia",
         "date_precision": "day",
-        "source_status": "archived"
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Convention",
+                "Creative Market",
+                "Cosplay",
+                "Idol Performance"
+            ],
+            "organizer": "Japan Culture Daisuki",
+            "description": "Event comeback besar di Jakarta yang menghadirkan ratusan creative circles dan berbagai bintang tamu di bidang seni, musik, dan cosplay.",
+            "guest_stars": [
+                "Alice",
+                "Amai Monogatari",
+                "Andthrix's",
+                "Anikuma",
+                "Arjuna Arkana",
+                "Aurora Dream",
+                "Aya Aulya",
+                "Cakalang",
+                "Chancil",
+                "Climax Checkmate",
+                "Crescendo",
+                "Gochikara",
+                "Helloditta",
+                "Kirin Day",
+                "Klab Karaoke Konoha",
+                "Larissa Rochefort",
+                "Lea Coser",
+                "Lunite",
+                "Magniv (From AKA Virtual)",
+                "Minerva Land",
+                "Muses",
+                "Nihon no Shounen",
+                "Parade",
+                "Rose Lewis",
+                "Shinn Uchida (Manga Live Paint)",
+                "Stellar Luna"
+            ],
+            "activities": [
+                "Creative Circles Market (222 circles)",
+                "Manga Live Paint",
+                "Cosplay Performance",
+                "Music Performance"
+            ],
+            "sponsors": [
+                "Gramedia",
+                "MNC Animation",
+                "Games+",
+                "HokBen",
+                "Sari Roti",
+                "Ito En"
+            ]
+        },
+        "location_country": "Indonesia"
     },
     {
         "Start Date": "20250802",
@@ -18075,6 +18437,69 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20250907",
+        "Start Time": "10.00",
+        "End Date": "20250907",
+        "End Time": "till drop",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Dalbofest 2025: Fifth Anniversary",
+        "Location": "Atrium Plaza Begawan, Malang",
+        "Comment": "Kolaborasi dengan HOTARU; Merayakan ulang tahun ke-5 dengan Coswalk Competition dan penampilan Idol.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "dalbofest_5th_anniversary_2025",
+        "location_address": "Jl. Raya Tlogomas No.1-3, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+        "location_city": "Malang",
+        "location_coordinate": "-7.926690825286354, 112.60250263354027",
+        "location_gmaps": "https://maps.app.goo.gl/s6TkbBQPRyyYniWi7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DMz20gfJuQE/",
+            "https://bit.ly/Dalbofest5thCoswalk"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay",
+                "Coswalk",
+                "Idol Performance",
+                "Anniversary Event"
+            ],
+            "organizer": "GROW & HOTARU",
+            "description": "Perayaan ulang tahun ke-5 Dalbofest yang menghadirkan kompetisi coswalk dan deretan grup idol ternama.",
+            "guest_stars": [
+                "Idolize",
+                "Stellaria",
+                "Eurydice",
+                "Kinishinai",
+                "Nomisu",
+                "Mizume Dance Group Project"
+            ],
+            "coswalk_judges": [
+                "Wika NKW",
+                "Hiroto"
+            ],
+            "master_of_ceremony": [
+                "Mai-Mai"
+            ],
+            "activities": [
+                "Coswalk Competition (Regis Rp20.000)",
+                "Idol Performance",
+                "Streetwear Fashion Competition"
+            ],
+            "prizes": [
+                "5 Best Coswalk @RP300.000",
+                "3 Best Streetwear @RP100.000"
+            ],
+            "admission": "Free Entry / Free HTM"
+        }
+    },
+    {
         "Start Date": "20250913",
         "Start Time": "",
         "End Date": "20250914",
@@ -18383,6 +18808,76 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20250914",
+        "Start Time": "14:00",
+        "End Date": "20250914",
+        "End Time": "till drop",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Foodtopia Festival: Coswalk & Dance Cover Competition",
+        "Location": "Twilight Sky Garden, Rooftop Malang Town Square",
+        "Comment": "Penyelenggara Gracia Party Organizer & Hotaru Chiimu; HTM Gratis; Menampilkan Shizuna dan Himawari.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "foodtopia_festival_malang_2025",
+        "location_address": "Jl. Veteran No.2, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+        "location_city": "Malang",
+        "location_coordinate": "-7.956861182723852, 112.61877697415309",
+        "location_gmaps": "https://maps.app.goo.gl/cccsBH1SXHcvKfBz5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DMz20gfJuQE/",
+            "https://forms.gle/9fAWwxvQQEsPdypE7",
+            "https://forms.gle/tUqy1rb5Pig7LzEj6"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay",
+                "Coswalk",
+                "Dance Cover",
+                "Festival"
+            ],
+            "organizer": "Gracia Party Organizer & Hotaru Chiimu",
+            "description": "Festival yang menggabungkan kompetisi coswalk dan dance cover dengan penampilan spesial dari grup idola lokal di Malang.",
+            "special_performances": [
+                "Shizuna",
+                "Himawari"
+            ],
+            "special_guest": [
+                "Archie Wu (Kidfluencer)"
+            ],
+            "coswalk_judges": [
+                "Akiara Reiko",
+                "Renata Angel"
+            ],
+            "dance_cover_judges": [
+                "Irma (SHIZUNA)",
+                "Nyna (HIMAWARI)"
+            ],
+            "masters_of_ceremony": [
+                "Hani (Han10969)",
+                "Martha (Martha10969)"
+            ],
+            "activities": [
+                "Coswalk Competition (Regis Rp20.000)",
+                "Dance Cover Competition (Regis Rp75.000)",
+                "Idol Performance"
+            ],
+            "prizes": [
+                "3 Best Coswalk @RP300.000",
+                "Dance Cover 1st Place RP750.000",
+                "Dance Cover 2nd Place RP500.000",
+                "Dance Cover 3rd Place RP300.000"
+            ],
+            "admission": "Free HTM"
+        }
     },
     {
         "Start Date": "20250914",
@@ -19965,7 +20460,8 @@
         "location_coordinate": "-7.926690825286354, 112.60250263354027",
         "location_gmaps": "https://maps.app.goo.gl/s6TkbBQPRyyYniWi7",
         "links": [
-            "https://www.instagram.com/p/DPOQNO-ki1L/"
+            "https://www.instagram.com/p/DPOQNO-ki1L/",
+            "https://www.instagram.com/p/DMz20gfJuQE/"
         ],
         "Content": {
             "presenter": "Ohayou Sekai X AITI",
@@ -22694,10 +23190,50 @@
         "location_coordinate": "-7.919447466532036, 112.59532575043083",
         "location_gmaps": "https://goo.gl/maps/8AMZMNAZGYWcCr679",
         "links": [
-            "https://www.instagram.com/reel/DOGOHufkl9C/"
+            "https://www.instagram.com/reel/DOGOHufkl9C/",
+            "https://www.instagram.com/p/DMz20gfJuQE/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Utsuru",
+            "theme": "UTSURU X",
+            "description": "Perayaan ke-10 yang diklaim sebagai pesta komunitas Jepang terbesar di Jawa Timur, menghadirkan deretan bintang tamu yang luas dari kalangan idol, komunitas karaoke, hingga cosplayer di Malang.",
+            "date": "02 November 2025",
+            "venue": "UMM Dome (Universitas Muhammadiyah Malang), Malang",
+            "guest_stars": [
+                "Aozora No Belt",
+                "Capristar",
+                "Cosmo",
+                "Cosuki",
+                "Arimaniakinen",
+                "Counter Attack ID",
+                "De Lumiere",
+                "HFive",
+                "Piikappi",
+                "Idolize",
+                "Klab Karaoke Konoha",
+                "Luxuria",
+                "Moon Club",
+                "Refresh Breeze",
+                "Rose Lewis",
+                "Shizuna",
+                "Tikumo by Anisura",
+                "Tsuyosa"
+            ],
+            "social_media": {
+                "hashtag": [
+                    "#Utsuru",
+                    "#eventjepang",
+                    "#eventjepangmalang",
+                    "#eventcosplayjatim"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -25057,6 +25593,68 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20251231",
+        "Start Time": "",
+        "End Date": "20251231",
+        "End Time": "End",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ngalam Ngidol: New Year Eve",
+        "Location": "Terrace Area Plaza Begawan, Malang",
+        "Comment": "Kolaborasi pertama Aliansi Idol Malang (@AidoruMalang); Acara Malam Tahun Baru; HTM Gratis.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ngalam_ngidol_new_year_eve_2025",
+        "location_address": "Jl. Raya Tlogomas No.1-3, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+        "location_city": "Malang",
+        "location_coordinate": "-7.926690825286354, 112.60250263354027",
+        "location_gmaps": "https://maps.app.goo.gl/s6TkbBQPRyyYniWi7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DMz20gfJuQE/?img_index=1"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Idol Performance",
+                "New Year Eve",
+                "Gathering"
+            ],
+            "organizer": "Aliansi Idol Malang (Aidoru Malang)",
+            "description": "Acara kolaborasi pertama Aidoru Malang untuk merayakan malam pergantian tahun dengan penampilan berbagai grup idola.",
+            "performers": [
+                "Akiramenna",
+                "Alaricia Girls",
+                "Aminus",
+                "Aozora no Belt",
+                "Crownette",
+                "Hanabi",
+                "Nozomi no Kisetsu",
+                "Shijin no Kizuna",
+                "Stellaria"
+            ],
+            "special_sessions": [
+                "RPD Session by DJ Todokette",
+                "Cheki Session"
+            ],
+            "masters_of_ceremony": [
+                "MC Rene",
+                "MC Amai"
+            ],
+            "activities": [
+                "Idol Performance",
+                "RPD Session",
+                "Cheki Session",
+                "Community Gathering"
+            ],
+            "admission": "FREE HTM"
+        }
     },
     {
         "Start Date": "20251231",

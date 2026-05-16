@@ -1284,7 +1284,8 @@
         "location_gmaps": "https://maps.app.goo.gl/ksS35kx8TttrJb52A",
         "links": [
             "https://www.instagram.com/p/DTmWvoUifWP/",
-            "https://www.instagram.com/p/DTmWhddCaQF/"
+            "https://www.instagram.com/p/DTmWhddCaQF/",
+            "https://www.instagram.com/p/DMz20gfJuQE/"
         ],
         "Content": {
             "event_type": "Idol Showcase",
@@ -2847,7 +2848,8 @@
         "location_coordinate": "-7.2565970843978365, 112.73933793609379",
         "location_gmaps": "https://maps.app.goo.gl/N6JZ4GR3eeZCAxEh6",
         "links": [
-            "https://www.instagram.com/p/DUWwTpOEjLH/"
+            "https://www.instagram.com/p/DUWwTpOEjLH/",
+            "https://www.instagram.com/p/DMz20gfJuQE/"
         ],
         "Content": {
             "category": [
@@ -4819,6 +4821,51 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260301",
+        "Start Time": "14.00",
+        "End Date": "20260301",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Road to Idol Stage 2026: Hotaru-Machi",
+        "Location": "Atrium Lippo Plaza Yogyakarta",
+        "Comment": "HTM Free Entry; Menampilkan 7 grup idol dan penampilan spesial dari Naomi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hotaru_machi_jogja_2026",
+        "location_address": "Lippo Plaza, P6, Jl. Laksda Adisucipto, Demangan, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55221",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "-7.78398557809718, 110.39066106982933",
+        "location_gmaps": "https://goo.gl/maps/iTSY3KAPyd6JSXmc9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DMz20gfJuQE/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Idol Performance",
+                "Gig"
+            ],
+            "organizer": "Idol Stage",
+            "description": "Gig idol roadshow yang kembali diadakan di Yogyakarta setelah setahun.",
+            "performers": [
+                "Hotarubi",
+                "Crayon Machi",
+                "Eclipse",
+                "Minerva Land",
+                "Kohi Sekai",
+                "Iris",
+                "Lyria"
+            ],
+            "special_performance": "Naomi"
+        }
     },
     {
         "Start Date": "20260301",
@@ -16767,7 +16814,7 @@
         "Location": "CGV Malang City Point",
         "Comment": "Insert to J-Event List : 20260512 17:40:04\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "nobar_mortal_kombat_2_malang_2026",
         "location_address": "Malang City Point, Jl. Terusan Dieng, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
@@ -16806,7 +16853,7 @@
         "Location": "Kickoff Coffee (Jembatan Basit)",
         "Comment": "Turnamen Tekken 8 khusus pemula dengan sistem Double Elimination dan aturan Standard TWT. Pendaftaran gratis dengan pembelian minimal 1 item di Kickoff Coffee.",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "beginner_tekken_8_tournament_2026",
         "location_address": "Berangas Tim., Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan",
@@ -16843,6 +16890,98 @@
                 "wa": "082250085496",
                 "instagram": "@tekken_kalsel"
             }
+        }
+    },
+    {
+        "Start Date": "20260516",
+        "Start Time": "10.00 WIB",
+        "End Date": "20260516",
+        "End Time": "Selesai",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jack\u00e2\u20ac\u2122s Tekken 8 Online Competition (JTOC) Vol. 3",
+        "Location": "Online (Crossplay-On)",
+        "Comment": "",
+        "Online/Offline": "Online",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jtoc_vol3_online_2026",
+        "links": [
+            "https://www.instagram.com/p/DX_aX_OgWf3/",
+            "https://forms.gle/cvGKPXihapH3VE2C8"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Esports",
+                "Game Tournament",
+                "Tekken 8"
+            ],
+            "organizer": "Jack Organizer (@jack.tournament)",
+            "description": "Kompetisi online Tekken 8 skala nasional yang terbuka untuk umum dengan tajuk 'The Legacy Continues. The Throne Awaits!'.",
+            "prizes": [
+                "Total Prize Pool Rp 1.000.000",
+                "E-Sertifikat untuk TOP 8",
+                "Giveaway"
+            ],
+            "registration": "Rp 30.000 (1 Slot) / Rp 55.000 (2 Slot); Maksimal 2 slot per pemain",
+            "activities": [
+                "Online Tournament Competition",
+                "Live Streaming Session"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260516",
+        "Start Time": "",
+        "End Date": "20260516",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tournament Tekken 8 - Aitakatta Fest Vol. 1 2026",
+        "Location": "Atrium Tokyo & Shibuya, Phinisi Point Mall Makassar",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tournament_tekken_8_makassar_2026",
+        "location_address": "Jl. Metro Tj. Bunga No.2, Panambungan, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90121",
+        "location_city": "Makassar",
+        "location_coordinate": "-5.152108419731694, 119.40414415774893",
+        "location_gmaps": "https://g.page/phinisipoint",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYVqR6BhQrO/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Game Tournament",
+                "Esports",
+                "Jejepangan"
+            ],
+            "organizer": "Sougen & TZM Makassar",
+            "description": "Turnamen Tekken 8 yang menjadi bagian dari rangkaian acara Aitakatta Fest Vol. 1 2026 di Makassar.",
+            "prizes": [
+                "Total Hadiah Uang Tunai IDR 1.000.000"
+            ],
+            "sponsors": [
+                "Aidoru Tamio",
+                "Mugen Computer",
+                "Kyou Hobby Shop",
+                "Cahaya Surya Komputer",
+                "Lenovo"
+            ],
+            "activities": [
+                "Tekken 8 Tournament"
+            ],
+            "admission": "Hubungi @tzm_makassar untuk info pendaftaran"
         }
     },
     {
@@ -17308,6 +17447,47 @@
         }
     },
     {
+        "Start Date": "20260516",
+        "Start Time": "18:00",
+        "End Date": "20260516",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "TCB Gathering & League Season 4 - Tekken 8",
+        "Location": "QQ Gaming Bojonegoro",
+        "Comment": "Insert to J-Event List : 20260515 11:01:54\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tcb_gathering_league_s4_2026",
+        "location_address": "Depan Warung mak tri, Selatan IKIP PGRI Jl. Panglima Polim, Pacul, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62114",
+        "location_city": "Bojonegoro",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.169859147717302, 111.8756296348746",
+        "location_gmaps": "https://maps.app.goo.gl/Fio4odsGRcfofgJQ8",
+        "links": [
+            "https://www.instagram.com/p/DYUrQu4xKED/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Gathering",
+                "Game Tournament",
+                "Community"
+            ],
+            "organizer": "TCB (Tekken Community Bojonegoro)",
+            "description": "Acara gathering rutin komunitas TCB yang dibarengi dengan kompetisi Tekken 8 League Season 4.",
+            "activities": [
+                "TCB Gathering League Season 4 (Tekken 8)",
+                "Persiapan maintenance rutin"
+            ],
+            "registration_fee": "Rp 5.000"
+        }
+    },
+    {
         "Start Date": "20260517",
         "Start Time": "19:00",
         "End Date": "20260517",
@@ -17499,6 +17679,73 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260517",
+        "Start Time": "",
+        "End Date": "20260517",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wibufest Coswalk Competition Vol. 5 x Healing Fest - TOMORO COFFEE x FRIEREN",
+        "Location": "Theme Store TOMORO COFFEE Joyoboyo",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "wibufest_5_healing_fest_surabaya_2026",
+        "location_address": "Jl. Joyoboyo No.46, Sawunggaling, Kec. Wonokromo, Surabaya, Jawa Timur 60242",
+        "location_city": "Surabaya",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.298886644238107, 112.73167392399083",
+        "location_gmaps": "https://maps.app.goo.gl/1PiM5DgchXZXHVRG9",
+        "links": [
+            "https://www.instagram.com/p/DYW0Tq9mKOq/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival",
+                "Coswalk Competition",
+                "Community Gathering"
+            ],
+            "organizer": "Wibufest Surabaya (@wibufest.surabaya) & Tommunity Jatim",
+            "description": "Event jejepangan hasil kolaborasi dengan Tomoro Coffee dalam rangka perilisan spesial tema Frieren: Beyond Journey's End, menghadirkan kompetisi coswalk, penampilan idol lokal, dan merchandise gratis untuk 200 pengunjung pertama.",
+            "registration": "Beli menu TOMORO COFFEE Healing Series dan tunjukkan struk ke panitia.",
+            "guests": [
+                "Pia Taro (@pia.taro)",
+                "Piikapi (@piikappi)",
+                "Darlliance (@darlliance)",
+                "Jae (@jaeahn_)",
+                "Hans (@hans.aplasttt)"
+            ],
+            "activities": [
+                "Coswalk Competition",
+                "Special Idol & Performer Stage",
+                "Frieren Theme Gathering",
+                "Lucky Draw & Free Photobooth"
+            ],
+            "rundown": {
+                "13.00": "OPEN GATE (Pre-Regist Only)",
+                "14.30": "Hitatsu",
+                "15.00": "Jilly",
+                "15.15": "Chialovv",
+                "15.30": "Deluna",
+                "16.00": "Opening MC & Welcome Speech",
+                "16.15": "G-Star Coswalk & Doorprize Sesi 1",
+                "17.15": "Break Magrib",
+                "17.30": "Coswalk Competition",
+                "18.00": "Photo Session",
+                "18.10": "Doorprize Sesi 2",
+                "18.25": "Awarding",
+                "19.00": "Doorprize Sesi 3",
+                "19.15": "Seabery",
+                "19.45": "Re : Call"
+            }
+        }
     },
     {
         "Start Date": "20260522",
@@ -18194,7 +18441,7 @@
         "Importance": "",
         "Subject": "AniMetro",
         "Location": "Metro Indah Mall",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260515 11:01:54\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -18239,7 +18486,7 @@
         "Importance": "",
         "Subject": "NATSU-ZORA!",
         "Location": "Hotel Fortuna Grande Jember Lt.2",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260515 11:01:54\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -18620,7 +18867,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Japanese Festival Haru No Matsuri",
+        "Subject": "Japanese Festival : Haru No Matsuri",
         "Location": "SMKN 1 Ciamis",
         "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
         "Online/Offline": "Offline",
@@ -18637,7 +18884,8 @@
             "https://www.instagram.com/p/DWOcsHjDBL7/",
             "https://www.instagram.com/p/DWpZTQMEy5D/",
             "https://www.instagram.com/p/DWtpPK8jLax/",
-            "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor"
+            "https://docs.google.com/forms/d/e/1FAIpQLSeiFh33nyi5lUVoqPfp3mVTMzCMPhU7aaxEtAFoLPjGJKDnlQ/viewform?usp=publish-editor",
+            "https://www.instagram.com/p/DYWVygBs19X/"
         ],
         "Content": {
             "category": [
@@ -19255,6 +19503,95 @@
     },
     {
         "Start Date": "20260531",
+        "Start Time": "09.00 WIB",
+        "End Date": "20260531",
+        "End Time": "17.00 WIB",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tanoshii Karnival: One Day Manga & Cosplay Experience",
+        "Location": "Lt.2 Gramedia World Karawang",
+        "Comment": "Acara kolaborasi Gramedia Karawang & Anime Lovers Karawang; Menghadirkan Manga Competition (4 Panel) dan Cosplay Parade; Fee Regist Manga IDR 70k (include starter kit).",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tanoshii_karnival_karawang_2026",
+        "location_address": "kav. V, Jl. Galuh Mas Raya, Sukaharja, Telukjambe Timur, Karawang, Jawa Barat 41361",
+        "location_city": "Karawang",
+        "location_coordinate": "-6.326254972818167, 107.29151340144045",
+        "location_gmaps": "https://goo.gl/maps/xB2r2NCtPzQmLVyv7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DX3ZfRmGQfX/",
+            "https://bit.ly/DaftarMangaTanoshii",
+            "https://bit.ly/RegTanoshii"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Manga Competition",
+                "Cosplay Parade",
+                "Workshop"
+            ],
+            "organizer": "Gramedia World Karawang & Anime Lovers Karawang",
+            "description": "Pengalaman satu hari kompetisi menggambar manga dan parade cosplay di Karawang.",
+            "prizes": [
+                "Total Hadiah Bernilai Jutaan Rupiah"
+            ],
+            "registration": "Manga Competition IDR 70k (Dapat Komik, Pen, Pensil, & Wristband)",
+            "activities": [
+                "Manga 4 Panel Competition",
+                "Cosplay Parade",
+                "Community Gathering"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260531",
+        "Start Time": "",
+        "End Date": "20260531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Kawaii Harmony Festival",
+        "Location": "ITC Mega Grosir Surabaya",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "kawaii_harmony_festival_surabaya_2026",
+        "location_address": "Jl. Gembong No.20 - 30, Kapasan, Kec. Simokerto, Surabaya, Jawa Timur 60141",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.241408455286431, 112.74619100495482",
+        "location_gmaps": "https://maps.app.goo.gl/k4h1QwPoLtKwwDhT8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYWxHLQGBoN/",
+            "https://www.instagram.com/sachie.ent/p/DYWYJN1EQko/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival",
+                "J-Song Contest",
+                "Idol Stage"
+            ],
+            "organizer": "Sachie Entertainment (@sachie.ent)",
+            "description": "Festival jejepangan di Surabaya yang berfokus pada panggung kompetisi lagu Jepang (J-Song) dan performa grup idol.",
+            "registration": "J-Song Kategori Umum: Solo Rp 30k, Duo Rp 40k. Kategori Rookie (A/B/C): Solo Rp 50k, Duo Rp 60k",
+            "activities": [
+                "J-Song Contest",
+                "Idol Stage Performance"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260531",
         "Start Time": "10:00",
         "End Date": "20260531",
         "End Time": "",
@@ -19488,7 +19825,7 @@
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
-        "_id": "tanoshii_karnival_karawang_2026",
+        "_id": "lqjyhr_1",
         "location_address": "Gramedia World Karawang, Jl. Galuh Mas Raya, Sukaharja, Kec. Telukjambe Timur, Karawang, Jawa Barat",
         "location_city": "Karawang",
         "location_country": "Indonesia",
