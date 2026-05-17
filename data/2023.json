@@ -5782,10 +5782,7 @@
                 "Gathering / Komunitas"
             ],
             "organizer": {
-                "main": [
-                    "Wind City 48 (JKT48 Fans Majalengka)",
-                    "Ventus Cosplay Majalengka"
-                ]
+                "main": "J-Miseru"
             },
             "edition": "2",
             "guest_stars": {
@@ -51528,7 +51525,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "arlyyh_4",
+        "_id": "xmjusi_4",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -51725,7 +51722,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "arlyyh_4",
+        "_id": "xmjusi_4",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -52300,7 +52297,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "arlyyh_4",
+        "_id": "xmjusi_4",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
