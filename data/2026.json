@@ -10532,7 +10532,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DVA6v3GE6vD/",
-            "https://www.instagram.com/p/DW81yg6EjRc/"
+            "https://www.instagram.com/p/DW81yg6EjRc/",
+            "https://www.instagram.com/p/DXODyuBEzfS/"
         ],
         "Content": {
             "category": [
@@ -10570,7 +10571,24 @@
             "source": [
                 "Instagram momoshiroi",
                 "DCT_Community"
-            ]
+            ],
+            "rundown": {
+                "13.00": "OPEN GATE",
+                "14.00": "REGISTRATION",
+                "14.30": "START TEKKEN 8 MINI TURNAMEN",
+                "15.00": "OPENING BY MC",
+                "15.10": "TENANT & SPONSOR INTRODUCTION",
+                "15.30": "FUNMATCH MLBB",
+                "17.00": "BIRTHDAY CELEBRATIONS",
+                "17.30": "SEKALOID",
+                "18.00": "GEDICT",
+                "18.30": "HONOORIZE",
+                "19.00": "GOHOSHI",
+                "19.30": "COSTALK WITH SHIROII",
+                "19.50": "COSWALK COMPETITION",
+                "20.15": "PHOTO & AWARDING SESSION",
+                "21.00": "CLOSING"
+            }
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -15614,6 +15632,49 @@
     },
     {
         "Start Date": "20260510",
+        "Start Time": "14.00",
+        "End Date": "20260510",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fans Screening That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "Location": "CGV Grand Indonesia & CGV BEC Mall Bandung",
+        "Comment": "Fans screening film anime Tensura: Tears of the Azure Sea; HTM Rp190.000 sudah termasuk paket merchandise premium berupa A4 file folder, luggage sticker set, dan random polaroid-style card; Penukaran dilakukan setelah pemutaran film selesai.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tensura_movie_fans_screening_2026",
+        "location_address": "CGV Grand Indonesia (Jl. M.H. Thamrin No.1, Jakarta Pusat) & CGV BEC Mall (Istana BEC, Jl. Purnawarman No.13-15, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117)",
+        "location_city": "Jakarta & Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DXq5YxjkmkE/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Fans Screening",
+                "Movie",
+                "Anime"
+            ],
+            "organizer": "CBI Pictures & Muse Indonesia",
+            "description": "Acara penayangan khusus (Fans Screening) untuk film layar lebar terbaru dari seri anime 'That Time I Got Reincarnated as a Slime' secara serentak di Jakarta dan Bandung.",
+            "registration": "Web & aplikasi CGV",
+            "ticket_price": "IDR 190,000",
+            "merchandise": [
+                "1 x A4 File Folder",
+                "1 x Luggage Sticker Set (6 desain)",
+                "1 x Random Polaroid-style Card (1 dari 4 desain)"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260510",
         "Start Time": "",
         "End Date": "20260510",
         "End Time": "",
@@ -16803,6 +16864,65 @@
     },
     {
         "Start Date": "20260515",
+        "Start Time": "14.00",
+        "End Date": "20260515",
+        "End Time": "18.00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sashimi Salatiga x Salatiga Culinary Festival 2026",
+        "Location": "Halaman DPRD Salatiga",
+        "Comment": "Kolaborasi Sashimi Salatiga di Salatiga Culinary Festival; HTM Free; Menghadirkan Cosplay Showcase berhadiah uang tunai, Random Play Dance (RPD), dan penampilan Idol Project Haru Mirage.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "sashimi_salatiga_culinary_fest_2026",
+        "location_address": "Jl. Sukowati No.51, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50724",
+        "location_city": "Salatiga",
+        "location_coordinate": "-7.331358597576789, 110.50115669941285",
+        "location_gmaps": "https://maps.app.goo.gl/sza87DqRKitYVfsc9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYWVaw4DBN9/",
+            "https://www.instagram.com/p/DYPb1cglMrU/",
+            "http://linktr.ee/sashimisalatiga"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival",
+                "Cosplay Showcase",
+                "Idol Performance"
+            ],
+            "organizer": "Sashimi Salatiga (@sashimisalatiga)",
+            "description": "Kehadiran komunitas Sashimi Salatiga untuk meramaikan rangkaian acara Salatiga Culinary Festival dengan berbagai kegiatan pop kultur Jepang.",
+            "prizes": [
+                "Hadiah Uang Tunai untuk Cosplay Showcase"
+            ],
+            "performers": [
+                "Haru Mirage (Sashimi Salatiga Idol Project)"
+            ],
+            "activities": [
+                "Cosplay Showcase",
+                "Random Play Dance (RPD)",
+                "Idol Performance"
+            ],
+            "rundown": {
+                "14.00": "OPENING",
+                "14.15": "MINI GAMES QUIZ",
+                "15.00": "RANDOM PLAY DANCE",
+                "15.30": "HARU MIRAGE",
+                "16.00": "COSPLAY JUDGES SHOW",
+                "16.15": "COSPLAY SHOWCASE",
+                "17.00": "BREAK",
+                "17.30": "AWARDING"
+            }
+        }
+    },
+    {
+        "Start Date": "20260515",
         "Start Time": "19:00",
         "End Date": "20260515",
         "End Time": "22:00",
@@ -16903,7 +17023,7 @@
         "Importance": "",
         "Subject": "Jack\u00e2\u20ac\u2122s Tekken 8 Online Competition (JTOC) Vol. 3",
         "Location": "Online (Crossplay-On)",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Online",
         "status": "Finished",
         "attended": "No",
@@ -16945,7 +17065,7 @@
         "Importance": "",
         "Subject": "Tournament Tekken 8 - Aitakatta Fest Vol. 1 2026",
         "Location": "Atrium Tokyo & Shibuya, Phinisi Point Mall Makassar",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
@@ -17150,7 +17270,8 @@
             "https://www.instagram.com/larcenciel_bandung/p/DWtgy6vkkx6/",
             "https://www.instagram.com/larcenciel_bandung/p/DWtgy6vkkx6/",
             "https://www.instagram.com/larcenciel_bandung/p/DWuRwFBExJg/",
-            "https://www.instagram.com/p/DX_GJnYErpK/"
+            "https://www.instagram.com/p/DX_GJnYErpK/",
+            "https://www.instagram.com/p/DYawyHPSWOi/"
         ],
         "Content": {
             "category": [
@@ -17183,7 +17304,7 @@
                 },
                 {
                     "time": "12.30 - 13.00",
-                    "activity": "Higanbana"
+                    "activity": "Higanband"
                 },
                 {
                     "time": "13.00 - 13.30",
@@ -17691,7 +17812,7 @@
         "Importance": "",
         "Subject": "Wibufest Coswalk Competition Vol. 5 x Healing Fest - TOMORO COFFEE x FRIEREN",
         "Location": "Theme Store TOMORO COFFEE Joyoboyo",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -17873,6 +17994,55 @@
         }
     },
     {
+        "Start Date": "20260522",
+        "Start Time": "19.30",
+        "End Date": "20260522",
+        "End Time": "21.30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cosplay Time - Dies Natalis UNTAN 67",
+        "Location": "Auditorium UNTAN, Pontianak",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
+        "Online/Offline": "Offline",
+        "status": "Archived",
+        "attended": "No",
+        "_id": "cosplay_time_untan_pontianak_2026",
+        "location_address": "Jl. Prof. Dr. H Jl. Profesor Dokter H. Hadari Nawawi, Bansir Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat 78124",
+        "location_city": "Pontianak",
+        "location_coordinate": "-0.060627920415027035, 109.34488846540152",
+        "location_gmaps": "https://goo.gl/maps/bh35QGWB9j6v9LqN6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYbyuSGIZlg/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Campus Festival",
+                "Cosplay Gathering"
+            ],
+            "organizer": "Komunitas Cosplay Pontianak & Universitas Tanjungpura",
+            "description": "Wadah apresiasi kreativitas anak muda Kalbar dalam dunia hobi anime, seni gambar ilustrasi, musik idola, serta bimbingan talkshow bisnis kreatif.",
+            "guest_stars": [
+                "Dandy (Cosplayer)",
+                "Sovi (Cosplayer)",
+                "Lufi_ays (Muda Ilustrator)"
+            ],
+            "performers": [
+                "Crescent Harmony (Idol Group)"
+            ],
+            "activities": [
+                "Cosplay Show & Parade",
+                "Talkshow Industri Hobi Prestasi",
+                "Creative Gathering Komunitas Artist Pontianak",
+                "Sesi Gambar Bareng Komunitas Kreatif"
+            ]
+        }
+    },
+    {
         "Start Date": "20260523",
         "Start Time": "14:00",
         "End Date": "20260524",
@@ -17882,7 +18052,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Akiba Matsuri 5: The Symphony of Sakura",
-        "Location": "D\u00e2\u20ac\u2122Terrace, Gaia Bumi Raya City",
+        "Location": "D'Terrace, Gaia Bumi Raya City",
         "Comment": "Insert to J-Event List : 20260511 21:39:47\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
@@ -17910,12 +18080,12 @@
             "organizer": "Akiba Matsuri Pontianak",
             "description": "Penyelenggaraan ke-5 festival budaya Jepang di Kalimantan Barat dengan tema 'The Symphony of Sakura'.",
             "activities": [
-                "Coswalk Competition",
-                "Cosplay Parade",
-                "J-Sing Competition",
-                "Yukata Traditional Performance",
-                "Bon Odori",
-                "Idol Group Dance"
+                "Cosplay Parade (Day 1)",
+                "Community Session (Day 1 & Day 2)",
+                "Sing Along Session with 48Fans Pontianak (Day 2)",
+                "Japan Folk Dances: Bon Odori Uma Musume (Day 1)",
+                "Guess The Anisong (Tebak Lagu Anime) (Day 2)",
+                "Coswalk Competition (Day 2)"
             ],
             "competition": {
                 "j_sing": {
@@ -17925,8 +18095,71 @@
                     "notes": "Ada 10 lagu tantangan pilihan yang bisa menambah poin penilaian."
                 }
             },
+            "hosts": {
+                "day_1": [
+                    "Ruby",
+                    "Sua"
+                ],
+                "day_2": [
+                    "Yuri",
+                    "Chika"
+                ],
+                "all_days": [
+                    "Mahiru"
+                ]
+            },
+            "guest_stars": {
+                "guest_idol": [
+                    "Seica",
+                    "Shiny Star"
+                ],
+                "guest_dancer": [
+                    "Mahiru"
+                ],
+                "special_guests": [
+                    "Crescent Harmony",
+                    "Erwin G Walker (Crescent Director)"
+                ]
+            },
+            "judges": {
+                "coswalk_competition": [
+                    "Ikuyo",
+                    "Ira"
+                ]
+            },
+            "associated_events": {
+                "event_name": "Cosplay Time",
+                "date": "Jumat, 22 Mei 2026",
+                "time": "19.30 - 21.30 WIB",
+                "venue": "Auditorium UNTAN (Universitas Tanjungpura)",
+                "ticket_info": "FREE ENTRY",
+                "activities": [
+                    "Cosplay Parade",
+                    "Talkshow",
+                    "Community Meet/Art",
+                    "Gambar Bareng",
+                    "Cosplay Show",
+                    "Idol Group Performance"
+                ],
+                "featured_talents": [
+                    "Zefa & Chika",
+                    "Dandy",
+                    "Sora",
+                    "Arf..._cys",
+                    "Harmonia"
+                ]
+            },
             "social_media": {
-                "instagram": "@akibamatsuriptk"
+                "instagram": [
+                    "@gaiabumirayacity",
+                    "@cosplaypontianak",
+                    "@akibamatsuriptk"
+                ],
+                "hashtag": [
+                    "#akibamatsuri5",
+                    "#cosplaypontianak",
+                    "#cosplay"
+                ]
             }
         }
     },
@@ -19587,7 +19820,7 @@
         "Importance": "",
         "Subject": "Kawaii Harmony Festival",
         "Location": "ITC Mega Grosir Surabaya",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -20041,6 +20274,51 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "Depok Otaku Festival (Coming Soon Teaser)",
+        "Location": "ITC Depok",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "depok_otaku_festival_2026",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.392704524156228, 106.823214511036",
+        "location_gmaps": "https://maps.app.goo.gl/6NpjB8udg53kpPWB7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYZ_TQAPxnh/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival",
+                "Teaser",
+                "Coming Soon"
+            ],
+            "organizer": "UwU Organizer",
+            "description": "Pengumuman awal mengenai kehadiran event jejepangan baru di wilayah Depok yang dijadwalkan berlangsung selama dua hari di bulan Juni 2026.",
+            "registration": "",
+            "activities": [
+                "Coswalk Competition",
+                "Band Performance",
+                "DJ Performance",
+                "Idol Performance",
+                "Community Gathering",
+                "Bazaar FnB & Merchandise"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260606",
+        "Start Time": "",
+        "End Date": "20260607",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "ONE BELPARK X AOI MIZU MATSURI",
         "Location": "Main Atrium, One Belpark Mall",
         "Comment": "Insert to J-Event List : 20260511 21:39:47\n",
@@ -20353,7 +20631,8 @@
         "location_gmaps": "https://goo.gl/maps/kQRfL3C5cpwLdJ1X7",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DYCYGpXk37e/"
+            "https://www.instagram.com/p/DYCYGpXk37e/",
+            "https://www.instagram.com/reel/DYZ0LGDTcNc/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -20375,6 +20654,17 @@
                 "Tenant / Booth",
                 "Performance"
             ],
+            "ticket_info": {
+                "presale": {
+                    "price": "Rp 20.000",
+                    "benefit": "Includes special merch"
+                },
+                "ots": {
+                    "price": "Rp 25.000",
+                    "benefit": "Includes special merch (khusus yang cosplay tema Yokai)"
+                },
+                "platform": "Link di bio Instagram organizer"
+            },
             "contact": {
                 "adel": "0877-2640-3910"
             }
@@ -22221,5 +22511,51 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20261031",
+        "Start Time": "",
+        "End Date": "20261101",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Comic Frontier 23 (Comifuro 23)",
+        "Location": "Indonesia Convention Exhibition (ICE) BSD City",
+        "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "comic_frontier_23_2026",
+        "location_address": "Jl. BSD Grand Boulevard Raya No.1, Pagedangan, Kec. Pagedangan, Kabupaten Tangerang, Banten 15339",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.29997015843424, 106.63624179644395",
+        "location_gmaps": "https://goo.gl/maps/MbSLuPRLg48EXzfq5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/16whCWfjqm/",
+            "https://www.instagram.com/p/DYb1-vBFD6l/",
+            "https://www.instagram.com/comifuro",
+            "https://www.facebook.com/Comifuro"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Doujinshi Market",
+                "Exhibition",
+                "Pop Culture Convention"
+            ],
+            "organizer": "Comic Frontier Committee",
+            "description": "Acara konvensi dan pasar kreatif berkala untuk kreator pop kultur, doujinshi, komik, cosplay, serta gathering komunitas terbesar di Indonesia yang diadakan di [Indonesia Convention Exhibition (ICE) BSD City](http://googleusercontent.com/map_location_reference/0).",
+            "registration": "",
+            "activities": [
+                "Doujinshi & Creative Market",
+                "Cosplay Exhibition",
+                "Corporate & Community Booths",
+                "Stage Performances"
+            ]
+        }
     }
 ]
