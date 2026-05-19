@@ -368,7 +368,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Comic Frontier 14",
-        "Location": "Balai Kartini",
+        "Location": "Balai Kartini Jakarta (Kartika Expo Center & Grand Raflesia Ballroom)",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -379,12 +379,16 @@
         "location_coordinate": "-6.234414603122992, 106.82539744497542",
         "location_gmaps": "https://maps.app.goo.gl/NoDu8JU7twLzPQdz8",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/18Pp4mVZka/"
         ],
         "Content": {
             "series": "Comic Frontier",
             "edition": 14,
             "venue_expansion": "Rafflesia Grand Ballroom",
+            "HTM": {
+                "Regular Ticket (1 day pass)": "IDR35.000",
+                "Limited Bundle Package (1 day pass + official gift bag + official poster + floormap)": "IDR70.000"
+            },
             "estimated_attendance": "25000",
             "category": [
                 "Anime - Convention / Fan Event"
@@ -517,38 +521,6 @@
                 }
             ],
             "category": []
-        },
-        "location_country": "Indonesia",
-        "date_precision": "day",
-        "source_status": "archived"
-    },
-    {
-        "Start Date": "20200222",
-        "Start Time": "8:30 PM",
-        "End Date": "20200223",
-        "End Time": "9:00 PM",
-        "Reminder On/Off": "Yes",
-        "Reminder Date": "20200222",
-        "Reminder Time": "8:00 PM",
-        "Importance": "Normal",
-        "Subject": "Comic Frontier 14",
-        "Location": "Balai Kartini Expo Center & Rafflesia Grand Hall, Balai Kartini, Jl. Gatot Subroto No.Kav. 37, RT.6/RW.3, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "comicf_2",
-        "location_address": "Jalan Gatot Subroto No.6, RT.6/RW.3, Kuningan, Kuningan Timur, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
-        "location_city": "Jakarta Selatan",
-        "location_coordinate": "-6.234231918532495, 106.82538746760805",
-        "location_gmaps": "https://goo.gl/maps/1AHh5T7szxThwU9q7",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "category": [
-                "Anime - Convention / Fan Event"
-            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

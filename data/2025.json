@@ -18438,6 +18438,126 @@
     },
     {
         "Start Date": "20250907",
+        "Start Time": "",
+        "End Date": "20250907",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "KATOFEST Vol 1.0",
+        "Location": "Mangga Dua Square",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "katofest_vol_1_0_2025",
+        "location_address": "Jl. Gn. Sahari No.1, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14420",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.138570753669269, 106.83166988650629",
+        "location_gmaps": "https://g.page/Mangga2Square",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DOG31xCklmu/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Party / Night Event"
+            ],
+            "organizer": "Kamendachi",
+            "theme": "Idol - Community - Japan Underground Culture",
+            "edition": "1.0",
+            "ticket_info": {
+                "ots": "Free HTM"
+            },
+            "performers": {
+                "idol": [
+                    "Nekodachi",
+                    "Amai Monogatari",
+                    "Eighteen",
+                    "Avenue",
+                    "Shirai Metal",
+                    "Babyrose Metal",
+                    "MJB",
+                    "Fleurine",
+                    "1four3",
+                    "Levia",
+                    "Mochipyon",
+                    "Cheertopia",
+                    "Hoshiko no Hikari",
+                    "Hanakiyu",
+                    "Char Plus",
+                    "Arunika",
+                    "Polaris",
+                    "Hikoshi Stars",
+                    "Yume Mirage"
+                ]
+            },
+            "bazaar": [
+                "Ayo Jajan 30",
+                "Fun Sakura Shop",
+                "Roti Panggang Ancur"
+            ],
+            "media_partners": [
+                "@babymetalgallery",
+                "@achanphotographymedia",
+                "@wibufest.id",
+                "@hobby_jejepangan_",
+                "@getronwots48_",
+                "@wota62_",
+                "@infoeventcosplay.id"
+            ],
+            "community_partners": [
+                "@bpjs.idolisasi",
+                "@bpjs.wibu",
+                "@rowcommunity",
+                "@crow.islands_",
+                "@eventhunter.community",
+                "@cosplaysantuy",
+                "@_kosuki",
+                "@musterpoint.crew",
+                "@ormas.tnt",
+                "@ppyomoon_",
+                "@bmid_official",
+                "Chaos Mixer",
+                "@fences.guards"
+            ],
+            "social_medias": {
+                "instagram": "@katofest_id"
+            },
+            "rundown": {
+                "09:00": "Open Gate",
+                "11:30": "FREE TALK",
+                "11:50": "HANAKYU",
+                "12:10": "1FOUR3",
+                "12:30": "ARUNIKA",
+                "12:50": "CHEERTOPIA",
+                "13:10": "CHAR+",
+                "13:30": "MJB",
+                "14:00": "HOSHIKO NO HIKARI",
+                "14:20": "HIKOSHI STARS",
+                "14:40": "POLARIS",
+                "15:10": "SHIRAI METAL",
+                "15:30": "AVENUE J",
+                "16:00": "FLUERINE",
+                "16:30": "ROSE METAL",
+                "17:00": "MOCHIPYON",
+                "17:30": "YUME MIRAGE",
+                "17:50": "LEVIA",
+                "18:20": "BREAK",
+                "18:30": "EIGHTEEN+",
+                "19:00": "NEKODACHI",
+                "19:30": "AMAI MONOGATARI",
+                "20:00": "CLOSING"
+            }
+        }
+    },
+    {
+        "Start Date": "20250907",
         "Start Time": "10.00",
         "End Date": "20250907",
         "End Time": "till drop",

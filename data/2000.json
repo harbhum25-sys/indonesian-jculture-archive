@@ -78,6 +78,50 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20000708",
+        "Start Time": "",
+        "End Date": "20000713",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Digimon Fun Fair",
+        "Location": "Plaza Senayan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "digimon_fun_fair_2000",
+        "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.225372987375036, 106.79907421283555",
+        "location_gmaps": "https://maps.app.goo.gl/iTi1qVYfNA9c4Fum6",
+        "location_country": "Indonesia",
+        "links": [],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Anime - Convention / Fan Event",
+                "Toy / Figure / Hobby"
+            ],
+            "description": "Sebuah event meriah bertajuk Digimon Fun Fair yang bertujuan untuk menjadikan Digital Monster (Digimon) ikon trend baru. Acara ini memperkenalkan Digimon melalui cuplikan klip animenya serta memamerkan berbagai Action Figure resmi rilisan Bandai, Jepang.",
+            "exhibits": [
+                "Klip anime Digimon",
+                "Action Figure Bandai (Agumon, Togemon, Gabumon, Patamon, Angemon, Numemon, Garudamon, MetalGreymon, Greymon, WereGarurumon, Meramon, Birdamon, Garurumon, Kabuterimon, Devimon, dan Monzaemon)"
+            ],
+            "source": {
+                "magazine": "Ultima Nation",
+                "edition": "No. 10",
+                "page": "69",
+                "writer": "GrandC",
+                "date_written": "20000713"
+            }
+        }
+    },
+    {
         "Start Date": "20000909",
         "Start Time": "18:00",
         "End Date": "20000910",
