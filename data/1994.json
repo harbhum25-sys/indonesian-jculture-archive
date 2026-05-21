@@ -8,9 +8,9 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Lomba Super Nintendo \u00e2\u20ac\u201d Final Bintaro Plaza",
+        "Subject": "Lomba Super Nintendo - Final Bintaro Plaza",
         "Location": "Bintaro Plaza, Jakarta Selatan",
-        "Comment": "Final lomba Super Nintendo yang disponsori Indomilk dan Chix. Babak penyisihan digelar di Blok M Plaza, Cinere Mall, Atrium Senen, Gajah Mada Plaza, Metropolitan Mall, dan JITC Mangga Dua. Tiga kategori peserta: Game Amatir (7\u00e2\u20ac\u201c11 tahun), Game Profesional (12\u00e2\u20ac\u201c15 tahun), dan Game Championship (umum). 250 peserta lolos ke babak final. Hadiah utama: televisi berwarna, sepeda, konsol Nintendo, radio tape, dan kaset Nintendo. Peserta final juga mendapat door prize kemasan Susu Bubuk Indomilk.",
+        "Comment": "Final lomba Super Nintendo yang disponsori Indomilk dan Chix. Babak penyisihan digelar di Blok M Plaza, Cinere Mall, Atrium Senen, Gajah Mada Plaza, Metropolitan Mall, dan JITC Mangga Dua. Tiga kategori peserta: Game Amatir (7 - 11 tahun), Game Profesional (12 - 15 tahun), dan Game Championship (umum). 250 peserta lolos ke babak final. Hadiah utama: televisi berwarna, sepeda, konsol Nintendo, radio tape, dan kaset Nintendo. Peserta final juga mendapat door prize kemasan Susu Bubuk Indomilk.",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
@@ -31,7 +31,7 @@
                 "Historical Archive"
             ],
             "organizer": "Indomilk",
-            "description": "Lomba Super Nintendo tingkat nasional yang diselenggarakan oleh Indomilk bekerja sama dengan Chix (camilan). Babak penyisihan berlangsung sejak 25 Juni 1994 di enam lokasi mal di Jakarta. Final digelar pada Sabtu\u00e2\u20ac\u201cMinggu, 23\u00e2\u20ac\u201c24 Juli 1994 pukul 10.00 WIB di Bintaro Plaza, Jakarta Selatan. Sebelum pertandingan dimulai, peserta mendapat susu Indomilk.",
+            "description": "Lomba Super Nintendo tingkat nasional yang diselenggarakan oleh Indomilk bekerja sama dengan Chix (camilan). Babak penyisihan berlangsung sejak 25 Juni 1994 di enam lokasi mal di Jakarta. Final digelar pada Sabtu - Minggu, 23 - 24 Juli 1994 pukul 10.00 WIB di Bintaro Plaza, Jakarta Selatan. Sebelum pertandingan dimulai, peserta mendapat susu Indomilk.",
             "sponsor": [
                 "Indomilk (Susu Bubuk)",
                 "Chix (PT Indofood)"
@@ -45,8 +45,8 @@
                 "JITC Mangga Dua"
             ],
             "competition_categories": [
-                "Game Amatir (7\u00e2\u20ac\u201c11 tahun)",
-                "Game Profesional (12\u00e2\u20ac\u201c15 tahun)",
+                "Game Amatir (7 - 11 tahun)",
+                "Game Profesional (12 - 15 tahun)",
                 "Game Championship / Umum"
             ],
             "participants": "250 peserta lolos ke babak final",
@@ -61,7 +61,7 @@
             "platform": "Super Nintendo Entertainment System (SNES / Super Famicom)",
             "historical_context": "Salah satu turnamen video game pertama yang terdokumentasi di Indonesia, diselenggarakan pada masa booming SNES di tanah air. Lomba ini menjadi bukti awal ekosistem gaming kompetitif di Indonesia pada awal era 1990-an.",
             "source": "Tabloid Fantasi, sekitar Juli 1994 (diperkirakan). Foto artikel dikirim oleh Yadi Yuwandi ke grup Facebook SNES & Sufami INDONESIA.",
-            "source_note": "Sumber majalah belum 100% terkonfirmasi \u00e2\u20ac\u201d kemungkinan besar Tabloid Fantasi (edisi ~Juli 1994) berdasarkan ciri khas layout, rubrik game, segmentasi anak-anak, dan keberadaan kolom biodata selebriti anak yang sejenis. Perlu verifikasi lebih lanjut."
+            "source_note": "Sumber majalah belum 100% terkonfirmasi, kemungkinan besar Tabloid Fantasi (edisi ~Juli 1994) berdasarkan ciri khas layout, rubrik game, segmentasi anak-anak, dan keberadaan kolom biodata selebriti anak yang sejenis. Perlu verifikasi lebih lanjut."
         }
     }
 ]
