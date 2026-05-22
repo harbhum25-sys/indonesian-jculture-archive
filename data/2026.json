@@ -16729,6 +16729,41 @@
         }
     },
     {
+        "Start Date": "20260513",
+        "Start Time": "",
+        "End Date": "20260513",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wadaiko Performance & Sharing Session \ufffd\ufffd\ufffdDiscover Japanese School Life bersama Meitoku Gijuku\ufffd\ufffd\ufffd",
+        "Location": "Koryu Space",
+        "Comment": "Insert to J-Event List : 20260521 17:12:45\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "wadaiko_performance_meitoku_gijuku_2026",
+        "location_address": "Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.226104213924778, 106.80430051238068",
+        "location_gmaps": "https://maps.app.goo.gl/EnX6R9fGuktm27de6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1atCFbg4eu/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Budaya Jepang - Seni Tradisional",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "organizer": "The Japan Foundation, Jakarta",
+            "description": "Acara penampilan alat musik tabuh tradisional Jepang (Wadaiko) sekaligus sesi berbagi informasi mengenai kehidupan sekolah di Jepang bersama Meitoku Gijuku."
+        }
+    },
+    {
         "Start Date": "20260514",
         "Start Time": "",
         "End Date": "20260514",
@@ -18103,7 +18138,7 @@
         "Location": "SMPN 8 Manado",
         "Comment": "Insert to J-Event List : 20260519 17:43:46\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "bunkasai_spendel_2026",
         "location_address": "FR46+2W2, Jl. Sea, Malalayang Satu Barat, Kec. Malalayang, Kota Manado, Sulawesi Utara 95262",
@@ -18135,7 +18170,7 @@
         "Location": "1st Floor Nipah Park",
         "Comment": "Insert to J-Event List : 20260519 17:43:46\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "loading_space_taste_of_local_gen_5_1_2026",
         "location_address": "Jl. Poros Makassar - Maros No.23, Panaikang, Kec. Panakkukang, Kota Makassar, Sulawesi Selatan 90231",
@@ -18968,13 +19003,15 @@
             "https://www.instagram.com/p/DXYxd4Hjyxw/",
             "https://www.instagram.com/p/DXV3VH6gLgW/",
             "https://www.instagram.com/p/DXjo2lJD7Yv/",
-            "https://web.facebook.com/share/p/1BrxLFgbaP/"
+            "https://web.facebook.com/share/p/1BrxLFgbaP/",
+            "https://web.facebook.com/share/p/18pHDzMdMY/",
+            "https://web.facebook.com/share/p/17cuQaLtTB/"
         ],
         "Content": {
             "presenter": "Asosiasi Budaya Jepang Indonesia",
             "htm": "Gratis",
             "note": "Bukan Ennichisai. Ennichisai sudah menjadi kenangan",
-            "description": "Save the date, karena ini bukan sekadar event.. Ini tempat berkumpulnya memori dan energi baru!",
+            "description": "Festival budaya Jepang besar di Jakarta yang menyajikan perpaduan masif antara seni tradisional Jepang (seperti Taiko, Eisa, Yosakoi, Kyudo) langsung dari prefektur Okinawa, panggung musik pop/idol, pertunjukan band, kualifikasi kompetisi cosplay nasional maupun internasional (ICL & KNCI), serta kompetisi wotagei tingkat nasional pertama.",
             "guest_participation": "Gubernur dan pameran dari berbagai prefektur Jepang",
             "participating_prefectures": {
                 "1": "Tokyo",
@@ -19083,7 +19120,282 @@
                     }
                 }
             },
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Band Performance",
+                "Cosplay - Competition / Coswalk",
+                "Kebudayaan / Cultural Show",
+                "Wotagei"
+            ],
+            "organizer": "Djakarta Ennichi",
+            "theme": "Djakarta Ennichi 2026",
+            "date": "23 \ufffd\ufffd\ufffd 24 Mei 2026",
+            "venue": "Lapangan Banteng, Jakarta",
+            "international_guests": [
+                "Tomia",
+                "Seolhwa",
+                "Onnies",
+                "Rithe",
+                "Ikuma Akira"
+            ],
+            "guest_stars": [
+                "Anggis Devaki",
+                "Anneth",
+                "Kimro",
+                "Prince Ingga",
+                "Jeanne",
+                "Angel Rose",
+                "Kong",
+                "Dianne",
+                "Rose Lewis",
+                "Ola Aphrodite",
+                "Refeen",
+                "Rian Cyd",
+                "Kanchiel",
+                "Camelia Zahra",
+                "Kagami Yuuto"
+            ],
+            "stages": {
+                "main_stage": [
+                    "Anggis Devaki",
+                    "Anneth",
+                    "Kimro",
+                    "Kira-Kira Band",
+                    "Machika \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala",
+                    "Panik Band",
+                    "SCP3 Band",
+                    "Japanese Dancing Mai",
+                    "Wadaiko Benten",
+                    "Mirai Taiko Dojo Jakarta",
+                    "U-Maku Eisa Shinka",
+                    "U-Maku Eisa \ufffd\ufffd Kira-Kira Taiko",
+                    "Indonesia Yosakoi All Star",
+                    "Indonesia Samurai Inobu",
+                    "Indonesia Kyudo Federation",
+                    "Aikido Shodukan Indonesia",
+                    "Little Harmony Orchestra \ufffd\ufffd Otodama"
+                ],
+                "pop_stage": [
+                    "Akemi ID",
+                    "Anogi",
+                    "Cosura",
+                    "DDM+",
+                    "Moonclub",
+                    "Guilty Pleasure",
+                    "Hira Dazzle",
+                    "House of Heroes",
+                    "La Belle",
+                    "Lemon",
+                    "Lunite",
+                    "Master of Idol World",
+                    "Metanaru",
+                    "Odojoget Project",
+                    "Ola Aphrodite",
+                    "Star Sign Gakuen",
+                    "Syncro Wotagei",
+                    "TKV ID",
+                    "Tomoshibi",
+                    "Vibetronic",
+                    "Yugen",
+                    "Yuriwa",
+                    "Zetto \ufffd\ufffd Showtime Hero",
+                    "Nippon Urban Bass System"
+                ],
+                "band_stage": [
+                    "A'rt-Pen-Ciel",
+                    "Amakusa",
+                    "Arcsoul",
+                    "Bubble Bliss",
+                    "De Lumiere",
+                    "Dream Journey",
+                    "Fairytails",
+                    "Gate",
+                    "Harvest",
+                    "Henohenomoheji",
+                    "Hunting Glory",
+                    "Joyful Youth",
+                    "Lunatic Tokyo",
+                    "New Headline",
+                    "Onizuka",
+                    "Say:Kou",
+                    "Skyfall",
+                    "Tentative",
+                    "Thousand Sunny",
+                    "Wasabi",
+                    "Zeal",
+                    "Zorumon"
+                ]
+            },
+            "featured_sessions": {
+                "indonesia_cosplay_league_icl_gicof": [
+                    "Tomia",
+                    "Prince Ingga",
+                    "Jeanne",
+                    "Angel Rose",
+                    "Kong",
+                    "Seolhwa"
+                ],
+                "djakarta_single_cosplay_parade": [
+                    "Onnies",
+                    "Dianne",
+                    "Tomia",
+                    "Rose Lewis",
+                    "Rithe",
+                    "Seolhwa",
+                    "Ola Aphrodite",
+                    "Refeen",
+                    "Prince Ingga"
+                ],
+                "knci_kompetisi_nasional_cosplay_indonesia": [
+                    "Rian Cyd",
+                    "Prince Ingga",
+                    "Kanchiel",
+                    "Camelia Zahra",
+                    "Kagami Yuuto"
+                ],
+                "okinawa_session": [
+                    "Ikuma Akira",
+                    "Kira-Kira Taiko",
+                    "Nahadaiko",
+                    "U-Maku Eisa Shinka",
+                    "Yruban"
+                ],
+                "indonesia_wotagei_battle_national_grand_final": {
+                    "description": "Grand Final tingkat nasional pertama yang mempertemukan 8 talenta terbaik dari 4 daerah regional.",
+                    "regional_participants": [
+                        "Jakarta",
+                        "Bandung",
+                        "Yogyakarta",
+                        "Surabaya"
+                    ]
+                }
+            },
+            "ticket_info": {
+                "htm": "FREE ENTRY"
+            },
+            "social_media": {
+                "instagram": "@djakarta.ennichi",
+                "threads": "@djakartaennichi",
+                "hashtag": [
+                    "#DjakartaEnnichi2026",
+                    "#FestivalJepang",
+                    "#BudayaJepang",
+                    "#FestivalBudayaJepangJakarta",
+                    "#DjakartaEnnichi"
+                ]
+            },
+            "rundown": {
+                "day_1_23_may_2026": {
+                    "main_stage": {
+                        "09.05": "Kira Kira Band by Jakarta Keion Club",
+                        "09.40": "PANiK Band by Jakarta Keion Club",
+                        "10.15": "Mirai Taiko Dojo Jakarta",
+                        "11.10": "U-Maku Eisa \ufffd\ufffd Kira Kira Taiko",
+                        "12.00": "Parade Yosakoi",
+                        "12.30": "Indonesia Yosakoi All-Star",
+                        "13.25": "U-Maku Eisa \ufffd\ufffd Nahadaiko",
+                        "14.20": "wHiTeROck",
+                        "14.50": "Japanese Dancing Mai",
+                        "15.20": "Yamasaki Kenichi \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala \ufffd\ufffd Machika",
+                        "15.50": "Parade Yosakoi",
+                        "16.25": "Aikido Enbu",
+                        "16.55": "Wadaiko Benten",
+                        "18.10": "Anggis Devaki, Anneth & Shin Z",
+                        "19.05": "Indonesia Wotagei Battle",
+                        "19.50": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd U-Maku Eisa \ufffd\ufffd Indonesia Samurai \ufffd\ufffd Koba Mirai Japan",
+                        "20.35": "Bon Odori"
+                    },
+                    "pop_stage": {
+                        "10.05": "Idolfest feat. Lunite, La Belle, Hira Dazzle, Akemi",
+                        "12.00": "Lomba Makan Ramen",
+                        "12.35": "TKV ID \ufffd\ufffd Vtuber",
+                        "13.20": "Seiyuu Contest",
+                        "14.05": "Yuriwa",
+                        "14.40": "Star Sign Gakuen supported by Diton",
+                        "15.25": "Djakarta Single Cosplay Parade",
+                        "16.25": "Lemon",
+                        "16.55": "Odojoget",
+                        "17.55": "Indonesia Cosplay League (ICL) GICOF",
+                        "19.05": "Jujutsu Kaisen perform by Moonclub",
+                        "20.00": "TKV ID \ufffd\ufffd Vtuber DJ",
+                        "20.45": "NIPPON URBAN BASS SYSTEM"
+                    },
+                    "band_stage": {
+                        "09.00": "Indonesia Yosakoi 2026",
+                        "11.15": "Zorumon",
+                        "12.00": "Bubble Bliss",
+                        "12.40": "New Headline",
+                        "13.20": "Dream Journey",
+                        "14.00": "Arcsoul",
+                        "14.40": "Gate",
+                        "15.20": "A'rt~pen~Ciel",
+                        "16.00": "Fairytails",
+                        "16.40": "Onizuka",
+                        "17.55": "Skyfall",
+                        "18.35": "Henohenomoheji"
+                    },
+                    "parade": {
+                        "11.55": "Parade Yosakoi 1",
+                        "15.50": "Parade Yosakoi 2"
+                    }
+                },
+                "day_2_24_may_2026": {
+                    "main_stage": {
+                        "09.05": "SC 93 Band by Jakarta Keion Club",
+                        "09.40": "No Generation Gap Band by Jakarta Keion Club",
+                        "10.15": "Mirai Taiko Dojo Jakarta",
+                        "11.05": "U-Maku Eisa \ufffd\ufffd Kira Kira Taiko",
+                        "12.00": "Todoroki Taro",
+                        "12.40": "Little Harmony Orchestra \ufffd\ufffd Otodama \ufffd\ufffd Wadaiko Benten",
+                        "13.40": "wHiTeROck",
+                        "14.10": "Kimro \ufffd\ufffd Kenichi Yamasaki",
+                        "14.40": "Yukino Jun",
+                        "15.25": "All Star Yosakoi",
+                        "16.10": "Kyudo Demo",
+                        "16.40": "Yuruban Band",
+                        "17.10": "U-Maku Eisa \ufffd\ufffd Nahadaiko",
+                        "17.55": "Aqueen & Sanggar Ananda / 6gadis",
+                        "18.15": "Yamasaki Kenichi \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala \ufffd\ufffd Machika",
+                        "19.05": "Wadaiko Benten",
+                        "20.10": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd U-Maku Eisa \ufffd\ufffd Indonesia Samurai \ufffd\ufffd Koba Mirai Japan",
+                        "20.55": "Bon Odori"
+                    },
+                    "pop_stage": {
+                        "10.05": "Idolfest feat. Anogi, Guilty Pleasure, Tomoshibi",
+                        "11.20": "Lomba Makan Ramen",
+                        "12.00": "TKV ID \ufffd\ufffd MaginiV",
+                        "12.45": "Metanaru",
+                        "13.10": "Yugen",
+                        "13.55": "Ola Aphrodite",
+                        "14.25": "MASTERS OF IDOL WORLD: Senbatsu \ufffd\ufffd Stellarist",
+                        "15.25": "DDM+",
+                        "16.10": "Djakarta Single Cosplay Parade",
+                        "16.55": "Super Heroes Invasion Volume 2 (Zetto \ufffd\ufffd Showtime Hero)",
+                        "17.55": "Kompetisi Nasional Cosplay Indonesia (KNCI)",
+                        "19.15": "Cosura Cabaret K-Pop Demon Hunter",
+                        "20.00": "Syncro",
+                        "20.15": "DJ Vibetronic",
+                        "21.00": "DJ House of Heroes"
+                    },
+                    "band_stage": {
+                        "11.15": "Joyful Youth",
+                        "12.00": "Harvest",
+                        "12.40": "Hunting Glory",
+                        "13.20": "Say:Kou",
+                        "14.00": "Tentative",
+                        "14.40": "Lunatic Tokyo",
+                        "15.25": "Zeal",
+                        "16.05": "Amakusa",
+                        "16.45": "Wasabi",
+                        "17.55": "Thousand Sunny",
+                        "18.45": "De Lumiere"
+                    },
+                    "parade": {
+                        "18.25": "Parade Yosakoi"
+                    }
+                }
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -19125,6 +19437,63 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260524",
+        "Start Time": "14:00",
+        "End Date": "20260524",
+        "End Time": "16:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BRI Coswalk Competition 2026",
+        "Location": "Jakarta International Convention Center (JICC) - Hall B",
+        "Comment": "Insert to J-Event List : 20260522 14:38:49\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "bri_coswalk_competition_2026_jkt",
+        "location_address": "Jl. Gatot Subroto No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.214042250613903, 106.807269869456",
+        "location_gmaps": "https://g.page/JCC-Senayan",
+        "location_country": "Indonesia",
+        "links": [
+            "https://forms.gle/wmxHow7fBZRNPHJE7",
+            "https://www.facebook.com/share/p/1CxtqGCNq2/"
+        ],
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Sacca Production",
+            "theme": "BRI Consumer Expo 2026",
+            "guest_stars": {
+                "judges": [
+                    "Ayr Omayra",
+                    "Jo Jo"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "categories": [
+                        "Best Anime",
+                        "Best Tokusatsu",
+                        "Best Game",
+                        "Best Movie"
+                    ],
+                    "prizes": {
+                        "per_category": "Uang Tunai Rp 1.000.000 + Sertifikat"
+                    },
+                    "registration_online": "20-23 Mei 2026",
+                    "registration_ots": "24 Mei 2026, 11:00-13:00"
+                }
+            },
+            "contact": {
+                "whatsapp": "0812-8112-6972 (Kak Mudit)"
+            }
+        }
     },
     {
         "Start Date": "20260524",
@@ -19575,7 +19944,8 @@
             "https://www.instagram.com/p/DW6FdBkkxoj/",
             "https://uns.id/OpenPerformerINN2026",
             "https://www.instagram.com/p/DW1IpFtCUxQ/",
-            "https://www.instagram.com/p/DYhvrZGE1YT/"
+            "https://www.instagram.com/p/DYhvrZGE1YT/",
+            "https://web.facebook.com/share/p/1EBuSEcg7k/"
         ],
         "Content": {
             "category": [
@@ -19758,6 +20128,102 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260525",
+        "Start Time": "20:00",
+        "End Date": "20260525",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tekken 8 Tournament - Akai Jaya Esport X ITS FGC",
+        "Location": "Sepertiga by BRKH",
+        "Comment": "Insert to J-Event List : 20260522 16:46:07\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tekken8_tournament_2026_sulteng",
+        "location_address": "di dalam area SPBU, Jl. R.A. Kartini, Lolu Utara, Kec. Palu Sel., Kota Palu, Sulawesi Tengah 94235",
+        "location_city": "Palu",
+        "location_country": "Indonesia",
+        "location_coordinate": "-0.900865358366816, 119.87974106719334",
+        "location_gmaps": "https://maps.app.goo.gl/FQp52FyDxTJEpKVh9",
+        "links": [
+            "https://www.instagram.com/p/DYmdqO8GueC/"
+        ],
+        "Content": {
+            "category": [
+                "Game / Esports Tournament"
+            ],
+            "organizer": {
+                "collaborators": [
+                    "Akai Jaya Esport",
+                    "ITS FGC"
+                ]
+            },
+            "ticket_info": {
+                "registration": "FREE"
+            },
+            "competition": {
+                "game": "Tekken 8",
+                "format": "Double Elimination",
+                "rules": "TWT Standard Rules",
+                "bracket_structure": {
+                    "preliminary": "BO3",
+                    "top_8": "BO5"
+                },
+                "details": "Semua DLC bebas digunakan"
+            },
+            "prizes": {
+                "type": "Uang Tunai, Sertifikat"
+            },
+            "contact": {
+                "whatsapp": "0823-1373-6106 (Ridwan)"
+            }
+        }
+    },
+    {
+        "Start Date": "20260529",
+        "Start Time": "",
+        "End Date": "20260531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "myBCA International Java Jazz Festival 2026",
+        "Location": "NICE, PIK 2",
+        "Comment": "Insert to J-Event List : 20260522 14:38:49\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "java_jazz_festival_2026",
+        "location_address": "Jalan Achmad Yani, Salembaran, Kec. Kosambi, Kabupaten Tangerang, Banten 15214",
+        "location_city": "Tangerang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.053905959982814, 106.69342656605893",
+        "location_gmaps": "https://maps.app.goo.gl/3xPWbNb9B5a1kn126",
+        "links": [
+            "https://www.javajazzfestival.com",
+            "https://www.facebook.com/share/p/1CvPaSTo68/"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "The Japan Foundation, Jakarta & Java Jazz Festival",
+            "description": "Dukungan deretan musisi berbakat langsung dari Jepang untuk memeriahkan panggung myBCA International Java Jazz Festival 2026.",
+            "performers": {
+                "japanese_musicians": {
+                    "Billyrrom": "Genre progresif Tokyo Transition Soul",
+                    "Niko Niko Tan Tan": "Musik alternative, visual art, desain, Summer Horns ensemble",
+                    "Yufu": "Soul/Funk, semangat disko era 1970-an",
+                    "Oki Dub Ainu Band": "Electronic dub, musik folk suku Ainu, instrumen Tonkori"
+                }
+            }
+        }
     },
     {
         "Start Date": "20260529",
@@ -20527,7 +20993,8 @@
         "links": [
             "https://web.facebook.com/share/p/1CmziEkuxt/",
             "https://www.instagram.com/p/DYkcb5isQq4/",
-            "https://www.instagram.com/p/DYjuOdRJ6_X/"
+            "https://www.instagram.com/p/DYjuOdRJ6_X/",
+            "https://www.instagram.com/p/DYkU0OTTBFn/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -21164,7 +21631,7 @@
         "Location": "ITC Depok",
         "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "postponed",
         "attended": "No",
         "_id": "depok_otaku_festival_2026",
         "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
@@ -21174,7 +21641,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DYZ_TQAPxnh/",
-            "https://web.facebook.com/share/p/18SYwYQDiC/"
+            "https://web.facebook.com/share/p/18SYwYQDiC/",
+            "https://www.instagram.com/p/DYkyY-iThPj/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -21902,6 +22370,48 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260614",
+        "Start Time": "",
+        "End Date": "20260614",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nakamichi Fest",
+        "Location": "Jalan Tengah Caffe",
+        "Comment": "Insert to J-Event List : 20260521 17:06:55\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nakamichi_fest_2026",
+        "location_address": "Jl. Rajawali, Tembokrejo, Kec. Purworejo, Kota Pasuruan, Jawa Timur 67115",
+        "location_city": "Pasuruan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.671931450210169, 112.90087066895197",
+        "location_gmaps": "https://maps.app.goo.gl/2XiiCj7sJBrZ1JVh7",
+        "links": [
+            "https://www.instagram.com/p/DYj4nyGyFyl/",
+            "https://www.instagram.com/p/DYj3MFASx0A/",
+            "https://www.instagram.com/p/DYj5du5SJsR/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Middlecity48",
+            "co_organizer": "Jalan Tengah Caffe",
+            "description": "Event kolaborasi perdana antara MiddleCity48 dan Jalan Tengah Cafe yang menghadirkan pertunjukan idol serta ambience kafe yang nyaman.",
+            "guest_stars": [
+                "Hanabi",
+                "Lunarise"
+            ]
+        }
     },
     {
         "Start Date": "20260614",
@@ -23379,6 +23889,44 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20261010",
+        "Start Time": "",
+        "End Date": "20261010",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Visualkuy",
+        "Location": "Kalaras Coffee by Bawadi",
+        "Comment": "Insert to J-Event List : 20260521 17:06:55\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "visualkuy_2026",
+        "location_address": "Jl. Gatot Subroto No.104, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.9252489004975875, 107.6304665972575",
+        "location_gmaps": "https://maps.app.goo.gl/gneQTbPzGHN8hLrL8",
+        "links": [
+            "https://www.instagram.com/p/DYjpZAWzgJd/",
+            "https://www.instagram.com/visualkuy.event/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Cosplay - Gathering / Parade / Casual"
+            ],
+            "description": "Visual Kei Event yang menghadirkan penampilan live band, bernyanyi (sing), dan cosplay.",
+            "theme": "Visual Kei Event"
+        }
     },
     {
         "Start Date": "20261010",

@@ -11603,6 +11603,47 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20250531",
+        "Start Time": "14:00",
+        "End Date": "20250531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "RETRO BATTLE SHOWDOWN! PAC-MAN VS & SUPER BOMBERMAN 5",
+        "Location": "Cafe Satu Tujuan, Gading Serpong",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "retro_battle_showdown_pacman_bomberman_2025",
+        "location_address": "",
+        "location_city": "Tangerang",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/1C2Cx6WwSm/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Game / Esports Tournament",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "JDK Entertainment",
+            "description": "Event retro yang menghadirkan nostalgia bersama game legendaris PAC-MAN & Super Bomberman 5. Acara ini mencakup main bareng, mini turnamen, dan kumpul komunitas retro.",
+            "features": [
+                "Main bareng PAC-MAN & BOMBERMAN",
+                "Mini turnamen seru",
+                "Komunitas retro yang asik banget",
+                "Hadiah dan kejutan kece"
+            ]
+        }
+    },
+    {
         "Start Date": "20250601",
         "Start Time": "",
         "End Date": "20250601",
