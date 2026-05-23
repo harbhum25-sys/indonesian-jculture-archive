@@ -4247,7 +4247,8 @@
         "location_coordinate": "-6.249486934446707, 106.99311146690215",
         "location_gmaps": "https://maps.app.goo.gl/V7yTPTaaVpPwu1138",
         "links": [
-            "https://www.instagram.com/infojejepangan.id/p/DUhtjYWkt8N/"
+            "https://www.instagram.com/infojejepangan.id/p/DUhtjYWkt8N/",
+            "https://web.facebook.com/share/p/14jxvcaxSQW/"
         ],
         "Content": {
             "category": [
@@ -4273,7 +4274,38 @@
             },
             "source": {
                 "instagram_repost_from": "cosplayjabodetabek"
-            }
+            },
+            "rundown" : {
+                  "day_1_23_may_2026": {
+                    "10.00": "Opening MC",
+                    "13.00": "BCAF Presentation",
+                    "13.30": "Pop Culture Karaoke",
+                    "14.00": "BCAF Costreet Contest",
+                    "14.30": "Random Play Dance",
+                    "15.00": "Dance Performance - Maira",
+                    "15.30": "Idol Show - Elyria",
+                    "16.00": "Idol Show - Sora Hikari",
+                    "16.30": "Idol Show - Magic Koi",
+                    "17.00": "Idol Show - Melonix",
+                    "17.30": "Idol Show - Nekodachi",
+                    "18.30": "Random Play Dance",
+                    "19.30": "Closing"
+                  },
+                  "day_2_24_may_2026": {
+                    "10.00": "Opening MC",
+                    "13.00": "BCAF Presentation",
+                    "13.30": "BCAF Cosplay Workshop",
+                    "14.00": "Idol Show - Kuroneko Dream",
+                    "14.30": "Idol Show - Stellify",
+                    "15.00": "BCAF Coswalk Competition",
+                    "15.30": "BCAF Cosplay Competition",
+                    "16.00": "Idol Show - Naira",
+                    "16.30": "Idol Show - Yamisaki",
+                    "17.00": "Idol Show - Andthrixs",
+                    "18.30": "Random Play Dance",
+                    "19.30": "Closing"
+                  }
+                }
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -18979,9 +19011,9 @@
         "Importance": "",
         "Subject": "Connext Japan Djakarta Ennichi",
         "Location": "Taman Lapangan Banteng, Jakarta",
-        "Comment": "Insert to J-Event List : 20250712 16:44:07\n",
+        "Comment": "Insert to J-Event List : 20250712 16:44:07\nPembatalan pada Hari-H",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Cancelled",
         "attended": "",
         "_id": "dhgccq_2",
         "location_address": "RRJM+4W5, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
@@ -19005,7 +19037,13 @@
             "https://www.instagram.com/p/DXjo2lJD7Yv/",
             "https://web.facebook.com/share/p/1BrxLFgbaP/",
             "https://web.facebook.com/share/p/18pHDzMdMY/",
-            "https://web.facebook.com/share/p/17cuQaLtTB/"
+            "https://web.facebook.com/share/p/17cuQaLtTB/",
+            "https://www.instagram.com/p/DYpwPO3Et4T/",
+            "https://web.facebook.com/share/p/17r1PWFycF/",
+            "https://www.suara.com/lifestyle/2026/05/23/093904/djakarta-ennichi-2026-resmi-batal-digelar-di-lapangan-banteng-jakarta",
+            "https://www.kompas.com/hype/read/2026/05/23/072842766/festival-djakarta-ennichi-2026-mendadak-batal-digelar",
+            "https://www.kaorinusantara.or.id/newsline/244446/djakarta-ennichi-2026-batal",
+            "https://duniaku.idntimes.com/geek/culture/djakarta-ennichi-2026-secara-mengejutkan-diumumkan-batal-00-rgfzd-3t6ztz"
         ],
         "Content": {
             "presenter": "Asosiasi Budaya Jepang Indonesia",
@@ -19120,18 +19158,42 @@
                     }
                 }
             },
-            "category": [
-                "Festival / Matsuri",
-                "Musik - Idol / VTuber",
-                "Band Performance",
-                "Cosplay - Competition / Coswalk",
-                "Kebudayaan / Cultural Show",
-                "Wotagei"
-            ],
-            "organizer": "Djakarta Ennichi",
-            "theme": "Djakarta Ennichi 2026",
-            "date": "23 \ufffd\ufffd\ufffd 24 Mei 2026",
-            "venue": "Lapangan Banteng, Jakarta",
+           "category": [
+               "Festival / Matsuri",
+               "Musik - Idol / VTuber",
+               "Cosplay - Competition / Coswalk",
+               "Gathering / Komunitas",
+               "Kebudayaan / Cultural Show"
+             ],
+             "organizer": "PT. Zhuge Kreatif Indonesia x Wownas Co. Ltd (Collaborator)",
+             "theme": "Connext Japan Djakarta Ennichi 2026",
+             "edition": "Djakarta Ennichi 2026",
+             "description": "Festival kebudayaan Jepang internasional yang awalnya direncanakan sebagai penerus semangat festival Ennichisai Blok M terdahulu. Namun, festival ini resmi dibatalkan beberapa jam sebelum pintu gerbang dibuka karena kendala teknis dan operasional yang krusial.",
+             "date": "23 – 24 Mei 2026 (BATAL/CANCELLED)",
+             "venue": "Lapangan Banteng, Jakarta",
+             "status": "Officially Cancelled / Batal Terlaksana",
+             "cancellation_details": {
+               "announcement_date": "23 Mei 2026",
+               "reason": "Kendala teknis dan operasional yang mempengaruhi kesiapan penyelenggaraan acara secara menyeluruh sehingga tidak dapat menyajikan festival yang aman dan maksimal.",
+               "accountable_parties": [
+                 "Hardiyanto Kenneth (Ketua Umum)",
+                 "Akiko Sakaguchi",
+                 "Johannes Chang (Chief Connext Japan)",
+                 "Rizki",
+                 "Edo"
+               ],
+               "resolution_statement": "Pihak perwakilan penyelenggara menyatakan akan memberikan pertanggungjawaban serta ganti rugi kepada seluruh tenant, vendor, sponsor, dan pihak-pihak terkait yang dirugikan."
+             },
+             "planned_activities": [
+               "International Cosplay Competitions (ICL - GICOF & KNCI)",
+               "Djakarta Single Cosplay Parade",
+               "Indonesia Wotagei Battle National Grand Final",
+               "Okinawa Session (Traditional Musical & Dance Show)",
+               "Three Stages Music Performances (Main, Pop, and Band Stage)"
+             ],
+             "ticket_info": {
+               "htm": "FREE ENTRY"
+             },
             "international_guests": [
                 "Tomia",
                 "Seolhwa",
@@ -19270,9 +19332,6 @@
                         "Surabaya"
                     ]
                 }
-            },
-            "ticket_info": {
-                "htm": "FREE ENTRY"
             },
             "social_media": {
                 "instagram": "@djakarta.ennichi",
