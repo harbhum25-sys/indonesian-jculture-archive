@@ -4373,23 +4373,48 @@
       "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
       "location_country": "Indonesia",
       "links": [
-        "https://www.instagram.com/p/DYrNrr5D1PN/"
+        "https://www.instagram.com/p/DYrNrr5D1PN/",
+        "https://www.instagram.com/p/DYrL7UAE9wu/",
+        "https://www.facebook.com/share/p/1E5cQsTJXe/"
       ],
       "Content": {
         "category": [
-          "Musik - Idol / VTuber",
-          "Cosplay - Gathering / Parade / Casual"
-        ],
+            "Festival / Matsuri",
+            "Musik - Idol / VTuber",
+            "Gathering / Komunitas",
+            "Wotagei"
+          ],
+          "organizer": "Kizuna Stage Team",
+          "theme": "Kizuna Stage (キズナステージ)",
+          "description": "Awalnya Penampilan khusus membawakan idol-idol dari branch THE iDOLM@STER (765AS, Cinderella Girls, Million Live, Shiny Colors, dan Hatsuboshi Gakuen) serta dilanjutkan dengan sesi foto bersama. Akhirnya jadi Mini live event mendadak (pop-up event) yang diinisiasi sebagai bentuk solidaritas menyusul pembatalan event Djakarta Ennichi 2026. Acara ini memanfaatkan keberadaan para performer luar kota yang sudah terlanjur berada di Jakarta untuk tetap memberikan panggung hiburan bagi komunitas.",
+          "date": "Minggu, 24 Mei 2026",
+          "venue": "WTC Mangga Dua, Jakarta",
+          "performers": [
+            "Vibetronic",
+            "Group Z x Lights Project",
+            "Syncro Wotagei",
+            "Senbatsu Cosura x Stellarist",
+            "Odojoget Project",
+            "DDM+",
+            "Sentimental Harmony",
+            "Demon Hunters Cosura"
+          ],
+          "activities": [
+            "Mini Live Performance",
+            "Idol & Dance Showcase",
+            "Wotagei Session",
+            "Community Gathering"
+          ],
+          "ticket_info": {
+            "htm": "FREE ENTRY"
+          },
+          "social_media": {
+            "hashtag": [
+              "#KizunaStage",
+              "#キズナステージ"
+            ]
+          },
         "organizer": "Chika Lights",
-        "ticket_info": {
-          "htm": "GRATIS"
-        },
-        "performers": [
-          "Senbatsu Cosura",
-          "Stellarist"
-        ],
-        "theme": "Master of Idol World",
-        "description": "Penampilan khusus membawakan idol-idol dari branch THE iDOLM@STER (765AS, Cinderella Girls, Million Live, Shiny Colors, dan Hatsuboshi Gakuen) serta dilanjutkan dengan sesi foto bersama.",
         "spokesperson": "Emily Yamanade"
       }
     },
@@ -19363,7 +19388,7 @@
         "Importance": "",
         "Subject": "Connext Japan Djakarta Ennichi",
         "Location": "Taman Lapangan Banteng, Jakarta",
-        "Comment": "Insert to J-Event List : 20250712 16:44:07\nPembatalan pada Hari-H",
+        "Comment": "Insert to J-Event List : 20250712 16:44:07\nEvent dibatalkan pada hari pelaksanaan (23 Mei 2026) sekitar pukul 03.00 WIB melalui pengumuman resmi panitia dengan alasan kendala teknis dan operasional. Berdasarkan informasi yang beredar luas di media sosial, pembatalan diduga berkaitan dengan konflik internal antara pihak EO (Connext Japan) dan pihak yang sebelumnya menjabat sebagai Ketua Umum (Hardiyanto Kenneth, Anggota DPRD DKI Jakarta Fraksi PDI-P), yang mengundurkan diri dari jabatan tersebut sejak April 2026. Salah satu narasi yang banyak beredar menyebut adanya keterlibatan donor anonim dari pihak luar yang diungkap H-1, memicu deadlock di internal panitia lapangan. Connext Japan disebut memilih membatalkan acara secara mandiri daripada nama mereka dikaitkan dengan kepentingan politik tertentu. Struktur panitia resmi mencantumkan Gubernur DKI Jakarta sebagai Pembina acara. Event ini sebelumnya telah mengalami beberapa kali penundaan: dari rencana awal September 2025 di Kota Tua, diundur ke 16–17 Mei 2026, lalu dimajukan ke 23–24 Mei 2026 di Lapangan Banteng. Dampak pembatalan mendadak mencakup tenant, sponsor, talent lokal dan internasional, serta peserta dari luar kota. Klarifikasi resmi disampaikan oleh Zhuge selaku panitia pelaksana melalui video di media sosial; Kenneth sendiri menyatakan sudah tidak terlibat sejak April namun sempat berkomentar di Instagram bahwa ia telah menyarankan agar acara digeser. Sebagai respons komunitas atas pembatalan, muncul dua event pengganti dadakan pada 23–24 Mei 2026: Indo Wotagei Battle (23 Mei, PIC Creative Space Wisma Staco Menteng Dalam, gratis) dan Kizuna Stage (24 Mei, WTC Mangga Dua, gratis), keduanya menampilkan performer yang semula dijadwalkan di Djakarta Ennichi.",
         "Online/Offline": "Offline",
         "status": "Cancelled",
         "attended": "",
@@ -20714,6 +20739,152 @@
         }
     },
     {
+      "Start Date": "20260524",
+      "Start Time": "13:00",
+      "End Date": "20260524",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Mini Cosgath (Mini Cosplay Gathering)",
+      "Location": "Akihabara Cafe - Multi Toys Mall of Indonesia",
+      "Comment": "Insert to J-Event List : 20260524 13:58:21\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "mini_cosgath_multitoys_2026_jkt",
+      "location_address": "Jl. Boulevard Raya No.30-31, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
+      "location_city": "Jakarta Utara",
+      "location_coordinate": "-6.156145176529776, 106.9076115966425",
+      "location_gmaps": "https://goo.gl/maps/f2Y2ApsJahbWk2BJA",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DYtEoXTow7z/"
+      ],
+      "Content": {
+        "category": [
+          "Cosplay - Gathering / Parade / Casual"
+        ],
+        "organizer": [
+          "Multi Toys",
+          "Machipot"
+        ],
+        "featured_guests": [
+          "Diane",
+          "Tomia",
+          "Onnies",
+          "Seolhwa"
+        ],
+        "activities": [
+          "Meet & Greet",
+          "Direct Merchandise Selling"
+        ]
+      }
+    },
+    {
+      "Start Date": "20260620",
+      "Start Time": "15:30",
+      "End Date": "20260620",
+      "End Time": "22:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Toki-O Fest 2026",
+      "Location": "Wetland Square",
+      "Comment": "Insert to J-Event List : 20260524 13:58:21\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "tokio_fest_2026_bjm",
+      "location_address": "Kebun Bunga, Kec. Banjarmasin Tim., Kota Banjarmasin, Kalimantan Selatan 70237",
+      "location_city": "Banjarmasin",
+      "location_coordinate": "-3.3286017182322594, 114.61010807659402",
+      "location_gmaps": "https://goo.gl/maps/865BPX23WzTNVk579",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DYrjJUcvVwh/",
+        "https://bit.ly/tokiotiket"
+      ],
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Gathering / Parade / Casual",
+          "Musik - Idol / VTuber",
+          "Musik - Band / Live Performance"
+        ],
+        "ticket_info": {
+          "htm": "Paid (Ticketed)"
+        },
+        "performers": [
+          "Eve's Lily",
+          "Rosa Gavriella",
+          "Yobanger",
+          "Shinhd",
+          "Saykiss",
+          "Amaryllis",
+          "Stardust"
+        ],
+        "activities": [
+          "Live Performance",
+          "Lomba / Competition"
+        ],
+        "contact": {
+          "whatsapp": "0822-5183-1709 (Pendaftaran Lomba)"
+        }
+      }
+    },
+    {
+      "Start Date": "20260524",
+      "Start Time": "15:00",
+      "End Date": "20260524",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Lumina Scarlet Fan Meeting with Jun (IFIC)",
+      "Location": "Maneki Neko, Lippo Mall Puri",
+      "Comment": "Relocated! Kursi terbatas.",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "lumina_scarlet_fan_meeting_2026_jkt",
+      "location_address": "Jl. Puri Indah Raya, RT.3/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+      "location_city": "Jakarta Barat",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.188004884356758, 106.73958285960002",
+      "location_gmaps": "https://maps.app.goo.gl/Py2stMraWZJwXiCD6",
+      "links": [
+        "https://www.instagram.com/p/DYq51yGSCrw/",
+        "https://forms.gle/1cvBhkShDMNSm27u6"
+      ],
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Party / Night Event"
+        ],
+        "organizer": "Lumina Scarlet",
+        "ticket_info": {
+          "htm": "100k",
+          "note": "Kursi terbatas"
+        },
+        "featured_guests": [
+          "Gen",
+          "Rae",
+          "Love",
+          "Jun (IFIC)"
+        ],
+        "activities": [
+          "Fanmeeting",
+          "Karaoke Session",
+          "Direct Selling",
+          "Meet & Greet"
+        ]
+      }
+    },
+    {
         "Start Date": "20260530",
         "Start Time": "10:00",
         "End Date": "20260531",
@@ -20735,18 +20906,57 @@
         "location_gmaps": "https://goo.gl/maps/yjG4FFQTHeH2fp7Y8",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DYgVoSVSdtO/"
+            "https://www.instagram.com/p/DYgVoSVSdtO/",
+            "https://web.facebook.com/share/p/1CkkLxqBmJ/"
         ],
         "date_precision": "day",
         "source_status": "archived",
         "Content": {
             "category": [
-                "Convention / Expo / Comic Market",
-                "Anime - Convention / Fan Event",
-                "Bazaar / Market"
-            ],
-            "organizer": "Merah! Merah! Anime Japan!! Executive Committee",
-            "description": "Event yang membawa konsep 'Authentic Japan' dan 'All Japan' ke Jakarta, menghadirkan pameran eksklusif, area interaktif, instalasi budaya pop Jepang, merchandise resmi original, hingga perwakilan industri Jepang.",
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Tokusatsu Show"
+              ],
+              "organizer": "MERAH!MERAH!Anime Japan",
+              "theme": "Authentic Japan and All Japan",
+              "description": "Event menghadirkan konsep **“Authentic Japan”** dan **“All Japan”** di Jakarta sebagai festival resmi berskala besar yang menyatukan budaya dan pop kultur Jepang dalam satu tempat. Acara ini menampilkan pameran eksklusif, area interaktif, instalasi budaya pop Jepang, merchandise resmi original, perwakilan industri Jepang, serta berbagai elemen seperti anime, manga, musik, karakter populer, produk hobi, layanan, dan kuliner otentik Jepang.",
+              "date": "30 - 31 Mei 2026",
+              "venue": "Gandaria City, Jakarta",
+              "featured_artists": [
+                "Shiritsu Ebisu Chugaku",
+                "Daruma Rollin'",
+                "Shiena Nishizawa",
+                "BAN BAN BAN - Sameshima",
+                "Hayataku",
+                "Otoha",
+                "Yoko Ishida"
+              ],
+              "cosplay_judges": [
+                "Rian Cyd",
+                "Frea Mai",
+                "Kagami Yuuto",
+                "Camellia Zahra"
+              ],
+              "special_characters": [
+                "Ultraman Tiga",
+                "Ultraman Omega"
+              ],
+              "activities": [
+                "Live Music Performance",
+                "Cosplay Competition",
+                "Anime & Manga Exhibition",
+                "Authentic Japanese Food Bazaar",
+                "Tokusatsu Character Appearance"
+              ],
+              "ticket_info": {
+                "htm": "Tersedia opsi gratis (free) dan berbayar (paid)",
+                "ticketing_platform": "http://t2u.asia/e/50347"
+              },
+              "social_media": {
+                "instagram": "https://www.instagram.com/mmaj_jakarta"
+              },
             "rundown": {
                 "20260530": "10:00 AM - 10:00 PM",
                 "20260531": "10:00 AM - 08:00 PM"
