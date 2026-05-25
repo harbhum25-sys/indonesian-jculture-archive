@@ -668,6 +668,84 @@
     },
     {
         "Start Date": "20100704",
+        "Start Time": "11:00",
+        "End Date": "20100704",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ennichisai 2010",
+        "Location": "Little Tokyo Blok M",
+        "Comment": "Gebyar Wisata & Kuliner Jakarta Selatan. Menghadirkan parade Mikoshi, kompetisi cosplay, dan berbagai kuliner tradisional Jepang.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ennichisai_2010_jkt",
+        "location_address": "Jl. Melawai 6 No.15a, RT.3/RW.1, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2441224266000726, 106.79901538294986",
+        "location_gmaps": "https://goo.gl/maps/oTCN95eSf7fH48wVA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1DD4meK48q/",
+            "http://ennichisai2010.blogspot.com/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Japan Entertainment LLC",
+            "ticket_info": {
+                "htm": "Rp 10.000"
+            },
+            "supported_by": [
+                "Gubernur DKI Jakarta",
+                "Walikota Jakarta"
+            ],
+            "performers": [
+                "Eisa Taiko",
+                "Enjuku",
+                "S.A.T.",
+                "On Project"
+            ],
+            "activities": [
+                "Opening Ceremony",
+                "Enbu (Aikido, Judo, Karate, Shorinji Kempo)",
+                "Band Performance",
+                "Little Tokyo Ennichisai Cosplay Competition",
+                "Mikoshi Parade",
+                "Karaoke Enka Nodo Jiman",
+                "Bon Odori",
+                "Taiko-Kei On"
+            ],
+            "sponsors": [
+                "Curry House 38",
+                "Don Restaurant",
+                "Honoka Restaurant",
+                "Kira-Kira Ginza Restaurant",
+                "Kitchen_18",
+                "Kushigin Yakitori Restaurant",
+                "Manpuku Tecchan",
+                "Ramen 38",
+                "Shiki Restaurant",
+                "Sushi-Sei",
+                "Yuzoh Restaurant"
+            ],
+            "contact": {
+                "phone": "021-723-4289",
+                "email": [
+                    "emitakeya@gmail.com",
+                    "onlyonejkt@gmail.com"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20100704",
         "Start Time": "11:00 PM",
         "End Date": "20100704",
         "End Time": "11:30 PM",

@@ -729,7 +729,13 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Bazaar / Market",
+                "Musik Band Live",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

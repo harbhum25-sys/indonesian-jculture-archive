@@ -786,6 +786,53 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20120630",
+        "Start Time": "10:00",
+        "End Date": "20120701",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ennichisai 2012",
+        "Location": "Little Tokyo Blok M",
+        "Comment": "Japanese Traditional Festival in Little Tokyo Blok M. Terdapat 2 panggung (Traditional & Modern) yang menyajikan program non-stop selama 2 hari.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ennichisai_2012_jkt",
+        "location_address": "Jl. Melawai 6 No.15a, RT.3/RW.1, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2441224266000726, 106.79901538294986",
+        "location_gmaps": "https://goo.gl/maps/oTCN95eSf7fH48wVA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1Bq7t4XSGP/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "ticket_info": {
+                "htm": "FREE"
+            },
+            "participants": [
+                "My Hobby Town (Booth #37)",
+                "My Sweet Couple"
+            ],
+            "activities": [
+                "Japanese Traditional & Modern Food Exhibition",
+                "Japanese Products & Art Exhibition",
+                "Cosplay Tournament",
+                "Games & Demonstrations",
+                "Two Stages Performance (Traditional & Modern Stage)"
+            ]
+        }
+    },
+    {
         "Start Date": "20120714",
         "Start Time": "11:30 AM",
         "End Date": "20120714",

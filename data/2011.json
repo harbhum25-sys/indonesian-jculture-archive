@@ -2884,7 +2884,45 @@
             "https://web.facebook.com/share/p/1E95BAcHTw/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk",
+                "Kebudayaan / Cultural Show"
+            ],
+            "organizer": "Kawasan Little Tokyo Blok M",
+            "theme": "Pray For Japan - Tachiagare Nippon (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
+            "edition": "Little Tokyo Ennichisai 2 (2011)",
+            "description": "Festival tahunan kebudayaan tradisional dan pop modern Jepang berskala besar di kawasan Blok M yang diselenggarakan sebagai bentuk solidaritas serta dukungan spiritual bagi Jepang pasca-bencana gempa bumi dan tsunami Tohoku 2011. Acara ini mencatat sejarah dengan menghadirkan ritual/tradisi Daishi pertama yang diadakan di luar Jepang.",
+            "date": "9 \ufffd\ufffd\ufffd 10 Juli 2011",
+            "venue": "Kawasan Little Tokyo Blok M (Area sekitar Blok M Square), Jakarta Selatan",
+            "time": {
+                "saturday_09_july": "11.00 - 22.00 WIB",
+                "sunday_10_july": "10.00 - 20.00 WIB"
+            },
+            "stages_and_booths": {
+                "booths_count": "200 Booths (Makanan, minuman, dan produk pernak-pernik Jepang/Jakarta)",
+                "stages_count": "2 Stages (Panggung pertunjukan Modern & Tradisional)"
+            },
+            "activities": [
+                "Enbu (Pertunjukan beladiri)",
+                "Mikoshi Parade (Arak-arakan tandu suci)",
+                "Origami Workshop",
+                "Enjuku Performance",
+                "Taiko (Tabuhan gendang Jepang)",
+                "Cosplay Show / Competition",
+                "Syuji (Seni kaligrafi Jepang)",
+                "Manga Exhibition / Activity",
+                "First Historic Daishi outside of Japan"
+            ],
+            "ticket_info": {
+                "htm": "FREE ENTRY (Tidak dipungut biaya masuk)"
+            },
+            "sponsors": [
+                "Bank BNP",
+                "Ramen 38 Sanpachi"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

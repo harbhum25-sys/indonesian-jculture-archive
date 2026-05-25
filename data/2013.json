@@ -1496,10 +1496,20 @@
         "location_coordinate": "-6.2441224266000726, 106.79901538294986",
         "location_gmaps": "https://goo.gl/maps/oTCN95eSf7fH48wVA",
         "links": [
-            ""
+            "https://web.facebook.com/share/v/18ZQDYcuJT/",
+            "https://web.facebook.com/share/v/1Aod2pjh6q/",
+            "https://web.facebook.com/share/v/1CdnihEEb3/",
+            "https://web.facebook.com/share/v/18Wqwk19NB/",
+            "https://web.facebook.com/share/v/1R1PyQepRa/",
+            "https://web.facebook.com/events/540751299301833/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

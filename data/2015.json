@@ -1003,7 +1003,13 @@
                     }
                 }
             },
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Bazaar / Market",
+                "Musik Band Live",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1041,6 +1047,51 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20150513",
+        "Start Time": "09:30",
+        "End Date": "20150513",
+        "End Time": "12:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Kuliah Umum 'Pengalaman Guiding di Jepang' & Jumpa Fans 'Faint Star'",
+        "Location": "Aula PSBJ",
+        "Comment": "~meneruskan info~ Terbuka untuk umum.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "kuliah_umum_faint_star_2015_unpad",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/15q9HGq14Pq/"
+        ],
+        "Content": {
+            "category": [
+                "Talkshow / Seminar / Workshop",
+                "Musik - Idol / VTuber"
+            ],
+            "featured_guests": [
+                "Inu Sensei",
+                "Faint Star"
+            ],
+            "performers": [
+                "Kartika dkk (Opening Act)"
+            ],
+            "activities": [
+                "Kuliah Umum 'Pengalaman Guiding di Jepang'",
+                "Jumpa Fans Idol Grup 'Faint Star'",
+                "Opening Act Performance",
+                "Quiz",
+                "Bagi-bagi Merchandise 'Faint Star'"
+            ]
+        }
     },
     {
         "Start Date": "20150517",
@@ -2051,6 +2102,65 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20150903",
+        "Start Time": "10:00",
+        "End Date": "20150906",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jogja Japan Week 2015 (JJW 2015)",
+        "Location": "Grha Sabha Pramana (GSP) UGM",
+        "Comment": "Peringatan kerja sama kebudayaan 15 tahun Prefektur Kyoto dan D.I. Yogyakarta.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jogja_japan_week_2015",
+        "location_address": "Universitas Gadjah Mada, Jl. Persatuan No.1, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Sleman",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.77017112729982, 110.37786337011629",
+        "location_gmaps": "https://maps.app.goo.gl/ZK3kHz86nm4CwNrs5",
+        "links": [
+            "https://budaya.jogjaprov.go.id/artikel/detail/563-jogja-japan-week-2015-hadirkan-nuansa-jepang-di-yogyakarta-",
+            "https://www.youtube.com/watch?v=OJqJgkW0YS4",
+            "https://ugm.ac.id/id/berita/10381-gelaran-jogja-japan-week-di-grha-sabha-pramana/",
+            "https://www.antarafoto.com/id/view/533844/jogja-japan-week-2015"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Kebudayaan / Budaya Tradisional",
+                "Exhibition / Pameran",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Sinergi Indonesia",
+            "supported_by": [
+                "Pemerintah Daerah D.I. Yogyakarta",
+                "Pemerintah Prefektur Kyoto",
+                "Universitas Gadjah Mada (UGM)"
+            ],
+            "theme": "Mataram-Kyoto",
+            "ticket_info": {
+                "htm": "Berbayar (Tiket harian / Terusan)"
+            },
+            "featured_guests": [
+                "Delegasi Seniman Prefektur Kyoto",
+                "Grup Kesenian Keraton Ngayogyakarta Hadiningrat"
+            ],
+            "activities": [
+                "Pameran Edukasi & Kebudayaan Jepang-Yogyakarta",
+                "Workshop & Demo (Manga, Ikebana, Chanoyu/Upacara Minum Teh, Shodo)",
+                "Pertunjukan Seni Tradisional (Tari Bali-Jepang, Kolaborasi Musik, Kimono Show)",
+                "Bazaar Kuliner & Merchandise Jepang (Yatai)",
+                "Cosplay Competition & Cosplay Walk",
+                "Penampilan Komunitas & Pop Culture"
+            ]
+        }
     },
     {
         "Start Date": "20150905",
@@ -3125,6 +3235,49 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20151026",
+        "Start Time": "19:30",
+        "End Date": "20151026",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "TOKYO HITS Live ~ Faint Star feat. DJ RedShift",
+        "Location": "Loop Station Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tokyo_hits_live_faint_star_2015_jkt",
+        "location_address": "Jl. Mahakam No.3, RT.1/RW.6, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.244152828625851, 106.79658190050603",
+        "location_gmaps": "https://maps.app.goo.gl/j5qW8p9tmJgLfGJdA",
+        "links": [
+            "https://web.facebook.com/share/p/1CjesG8XA2/",
+            "https://twitter.com/faintstar_Tokyo"
+        ],
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Party / Night Event"
+            ],
+            "ticket_info": {
+                "htm": "Rp 30.000",
+                "note": "Free drink"
+            },
+            "performers": [
+                "Faint Star",
+                "DJ RedShift"
+            ],
+            "media_partners": [
+                "MTV Traxx"
+            ]
+        }
     },
     {
         "Start Date": "20151031",
