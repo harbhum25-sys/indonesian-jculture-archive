@@ -275,7 +275,9 @@
             "https://web.facebook.com/events/923276404361824/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -305,7 +307,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -872,7 +876,9 @@
                 "105.5 FM GARUDA",
                 "BLCI"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -903,7 +909,9 @@
             "https://web.facebook.com/photo/?fbid=1496237291374&set=p.1496237291374"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1002,7 +1010,9 @@
             "sumber": [
                 "GameStation Indonesia - Volume 188, June 2011, halaman 106"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1226,6 +1236,73 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20110507",
+        "Start Time": "11:00",
+        "End Date": "20110507",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Rochi No Hori (Roku Sichi No Nihon Matsuri) 2011",
+        "Location": "Gedung SMAN 67 Jakarta",
+        "Comment": "HTM On the spot sudah termasuk stiker, donasi #PrayForJapan, dan CD Wasabi Band.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "rochi_no_hori_sman67_2011_jkt",
+        "location_address": "Jalan Squadron No.35-36 Jalan Halim Perdana Kusuma, RW No.RT.3, RT.3/RW.4, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13610",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.275535980919699, 106.88661550924003",
+        "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1M8AqF4gAX/",
+            "https://web.facebook.com/share/p/1BXNiZGm4G/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk"
+            ],
+            "organizer": "Japanese Club SMAN 67 Jakarta",
+            "ticket_info": {
+                "htm": "Presale: Rp 10.000 / OTS: Rp 15.000"
+            },
+            "guest_stars": [
+                "Melody Maker Band",
+                "Wasabi Band"
+            ],
+            "featured_bands": [
+                "Broken Inside",
+                "Black Jasmine"
+            ],
+            "activities": [
+                "Pertunjukan Taiko",
+                "Pertunjukan Kendo",
+                "Lomba Manga",
+                "Lomba Desain Karakter",
+                "Lomba Cosplay",
+                "Obake (Rumah Hantu)",
+                "Stand Aksesoris & Makanan Jepang"
+            ],
+            "contact": {
+                "ticket_and_booth": [
+                    "0838-9892-5520 (Friska)",
+                    "0838-9958-2670 (Annisa)"
+                ],
+                "competitions": {
+                    "cosplay": "0857-8065-6836 (Dubhe)",
+                    "manga": "0857-1019-4310 (Imas)",
+                    "desain_karakter": "0838-9958-2670 (Icha)",
+                    "audisi_band": "0857-8201-0258 (Nura)"
+                }
+            }
+        }
     },
     {
         "Start Date": "20110507",
@@ -2174,7 +2251,9 @@
         "Content": {
             "event_type": "Japanese Cultural Event",
             "subtitle": "Isshoni no Monogatari",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2612,7 +2691,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "United States",
         "date_precision": "day",
@@ -2753,7 +2834,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2889,13 +2972,13 @@
                 "Gathering / Komunitas",
                 "Bazaar / Market",
                 "Cosplay - Competition / Coswalk",
-                "Kebudayaan / Cultural Show"
+                "Budaya Jepang - Seni Tradisional"
             ],
             "organizer": "Kawasan Little Tokyo Blok M",
-            "theme": "Pray For Japan - Tachiagare Nippon (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
+            "theme": "Pray For Japan - Tachiagare Nippon (\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd)",
             "edition": "Little Tokyo Ennichisai 2 (2011)",
             "description": "Festival tahunan kebudayaan tradisional dan pop modern Jepang berskala besar di kawasan Blok M yang diselenggarakan sebagai bentuk solidaritas serta dukungan spiritual bagi Jepang pasca-bencana gempa bumi dan tsunami Tohoku 2011. Acara ini mencatat sejarah dengan menghadirkan ritual/tradisi Daishi pertama yang diadakan di luar Jepang.",
-            "date": "9 \ufffd\ufffd\ufffd 10 Juli 2011",
+            "date": "9 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd 10 Juli 2011",
             "venue": "Kawasan Little Tokyo Blok M (Area sekitar Blok M Square), Jakarta Selatan",
             "time": {
                 "saturday_09_july": "11.00 - 22.00 WIB",
@@ -3105,7 +3188,9 @@
                     "items": "Fashion products, accessories, comics and related merchandise"
                 }
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3152,7 +3237,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "CLAS:H \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 Cosplay Live Action Show Hybrid",
+        "Subject": "CLAS:H \u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00c2\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00e2\u20ac\u00a6\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c Cosplay Live Action Show Hybrid",
         "Location": "Balai Kartini",
         "Comment": "",
         "Online/Offline": "Offline",
@@ -3172,7 +3257,9 @@
         "Content": {
             "event_type": "Cosplay Event",
             "theme": "Cosplay Live Action Show Hybrid",
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3517,7 +3604,9 @@
             "https://web.facebook.com/DNOIRband/photos/a.260789620615735/262438623784168/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3713,7 +3802,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3952,7 +4043,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3982,7 +4075,9 @@
             "https://web.facebook.com/events/802714659824653/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4012,7 +4107,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

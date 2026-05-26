@@ -54,7 +54,11 @@
                 "@one.shoot_"
             ],
             "notes": "FREE ENTRY! Jangan lupa datang dan ramaikan acara seru ini!",
-            "category": []
+            "category": [
+                "Dance Cover Competition",
+                "Cosplay - Competition / Coswalk",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -323,7 +327,9 @@
                 "Magic Koi",
                 "Gochikara"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -354,7 +360,9 @@
             "https://www.instagram.com/p/DEonizHS2Z8/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -518,7 +526,9 @@
             "https://www.instagram.com/summerworks.ofc"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -582,7 +592,9 @@
             "https://www.instagram.com/menhokcosplay"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -614,7 +626,9 @@
             "https://www.instagram.com/crehaproject"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -812,8 +826,8 @@
         "Content": {
             "category": [
                 "Cosplay - Competition / Coswalk",
-                "Music / Performance",
-                "Community Gathering"
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas"
             ],
             "organizer": "E-Fair x Ikigai",
             "description": "Event budaya pop Jepang di Rooftop Malang Town Square yang berfokus pada kompetisi coswalk dan penampilan komunitas.",
@@ -962,7 +976,11 @@
                 "Instagram": "@risingsuncosplaycorp"
             },
             "HTM": "Free",
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1060,7 +1078,9 @@
             "https://www.instagram.com/daicon_ofc"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1091,7 +1111,9 @@
             "https://www.instagram.com/natsufeast"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1289,7 +1311,9 @@
             "https://www.instagram.com/sangurasu.yk"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1320,7 +1344,10 @@
             "https://www.instagram.com/regalien_id"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1581,7 +1608,9 @@
             "https://www.instagram.com/mh_eo23"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1717,7 +1746,9 @@
                 "#cosplaydepok",
                 "#kemenwibu"
             ],
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2045,7 +2076,9 @@
             "https://www.instagram.com/fmms_official"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2183,7 +2216,9 @@
             "https://www.instagram.com/plbdreamscape_/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2344,7 +2379,9 @@
             "https://www.instagram.com/ofclabelle.id"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2631,7 +2668,9 @@
             "https://www.instagram.com/aigatsu.id"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2942,7 +2981,9 @@
             "https://www.instagram.com/rafcreative"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3073,7 +3114,9 @@
             "https://www.instagram.com/p/DFCYshGSdxh/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3624,7 +3667,9 @@
             "https://www.instagram.com/p/DFfg-RNv7Mg/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3660,7 +3705,11 @@
             "content": "Idol Performance Coswalk Competition Jsong Competition Coswalk Rookie Community Activity Karaoke Party Utattemita DJ Random Play Dance Community Gathering Bazaar Merch Toys",
             "cp_performer": "0881081010222",
             "cp_tenant": "088290578280",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4138,7 +4187,7 @@
         ],
         "Content": {
             "presenter": "Lintas Minat Bahasa Jepang SMA Cindera Mata Bekasi",
-            "theme": "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Natsu No Origami Matsuri (Origami Paper Festival in Summer)",
+            "theme": "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Natsu No Origami Matsuri (Origami Paper Festival in Summer)",
             "ticket_info": {
                 "Pre-Sale 1": "Sold Out",
                 "Pre-Sale 2": "Rp 20.000",
@@ -4580,7 +4629,9 @@
             "https://www.instagram.com/japanetz"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4971,7 +5022,11 @@
             "contact_person": {
                 "lomba_registration": "Ana 085894457487"
             },
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5337,7 +5392,11 @@
             "contact_person": {
                 "lomba_registration": "Bunda Ime 085718213908"
             },
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5405,7 +5464,9 @@
             "event_description": "Diskusi dan eksplorasi cerita misteri anak dari Jepang dan Indonesia.",
             "HTM": "Gratis dengan pendaftaran",
             "participant_limit": "Jumlah peserta terbatas",
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5622,7 +5683,11 @@
                 },
                 "contact_person": "Bunda Ime 085718213908"
             },
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5905,7 +5970,7 @@
             "presenter": "Orutako",
             "featured_artist": "Kiyoshi (Asian Kung-Fu Generation)",
             "HTM": "Rp 200.000",
-            "event_type": "Old School Otaku Karaoke Party with 360\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Special Drumming Session",
+            "event_type": "Old School Otaku Karaoke Party with 360\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Special Drumming Session",
             "venue": "@makmurbahagia.jkt (Jakarta)",
             "ticket_info": "Available on @ruangeventcom",
             "DJ_set": [
@@ -5920,7 +5985,10 @@
                 "@wijasoju",
                 "@wijasparklingsoju"
             ],
-            "category": []
+            "category": [
+                "Musik - Anisong / Karaoke",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -6030,7 +6098,9 @@
                 "#eventbandung",
                 "#kultifest"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -6093,7 +6163,9 @@
             "https://www.instagram.com/regalien_id"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -6256,7 +6328,9 @@
             "https://www.instagram.com/himanizhar_uai"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -7199,7 +7273,9 @@
             "https://www.instagram.com/kinoha_magelang"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -7495,9 +7571,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay",
-                "Idol Performance",
-                "Community Gathering"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Gathering / Komunitas"
             ],
             "organizer": "Utsuru Team",
             "description": "Event yang dikenal sebagai pesta komunitas terbesar di Malang, menghadirkan kolaborasi antar komunitas hobi Jepang, penampilan idol, dan cosplayer.",
@@ -7709,7 +7785,10 @@
                 "JFest",
                 "Imagine"
             ],
-            "category": []
+            "category": [
+                "Buka Bersama / Ramadan",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -7968,7 +8047,9 @@
             "https://www.instagram.com/3aeorganizer"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8024,7 +8105,9 @@
                 "@ina.i.chi",
                 "@otsuru.idn"
             ],
-            "category": []
+            "category": [
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8156,13 +8239,13 @@
             ],
             "More Info": "@japanmatsurisurabaya",
             "Hashtag": [
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
                 "bunkasai",
                 "matsuri",
                 "cosplay",
@@ -8184,7 +8267,11 @@
                 "infoeventsurabaya",
                 "surabaya"
             ],
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8335,7 +8422,9 @@
                 "activity7": "Weaboo Gathering",
                 "note": "We are still open for tenants! Only limited to merchandise and goods! Sign up your booth now!"
             },
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8366,7 +8455,9 @@
             "https://www.instagram.com/sokenfest/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8515,7 +8606,11 @@
                 "@octaverse.id",
                 "@koisuru_octaverse"
             ],
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8602,7 +8697,7 @@
             "Master of Ceremony": "Kiyo & Isal",
             "Coswalk Judge": "Alwan",
             "Supported by": "Wibu Fest",
-            "Medpart": "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+            "Medpart": "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
             "category": [
                 "Gathering / Komunitas"
             ]
@@ -8817,9 +8912,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Idol Performance",
-                "Anniversary",
-                "Mini Concert"
+                "Musik - Idol / VTuber",
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "BGR48 Management",
             "description": "Konser mini perayaan ulang tahun BGR48 yang ke-7 di Bogor, menampilkan berbagai pertunjukan idola J-Pop dan K-Pop.",
@@ -8879,7 +8974,7 @@
             "categories": {
                 "Best Outfit": true,
                 "Best Makeup & Hairdo": true,
-                "Netizen\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bds Favorites Look": true
+                "Netizen\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bds Favorites Look": true
             },
             "sponsors": [
                 "@ujibox.id",
@@ -8887,8 +8982,10 @@
             ],
             "media_partner": "@kitsu.sekai",
             "instruction": "Share the post and mention @harajuku_injogja and @jnstreetfashion",
-            "spirit": "Celebrate Kartini\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bds spirit with fierce style",
-            "category": []
+            "spirit": "Celebrate Kartini\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bds spirit with fierce style",
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -9076,7 +9173,9 @@
             "https://www.instagram.com/csquad.organizer"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -9431,7 +9530,9 @@
                 "Ticket Link": "https://x.supercosmachi.com/Koryuu25Tix",
                 "Henshin Challenge Form": "https://x.supercosmachi.com/HenshinNoC2025"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -9502,9 +9603,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Musik - Karaoke / J-Song",
-                "Seni / Workshop",
-                "Kompetisi Akademik"
+                "Musik - Anisong / Karaoke",
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Sastra Budaya SMAN 9 Bekasi",
             "theme": "Japan Edition: Carve your name and become a legend",
@@ -9589,7 +9689,9 @@
                 "CP1": "08978212572",
                 "CP2": "081311027051"
             },
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -9842,7 +9944,9 @@
                     }
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -10120,7 +10224,9 @@
                 "performance_10": "Yoru No Joo",
                 "performance_11": "Nekodachi"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -10357,7 +10463,9 @@
                 "dj_show": {}
             },
             "health_protocol": "Health Protocol will be applied during preparation and showtime in this event.",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -10487,7 +10595,10 @@
                 "#eventcosplay",
                 "#eventsurabaya"
             ],
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -10808,7 +10919,11 @@
                 "Anime Event Malang"
             ],
             "tagline": "A symphony of souls, where genres collide and hearts unite. Let the music guide us, let the spirit soar",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Festival / Matsuri",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -10958,7 +11073,10 @@
                 "Anri Rin": "Loh, ada apa? Tantangan apa di Jakarta?",
                 "MasAryo Bahbah DamarAdi 2": "tabrakan sama ce ef bisa jadi mengurangi minat penongton"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -11192,7 +11310,7 @@
                 "composition_per_table": {
                     "festive_member": 1,
                     "indonesian_idol_companion": 1,
-                    "fans": "5\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd7"
+                    "fans": "5\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd7"
                 }
             },
             "fees": {
@@ -11204,7 +11322,9 @@
                 "group_photo_per_table": "1x",
                 "selfie_with_festive_member": "1x"
             },
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -11404,7 +11524,7 @@
                     "V-Knight",
                     "Valerie",
                     "Elestra",
-                    "Jet\u00c3\u00a2\u00c5\u201c\u00c2\u00aePurii",
+                    "Jet\u00c3\u0192\u00c2\u00a2\u00c3\u2026\u00e2\u20ac\u0153\u00c3\u201a\u00c2\u00aePurii",
                     "Kasumisou No Narumi",
                     "Black Numbers"
                 ],
@@ -11516,7 +11636,7 @@
         ],
         "Content": {
             "presenter": "Japan Nusantara Street Fashion",
-            "description": "Harajuku Street Fashion bangkit lagi\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bddari jalanan Tokyo ke jantung Blok M!",
+            "description": "Harajuku Street Fashion bangkit lagi\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bddari jalanan Tokyo ke jantung Blok M!",
             "registration_fee": "100K",
             "registration_includes": "Lunch + Snacks, Merchandise, Dokumentasi",
             "dresscode": "All Japan Street Fashion Substyle (decora, gyaru, lolita, visual kei, jirai, mori, street yukata, dll)",
@@ -11534,7 +11654,9 @@
                 "Cosplay band visual kei": "boleh, asal bukan cosplay anime/game/manga"
             },
             "slogan": "Harajuku Strikes Back!!",
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -11596,7 +11718,9 @@
             "https://www.instagram.com/p/DJwnTwih81t/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -11817,7 +11941,9 @@
             },
             "prize_pool": "Rp3.000.000",
             "ticket": "Free Entry",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -11994,9 +12120,9 @@
                 "note": "Pendaftaran diperlukan karena tempat terbatas."
             },
             "event_schedule": {
-                "2025-06-08": "Opening JCW 2025 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Okinawa Day",
+                "2025-06-08": "Opening JCW 2025 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Okinawa Day",
                 "2025-06-10": "Minato Quiz",
-                "2025-06-11": "Japanscope Podcast Live \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Echoes and Patterns: Okinawa through Music and Bingata",
+                "2025-06-11": "Japanscope Podcast Live \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Echoes and Patterns: Okinawa through Music and Bingata",
                 "2025-06-12": "Pengenalan IGO Tingkat Pemula",
                 "2025-06-13": "Kenal Kerja Editor & Penerjemahan Manga",
                 "2025-06-17": "Demonstrasi Upacara Minum Teh Tradisional Jepang",
@@ -12005,7 +12131,9 @@
             "social_media": {
                 "instagram": "https://www.instagram.com/jf_jakarta"
             },
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -12053,7 +12181,9 @@
                 "godzilla_encounter": true
             },
             "hashtags": "#GodzillaTokyoAttack",
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -12099,7 +12229,9 @@
                 "godzilla_101_talkshow": "2025-07-12"
             },
             "hashtags": "#GodzillaAttack",
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -12193,7 +12325,7 @@
                 "support_3": "Connect Art Project (@art.connect20)",
                 "support_4": "Coser Bandung (@coserbandung)",
                 "support_5": "Idolm@ster Bandung (@imaspro.bdg)",
-                "support_6": "J\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdFest Hunter (@jfesthunter_)",
+                "support_6": "J\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdFest Hunter (@jfesthunter_)",
                 "support_7": "LoveLive! Bandung (@lovelivebandung)",
                 "support_8": "RITME (@_commun.ritme)",
                 "support_9": "Uniweeb (@uniweeb_)",
@@ -12567,7 +12699,9 @@
             "https://www.instagram.com/uinnihonclub/p/DJrgSa9SU-M/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -12646,7 +12780,10 @@
                 "partner_4": "Media Partner Lokal",
                 "partner_5": "Tribun Jogja"
             },
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -12770,7 +12907,7 @@
                 ]
             },
             "competitions": [
-                "All\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdStar",
+                "All\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdStar",
                 "Cover Sing",
                 "Japan Dance Competition",
                 "Band Blast Kyosho",
@@ -12779,11 +12916,11 @@
                 "Comic Strip"
             ],
             "partners": {
-                "official_mineral_water": "Sierra \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Segarnya Mineral",
+                "official_mineral_water": "Sierra \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Segarnya Mineral",
                 "sponsors": [
                     "KriukRia",
                     "Tokuni",
-                    "Ten Poci 88\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd(Es Teh)",
+                    "Ten Poci 88\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd(Es Teh)",
                     "Kyou Hobby Shop",
                     "Mirai Project"
                 ],
@@ -13030,7 +13167,9 @@
                 "permintaan_khusus": "Pembaca diharapkan dapat membagikan foto/video dokumentasi bagian Bon Odori",
                 "tujuan_permintaan": "Menunjukkan budaya Jepang di event mall"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -13338,7 +13477,9 @@
             "https://www.instagram.com/p/DHQXRUbS54Y/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -13391,7 +13532,11 @@
             },
             "Contact Person": "081311027051 - erick",
             "Instagram": "@japanfiestaproject",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -13427,7 +13572,7 @@
             "coswalk_competition": {
                 "registration_fee": "20000",
                 "contact_person": "081286911938",
-                "prizes_main": "Juara 1\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd3: Cash + Certificate + Merch",
+                "prizes_main": "Juara 1\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd3: Cash + Certificate + Merch",
                 "prizes_special": {
                     "best_female": "Cash + Certificate",
                     "best_male": "Cash + Certificate",
@@ -13447,7 +13592,9 @@
                 "contact_person": "085694177278"
             },
             "hashtags": "#LenteraStageCosplay",
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -13483,7 +13630,9 @@
                 "pre_sale": "Rp35000 per hari",
                 "ots": "Rp45000 per hari"
             },
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -13629,7 +13778,7 @@
                 "ticket_price": "Rp10.000"
             },
             "hashtag": "#GenFestITB",
-            "closing": "See you soon! \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+            "closing": "See you soon! \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
             "category": [
                 "Festival / Matsuri"
             ]
@@ -13791,12 +13940,12 @@
             "organizer": "imagine.id_ / Jfest Sumedang",
             "registration_link": "https://surveyheart.com/form/685439ff1d2e9337fc60a651",
             "contact_person": {
-                "Papah Chiba": "0896\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd0340\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd0018",
-                "Fazriell": "0821\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd1568\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd4259"
+                "Papah Chiba": "0896\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd0340\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd0018",
+                "Fazriell": "0821\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd1568\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd4259"
             },
             "activities": {
                 "1": "Cosplay Parade",
-                "2": "K\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdPop Dance Cover Showcase",
+                "2": "K\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdPop Dance Cover Showcase",
                 "3": "Cover Singing Performance",
                 "4": "Random Play Dance"
             },
@@ -13933,7 +14082,7 @@
         "Content": {
             "presenter": "Infinity Cosplay Festival",
             "entry_fee": "Free entry",
-            "dates": "11\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd13 July 2025",
+            "dates": "11\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd13 July 2025",
             "guest_stars_and_judges": [
                 "Gerard",
                 "Azulacan",
@@ -13976,7 +14125,7 @@
                 "Valiente band",
                 "SCUM Visual Rock",
                 "DJ MOVERAVE",
-                "J\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdStorm Dance Cover",
+                "J\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdStorm Dance Cover",
                 "Persephone idol group",
                 "Unit Karaoke Sejahtera"
             ],
@@ -14643,7 +14792,7 @@
         ],
         "Content": {
             "event": "Indonesia Game Experience 2025",
-            "description": "Buat kalian para pecinta anime, game, dan karakter-karakter ikonik, ini momen yang nggak boleh kalian lewatin! Acara ini nggak cuma buat gamer hardcore \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd tapi juga buat kamu yang suka pop culture, fashion, hingga yang cuma mau cari hiburan seru bareng teman atau keluarga!",
+            "description": "Buat kalian para pecinta anime, game, dan karakter-karakter ikonik, ini momen yang nggak boleh kalian lewatin! Acara ini nggak cuma buat gamer hardcore \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd tapi juga buat kamu yang suka pop culture, fashion, hingga yang cuma mau cari hiburan seru bareng teman atau keluarga!",
             "hashtag": "#IGX2025",
             "category": [
                 "Cosplay - Gathering / Parade / Casual"
@@ -14688,7 +14837,7 @@
                 "gratitude": "Terima kasih atas dukungan luar biasa dari komunitas, pengunjung, partner, dan semua pihak yang telah menjadi bagian dari perjalanan kami selama ini.",
                 "future_support": "Meskipun ini adalah penutup bagi Q-Anifest, kami tidak akan berhenti mendukung ekosistem event dan komunitas di Bandung. QTakasi Event akan terus hadir lewat bentuk dukungan lainnya.",
                 "call_to_action": "Yuk, jadikan Q-Anifest kali ini sebagai momen perpisahan yang berkesan.",
-                "farewell": "Sampai jumpa di event terakhir kami.. let\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bds make it unforgettable!",
+                "farewell": "Sampai jumpa di event terakhir kami.. let\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bds make it unforgettable!",
                 "hashtags": [
                     "#QAnifest2025",
                     "#QTakasiEvent",
@@ -14903,7 +15052,7 @@
                             "No makeup",
                             "No cosplay costume",
                             "Wig needs 1h styling",
-                            "Need 2\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd3h preparation"
+                            "Need 2\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd3h preparation"
                         ],
                         "response": "no support received",
                         "time_window": "8 PM to 12 noon"
@@ -15025,7 +15174,11 @@
                 "@ukmolahraga.ucic_"
             ],
             "contact_person": "0898 3150 123 (Bangsepp)",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament",
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -15454,7 +15607,7 @@
             "Sabtu, 26 Juli 2025": {
                 "Main Stage | 09.00 - 21.00 WIB": [
                     "Drumband SMKN 2 Subang",
-                    "Yosakoi-Fushin\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdX SMKN 2 Subang",
+                    "Yosakoi-Fushin\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdX SMKN 2 Subang",
                     "LPK Taisho (Senam Taisho)",
                     "LPMB",
                     "Kembalikan dan Kata Sambutan",
@@ -15539,7 +15692,7 @@
                     "Hikari",
                     "I-Shoma Maghrib",
                     "Galaxy Big Band Jazz Orchestra",
-                    "Yosakoi-Fushin\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdX",
+                    "Yosakoi-Fushin\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdX",
                     "Arumi Taiko Jakarta",
                     "WCS Final",
                     "Hikari",
@@ -15566,7 +15719,7 @@
                     "Galaxy Big Band Jazz Orchestra",
                     "SD KPN Tunas Harapan (ISI MIDORI)",
                     "Midori",
-                    "Yosakoi-Fushin\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdX (ISI MIDORI)",
+                    "Yosakoi-Fushin\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdX (ISI MIDORI)",
                     "Sakura Performance (LAVINU)",
                     "Penutupan"
                 ]
@@ -15585,7 +15738,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "I-ZONE (\u00e3\u201a\u00a2\u00e3\u201a\u00a4\u00e3\u0192\u2030\u00e3\u0192\u00ab)",
+        "Subject": "I-ZONE (\u00c3\u00a3\u00e2\u20ac\u0161\u00c2\u00a2\u00c3\u00a3\u00e2\u20ac\u0161\u00c2\u00a4\u00c3\u00a3\u00c6\u2019\u00e2\u20ac\u00b0\u00c3\u00a3\u00c6\u2019\u00c2\u00ab)",
         "Location": "Ma Chung University",
         "Comment": "Organized by Ikigai Project; Menampilkan pertunjukan idol, creator market, dan cosstreet.",
         "Online/Offline": "Offline",
@@ -15604,11 +15757,11 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Idol Performance",
-                "Cosstreet",
-                "Creator Market",
-                "Karaoke",
-                "Odottemita"
+                "Musik - Idol / VTuber",
+                "Cosplay - Gathering / Parade / Casual",
+                "Bazaar / Market",
+                "Musik - Anisong / Karaoke",
+                "Dance Cover Competition"
             ],
             "organizer": "Ikigai Project",
             "description": "Event bertema idol dan cosplay yang diselenggarakan di Universitas Ma Chung, fokus pada penampilan panggung dan interaksi komunitas.",
@@ -15989,7 +16142,9 @@
                 "@codag.id",
                 "@oricon_isiyk"
             ],
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -16038,11 +16193,11 @@
                     "Koichigo"
                 ],
                 "dj": [
-                    "DJ Aeg\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+                    "DJ Aeg\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
                     "DJ A'wir"
                 ]
             },
-            "event_type": "Idol \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Karaoke \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd DJ",
+            "event_type": "Idol \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Karaoke \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd DJ",
             "category": [
                 "Musik - Idol / VTuber"
             ]
@@ -16162,7 +16317,11 @@
                 "1": "Dining at themed cafe",
                 "2": "Fan gathering"
             },
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -16198,10 +16357,10 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Convention",
-                "Creative Market",
-                "Cosplay",
-                "Idol Performance"
+                "Convention / Expo / Comic Market",
+                "Bazaar / Market",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
             ],
             "organizer": "Japan Culture Daisuki",
             "description": "Event comeback besar di Jakarta yang menghadirkan ratusan creative circles dan berbagai bintang tamu di bidang seni, musik, dan cosplay.",
@@ -16442,7 +16601,9 @@
             "https://www.instagram.com/p/DMzJbXLJfaV/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -16560,7 +16721,7 @@
             "https://web.facebook.com/groups/251875943835/posts/10164199400368836/"
         ],
         "Content": {
-            "event_title": "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd! / Mari pergi ke dunia baru!",
+            "event_title": "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd! / Mari pergi ke dunia baru!",
             "dates": {
                 "start": "20250809",
                 "end": "20250810"
@@ -16687,7 +16848,9 @@
                 "#Japaneseeducationexhibition",
                 "#UNIKOMxJEE"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -16835,7 +16998,9 @@
             "organizer": "SuperMachi",
             "supported_by": "Love Story Cafe",
             "medpart_by": "BvK",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -16979,7 +17144,11 @@
             "contact_person": {
                 "Ana": "081389307687"
             },
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Cover Sing",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17023,7 +17192,11 @@
                 "#soireeentertainment"
             ],
             "notes": "Bawa energi, bawa teman, dan siap-siap buat malam yang unforgettable!",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17227,7 +17400,9 @@
                 "1": "#Ikuzo",
                 "2": "#Ikuzo3rd"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17311,7 +17486,9 @@
                 "performance": "0857-9613-9417",
                 "email": "uwuorganizer.id@gmail.com"
             },
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -17432,7 +17609,9 @@
             "anniversary": "7th Anniversary",
             "ticket_info": "Free show ticket (limited slot) with any cheki purchase (no minimum spend)",
             "supported_by": "Zest Hotel Sukajadi",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17518,7 +17697,9 @@
                 ]
             },
             "InformationContact": "0877-3844-5765",
-            "category": []
+            "category": [
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17661,7 +17842,9 @@
             "https://www.instagram.com/p/DOIakDADgy8/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17754,7 +17937,11 @@
             "Contact": {
                 "Instagram": "@jibunka_jia"
             },
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -17769,7 +17956,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "WAGUFEST 2025 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd WARUGOKUSHU FESTIVAL",
+        "Subject": "WAGUFEST 2025 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd WARUGOKUSHU FESTIVAL",
         "Location": "Smesco Indonesia Exhibition & Convention Hall, Pancoran, Jakarta",
         "Comment": "Insert to J-Event List : 20250317 02:51:52\n",
         "Online/Offline": "Offline",
@@ -18626,10 +18813,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay",
-                "Coswalk",
-                "Idol Performance",
-                "Anniversary Event"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Festival / Matsuri"
             ],
             "organizer": "GROW & HOTARU",
             "description": "Perayaan ulang tahun ke-5 Dalbofest yang menghadirkan kompetisi coswalk dan deretan grup idol ternama.",
@@ -18882,7 +19068,7 @@
             ],
             "Sponsors": [
                 "Pentagon Cafe & Billiard",
-                "\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+                "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
                 "Auto7"
             ],
             "Media Partners": [
@@ -19000,10 +19186,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay",
-                "Coswalk",
-                "Dance Cover",
-                "Festival"
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Festival / Matsuri"
             ],
             "organizer": "Gracia Party Organizer & Hotaru Chiimu",
             "description": "Festival yang menggabungkan kompetisi coswalk dan dance cover dengan penampilan spesial dari grup idola lokal di Malang.",
@@ -19216,7 +19401,9 @@
                 "Method": "Scan QR code di poster"
             },
             "Tags": "#Finder7 #FinderCompetition #CosplayCompetition #dkvupi #FPSD",
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -19231,7 +19418,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "INDONESIA GAME EXPERIENCE 2025 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd SEMARANG",
+        "Subject": "INDONESIA GAME EXPERIENCE 2025 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd SEMARANG",
         "Location": "The Park Mall Semarang",
         "Comment": "Insert to J-Event List : 20250907 16:20:21\n",
         "Online/Offline": "Offline",
@@ -19259,7 +19446,9 @@
             },
             "entry": "Pendaftaran GRATIS",
             "event_summary": "Gaming + Culture + Technology + Fun!",
-            "category": []
+            "category": [
+                "Game / Esports Tournament"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -19317,7 +19506,9 @@
                 "Twenty Nine Teens"
             ],
             "Notes": "Beragam booth & tenant menarik juga hadir",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -19611,7 +19802,7 @@
                 }
             },
             "Platform": "Google Meet",
-            "OrganizerNote": "Ganbarimashou \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+            "OrganizerNote": "Ganbarimashou \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
             "category": [
                 "Budaya Jepang - Bahasa / Akademik"
             ]
@@ -19696,7 +19887,11 @@
                 "Instagram": "@kazokujapanfestival"
             },
             "Hashtags": "#ITCGakure",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Party / Night Event",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -19931,7 +20126,7 @@
             "https://web.facebook.com/groups/251875943835/posts/10163603371218836/"
         ],
         "Content": {
-            "Deskripsi": "Festival budaya dan persahabatan Indonesia\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdJepang sejak 2009. Edisi 2025 adalah penyelenggaraan ke-15 dengan tema 'Indonesia & Japan Always Together'.",
+            "Deskripsi": "Festival budaya dan persahabatan Indonesia\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdJepang sejak 2009. Edisi 2025 adalah penyelenggaraan ke-15 dengan tema 'Indonesia & Japan Always Together'.",
             "Harga Tiket": "Informasi menyusul.",
             "Ajakan": "Ayo ikuti dan nantikan informasi selanjutnya di media sosial #JakJapanMatsuri2025!",
             "Tema": "Indonesia & Japan Always Together",
@@ -19943,13 +20138,13 @@
             ],
             "Tujuan": [
                 "Memperkenalkan budaya Jepang secara otentik",
-                "Mempromosikan kolaborasi budaya Indonesia\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdJepang",
+                "Mempromosikan kolaborasi budaya Indonesia\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdJepang",
                 "Menghadirkan elemen modern (idol) dan tradisional (mikoshi, batik)"
             ],
             "Tanggal dan Lokasi": {
-                "Tanggal": "27\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd28 September 2025",
-                "Hari": "Sabtu\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdMinggu",
-                "Jam": "10:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd21:00 WIB",
+                "Tanggal": "27\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd28 September 2025",
+                "Hari": "Sabtu\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdMinggu",
+                "Jam": "10:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd21:00 WIB",
                 "Lokasi": "Plaza Parkir Timur, Gelora Bung Karno (GBK), Senayan, Jakarta Pusat",
                 "Alamat": "Jl. Pintu Satu Senayan, Tanah Abang",
                 "Transportasi": {
@@ -19974,7 +20169,7 @@
                     "Nama": "Keramahtamahan Jepang (Omotenashi)",
                     "Isi": [
                         "Information Center multibahasa",
-                        "Relawan Omotenashi Team (Jepang\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdIndonesia)"
+                        "Relawan Omotenashi Team (Jepang\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdIndonesia)"
                     ]
                 },
                 {
@@ -19988,24 +20183,24 @@
             "Tiket": {
                 "Harga": "Rp50.000 per hari",
                 "Diskon": "Early bird / grup 100+ orang hingga 30%",
-                "Gratis": "Anak <140 cm & lansia \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd80 tahun",
+                "Gratis": "Anak <140 cm & lansia \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd80 tahun",
                 "Pembelian": "Via aplikasi GOERS atau Instagram @jktjapanmatsuri",
                 "Catatan": "Gunakan tiket digital, scan di pintu masuk"
             },
             "Jadwal": {
                 "Hari 1 - 27 September 2025": [
                     {
-                        "Waktu": "10:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd12:00",
+                        "Waktu": "10:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd12:00",
                         "Kegiatan": "Pembukaan & Parade",
                         "Deskripsi": "Pembukaan resmi, parade omikoshi + elemen Indonesia"
                     },
                     {
-                        "Waktu": "12:20\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd13:00",
+                        "Waktu": "12:20\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd13:00",
                         "Kegiatan": "Penampilan Musik",
                         "Deskripsi": "Matsumuro Seiya (debut Indonesia)"
                     },
                     {
-                        "Waktu": "13:35\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd14:15",
+                        "Waktu": "13:35\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd14:15",
                         "Kegiatan": "JKT48",
                         "Setlist": [
                             "#KuSangatSuka",
@@ -20030,12 +20225,12 @@
                         ]
                     },
                     {
-                        "Waktu": "14:30\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd15:30",
+                        "Waktu": "14:30\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd15:30",
                         "Kegiatan": "Tari & Seni Tradisional",
-                        "Deskripsi": "Yosakoi, taiko, demo seni Jepang\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdIndonesia"
+                        "Deskripsi": "Yosakoi, taiko, demo seni Jepang\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdIndonesia"
                     },
                     {
-                        "Waktu": "15:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd18:00",
+                        "Waktu": "15:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd18:00",
                         "Kegiatan": "Booth & Workshop",
                         "Isi": [
                             "Kuliner Jepang & fusion",
@@ -20045,7 +20240,7 @@
                         ]
                     },
                     {
-                        "Waktu": "19:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd21:00",
+                        "Waktu": "19:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd21:00",
                         "Kegiatan": "Matsuri Night",
                         "Performer": [
                             "JKT48",
@@ -20058,27 +20253,27 @@
                 ],
                 "Hari 2 - 28 September 2025": [
                     {
-                        "Waktu": "10:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd13:00",
+                        "Waktu": "10:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd13:00",
                         "Kegiatan": "Aktivitas Interaktif",
                         "Deskripsi": "Stamp rally, booth beasiswa & wisata"
                     },
                     {
-                        "Waktu": "13:35\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd14:15",
+                        "Waktu": "13:35\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd14:15",
                         "Kegiatan": "Matsumuro Seiya",
                         "Deskripsi": "Penampilan + interaksi penggemar"
                     },
                     {
-                        "Waktu": "14:30\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd17:00",
+                        "Waktu": "14:30\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd17:00",
                         "Kegiatan": "Pertunjukan Budaya",
-                        "Deskripsi": "Taiko, yosakoi, kolaborasi folklor Indo\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdJepang"
+                        "Deskripsi": "Taiko, yosakoi, kolaborasi folklor Indo\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdJepang"
                     },
                     {
-                        "Waktu": "17:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd19:00",
+                        "Waktu": "17:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd19:00",
                         "Kegiatan": "Area Kuliner & Foto",
                         "Deskripsi": "Booth makanan, sesi foto cosplay"
                     },
                     {
-                        "Waktu": "19:00\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd21:00",
+                        "Waktu": "19:00\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd21:00",
                         "Kegiatan": "Penutupan Matsuri Night",
                         "Deskripsi": "Penampilan spesial + fireworks"
                     }
@@ -20108,7 +20303,7 @@
                 ]
             },
             "Fasilitas": {
-                "Gratis": "Anak <140 cm & lansia \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd80 tahun",
+                "Gratis": "Anak <140 cm & lansia \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd80 tahun",
                 "Area Anak": "Permainan tradisional",
                 "Bazaar": "Produk kreatif Jepang",
                 "Konsultasi": "Edukasi & wisata Jepang"
@@ -20254,7 +20449,7 @@
         "Content": {
             "Ticket": {
                 "55K": "Tiket + 1 Photocard",
-                "100K": "Tiket + All Merch (Bantal Pochita, Photocard, Keychain) \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd LIMITED SLOT"
+                "100K": "Tiket + All Merch (Bantal Pochita, Photocard, Keychain) \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd LIMITED SLOT"
             },
             "Facilities": {
                 "Tiket Nonton": true,
@@ -20284,7 +20479,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Isekai Gardenia",
-        "Location": "Jatinangor National Park \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Sumedang",
+        "Location": "Jatinangor National Park \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Sumedang",
         "Comment": "Insert to J-Event List : 20250926 17:41:43\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -20318,7 +20513,9 @@
                 "tag4": "#PMP",
                 "tag5": "#cosplayevent"
             },
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -20350,8 +20547,8 @@
         ],
         "Content": {
             "category": [
-                "Education / Seminar",
-                "Competition",
+                "Talkshow / Seminar / Workshop",
+                "Gathering / Komunitas",
                 "Festival / Matsuri"
             ],
             "organizer": "HIMAJA FIB UI 2025",
@@ -20594,7 +20791,9 @@
                 "phone": "0898-3150-123",
                 "contact_person": "Negashii Costeam"
             },
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -20719,7 +20918,11 @@
                     "YOISHO"
                 ]
             },
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -20773,7 +20976,9 @@
                 "idol_performance": "Performances by Prism, Muses, and Starry Night",
                 "meet_and_greet": "Exclusive session with Kairi"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -20804,7 +21009,7 @@
             "https://www.instagram.com/jakartatoysfair"
         ],
         "Content": {
-            "presenter": "SACCA Production \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd AEON MALL Tj.Barat",
+            "presenter": "SACCA Production \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd AEON MALL Tj.Barat",
             "type": "Pop Culture Festival",
             "tagline": "Idol Fans Fest Edition!",
             "schedule": "9-12 Oktober 2025, pukul 10.00 - 22.00 WIB",
@@ -21363,8 +21568,12 @@
                 "5": "COSPLAY & COMMUNITY GATHERING"
             },
             "Note": "Stay tuned for performer reveal & updates!",
-            "Hashtags": "#AniLights #\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd #\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd #\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-            "category": []
+            "Hashtags": "#AniLights #\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd #\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd #\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+            "category": [
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -21481,7 +21690,7 @@
             },
             "notes": "Peserta yang belum mengikuti sesi sebelumnya masih bisa bergabung dan mendapatkan akses materi serta rekaman sesi sebelumnya.",
             "language": "Japanese",
-            "tagline": "Ganbarimashou \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+            "tagline": "Ganbarimashou \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
             "category": [
                 "Budaya Jepang - Bahasa / Akademik"
             ]
@@ -21527,11 +21736,13 @@
             },
             "tags": [
                 "#AniLights",
-                "#\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "#\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
-                "#\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd"
+                "#\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "#\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+                "#\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd"
             ],
-            "category": []
+            "category": [
+                "Gathering / Komunitas"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -22185,7 +22396,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Pillove Party Night: Special Birthday Celebration Itta",
-        "Location": "Zest Hotel Sukajadi \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Ballroom, 9th Floor",
+        "Location": "Zest Hotel Sukajadi \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Ballroom, 9th Floor",
         "Comment": "Insert to J-Event List : 20251014 16:06:37\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -22366,7 +22577,9 @@
             "Information": {
                 "Instagram": "@festivalazia"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -22516,7 +22729,10 @@
             "Contact": "Rere - 083819355941",
             "X": "@inumakitogebday",
             "Hashtags": "#OnigiriBoy24st #InumakiTogeBday #TogeBirthdayProject #jujutsukaisen #JujutsuKaisenEvent #JJKEventID",
-            "category": []
+            "category": [
+                "Gathering / Komunitas",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -22663,7 +22879,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "FEVER FEST X INDOCOMTECH",
-        "Location": "Hall 8, ICE BSD City \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Tangerang Selatan",
+        "Location": "Hall 8, ICE BSD City \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Tangerang Selatan",
         "Comment": "Insert to J-Event List : 20251022 16:44:00\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -23065,7 +23281,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Tanoshii Fest Vol. 2 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd Halloween Night!",
+        "Subject": "Tanoshii Fest Vol. 2 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd Halloween Night!",
         "Location": "Kopi Sindangrasa, Jl. Mayor Abdurahman No.138, Sumedang Utara",
         "Comment": "Insert to J-Event List : 20251023 15:54:34\n",
         "Online/Offline": "Offline",
@@ -23179,7 +23395,9 @@
             },
             "reward": "Total hadiah jutaan rupiah",
             "note": "Event eksklusif daring yang hanya diadakan sekali setahun",
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -23575,7 +23793,9 @@
             },
             "special_session": "Foto bareng oshi dengan latar citylight Bandung",
             "ticket_limited": true,
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -24656,9 +24876,9 @@
                 "event_name": "Bandung Lautan Idol 2025",
                 "event_nickname": {
                     "given_by_reviewer": "Bandung Genangan Idol",
-                    "reason": "Julukan satir digunakan karena kualitas acara dianggap jauh di bawah ekspektasi nama aslinya. 'Lautan' menyiratkan event besar dan megah, namun realita yang dialami reviewer terasa sempit, kacau, penuh masalah teknis, dan tidak profesional\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdsehingga lebih cocok dianalogikan sebagai 'genangan' ketimbang 'lautan'."
+                    "reason": "Julukan satir digunakan karena kualitas acara dianggap jauh di bawah ekspektasi nama aslinya. 'Lautan' menyiratkan event besar dan megah, namun realita yang dialami reviewer terasa sempit, kacau, penuh masalah teknis, dan tidak profesional\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdsehingga lebih cocok dianalogikan sebagai 'genangan' ketimbang 'lautan'."
                 },
-                "date": "29\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd30 November 2025",
+                "date": "29\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd30 November 2025",
                 "location": "Lantai SL, BEC Bandung",
                 "overall_rating": 3,
                 "summary": "Event sangat mengecewakan dengan manajemen buruk, venue tidak layak, delay parah, dan masalah backstage besar. Poin positif hanya dari usaha para idol, bukan panitia.",
@@ -24671,7 +24891,7 @@
                         "free_access": "Orang bisa nonton gratis dari area sekitar tanpa redeem tiket"
                     },
                     "ticketing": {
-                        "price": "Rp40.000\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd75.000",
+                        "price": "Rp40.000\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd75.000",
                         "value": "Kualitas tiket buruk (mudah rusak), tidak pernah diperiksa",
                         "comment": "Tiket terasa seperti donasi sia-sia"
                     },
@@ -24680,12 +24900,12 @@
                         "floor_difference": "Beda lantai dari SL ke Lt.2 setara 6 lantai",
                         "no_monitor": "Tidak ada monitor, idol tidak tahu kondisi panggung",
                         "delays": [
-                            "Harune 10:30 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd 11:22",
-                            "Lumina Scarlet 11:00 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd 12:05",
+                            "Harune 10:30 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd 11:22",
+                            "Lumina Scarlet 11:00 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd 12:05",
                             "Valerie listrik mati di tengah lagu"
                         ],
-                        "total_delay": "1\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd1.5 jam per hari",
-                        "cheki_issues": "Cheki semua grup dipaksa jam 18:30\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd19:00, idol menunggu berjam-jam; lokasi cheki sering pindah",
+                        "total_delay": "1\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd1.5 jam per hari",
+                        "cheki_issues": "Cheki semua grup dipaksa jam 18:30\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd19:00, idol menunggu berjam-jam; lokasi cheki sering pindah",
                         "safety_issues": "Atap bocor dekat Richeese pada Day 2, lantai licin",
                         "no_breaks": "Tidak ada break resmi, sulit mengetahui waktu shalat"
                     },
@@ -24740,7 +24960,9 @@
         "Content": {
             "Ticket": "15K",
             "Note": "Event final Night of Champion dengan suasana intimate",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -24968,7 +25190,9 @@
                 "organizer_2": "blacksmith_dalegdog",
                 "organizer_3": "worldoftorus"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -25159,7 +25383,7 @@
                         "Drama terbaru: Konten Taco Bell yang memicu pembuatan grup meme oleh followers, menambah citra negatif."
                     ],
                     "detail_kasus_tasah_coser": {
-                        "latar_belakang": "Zorah Gosal merental kostum Jett dari Tasah Coser dengan mengaku sebagai first timer. Ia diminta video unboxing, tapi videonya tidak jelas\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdhanya menampilkan satu item sebelum dimatikan. Update: Konten video TikTok tidak dapat diakses secara lengkap, tapi berdasarkan post Facebook, kasus ini tetap menjadi isu utama tanpa resolusi baru.",
+                        "latar_belakang": "Zorah Gosal merental kostum Jett dari Tasah Coser dengan mengaku sebagai first timer. Ia diminta video unboxing, tapi videonya tidak jelas\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdhanya menampilkan satu item sebelum dimatikan. Update: Konten video TikTok tidak dapat diakses secara lengkap, tapi berdasarkan post Facebook, kasus ini tetap menjadi isu utama tanpa resolusi baru.",
                         "masalah_utama": [
                             "Menghilangkan bagian kostum dan menolak ganti rugi, lebih memilih di-blacklist dan tantang diviralkan.",
                             "Pada pengisian syarat rental, mencuri 2 foto: foto KTP dari TikTok dan foto seseorang memegang KTP (bukan dirinya, melainkan Tsunnyan). Ini dianggap sebagai tindakan kriminal karena pencemaran nama baik dan pencurian identitas.",
@@ -25441,7 +25665,9 @@
             "vj_lineup": {
                 "1": "Lunatix"
             },
-            "category": []
+            "category": [
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -25624,7 +25850,9 @@
             "collaboration": "Melonix x Sisi Kanan",
             "description": "Special 2nd anniversary performance event",
             "hashtags": "melonix melonixidol chikaidol meloshow melonixXsisikanan",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -25783,9 +26011,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Idol Performance",
-                "New Year Eve",
-                "Gathering"
+                "Musik - Idol / VTuber",
+                "Party / Night Event",
+                "Gathering / Komunitas"
             ],
             "organizer": "Aliansi Idol Malang (Aidoru Malang)",
             "description": "Acara kolaborasi pertama Aidoru Malang untuk merayakan malam pergantian tahun dengan penampilan berbagai grup idola.",

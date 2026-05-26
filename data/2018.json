@@ -23,7 +23,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -53,7 +55,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -828,7 +832,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -858,7 +864,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1071,7 +1079,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1231,7 +1241,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1558,7 +1570,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1684,7 +1698,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2025,7 +2041,9 @@
             "https://www.facebook.com/gelarjepangui/videos/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2102,7 +2120,9 @@
                     "tema": "Fushizen na Sekai"
                 }
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2762,7 +2782,9 @@
                     }
                 ]
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2831,9 +2853,8 @@
                 "Musik - Band / Live Performance",
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
-                "Pendidikan / Workshop",
-                "Bazaar / Market",
-                "Performance Lainnya"
+                "Talkshow / Seminar / Workshop",
+                "Bazaar / Market"
             ],
             "organizer": "Himpunan Mahasiswa Sastra Jepang Unpad",
             "theme": "Fesbukan 7: Festival Budaya dan Pendidikan 7",
@@ -2942,6 +2963,73 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20181020",
+        "Start Time": "",
+        "End Date": "20181020",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Rochi no Hori 8: Sengoku Jidai ni Kaimamiru (A Glimpse Into The Warring States)",
+        "Location": "Gedung SMAN 67 Jakarta",
+        "Comment": "Tata tertib mewajibkan penggunaan helm half-face serta melarang rokok, alkohol, dan obat-obatan terlarang. Fasilitas tambahan meliputi Obake Yashiki, Maid & Butler Cafe, Mini Museum, Comic Room, dan Tanabata.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "rochi_no_hori_8_sman67_2018_jkt",
+        "location_address": "Jalan Squadron No.35-36 Jalan Halim Perdana Kusuma, RW No.RT.3, RT.3/RW.4, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13610",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.275535980919699, 106.88661550924003",
+        "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1EEddvvRCB/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Nihon Shakai'67 / SMAN 67 Jakarta",
+            "ticket_info": {
+                "htm": "Presale: Rp 15.000 / OTS: Rp 20.000"
+            },
+            "guest_stars": [
+                "JKT48",
+                "EGAO"
+            ],
+            "special_performances": [
+                "DDM x Monolite"
+            ],
+            "activities": [
+                "Dance Cover Competition",
+                "Karaoke Competition",
+                "Band Competition",
+                "Cosplay Competition",
+                "Janken and Onigiri Competition",
+                "Short Comic Competition",
+                "Fanart Competition",
+                "Fanfiction Competition",
+                "Costreet Competition",
+                "Bazaar"
+            ],
+            "contact": {
+                "general": [
+                    "0896-1256-5902 (Ardila)"
+                ],
+                "bazaar": [
+                    "0821-1322-0914 (Gita)"
+                ],
+                "other": [
+                    "0812-8601-0836 (Boyke)"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20181020",
@@ -3063,7 +3151,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3400,7 +3490,9 @@
                     "Index": 33
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3560,7 +3652,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

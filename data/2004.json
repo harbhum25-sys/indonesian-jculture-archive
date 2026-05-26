@@ -160,7 +160,9 @@
             "sponsor": "Animonster, Elex Media LPI",
             "liputan": "Klub Animasi K4",
             "source": "Animonster 61 - April 2004",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -231,7 +233,9 @@
                 "graduation_date": "27 Februari 2004"
             },
             "source": "Animonster 61 - April 2004",
-            "category": []
+            "category": [
+                "Talkshow / Seminar / Workshop"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1001,7 +1005,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Musik - Band / Live Performance",
-                "Pendidikan / Workshop",
+                "Talkshow / Seminar / Workshop",
                 "Gathering / Komunitas"
             ]
         },
@@ -2064,7 +2068,9 @@
                 "content_summary": "Berisi gambar MS lengkap dengan keterangan, karakter, dan model plastik (Gunpla) dari seri Gundam U.C.0079 hingga Turn A Gundam"
             },
             "source": "Animonster 68 - November 2004",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2206,7 +2212,10 @@
             "target_audience": "Khusus Remaja",
             "copyright": "Project .hack, All Rights Reserved, Illustrated by Satoshi Ohsawa",
             "source": "Animonster 67 - Oktober 2004",
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2328,7 +2337,11 @@
                 ],
                 "attendees_count": 400
             },
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Party / Night Event",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2509,7 +2522,10 @@
                 "68H",
                 "88.40 RadioARH"
             ],
-            "category": []
+            "category": [
+                "Anime - Screening / Nobar",
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

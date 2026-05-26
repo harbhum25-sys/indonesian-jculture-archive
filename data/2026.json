@@ -28,9 +28,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Budaya Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Cover Sing"
             ],
             "organizer": "Ow My Plate",
@@ -106,7 +105,7 @@
             "category": [
                 "Gathering / Komunitas",
                 "Musik - Idol / VTuber",
-                "Olahraga / Sport"
+                "Budaya Jepang - Seni Tradisional"
             ],
             "organizer": "ANFI",
             "theme": "Idol. Futsal. Memori.",
@@ -202,7 +201,11 @@
             "content_contest": "Coloring Contest, Mini Brick Challenge",
             "content_market": "Food and Merch Market",
             "content_culture": "Yosakoi",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -240,7 +243,10 @@
             "competition_fan_art": "Available",
             "total_prize": "10000000",
             "theme": "Pop culture anime game cosplay musik jepang vtuber kreatif lokal",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -281,7 +287,9 @@
             "info_source": {
                 "instagram": "https://www.instagram.com/livingworld_kotawisata"
             },
-            "category": []
+            "category": [
+                "Wisata / Trip Jepang"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -476,7 +484,9 @@
                 "dj": "DJ Performance"
             },
             "contact_person": "085891816962",
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -512,7 +522,7 @@
             "registration_period": "20260103-20260110",
             "slot": "Limited",
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ]
         },
@@ -553,7 +563,10 @@
             "mc": "tomatds and tangggbinnn",
             "guest_judges": "yupi_kazuki moondelarosaa linnn cos fyan_legion",
             "performers": "mitsukare deluna idol nomisu official metanaru id eikyuu a eury daily dreamsky ofc kopipa party",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -588,7 +601,7 @@
             "activities": "Meet and greet with Kamen Rider",
             "note": "Terms and conditions will be updated",
             "category": [
-                "Tokusatsu"
+                "Tokusatsu / Kamen Rider"
             ]
         },
         "location_country": "Indonesia",
@@ -622,7 +635,9 @@
             "franchise": "Genshin Impact",
             "theme": "Genshin Moon Invitation",
             "entry": "Free Entry",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -708,7 +723,11 @@
                 "Akemi",
                 "Delea Adelien"
             ],
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Musik - Band / Live Performance",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -869,7 +888,7 @@
             },
             "community": "LArc Jam Community",
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -1044,7 +1063,9 @@
             "franchise": "Genshin Impact",
             "theme": "Genshin Moon Invitation",
             "entry": "Free Entry",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1122,13 +1143,13 @@
             "content_knci": "Kompetisi Nasional Cosplay Indonesia",
             "content_coswalk": "Coswalk Competition",
             "category": [
-                "Cosplay Competition",
-                "Convention / Expo",
+                "Cosplay - Competition / Coswalk",
+                "Convention / Expo / Comic Market",
                 "Bazaar / Market",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
-                "Game / E-Sport",
-                "Talkshow / Seminar"
+                "Game / Esports Tournament",
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Cosura x IGI",
             "description": "Indonesia Game Island adalah acara perayaan inovasi dan talenta industri game lokal yang berfungsi sebagai jembatan bagi ekosistem game Indonesia. Acara ini menghadirkan eksibisi game indie, sesi berbagi kreatif, kompetisi cosplay nasional, hingga turnamen game.",
@@ -1369,7 +1390,10 @@
             },
             "information_source": "ikigai._.project",
             "note": "Cosmic themed idol showcase with multiple performers on one stage",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1414,7 +1438,9 @@
                 "contact_phone": "081296000499"
             },
             "description": "Special boxing championship for gaming and creative community",
-            "category": []
+            "category": [
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1475,8 +1501,8 @@
                 "phone": "085641072590"
             },
             "category": [
-                "Cosplay Competition",
-                "Game / E-Sport"
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament"
             ]
         },
         "location_country": "Indonesia",
@@ -1557,8 +1583,8 @@
                 }
             },
             "category": [
-                "Cosplay Competition",
-                "Cosplay Photoshoot"
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Photoshoot"
             ]
         },
         "location_country": "Indonesia",
@@ -1591,7 +1617,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "theme": "Wibufest Coswalk Competition",
             "description": "Panggung ekspresi totalitas cosplay mulai dari detail kostum, gestur, ekspresi, hingga attitude untuk menghidupkan karakter di atas runway.",
@@ -1641,8 +1667,8 @@
         "links": [],
         "Content": {
             "category": [
-                "Cosplay Gathering",
-                "Convention / Expo"
+                "Cosplay - Gathering / Parade / Casual",
+                "Convention / Expo / Comic Market"
             ],
             "presenter": "Cosplay Expo Indonesia",
             "co_organizer": "Koikawa Crew",
@@ -1778,7 +1804,9 @@
             "franchise": "Genshin Impact",
             "theme": "Genshin Moon Invitation",
             "entry": "Free Entry",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1825,7 +1853,9 @@
                 "supporter_6": "rslcorp.id"
             },
             "note": "Further information will be announced",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1952,7 +1982,9 @@
                 "cosplay": "Coswalk session and cosplay photo opportunities",
                 "idol_performance": "Idol live performances with interaction opportunity"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1985,7 +2017,7 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ],
             "description": "Pre-event dalam rangka menyambut 2nd Anniversary Lunite dengan berbagai penampilan musik dan idol performance.",
             "performers": {
@@ -2032,7 +2064,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "organizer": "jagoanhosting x ruangcosplay",
@@ -2112,7 +2144,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Bazaar / Market"
             ],
@@ -2216,7 +2248,7 @@
             },
             "contact_person": "081392641614",
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -2254,9 +2286,9 @@
             "category": [
                 "Festival / Matsuri",
                 "Bazaar / Market",
-                "Cosplay Competition",
-                "Talkshow / Seminar",
-                "Musik Band Live"
+                "Cosplay - Competition / Coswalk",
+                "Talkshow / Seminar / Workshop",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Creha Project",
             "theme": "Semua Bisa Jadi Kreator",
@@ -2321,7 +2353,9 @@
             "concept": "Open sing and open performer just for fun no competition",
             "note": "No Random Play Dance at this event",
             "registration": "Open sing and open performer form will be announced",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2357,7 +2391,9 @@
             "audience": "Open for all ages",
             "benefit": "E-certificate for on site participants",
             "description": "Information about studying and scholarships in Japan",
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2423,7 +2459,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Bazaar / Market",
                 "Fanmeet",
                 "Cover Sing"
@@ -2511,7 +2547,7 @@
             },
             "tags": "animeevent cosplayevent eventjakarta eventjabodetabek animefest cosplayfest",
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -2576,7 +2612,10 @@
                 "pianist_7": "Punipun7"
             },
             "concept": "Live piano recital featuring anime and game music",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2625,7 +2664,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "COSWALK COMPETITION - ANIPLAY FEST 2026",
-        "Location": "Foodnation Lt. 2 \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 Bekasi Cyber Park",
+        "Location": "Foodnation Lt. 2 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Bekasi Cyber Park",
         "Comment": "Insert to J-Event List : 20260206 16:32:36\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -2658,7 +2697,7 @@
                 "name": "Admin Digitalife"
             },
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -2736,7 +2775,7 @@
                 "tag_10": "acarajejepangan"
             },
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -2770,7 +2809,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "theme": "Imlek",
@@ -2958,12 +2997,12 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Cosplay Competition",
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Party / Night Event",
                 "Bazaar / Market",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "presenter": {
                 "main": "Sacca Production",
@@ -3042,7 +3081,10 @@
             },
             "reservation": "FDC and table reservation open",
             "info_source": "Instagram aniporary",
-            "category": []
+            "category": [
+                "Dance Cover Competition",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3081,7 +3123,7 @@
             "note": "Open for community members and public",
             "tags": "ADMLARCJAM",
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -3299,7 +3341,9 @@
                     "Jekelian"
                 ]
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3403,7 +3447,7 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Party / Night Event",
                 "Festival / Matsuri"
             ],
@@ -3495,8 +3539,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke"
             ],
             "organizer": "J-Fans Matsuri PWT",
             "edition": "2",
@@ -3698,7 +3742,9 @@
                 "additional_note": "Community gathering before Ramadan"
             },
             "description": "Music jamming session and social gathering invitation",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3848,7 +3894,9 @@
                 "wibu_baleendah",
                 "uniweeb"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3912,7 +3960,7 @@
                 "note": "WA only for registration and info"
             },
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -3991,7 +4039,11 @@
                 "tropicalhouse": "tropicalhouse.id"
             },
             "description": "Japanese pop culture event featuring cosplay showcase, j song, idol performance, community activities, and merchandise booths.",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4070,7 +4122,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Party / Night Event"
             ],
@@ -4217,7 +4269,7 @@
                 "supporter2": "tanomiya.id"
             },
             "category": [
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Festival / Matsuri"
             ]
         },
@@ -4252,7 +4304,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet",
                 "Festival / Matsuri"
             ],
@@ -4392,7 +4444,11 @@
                 "purpose": "Competition info, tenant booth, open performers"
             },
             "description": "Ngabuburit Ramadan cosplay and pop culture community event with competition, performances, karaoke, and merchandise bazaar",
-            "category": [],
+            "category": [
+                "Buka Bersama / Ramadan",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition"
+            ],
             "rundown": [
                 {
                     "time": "13.00 - 13.15",
@@ -4581,7 +4637,7 @@
                 ]
             },
             "category": [
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ]
         },
         "location_country": "Indonesia",
@@ -4654,7 +4710,7 @@
             "description": "Community ngabuburit and cosplay gathering featuring coswalk competition, mini games, special performances, and buka puasa together.",
             "category": [
                 "Festival / Matsuri",
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ]
         },
         "location_country": "Indonesia",
@@ -4817,8 +4873,8 @@
         ],
         "Content": {
             "category": [
-                "Anime Convention",
-                "Cosplay Competition",
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
                 "Bazaar / Market"
             ],
             "organizer": "RAF Creative",
@@ -4882,8 +4938,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Idol Performance",
-                "Gig"
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Idol Stage",
             "description": "Gig idol roadshow yang kembali diadakan di Yogyakarta setelah setahun.",
@@ -4976,7 +5032,7 @@
             },
             "special_performance": {
                 "Yamisaki": "yamisaki.info",
-                "STARS \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00e2\u20ac\u00b9\u00c3\u2026\u00e2\u20ac\u0153\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u201a\u00c2\u00a0": "wearestars.official",
+                "STARS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd": "wearestars.official",
                 "Arunika": "arunika24.id"
             },
             "coswalk_competition": {
@@ -5113,9 +5169,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Talkshow / Seminar",
-                "Game / E-Sport",
+                "Cosplay - Competition / Coswalk",
+                "Talkshow / Seminar / Workshop",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": "Byte Project",
@@ -5421,7 +5477,7 @@
                 "gift_requirement": "Kado dibungkus koran"
             },
             "category": [
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ]
         },
         "location_country": "Indonesia",
@@ -5459,7 +5515,7 @@
             "category": [
                 "Fanmeet",
                 "Festival / Matsuri",
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ],
             "presenter": "Aurora Dream",
             "edition": "3",
@@ -5568,7 +5624,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Bazaar / Market"
             ],
             "organizer": "Cosplay Jabodetabek",
@@ -5629,8 +5685,8 @@
         ],
         "Content": {
             "category": [
-                "Bukber",
-                "Cosplay Competition",
+                "Buka Bersama / Ramadan",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing",
                 "Bazaar / Market",
                 "Festival / Matsuri"
@@ -5708,7 +5764,7 @@
             },
             "description": "Ramadan iftar gathering event with MUSES held at Bahagia Coffee HQ Banda including meal packages, charity, and special group cheki session",
             "category": [
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ]
         },
         "location_country": "Indonesia",
@@ -5741,13 +5797,13 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
-                "Bukber",
-                "Tokusatsu",
+                "Buka Bersama / Ramadan",
+                "Tokusatsu / Kamen Rider",
                 "Fanmeet",
                 "Bazaar / Market",
-                "Talkshow / Seminar"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Komunitas Jejepangan Surabaya",
             "theme": "J-COMM CHARITY - Komunitas Jejepangan Surabaya Berbagi",
@@ -5854,7 +5910,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "description": "Japanese culture themed event featuring cosplay competition, idol show, anisong DJ, karaoke, and manga drawing corner."
         },
@@ -5888,7 +5944,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "theme": "WIBUFEST COSWALK COMPETITION v.02",
@@ -5952,8 +6008,8 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
-                "Cosplay Competition",
+                "Game / Esports Tournament",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "theme": "Road to Games Day Out 2026",
@@ -6011,12 +6067,12 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Cover Sing",
                 "Bazaar / Market",
-                "Bukber"
+                "Buka Bersama / Ramadan"
             ],
             "presenter": {
                 "main": [
@@ -6135,10 +6191,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live",
-                "Bukber"
+                "Musik - Band / Live Performance",
+                "Buka Bersama / Ramadan"
             ],
             "organizer": "Tenka ID",
             "co_organizer": "Marketplace Fest 15",
@@ -6220,9 +6276,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Bukber",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Buka Bersama / Ramadan",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Bazaar / Market"
             ],
@@ -6344,7 +6400,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Gathering Session Pukul Batam",
-        "Location": "EQ Coffee \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c City Walk (samping lapangan futsal), Batam",
+        "Location": "EQ Coffee \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd City Walk (samping lapangan futsal), Batam",
         "Comment": "Tanggal spesifik tidak disebutkan dalam teks sumber.",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -6361,7 +6417,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "Pukul Batam",
             "description": "Gathering komunitas Tekken menyambut Season 3 untuk sharing, sparring, dan main bareng."
@@ -6420,7 +6476,11 @@
                 "contact_number": "088290578280"
             },
             "description": "Japan festival event featuring competitions, performances, karaoke session, dance activities, and merchandise and food bazaar",
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -6455,7 +6515,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "GWS Team",
             "description": "Preliminary round Indonesia Cosplay Grand Prix 2026 regional Palembang untuk memilih perwakilan menuju final di Indonesia Anime Con Jakarta.",
@@ -6505,7 +6565,7 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "description": "Event featuring J-Pop idol performances, DJ show, cosplay competition, and fan art exhibition."
         },
@@ -6538,11 +6598,11 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
                 "Bazaar / Market",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke"
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke"
             ],
             "description": "Event Surabaya Urban Fest di Balai Pemuda Surabaya bertepatan dengan libur lebaran.",
             "competition": {
@@ -6634,8 +6694,8 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Cover Sing",
                 "Bazaar / Market",
                 "Festival / Matsuri"
@@ -6737,7 +6797,7 @@
             "theme": "14 years journey in Japanese pop culture events",
             "notes": "Celebration event with live performance and community gathering",
             "category": [
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Fanmeet"
             ],
             "rundown": {
@@ -6802,12 +6862,12 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
+                "Convention / Expo / Comic Market",
                 "Bazaar / Market",
-                "Game / E-Sport",
-                "Toy / Figure",
+                "Game / Esports Tournament",
+                "Toy / Figure / Hobby",
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "presenter": "Selaras Event",
             "theme": "One Stop Gaming, Toys & Tech Experience",
@@ -6893,7 +6953,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "description": [
                 "Event related to Japanese heroes and toys, part of Jakarta Toys Fair activities.",
@@ -6975,8 +7035,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Bazaar / Market"
             ],
@@ -7071,7 +7131,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing",
                 "Bazaar / Market"
@@ -7166,7 +7226,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "KYUU FEST",
             "supported_by": {
@@ -7523,7 +7583,7 @@
             },
             "description": "Cosplay Expo returns to East Java with a two day pop culture event featuring cosplay guests, performances, and various Japanese pop culture attractions.",
             "category": [
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -7570,9 +7630,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing"
             ],
             "presenter": "Supermachi x HVST",
@@ -7646,7 +7706,7 @@
                     },
                     {
                         "jam": "13.30-14.00",
-                        "deskripsi": "\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdAME"
+                        "deskripsi": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdAME"
                     },
                     {
                         "jam": "14.00-14.30",
@@ -7774,7 +7834,7 @@
                 "instagram": "@supermachifestival"
             },
             "previous_title": [
-                "SYMPHONY OF HARVEST \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c MINI CONCERT VOL.1",
+                "SYMPHONY OF HARVEST \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd MINI CONCERT VOL.1",
                 "Night of Champion 2026"
             ],
             "hashtags": [
@@ -7816,9 +7876,9 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Party / Night Event",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "organizer": "Weebfestival",
             "host": "Carsland Gading Serpong",
@@ -7882,7 +7942,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Festival / Matsuri"
             ],
@@ -8011,7 +8071,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering"
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "kisetsu",
             "sponsors": {
@@ -8065,7 +8125,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet",
                 "Festival / Matsuri",
                 "Bazaar / Market"
@@ -8142,7 +8202,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Nakama Creator Festival \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c Cosplay & Anisong Edition",
+        "Subject": "Nakama Creator Festival \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Cosplay & Anisong Edition",
         "Location": "Bstation",
         "Comment": "Kompetisi online bertema One Piece. Pengumpulan engagement di platform Bstation.",
         "Online/Offline": "Online",
@@ -8155,8 +8215,8 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke"
             ],
             "prizes": {
                 "total": "Jutaan rupiah"
@@ -8192,9 +8252,9 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Toy / Figure",
-                "Game / E-Sport"
+                "Convention / Expo / Comic Market",
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament"
             ],
             "description": "Event pameran toys dan hobi dengan berbagai aktivitas seperti turnamen game dan talkshow.",
             "activities": {
@@ -8273,11 +8333,11 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Cover Sing",
-                "Budaya & Bahasa",
-                "Anime Convention"
+                "Budaya Jepang - Bahasa / Akademik",
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "Gachapon (SMA Negeri 1 Garut)",
             "theme": "Musim Semi Jepang (Sakura)",
@@ -8362,7 +8422,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": [
@@ -8443,9 +8503,9 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
-                "Anime Convention"
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "WAV Entertainment",
             "performers": {
@@ -8525,7 +8585,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Launching / Grand Opening",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Party / Night Event"
             ],
             "organizer": "Yomok'iki Ramen & Teppanyaki",
@@ -8602,7 +8662,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -8682,8 +8742,8 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Cosplay Photoshoot",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Photoshoot",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -8761,7 +8821,9 @@
                 "partner2": "animerzbandung & animerz_indo",
                 "partner3": "wrapanes"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -8794,7 +8856,7 @@
         ],
         "Content": {
             "category": [
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Party / Night Event"
             ],
@@ -8890,10 +8952,10 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Cover Sing"
             ],
             "organizer": "RAF Creative",
@@ -9036,10 +9098,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live",
-                "Game / E-Sport"
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament"
             ],
             "edition": "3",
             "ticket_info": {
@@ -9151,7 +9213,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Party / Night Event"
             ],
             "organizer": "Dungeon Events",
@@ -9204,7 +9266,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "competition": {
@@ -9244,7 +9306,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik / Anisong / Karaoke"
+                "Musik - Anisong / Karaoke"
             ],
             "ticket_info": {
                 "type": "Free Entry",
@@ -9285,7 +9347,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "organizer": "Nigosha",
@@ -9322,7 +9384,7 @@
         ],
         "Content": {
             "category": [
-                "Nobar",
+                "Anime - Screening / Nobar",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -9365,7 +9427,7 @@
         ],
         "Content": {
             "category": [
-                "Nobar",
+                "Anime - Screening / Nobar",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -9407,7 +9469,7 @@
         ],
         "Content": {
             "category": [
-                "Nobar",
+                "Anime - Screening / Nobar",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -9452,8 +9514,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke"
             ],
             "description": "Event jejepangan dengan berbagai kompetisi seperti cosplay, J-Song, coswalk, dan aktivitas komunitas.",
             "competition": {
@@ -9528,7 +9590,7 @@
                 "14:50 - 15:10": "VividZ",
                 "15:20 - 15:50": "Yorucord",
                 "16:00 - 16:50": "Ultra Flow X Hyper Twinnie",
-                "17:00 - 18:00": "Random Play Dance (Tunes by \u00c3\u0192\u00c2\u00a8\u00c3\u2026\u00c2\u00a0\u00c3\u201a\u00c2\u00b8GANK)"
+                "17:00 - 18:00": "Random Play Dance (Tunes by \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdGANK)"
             }
         },
         "location_country": "Indonesia",
@@ -9572,8 +9634,8 @@
                 "instruction": "Regional qualifier for East Java"
             },
             "category": [
-                "Cosplay Gathering",
-                "Anime Convention"
+                "Cosplay - Gathering / Parade / Casual",
+                "Convention / Expo / Comic Market"
             ],
             "description": "New Generation Cosplayer Showcase merupakan sesi yang menampilkan cosplayer lokal berbakat untuk tampil dan menunjukkan kreativitas mereka di acara Utsuru.",
             "guest_stars": {
@@ -9636,7 +9698,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Bazaar / Market"
             ],
             "organizer": "Dungeon Creative",
@@ -9687,9 +9749,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing",
-                "Musik / Anisong / Karaoke"
+                "Musik - Anisong / Karaoke"
             ],
             "organizer": "Sidoarjo Japanese World",
             "theme": "Semangat kebersamaan pada musim semi setelah lebaran",
@@ -9833,8 +9895,8 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Convention / Expo"
+                "Cosplay - Competition / Coswalk",
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "SKS Cosplay Cirebon x Negashii Costeam x Momokyun Studio",
             "ticket_info": {
@@ -9880,11 +9942,11 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Toy / Figure",
+                "Convention / Expo / Comic Market",
+                "Toy / Figure / Hobby",
                 "Bazaar / Market",
-                "Cosplay Competition",
-                "Game / E-Sport"
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament"
             ],
             "organizer": "Sacca Production x Provaliant x Lippo Mall Puri",
             "parts": {
@@ -9960,9 +10022,9 @@
         ],
         "Content": {
             "category": [
-                "Toy / Figure",
+                "Toy / Figure / Hobby",
                 "Bazaar / Market",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": "Sacca Production x Provaliant x K Mall",
@@ -10010,7 +10072,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "competition": {
                 "platform": "PS5",
@@ -10053,7 +10115,7 @@
         ],
         "Content": {
             "category": [
-                "Talkshow / Seminar",
+                "Talkshow / Seminar / Workshop",
                 "Festival / Matsuri"
             ],
             "speakers": [
@@ -10092,8 +10154,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Cosplay Gathering"
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "description": "Event cosplay seru di Mal Cijantung dengan kegiatan parade cosplay, kompetisi, dan foto bareng karakter."
         },
@@ -10129,7 +10191,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "ticket_info": {
                 "type": "FREE HTM"
@@ -10172,7 +10234,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "organizer": "Pukul Batam",
@@ -10255,7 +10317,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "MyRepublic",
             "ticket_info": {
@@ -10306,7 +10368,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "activities": [
@@ -10348,7 +10410,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ],
             "organizer": {
                 "main": "Ankoku Fest",
@@ -10387,7 +10449,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ],
             "description": "30th anniversary special concert by Asian Kung-Fu Generation featuring exclusive experience packages including soundcheck access and anniversary collectibles.",
             "guest_stars": {
@@ -10445,9 +10507,9 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Cosplay Competition",
-                "Cosplay Gathering"
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "Hobbystation Indonesia",
             "collaboration": "Wang's Collection",
@@ -10524,7 +10586,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "Maju Hardware",
             "prizes": {
@@ -10550,7 +10612,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Momoshiroi no hajimari \u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd",
+        "Subject": "Momoshiroi no hajimari \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
         "Location": "Starsquare Mall Manado",
         "Comment": "Insert to J-Event List : 20260407 10:47:46\n",
         "Online/Offline": "Offline",
@@ -10653,7 +10715,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "organizer": [
@@ -10709,8 +10771,7 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Anime Convention",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri"
             ],
             "description": "Comipara 6 is a comic convention in Indonesia that brings together creators, collectors, and communities in one place to celebrate comic culture.",
@@ -10829,7 +10890,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing",
                 "Bazaar / Market"
             ],
@@ -10875,7 +10936,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "Komunitas Tekken Padang",
             "competition": {
@@ -10918,7 +10979,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "description": "Pertandingan persahabatan Tekken 8 antara Tekken Luwuk Community vs C.O.",
             "time_zone": "WITA"
@@ -10954,7 +11015,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "ticket_info": {
@@ -10999,7 +11060,7 @@
         ],
         "Content": {
             "category": [
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Festival / Matsuri"
             ],
@@ -11071,9 +11132,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet"
             ],
             "edition": "3",
@@ -11158,8 +11219,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Party / Night Event",
                 "Bazaar / Market"
@@ -11267,9 +11328,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Game / E-Sport",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament",
+                "Musik - Band / Live Performance",
                 "Fanmeet"
             ],
             "organizer": {
@@ -11420,7 +11481,7 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "sub_event": {
@@ -11556,7 +11617,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing"
             ],
             "activities": [
@@ -11614,7 +11675,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "organizer": "Iron Fist Tangerang (IFT)",
@@ -11656,8 +11717,8 @@
         ],
         "Content": {
             "category": [
-                "Toy / Figure",
-                "Game / E-Sport"
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament"
             ],
             "description": "Kompetisi model kit berskala nasional dan internasional dengan berbagai kategori dari beginner hingga advanced, menampilkan gallery karya builder serta workshop khusus.",
             "guest_stars": {
@@ -11732,7 +11793,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "Nihon no Mise",
             "social_media": {
@@ -11773,7 +11834,7 @@
         ],
         "Content": {
             "category": [
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Festival / Matsuri"
             ],
             "performer": "OtaOke",
@@ -11811,7 +11872,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "prizes": {
@@ -11852,10 +11913,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Honda Jateng (Astra Motor Jateng) x Tenka x Japanetz",
             "description": "Rangkaian acara Honda Premium Matic Day yang dimeriahkan dengan tema 'Japanese Euphoria' di Solo Baru.",
@@ -11934,7 +11995,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "Trio Motor Perintis",
             "guest_stars": {
@@ -11996,10 +12057,10 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Cosplay Gathering",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "organizer": {
                 "main": "Cosplay Gresik",
@@ -12067,7 +12128,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "game": "Fatal Fury: City of The Wolves",
@@ -12110,7 +12171,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "edition": "2",
@@ -12166,7 +12227,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "ticket_info": {
                 "type": "Free Entry"
@@ -12209,7 +12270,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri"
             ],
             "organizer": {
@@ -12223,7 +12284,7 @@
                 "format": "Standard Format",
                 "card_language": "English cards only",
                 "eligibility": "Pelajar SMP, SMA, dan mahasiswa D3/S1 aktif (wajib menunjukkan ID Card)",
-                "re_registration": "10.00 \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c 10.45 WIB"
+                "re_registration": "10.00 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd 10.45 WIB"
             }
         },
         "date_precision": "day",
@@ -12305,7 +12366,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing",
                 "Fanmeet"
             ],
@@ -12435,8 +12496,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
-                "Budaya Live"
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "fams.eventorganizer",
             "description": "Festival budaya Jepang dengan lomba mewarnai, cosplay parade, serta kesempatan tenant dan sponsorship.",
@@ -12518,9 +12579,9 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Festival / Matsuri",
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "Timeless Gaming",
             "description": "Ultimate Gaming Experience di Jambi dengan rangkaian turnamen mini dan tantangan komunitas.",
@@ -12581,9 +12642,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RAF Creative",
@@ -12672,9 +12733,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Cover Sing",
                 "Bazaar / Market"
             ],
@@ -12889,9 +12950,9 @@
         "Content": {
             "category": [
                 "Party / Night Event",
-                "Musik / Anisong / Karaoke",
-                "Musik Band Live",
-                "Cosplay Gathering"
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "presenter": "M3 Presents",
             "edition": "Vol. 5",
@@ -12955,10 +13016,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "Nihon Club SMAN 1 Bekasi",
@@ -13030,7 +13091,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "prize_pool": "Rp 1.200.000",
             "ticket_info": {
@@ -13078,7 +13139,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Festival / Matsuri"
             ],
             "theme": "SASHIMI Live Band Audition: Road to Stage",
@@ -13205,7 +13266,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "JACK\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2S ROOKIE RISING COMPETITION (JRRC) VOL. 3",
+        "Subject": "JACK\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdS ROOKIE RISING COMPETITION (JRRC) VOL. 3",
         "Location": "Online",
         "Comment": "Live Stream: TikTok @_zpasha. Khusus Rookie.",
         "Online/Offline": "Online",
@@ -13218,7 +13279,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "Jack Organizer",
             "competition": {
@@ -13262,7 +13323,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "prizes": {
                 "prizepool": "IDR 430K in game vouchers"
@@ -13307,7 +13368,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -13405,9 +13466,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
-                "Talkshow / Seminar"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Talkshow / Seminar / Workshop"
             ],
             "theme": "Japan Pop Culture Event at Bali",
             "ticket_info": {
@@ -13479,8 +13540,8 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke"
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke"
             ],
             "performer": "CAID"
         },
@@ -13541,7 +13602,7 @@
             "description": "Japanese culture festival featuring singing performances, cosplay showcase, and cosplay competition held at Universitas Ciputra Surabaya.",
             "category": [
                 "Festival / Matsuri",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -13575,8 +13636,8 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Cosplay Competition"
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk"
             ],
             "performers": {
                 "music": [
@@ -13636,7 +13697,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Grand Launching Neon Genesis Evangelion Collector\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2s Edition",
+        "Subject": "Grand Launching Neon Genesis Evangelion Collector\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds Edition",
         "Location": "Gramedia Matraman",
         "Comment": "Insert to J-Event List : 20260422 04:02:20\n",
         "Online/Offline": "Offline",
@@ -13654,7 +13715,7 @@
         ],
         "Content": {
             "category": [
-                "Toy / Figure",
+                "Toy / Figure / Hobby",
                 "Festival / Matsuri"
             ],
             "activities": [
@@ -13678,7 +13739,7 @@
         "Importance": "",
         "Subject": "The Ambassadorial Lecture on Japanese Studies XIV/2026",
         "Location": "Auditorium, Center for Japanese Studies, Universitas Indonesia, Depok",
-        "Comment": "Topic: Japan\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201cIndonesia Partnership",
+        "Comment": "Topic: Japan\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdIndonesia Partnership",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
@@ -13694,10 +13755,10 @@
         ],
         "Content": {
             "category": [
-                "Talkshow / Seminar"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Center for Japanese Studies UI x Dept. of International Relations FISIP UI",
-            "speaker": "H.E. Mr. Myochin Mitsuru (Charg\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a9 d\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2Affaires ad interim of Japan)"
+            "speaker": "H.E. Mr. Myochin Mitsuru (Charg\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd d\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdAffaires ad interim of Japan)"
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -13730,7 +13791,7 @@
             "category": [
                 "Bazaar / Market",
                 "Festival / Matsuri",
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ],
             "community_partners": {
                 "anime": "Komunitas Otaku Boyolali"
@@ -13769,7 +13830,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "competition": [
                 "cosplay",
@@ -13867,7 +13928,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "KZR Inc",
             "competition": {
@@ -13925,9 +13986,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
-                "Musik Band Live",
-                "Budaya Live"
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance"
             ],
             "description": "Festival budaya Jepang dengan pertunjukan kembang api, kuliner Jepang, penampilan budaya, musik, cosplay, dan booth komunitas.",
             "registration": {
@@ -13991,9 +14051,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Cover Sing",
-                "Budaya & Bahasa"
+                "Budaya Jepang - Bahasa / Akademik"
             ],
             "organizer": "Universitas Widyatama",
             "competition": {
@@ -14109,7 +14169,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Bazaar / Tenant"
+                "Bazaar / Market"
             ],
             "organizer": "Amphoreus Team",
             "description": "Acara kompetisi cosplay dan hiburan jejepangan di Kediri yang merupakan bagian dari Road to Cleo Fest.",
@@ -14181,7 +14241,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Bazaar / Market",
                 "Fanmeet"
             ],
@@ -14267,7 +14327,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": "Pakuwon City Mall x Japan Matsuri Surabaya",
@@ -14322,7 +14382,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "Delipark Medan x GlowKZR",
             "prizes": {
@@ -14379,7 +14439,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Indonesia Card Party (ICP) 2026",
-        "Location": "City Hall \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c Pondok Indah Mall 3",
+        "Location": "City Hall \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Pondok Indah Mall 3",
         "Comment": "Insert to J-Event List : 20260414 11:11:59\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -14397,7 +14457,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Bazaar / Market",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "description": "Event TCG, CCG, dan koleksi terbesar di Jakarta dengan 120+ booth vendor dan 80+ kreator."
         },
@@ -14481,7 +14541,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "description": "Event Mangkunegaran Makan-makan yang menggabungkan keseruan mencicipi makanan enak dengan penampilan hiburan.",
             "performers": {
@@ -14524,9 +14584,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": "Chujitsu",
@@ -14588,7 +14648,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "SoC x Salam Bantai Playstation",
             "ticket_info": {
@@ -14635,7 +14695,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet"
             ],
             "organizer": "@terasucommunity",
@@ -14690,7 +14750,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "Festival Axia",
             "co_organizer": "Supermachi Festival",
@@ -14744,10 +14804,10 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Cosplay Gathering",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Cover Sing",
                 "Bazaar / Market",
                 "Festival / Matsuri"
@@ -14818,9 +14878,9 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Party / Night Event"
             ],
             "organizer": "Sachi Event Organizer",
@@ -14904,7 +14964,7 @@
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
                 "Game / Esports Tournament",
-                "Olahraga / Sport",
+                "Budaya Jepang - Seni Tradisional",
                 "Dance Cover Competition"
             ],
             "organizer": "STMIK Widya Cipta Dharma (WICIDA)",
@@ -14916,9 +14976,9 @@
                 "Cosplay"
             ],
             "important_dates": {
-                "registration_wave_1": "1\u00e2\u20ac\u201c3 Februari 2026",
-                "registration_wave_2": "1\u00e2\u20ac\u201c18 April 2026",
-                "technical_meeting": "20\u00e2\u20ac\u201c22 April 2026",
+                "registration_wave_1": "1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd3 Februari 2026",
+                "registration_wave_2": "1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd18 April 2026",
+                "technical_meeting": "20\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd22 April 2026",
                 "announcement": "9 Mei 2026"
             }
         }
@@ -14949,7 +15009,7 @@
         ],
         "Content": {
             "category": [
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Party / Night Event"
             ],
             "theme": "Anisong and Emo anthems",
@@ -14999,7 +15059,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": "AXIS (Organized by Midnight Person)",
@@ -15058,7 +15118,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Party / Night Event",
                 "Festival / Matsuri"
             ],
@@ -15112,10 +15172,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
-                "Budaya Live",
-                "Talkshow / Seminar"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Sastra Budaya SMAN 9 Bekasi",
             "theme": "Japan Edition: Hana ga saku, aratana kibou ga umareru",
@@ -15180,10 +15240,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing",
-                "Musik / Anisong / Karaoke"
+                "Musik - Anisong / Karaoke"
             ],
             "activities": [
                 "KPOP Dance & Sing Cover Competition",
@@ -15228,7 +15288,7 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Party / Night Event",
                 "Bazaar / Market"
             ],
@@ -15272,11 +15332,11 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Bazaar / Market",
                 "Cover Sing",
-                "Musik / Anisong / Karaoke"
+                "Musik - Anisong / Karaoke"
             ],
             "organizer": "Kazoku Japan Festival",
             "ticket_info": {
@@ -15350,10 +15410,10 @@
             "event_category": "Japan community and cosplay event",
             "organizer": "sashimi_jc",
             "category": [
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Festival / Matsuri",
                 "Bazaar / Market"
             ],
@@ -15469,10 +15529,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet",
                 "Bazaar / Market",
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ],
             "edition": "1",
             "ticket_info": {
@@ -15572,7 +15632,7 @@
         "source_status": "active",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Bazaar / Market"
             ],
@@ -15690,9 +15750,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Fans Screening",
-                "Movie",
-                "Anime"
+                "Anime - Screening / Nobar",
+                "Anime - Convention / Fan Event"
             ],
             "organizer": "CBI Pictures & Muse Indonesia",
             "description": "Acara penayangan khusus (Fans Screening) untuk film layar lebar terbaru dari seri anime 'That Time I Got Reincarnated as a Slime' secara serentak di Jakarta dan Bandung.",
@@ -15734,7 +15793,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Tournament / Kompetisi - Game",
+                "Game / Esports Tournament",
                 "Gathering / Komunitas"
             ],
             "organizer": [
@@ -16098,12 +16157,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing"
             ],
             "organizer": "Market Place (MP)",
-            "description": "Edisi ke-12 dari acara Back To Party dengan tema \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd (Perjalanan yang Menyenangkan).",
+            "description": "Edisi ke-12 dari acara Back To Party dengan tema \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd (Perjalanan yang Menyenangkan).",
             "guest_stars": {
                 "judges": [
                     "Rizky Shirosaki (@rizkyshirosaki)"
@@ -16167,8 +16226,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
                 "Bazaar / Market"
             ],
@@ -16389,12 +16448,11 @@
             "description": "Event J-culture dengan maid cafe, kompetisi cosplay, wibu battle arena, dan berbagai penampilan idol, band, serta performer budaya Jepang.",
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live",
-                "Game / E-Sport",
-                "Bazaar / Market",
-                "Budaya Live"
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament",
+                "Bazaar / Market"
             ],
             "performers": {
                 "idol": [
@@ -16587,8 +16645,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Cosplay - Parade",
-                "Musik / Performance"
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance"
             ],
             "organizer": [
                 "Cosplay Jabodetabek Event Organizer",
@@ -16726,8 +16784,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Talkshow / Seminar"
+                "Cosplay - Competition / Coswalk",
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "BINUS University Semarang",
             "description": "BISCOF adalah ajang berkumpul bagi pecinta budaya Jepang untuk menunjukkan bakat cosplay dan kreativitas mereka.",
@@ -16769,7 +16827,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Wadaiko Performance & Sharing Session \ufffd\ufffd\ufffdDiscover Japanese School Life bersama Meitoku Gijuku\ufffd\ufffd\ufffd",
+        "Subject": "Wadaiko Performance & Sharing Session \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdDiscover Japanese School Life bersama Meitoku Gijuku\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
         "Location": "Koryu Space",
         "Comment": "Insert to J-Event List : 20260521 17:12:45\n",
         "Online/Offline": "Offline",
@@ -16826,8 +16884,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Johnson Indonesia",
             "description": "Acara perayaan 7 tahun Sepatu Johnson yang menggabungkan hobi anime dengan olahraga padel, mengajak komunitas untuk berinteraksi langsung.",
@@ -16959,9 +17017,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "Cosplay Showcase",
-                "Idol Performance"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
             ],
             "organizer": "Sashimi Salatiga (@sashimisalatiga)",
             "description": "Kehadiran komunitas Sashimi Salatiga untuk meramaikan rangkaian acara Salatiga Culinary Festival dengan berbagai kegiatan pop kultur Jepang.",
@@ -17017,7 +17075,7 @@
         "Content": {
             "category": [
                 "Gathering / Komunitas",
-                "Movie / Cinema"
+                "Anime - Screening / Nobar"
             ],
             "organizer": "Amphoreus Team",
             "description": "Acara kumpul komunitas untuk menonton bersama sekuel film live-action Mortal Kombat 2.",
@@ -17055,7 +17113,7 @@
         "source_status": "active",
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "organizer": "SBIF | Kickoff Coffee",
             "description": "Turnamen Tekken 8 yang ditujukan bagi pemain tingkat pemula dengan hadiah ratusan ribu rupiah.",
@@ -17107,8 +17165,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "Cosplay Event"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "J-Zone",
             "description": "Panggung pertunjukan musik dan kompetisi cosplay luar ruangan yang memadukan berbagai komunitas kreatif pop kultur Jepang di wilayah Jawa Timur.",
@@ -17169,9 +17227,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Concert",
-                "Music Tour",
-                "J-Rock"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Amuse Inc. & Partners",
             "description": "Konser pamungkas sekaligus penutup dari rangkaian tur panjang ONE OK ROCK bertajuk DETOX Asia Tour 2026 di Jakarta, membawakan kombinasi lagu dari album terbaru DETOX (2025) hingga album-album lawas.",
@@ -17196,7 +17252,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Jack\u00e2\u20ac\u2122s Tekken 8 Online Competition (JTOC) Vol. 3",
+        "Subject": "Jack\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds Tekken 8 Online Competition (JTOC) Vol. 3",
         "Location": "Online (Crossplay-On)",
         "Comment": "Insert to J-Event List : 20260517 20:55:14\n",
         "Online/Offline": "Online",
@@ -17211,9 +17267,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Esports",
-                "Game Tournament",
-                "Tekken 8"
+                "Game / Esports Tournament"
             ],
             "organizer": "Jack Organizer (@jack.tournament)",
             "description": "Kompetisi online Tekken 8 skala nasional yang terbuka untuk umum dengan tajuk 'The Legacy Continues. The Throne Awaits!'.",
@@ -17257,9 +17311,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Game Tournament",
-                "Esports",
-                "Jejepangan"
+                "Game / Esports Tournament",
+                "Festival / Matsuri"
             ],
             "organizer": "Sougen & TZM Makassar",
             "description": "Turnamen Tekken 8 yang menjadi bagian dari rangkaian acara Aitakatta Fest Vol. 1 2026 di Makassar.",
@@ -17307,7 +17360,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Tournament / Kompetisi - Game",
+                "Game / Esports Tournament",
                 "Gathering / Komunitas"
             ],
             "organizer": [
@@ -17364,10 +17417,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Budaya Live",
-                "Talkshow / Seminar"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Widyatama Japanese Bukatsu [DAIJOUBU]",
             "theme": "Lost in Magic, Found in Wonder",
@@ -17450,8 +17502,8 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live",
-                "Anime Convention"
+                "Musik - Band / Live Performance",
+                "Convention / Expo / Comic Market"
             ],
             "presenter": "L'Arc Jam Bandung",
             "theme": "35th L'Anniversary Year",
@@ -17613,7 +17665,7 @@
                 "payment": "ongoing"
             },
             "category": [
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ],
             "sub_event": {
                 "organizer": "Bushiroad",
@@ -17720,9 +17772,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Gaming - Tournament",
-                "Esports",
-                "Community Gathering"
+                "Game / Esports Tournament",
+                "Gathering / Komunitas"
             ],
             "organizer": "KIF (Kendari Iron Fist)",
             "description": "Turnamen komunitas Tekken 8 di Kendari untuk mencari pemain terbaik (King of Iron Fist) di wilayah tersebut.",
@@ -17770,9 +17821,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Gathering",
-                "Game Tournament",
-                "Community"
+                "Gathering / Komunitas",
+                "Game / Esports Tournament"
             ],
             "organizer": "TCB (Tekken Community Bojonegoro)",
             "description": "Acara gathering rutin komunitas TCB yang dibarengi dengan kompetisi Tekken 8 League Season 4.",
@@ -17863,7 +17913,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "edition": "5",
@@ -17908,9 +17958,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
-                "Talkshow / Seminar",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Talkshow / Seminar / Workshop",
                 "Bazaar / Market"
             ],
             "organizer": "Okaeri SV (Sekolah Vokasi) UGM",
@@ -18004,9 +18054,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "Coswalk Competition",
-                "Community Gathering"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas"
             ],
             "organizer": "Wibufest Surabaya (@wibufest.surabaya) & Tommunity Jatim",
             "description": "Event jejepangan hasil kolaborasi dengan Tomoro Coffee dalam rangka perilisan spesial tema Frieren: Beyond Journey's End, menghadirkan kompetisi coswalk, penampilan idol lokal, dan merchandise gratis untuk 200 pengunjung pertama.",
@@ -18071,7 +18121,7 @@
             "category": [
                 "Bazaar / Market",
                 "Cosplay - Competition / Coswalk",
-                "Fashion / Model / Catwalk",
+                "Budaya Jepang - Seni Tradisional",
                 "Gathering / Komunitas"
             ],
             "organizer": {
@@ -18138,8 +18188,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "J-Pop Culture Takeover",
-                "Festival"
+                "Festival / Matsuri"
             ],
             "organizer": "SR Group / Queen City Mall",
             "description": "Festival kebudayaan pop Jepang bertemakan musim semi (Cherry Blossom) terbesar di Semarang yang menggabungkan kompetisi bakat musik/tarian, kompetisi mainan, parade cosplay, dan panggung pertunjukan idol.",
@@ -18333,8 +18382,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Gaming - Showcase / Demo",
-                "Event - Mall"
+                "Game / Esports Tournament",
+                "Festival / Matsuri"
             ],
             "game_announcement": {
                 "title": "Captain Tsubasa 2: World Fighters",
@@ -18392,8 +18441,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Art Competition",
-                "Music / Performance"
+                "Talkshow / Seminar / Workshop",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Nihon Utopia (UPH)",
             "description": "Festival jejepangan tahunan yang menghadirkan nuansa Hanami dengan berbagai kegiatan seni dan penampilan musik di lingkungan kampus UPH.",
@@ -18458,8 +18507,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Campus Festival",
-                "Cosplay Gathering"
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "Komunitas Cosplay Pontianak & Universitas Tanjungpura",
             "description": "Wadah apresiasi kreativitas anak muda Kalbar dalam dunia hobi anime, seni gambar ilustrasi, musik idola, serta bimbingan talkshow bisnis kreatif.",
@@ -18505,7 +18554,7 @@
         ],
         "Content": {
             "category": [
-                "Game / Esports Exhibition",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": [
@@ -18623,7 +18672,7 @@
         "Content": {
             "category": [
                 "Cosplay - Competition / Coswalk",
-                "Wotagei Performance"
+                "Musik - Idol / VTuber"
             ],
             "collab_partner": "Indonesia Wotagei Battle (IWOBA)",
             "finalists": [
@@ -18842,8 +18891,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Musik - J-Sing / Karaoke",
-                "Performance / Seni"
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Akiba Matsuri Pontianak",
             "description": "Penyelenggaraan ke-5 festival budaya Jepang di Kalimantan Barat dengan tema 'The Symphony of Sakura'.",
@@ -19088,10 +19137,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "description": "Festival Jepang yang menghadirkan berbagai kompetisi dan penampilan talent di Living Plaza Balikpapan.",
             "competition": {
@@ -19143,8 +19192,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Bazaar / Market"
             ],
             "organizer": "Himasifor IPI (Himpunan Mahasiswa Sistem Informasi Institut Pendidikan Indonesia)",
@@ -19205,9 +19254,9 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RAF Creative",
@@ -19250,7 +19299,7 @@
         "Importance": "",
         "Subject": "Connext Japan Djakarta Ennichi",
         "Location": "Taman Lapangan Banteng, Jakarta",
-        "Comment": "Insert to J-Event List : 20250712 16:44:07\nEvent dibatalkan pada hari pelaksanaan (23 Mei 2026) sekitar pukul 03.00 WIB melalui pengumuman resmi panitia dengan alasan kendala teknis dan operasional. Berdasarkan informasi yang beredar luas di media sosial, pembatalan diduga berkaitan dengan konflik internal antara pihak EO (Connext Japan) dan pihak yang sebelumnya menjabat sebagai Ketua Umum (Hardiyanto Kenneth, Anggota DPRD DKI Jakarta Fraksi PDI-P), yang mengundurkan diri dari jabatan tersebut sejak April 2026. Salah satu narasi yang banyak beredar menyebut adanya keterlibatan donor anonim dari pihak luar yang diungkap H-1, memicu deadlock di internal panitia lapangan. Connext Japan disebut memilih membatalkan acara secara mandiri daripada nama mereka dikaitkan dengan kepentingan politik tertentu. Struktur panitia resmi mencantumkan Gubernur DKI Jakarta sebagai Pembina acara. Event ini sebelumnya telah mengalami beberapa kali penundaan: dari rencana awal September 2025 di Kota Tua, diundur ke 16\ufffd\ufffd\ufffd17 Mei 2026, lalu dimajukan ke 23\ufffd\ufffd\ufffd24 Mei 2026 di Lapangan Banteng. Dampak pembatalan mendadak mencakup tenant, sponsor, talent lokal dan internasional, serta peserta dari luar kota. Klarifikasi resmi disampaikan oleh Zhuge selaku panitia pelaksana melalui video di media sosial; Kenneth sendiri menyatakan sudah tidak terlibat sejak April namun sempat berkomentar di Instagram bahwa ia telah menyarankan agar acara digeser. Sebagai respons komunitas atas pembatalan, muncul dua event pengganti dadakan pada 23\ufffd\ufffd\ufffd24 Mei 2026: Indo Wotagei Battle (23 Mei, PIC Creative Space Wisma Staco Menteng Dalam, gratis) dan Kizuna Stage (24 Mei, WTC Mangga Dua, gratis), keduanya menampilkan performer yang semula dijadwalkan di Djakarta Ennichi.",
+        "Comment": "Insert to J-Event List : 20250712 16:44:07\nEvent dibatalkan pada hari pelaksanaan (23 Mei 2026) sekitar pukul 03.00 WIB melalui pengumuman resmi panitia dengan alasan kendala teknis dan operasional. Berdasarkan informasi yang beredar luas di media sosial, pembatalan diduga berkaitan dengan konflik internal antara pihak EO (Connext Japan) dan pihak yang sebelumnya menjabat sebagai Ketua Umum (Hardiyanto Kenneth, Anggota DPRD DKI Jakarta Fraksi PDI-P), yang mengundurkan diri dari jabatan tersebut sejak April 2026. Salah satu narasi yang banyak beredar menyebut adanya keterlibatan donor anonim dari pihak luar yang diungkap H-1, memicu deadlock di internal panitia lapangan. Connext Japan disebut memilih membatalkan acara secara mandiri daripada nama mereka dikaitkan dengan kepentingan politik tertentu. Struktur panitia resmi mencantumkan Gubernur DKI Jakarta sebagai Pembina acara. Event ini sebelumnya telah mengalami beberapa kali penundaan: dari rencana awal September 2025 di Kota Tua, diundur ke 16\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd17 Mei 2026, lalu dimajukan ke 23\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd24 Mei 2026 di Lapangan Banteng. Dampak pembatalan mendadak mencakup tenant, sponsor, talent lokal dan internasional, serta peserta dari luar kota. Klarifikasi resmi disampaikan oleh Zhuge selaku panitia pelaksana melalui video di media sosial; Kenneth sendiri menyatakan sudah tidak terlibat sejak April namun sempat berkomentar di Instagram bahwa ia telah menyarankan agar acara digeser. Sebagai respons komunitas atas pembatalan, muncul dua event pengganti dadakan pada 23\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd24 Mei 2026: Indo Wotagei Battle (23 Mei, PIC Creative Space Wisma Staco Menteng Dalam, gratis) dan Kizuna Stage (24 Mei, WTC Mangga Dua, gratis), keduanya menampilkan performer yang semula dijadwalkan di Djakarta Ennichi.",
         "Online/Offline": "Offline",
         "status": "Cancelled",
         "attended": "",
@@ -19403,12 +19452,12 @@
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
                 "Gathering / Komunitas",
-                "Kebudayaan / Cultural Show"
+                "Budaya Jepang - Seni Tradisional"
             ],
             "organizer": "PT. Zhuge Kreatif Indonesia x Wownas Co. Ltd (Collaborator)",
             "theme": "Connext Japan Djakarta Ennichi 2026",
             "edition": "Djakarta Ennichi 2026",
-            "date": "23 \ufffd\ufffd\ufffd 24 Mei 2026 (BATAL/CANCELLED)",
+            "date": "23 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd 24 Mei 2026 (BATAL/CANCELLED)",
             "venue": "Lapangan Banteng, Jakarta",
             "status": "Officially Cancelled / Batal Terlaksana",
             "cancellation_details": {
@@ -19463,19 +19512,19 @@
                     "Anneth",
                     "Kimro",
                     "Kira-Kira Band",
-                    "Machika \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala",
+                    "Machika \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Fito Karu \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Vayala",
                     "Panik Band",
                     "SCP3 Band",
                     "Japanese Dancing Mai",
                     "Wadaiko Benten",
                     "Mirai Taiko Dojo Jakarta",
                     "U-Maku Eisa Shinka",
-                    "U-Maku Eisa \ufffd\ufffd Kira-Kira Taiko",
+                    "U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Kira-Kira Taiko",
                     "Indonesia Yosakoi All Star",
                     "Indonesia Samurai Inobu",
                     "Indonesia Kyudo Federation",
                     "Aikido Shodukan Indonesia",
-                    "Little Harmony Orchestra \ufffd\ufffd Otodama"
+                    "Little Harmony Orchestra \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Otodama"
                 ],
                 "pop_stage": [
                     "Akemi ID",
@@ -19500,7 +19549,7 @@
                     "Vibetronic",
                     "Yugen",
                     "Yuriwa",
-                    "Zetto \ufffd\ufffd Showtime Hero",
+                    "Zetto \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Showtime Hero",
                     "Nippon Urban Bass System"
                 ],
                 "band_stage": [
@@ -19589,25 +19638,25 @@
                         "09.05": "Kira Kira Band by Jakarta Keion Club",
                         "09.40": "PANiK Band by Jakarta Keion Club",
                         "10.15": "Mirai Taiko Dojo Jakarta",
-                        "11.10": "U-Maku Eisa \ufffd\ufffd Kira Kira Taiko",
+                        "11.10": "U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Kira Kira Taiko",
                         "12.00": "Parade Yosakoi",
                         "12.30": "Indonesia Yosakoi All-Star",
-                        "13.25": "U-Maku Eisa \ufffd\ufffd Nahadaiko",
+                        "13.25": "U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Nahadaiko",
                         "14.20": "wHiTeROck",
                         "14.50": "Japanese Dancing Mai",
-                        "15.20": "Yamasaki Kenichi \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala \ufffd\ufffd Machika",
+                        "15.20": "Yamasaki Kenichi \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Fito Karu \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Vayala \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Machika",
                         "15.50": "Parade Yosakoi",
                         "16.25": "Aikido Enbu",
                         "16.55": "Wadaiko Benten",
                         "18.10": "Anggis Devaki, Anneth & Shin Z",
                         "19.05": "Indonesia Wotagei Battle",
-                        "19.50": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd U-Maku Eisa \ufffd\ufffd Indonesia Samurai \ufffd\ufffd Koba Mirai Japan",
+                        "19.50": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Indonesia Samurai \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Koba Mirai Japan",
                         "20.35": "Bon Odori"
                     },
                     "pop_stage": {
                         "10.05": "Idolfest feat. Lunite, La Belle, Hira Dazzle, Akemi",
                         "12.00": "Lomba Makan Ramen",
-                        "12.35": "TKV ID \ufffd\ufffd Vtuber",
+                        "12.35": "TKV ID \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Vtuber",
                         "13.20": "Seiyuu Contest",
                         "14.05": "Yuriwa",
                         "14.40": "Star Sign Gakuen supported by Diton",
@@ -19616,7 +19665,7 @@
                         "16.55": "Odojoget",
                         "17.55": "Indonesia Cosplay League (ICL) GICOF",
                         "19.05": "Jujutsu Kaisen perform by Moonclub",
-                        "20.00": "TKV ID \ufffd\ufffd Vtuber DJ",
+                        "20.00": "TKV ID \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Vtuber DJ",
                         "20.45": "NIPPON URBAN BASS SYSTEM"
                     },
                     "band_stage": {
@@ -19643,33 +19692,33 @@
                         "09.05": "SC 93 Band by Jakarta Keion Club",
                         "09.40": "No Generation Gap Band by Jakarta Keion Club",
                         "10.15": "Mirai Taiko Dojo Jakarta",
-                        "11.05": "U-Maku Eisa \ufffd\ufffd Kira Kira Taiko",
+                        "11.05": "U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Kira Kira Taiko",
                         "12.00": "Todoroki Taro",
-                        "12.40": "Little Harmony Orchestra \ufffd\ufffd Otodama \ufffd\ufffd Wadaiko Benten",
+                        "12.40": "Little Harmony Orchestra \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Otodama \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Wadaiko Benten",
                         "13.40": "wHiTeROck",
-                        "14.10": "Kimro \ufffd\ufffd Kenichi Yamasaki",
+                        "14.10": "Kimro \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Kenichi Yamasaki",
                         "14.40": "Yukino Jun",
                         "15.25": "All Star Yosakoi",
                         "16.10": "Kyudo Demo",
                         "16.40": "Yuruban Band",
-                        "17.10": "U-Maku Eisa \ufffd\ufffd Nahadaiko",
+                        "17.10": "U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Nahadaiko",
                         "17.55": "Aqueen & Sanggar Ananda / 6gadis",
-                        "18.15": "Yamasaki Kenichi \ufffd\ufffd Fito Karu \ufffd\ufffd Vayala \ufffd\ufffd Machika",
+                        "18.15": "Yamasaki Kenichi \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Fito Karu \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Vayala \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Machika",
                         "19.05": "Wadaiko Benten",
-                        "20.10": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd U-Maku Eisa \ufffd\ufffd Indonesia Samurai \ufffd\ufffd Koba Mirai Japan",
+                        "20.10": "Ikuma Akira feat. Yosakoi All Star \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd U-Maku Eisa \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Indonesia Samurai \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Koba Mirai Japan",
                         "20.55": "Bon Odori"
                     },
                     "pop_stage": {
                         "10.05": "Idolfest feat. Anogi, Guilty Pleasure, Tomoshibi",
                         "11.20": "Lomba Makan Ramen",
-                        "12.00": "TKV ID \ufffd\ufffd MaginiV",
+                        "12.00": "TKV ID \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd MaginiV",
                         "12.45": "Metanaru",
                         "13.10": "Yugen",
                         "13.55": "Ola Aphrodite",
-                        "14.25": "MASTERS OF IDOL WORLD: Senbatsu \ufffd\ufffd Stellarist",
+                        "14.25": "MASTERS OF IDOL WORLD: Senbatsu \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Stellarist",
                         "15.25": "DDM+",
                         "16.10": "Djakarta Single Cosplay Parade",
-                        "16.55": "Super Heroes Invasion Volume 2 (Zetto \ufffd\ufffd Showtime Hero)",
+                        "16.55": "Super Heroes Invasion Volume 2 (Zetto \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Showtime Hero)",
                         "17.55": "Kompetisi Nasional Cosplay Indonesia (KNCI)",
                         "19.15": "Cosura Cabaret K-Pop Demon Hunter",
                         "20.00": "Syncro",
@@ -19726,7 +19775,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "edition": "20",
             "ticket_info": {
@@ -19831,11 +19880,10 @@
             "category": [
                 "Festival / Matsuri",
                 "Musik - Idol / VTuber",
-                "Gathering / Komunitas",
-                "Wotagei"
+                "Gathering / Komunitas"
             ],
             "organizer": "Chika Lights",
-            "theme": "Kizuna Stage (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
+            "theme": "Kizuna Stage (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
             "description": "Awalnya Penampilan khusus membawakan idol-idol dari branch THE iDOLM@STER (765AS, Cinderella Girls, Million Live, Shiny Colors, dan Hatsuboshi Gakuen) serta dilanjutkan dengan sesi foto bersama. Akhirnya jadi Mini live event mendadak (pop-up event) yang diinisiasi sebagai bentuk solidaritas menyusul pembatalan event Djakarta Ennichi 2026. Acara ini memanfaatkan keberadaan para performer luar kota yang sudah terlanjur berada di Jakarta untuk tetap memberikan panggung hiburan bagi komunitas.",
             "date": "Minggu, 24 Mei 2026",
             "venue": "WTC Mangga Dua, Jakarta",
@@ -19861,7 +19909,7 @@
             "social_media": {
                 "hashtag": [
                     "#KizunaStage",
-                    "#\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd"
+                    "#\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd"
                 ]
             },
             "spokesperson": "Emily Yamanade"
@@ -20031,7 +20079,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Bunkasai XII \ufffd\ufffd\ufffd Hirameki no Matsuri",
+        "Subject": "Bunkasai XII \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Hirameki no Matsuri",
         "Location": "Kampus Pusat Universitas Mahasaraswati Denpasar",
         "Comment": "Insert to J-Event List : 20260523 21:11:59\n",
         "Online/Offline": "Offline",
@@ -20052,7 +20100,7 @@
                 "Cosplay - Competition / Coswalk",
                 "Musik - Band / Live Performance",
                 "Musik - Idol / VTuber",
-                "Kebudayaan / Budaya Tradisional",
+                "Budaya Jepang - Seni Tradisional",
                 "Bazaar / Market"
             ],
             "organizer": "Program Studi Sastra Jepang, Fakultas Bahasa Asing, Universitas Mahasaraswati Denpasar",
@@ -20220,11 +20268,10 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Anikura",
-                "Idol Performance",
-                "2.5D Dance Cover",
-                "Random Play Dance",
-                "Coswalk"
+                "Musik - Anisong / Karaoke",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "GANK x ANKOKU FEST",
             "description": "Event jejepangan yang berlokasi di Metro Indah Mall Bandung dengan berbagai konten mulai dari Anikura hingga Coswalk.",
@@ -20284,9 +20331,9 @@
         "Content": {
             "category": [
                 "Cosplay - Competition / Coswalk",
-                "Dance Cover - Competition",
-                "Game Tournament",
-                "Idol Performance",
+                "Dance Cover Competition",
+                "Game / Esports Tournament",
+                "Musik - Idol / VTuber",
                 "Festival / Matsuri"
             ],
             "organizer": "Fortuna Grande Jember x Nara Project",
@@ -20414,7 +20461,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Coswalk Competition - Seoul to Tokyo",
-        "Location": "AOS \u00e2\u20ac\u201c District 1 Meikarta",
+        "Location": "AOS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd District 1 Meikarta",
         "Comment": "Insert to J-Event List : 20260514 16:42:21\n",
         "Online/Offline": "Offline",
         "status": "Finished",
@@ -20433,8 +20480,7 @@
         "Content": {
             "category": [
                 "Cosplay - Competition / Coswalk",
-                "Music / Performance",
-                "DJ Performance"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Lippo Mall Cikarang & District 1 Meikarta",
             "description": "Kompetisi coswalk yang merupakan bagian dari rangkaian acara Seoul to Tokyo, terbuka untuk umum dan segala usia.",
@@ -20566,7 +20612,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Festival / Matsuri"
             ],
             "organizer": {
@@ -20645,7 +20691,7 @@
             "description": "Festival musim panas kebudayaan Jepang dan budaya populer yang diselenggarakan di Surakarta, menghadirkan kompetisi lagu Jepang, pertunjukan idol, DJ, serta parade cosplay.",
             "date": "Minggu, 24 Mei 2026",
             "venue": "Radya Litera Griya Solopos, Laweyan, Surakarta",
-            "time": "12.00 \ufffd\ufffd\ufffd 18.30 WIB",
+            "time": "12.00 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd 18.30 WIB",
             "guest_stars": [
                 "Oriana"
             ],
@@ -20726,9 +20772,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
-                "Budaya & Bahasa"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Budaya Jepang - Bahasa / Akademik"
             ],
             "organizer": "Japanese Club SMKN 1 Ciamis",
             "description": "Festival budaya Jepang dengan berbagai lomba dan aktivitas bertema Jepang yang terbuka untuk umum.",
@@ -20795,7 +20841,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": "Sirkel CosJB x Cosplay Jabodetabek",
@@ -21085,6 +21131,48 @@
     },
     {
         "Start Date": "20260530",
+        "Start Time": "10:00",
+        "End Date": "20260530",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sinema Perpusnas Bulan Mei: Okko's Inn",
+        "Location": "Teater Mini Lt. 8, Perpustakaan Nasional",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "sinema_perpusnas_okkos_inn_2026",
+        "location_address": "Jl. Medan Merdeka Sel. No.11, RT.11/RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.181446055635232, 106.82696490872254",
+        "location_gmaps": "https://maps.app.goo.gl/EUwdCAYS53Y21QAf9",
+        "links": [
+            "https://web.facebook.com/share/p/18cEYgXFYE/"
+        ],
+        "Content": {
+            "category": [
+                "Anime - Screening / Nobar"
+            ],
+            "organizer": "Perpustakaan Nasional RI (Perpusnas)",
+            "ticket_info": {
+                "htm": "GRATIS"
+            },
+            "activities": [
+                "Pemutaran Film 'Okko's Inn' Jam Tayang 10:00 WIB",
+                "Pemutaran Film 'Okko's Inn' Jam Tayang 13:00 WIB"
+            ],
+            "contact": {
+                "whatsapp": "0896-0422-4866"
+            },
+            "description": "Kategori Film Anak (+8) dengan Teks Bahasa Inggris. Pendaftaran gratis melalui WhatsApp dengan format SINEMA#NamaLengkap#Usia#NomorAnggota#JudulFilm#PilihanJam."
+        }
+    },
+    {
+        "Start Date": "20260530",
         "Start Time": "",
         "End Date": "20260530",
         "End Time": "",
@@ -21110,7 +21198,7 @@
         "Content": {
             "category": [
                 "Cosplay - Competition / Coswalk",
-                "Game / E-Sports Tournament",
+                "Game / Esports Tournament",
                 "Musik - Anisong / Karaoke",
                 "Party / Night Event"
             ],
@@ -21163,7 +21251,7 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sports Tournament"
+                "Game / Esports Tournament"
             ],
             "organizer": "Titik Kumpul Foodsquare",
             "partnership": [
@@ -21220,11 +21308,11 @@
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
                 "Bazaar / Market",
-                "Tokusatsu Show"
+                "Tokusatsu / Kamen Rider"
             ],
             "organizer": "MERAH!MERAH!Anime Japan",
             "theme": "Authentic Japan and All Japan",
-            "description": "Event menghadirkan konsep **\ufffd\ufffd\ufffdAuthentic Japan\ufffd\ufffd\ufffd** dan **\ufffd\ufffd\ufffdAll Japan\ufffd\ufffd\ufffd** di Jakarta sebagai festival resmi berskala besar yang menyatukan budaya dan pop kultur Jepang dalam satu tempat. Acara ini menampilkan pameran eksklusif, area interaktif, instalasi budaya pop Jepang, merchandise resmi original, perwakilan industri Jepang, serta berbagai elemen seperti anime, manga, musik, karakter populer, produk hobi, layanan, dan kuliner otentik Jepang.",
+            "description": "Event menghadirkan konsep **\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdAuthentic Japan\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd** dan **\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdAll Japan\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd** di Jakarta sebagai festival resmi berskala besar yang menyatukan budaya dan pop kultur Jepang dalam satu tempat. Acara ini menampilkan pameran eksklusif, area interaktif, instalasi budaya pop Jepang, merchandise resmi original, perwakilan industri Jepang, serta berbagai elemen seperti anime, manga, musik, karakter populer, produk hobi, layanan, dan kuliner otentik Jepang.",
             "date": "30 - 31 Mei 2026",
             "venue": "Gandaria City, Jakarta",
             "featured_artists": [
@@ -21370,7 +21458,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Musik / Performance",
+                "Musik - Band / Live Performance",
                 "Gathering / Komunitas"
             ],
             "organizer": "Cosplay Jabodetabek Event Organizer",
@@ -21426,9 +21514,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay",
-                "Gaming",
-                "Music Performance"
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament",
+                "Musik - Band / Live Performance"
             ],
             "organizer": [
                 "Wibufest",
@@ -21493,8 +21581,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Art Market",
-                "Music / Performance"
+                "Bazaar / Market",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Soushin (Universitas Tarumanagara)",
             "description": "Festival budaya Jepang bertajuk 'Towards a Shining Spring' yang menghadirkan berbagai kompetisi tingkat umum dan SMA di lingkungan kampus UNTAR.",
@@ -21652,7 +21740,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "description": "Acara Dream Cosplay Party yang menghadirkan pertunjukan spesial dari grup idola lokal di Manado.",
             "performers": {
@@ -21717,7 +21805,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Game / E-Sport"
+                "Game / Esports Tournament"
             ],
             "description": "Turnamen game pertarungan Mortal Kombat 1 yang diadakan di Balikpapan.",
             "competition": {
@@ -21759,7 +21847,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "ICE Autonation",
             "powered_by": "@kyuufest",
@@ -21809,7 +21897,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Gathering"
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "description": "Event jejepangan berskala Pulau Jawa yang menggabungkan penampilan idol dan gathering cosplayer.",
             "ticket_info": {
@@ -21913,8 +22001,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Game / E-Sport",
-                "Talkshow / Seminar"
+                "Game / Esports Tournament",
+                "Talkshow / Seminar / Workshop"
             ],
             "description": "Festival budaya Jepang tahunan Universitas Dr. Soetomo dengan lomba akademik dan umum.",
             "theme": "Kachoufugetsu",
@@ -22047,9 +22135,8 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Manga Competition",
-                "Cosplay Parade",
-                "Workshop"
+                "Talkshow / Seminar / Workshop",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "Gramedia World Karawang & Anime Lovers Karawang",
             "description": "Pengalaman satu hari kompetisi menggambar manga dan parade cosplay di Karawang.",
@@ -22093,9 +22180,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "J-Song Contest",
-                "Idol Stage"
+                "Festival / Matsuri",
+                "Musik - Anisong / Karaoke",
+                "Musik - Idol / VTuber"
             ],
             "organizer": "Sachie Entertainment (@sachie.ent)",
             "description": "Festival jejepangan di Surabaya yang berfokus pada panggung kompetisi lagu Jepang (J-Song) dan performa grup idol.",
@@ -22206,9 +22293,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "K-Pop Event",
+                "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
-                "Dance Competition"
+                "Dance Cover Competition"
             ],
             "organizer": "Seven Kingdom",
             "sponsored_by": "K3Mart",
@@ -22264,9 +22351,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay - Party",
-                "Game / Esports Tournament",
-                "Beyblade Competition"
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament"
             ],
             "organizer": [
                 "Shiro",
@@ -22311,8 +22397,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Musik",
-                "Performance / Seni",
+                "Musik - Band / Live Performance",
                 "Gathering / Komunitas"
             ],
             "organizer": "Akemi ID",
@@ -22359,8 +22444,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Budaya Live"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "@animeloverskarawang",
             "description": "Pengalaman satu hari penuh yang berfokus pada manga dan cosplay, mencakup kompetisi manga, parade cosplay, dan pertunjukan bakat.",
@@ -22437,7 +22522,7 @@
         ],
         "Content": {
             "category": [
-                "Anime Convention",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri"
             ],
             "ticket_info": {
@@ -22488,8 +22573,8 @@
         ],
         "Content": {
             "category": [
-                "Toy / Figure",
-                "Game / E-Sport",
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": "RAF Creative",
@@ -22530,7 +22615,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Fuurin Festival",
-        "Location": "XT Caf\ufffd\ufffd & Resto Yogyakarta",
+        "Location": "XT Caf\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd & Resto Yogyakarta",
         "Comment": "Insert to J-Event List : 20260518 17:38:19\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
@@ -22549,9 +22634,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "Singing Competition",
-                "Idol Performance"
+                "Festival / Matsuri",
+                "Musik - Anisong / Karaoke",
+                "Musik - Idol / VTuber"
             ],
             "organizer": "Fuurin Fest Committee",
             "description": "Wadah apresiasi dan perlombaan olah vokal lagu Jepang serta panggung pertunjukan bakat idol grup independen di Yogyakarta.",
@@ -22602,9 +22687,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Festival",
-                "Teaser",
-                "Coming Soon"
+                "Festival / Matsuri"
             ],
             "organizer": "UwU Organizer",
             "description": "Pengumuman awal mengenai kehadiran event jejepangan baru di wilayah Depok yang dijadwalkan berlangsung selama dua hari di bulan Juni 2026.",
@@ -22708,9 +22791,9 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Bazaar / Tenant",
-                "Musik",
-                "Olahraga / Dance"
+                "Bazaar / Market",
+                "Musik - Band / Live Performance",
+                "Dance Cover Competition"
             ],
             "organizer": "89 Communication",
             "description": "Festival urban di Surabaya yang menggabungkan kompetisi cosplay, pemandu sorak (cheerleader), musik, dan bazaar kuliner (Foodforia).",
@@ -22772,8 +22855,8 @@
         ],
         "Content": {
             "category": [
-                "Game / E-Sport",
-                "Convention / Expo",
+                "Game / Esports Tournament",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri"
             ],
             "organizer": "Bushiroad",
@@ -22871,8 +22954,8 @@
             "description": "Biggest Itasha event back in Bandung",
             "tags": "supermachi event jejepangan itasha itashaindonesia",
             "category": [
-                "Cosplay Competition",
-                "Toy / Figure",
+                "Cosplay - Competition / Coswalk",
+                "Toy / Figure / Hobby",
                 "Festival / Matsuri"
             ],
             "organizer": "supermachifestival",
@@ -22951,10 +23034,10 @@
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
                 "Gathering / Komunitas",
-                "Kebudayaan / Cultural Show"
+                "Budaya Jepang - Seni Tradisional"
             ],
             "organizer": "Chujitsu",
-            "theme": "Yokai! (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
+            "theme": "Yokai! (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)",
             "edition": "Tokidoki: Yokai!",
             "description": "Festival bertema supernatural dan malam misteri Jepang (Yokai no Yoru) yang memadukan kebudayaan tradisional Jepang, pertunjukan grup musik idola, cosplay, dan atmosfer supernatural di Sidoarjo.",
             "date": "7 Juni 2026",
@@ -23079,7 +23162,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet"
             ],
             "guest_stars": [
@@ -23121,7 +23204,7 @@
         ],
         "Content": {
             "category": [
-                "Anime Convention",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri"
             ],
             "organizer": "Provaliant Sports",
@@ -23242,8 +23325,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
-                "Anime Convention"
+                "Cosplay - Gathering / Parade / Casual",
+                "Convention / Expo / Comic Market"
             ],
             "theme": "Storm of a Thousand Stars",
             "description": "A celebration of anime, culture, creativity, and community featuring cosplay, performances, booths, and games."
@@ -23278,12 +23361,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market",
-                "Talkshow / Seminar"
+                "Talkshow / Seminar / Workshop"
             ],
             "description": "Japanese pop culture festival held for two days featuring anime themed entertainment, cosplay activities, idol performances, live music, DJ sets, talkshows, and merchandise bazaar.",
             "performers": {
@@ -23397,7 +23480,7 @@
             "category": [
                 "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
-                "Musik - Seiyuu / Voice Acting"
+                "Musik - Idol / VTuber"
             ],
             "organizer": "SMANSA Japanese Club / OSIS SMAN 1 Mataram",
             "description": "Kompetisi cosplay tahunan sebagai bagian dari rangkaian acara SKETSA 2026 di Mataram.",
@@ -23495,7 +23578,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri",
                 "Fanmeet"
             ],
@@ -23564,8 +23647,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Convention / Expo",
-                "Cosplay Competition"
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": {
                 "main": [
@@ -23833,7 +23916,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Competition / Coswalk",
-                "Bazaar / Culinary"
+                "Bazaar / Market"
             ],
             "organizer": "JML Organizer",
             "description": "Kompetisi cosplay yang diadakan sebagai bagian dari Malang Food Festival The Series di area parkir Transmart MX Malang.",
@@ -23872,8 +23955,8 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Cosplay Competition",
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "edition": "3",
@@ -23911,7 +23994,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering"
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "japaneast_id",
             "description": "Event Jejepangan TOKI-O FEST kembali hadir pada tahun 2026 di Banjarmasin. Event ini merupakan lanjutan dari event sebelumnya yang sudah pernah diadakan sejak 2022.",
@@ -23958,7 +24041,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "organizer": "Sonkei No Atsumari x Palace Hotel Cipanas",
@@ -24018,7 +24101,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ],
             "ticket_info": {
                 "entry": "Free HTM (TBA)"
@@ -24060,7 +24143,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ],
             "organizer": "Genshiken ITB",
             "description": "Acara tahunan Genshiken ITB yang menghadirkan pasar kreatif (booth), pameran, dan turnamen resmi Bushiroad.",
@@ -24133,7 +24216,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "Cosplay Jabodetabek",
             "powered_by": "WTC Mangga Dua",
@@ -24171,8 +24254,8 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Cosplay Competition",
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet"
             ],
             "edition": "10",
@@ -24255,7 +24338,7 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Festival / Matsuri"
             ],
             "organizer": {
@@ -24312,7 +24395,7 @@
         "Content": {
             "category": [
                 "Musik - Band / Live Performance",
-                "Community / Hobby Gathering"
+                "Gathering / Komunitas"
             ],
             "organizer": [
                 "Cielers Indonesia"
@@ -24367,7 +24450,7 @@
             "duration": "Two day event",
             "note": "Comic related exhibition and community gathering",
             "category": [
-                "Anime Convention",
+                "Convention / Expo / Comic Market",
                 "Party / Night Event"
             ]
         },
@@ -24402,7 +24485,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Talkshow / Seminar"
+                "Talkshow / Seminar / Workshop"
             ],
             "edition": "7",
             "theme": "Semua Bisa Jadi Kreator"
@@ -24437,8 +24520,8 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition",
-                "Toy / Figure",
+                "Cosplay - Competition / Coswalk",
+                "Toy / Figure / Hobby",
                 "Festival / Matsuri"
             ],
             "organizer": "Super Machi",
@@ -24501,7 +24584,7 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri"
             ],
             "theme": "The Lost Grimoire of Erdem",
@@ -24544,7 +24627,7 @@
         "Content": {
             "category": [
                 "Cover Sing",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Festival / Matsuri"
             ],
             "organizer": "Celestine Organizer",
@@ -24643,11 +24726,11 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
+                "Convention / Expo / Comic Market",
                 "Festival / Matsuri",
                 "Bazaar / Market",
                 "Fanmeet",
-                "Cosplay Gathering"
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "theme": "Renaissance",
             "edition": "2026",
@@ -24687,7 +24770,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Joryu 2 \u00e2\u20ac\u201d Greatest Summer Love",
+        "Subject": "Joryu 2 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Greatest Summer Love",
         "Location": "GOR UNY, Jogja",
         "Comment": "Insert to J-Event List : 20260511 17:32:31\n",
         "Online/Offline": "Offline",
@@ -24822,9 +24905,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Convention",
-                "Market / Bazaar",
-                "Cosplay - Gathering / Community"
+                "Convention / Expo / Comic Market",
+                "Bazaar / Market",
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "C4 Surabaya",
             "description": "Konvensi dan pasar cosplay pertama di Surabaya yang mempertemukan kreator (Costume Maker, Wig Stylist, MUA) dengan komunitas.",
@@ -24909,8 +24992,8 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Musik Band Live",
-                "Talkshow / Seminar",
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar / Workshop",
                 "Festival / Matsuri"
             ],
             "edition": "3",
@@ -25049,7 +25132,7 @@
             },
             "description": "Pop culture convention featuring comics, toys, movies, music, games, and cosplay with expanded venue and experiences",
             "category": [
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -25134,7 +25217,7 @@
                 "merchandise": "Merch selling and creator booths available"
             },
             "category": [
-                "Toy / Figure"
+                "Toy / Figure / Hobby"
             ]
         },
         "location_country": "Indonesia",
@@ -25168,8 +25251,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Toy / Figure",
-                "Game / E-Sport"
+                "Toy / Figure / Hobby",
+                "Game / Esports Tournament"
             ],
             "description": "Indonesia Game Expo (IGX) 2026 Stage 03, pameran gim, mainan, dan budaya pop."
         },
@@ -25202,8 +25285,8 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Budaya Live"
+                "Convention / Expo / Comic Market",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Arcane Alley",
             "theme": "A Reverie Begins..."
@@ -25242,9 +25325,9 @@
         "source_status": "archived",
         "Content": {
             "category": [
-                "Doujinshi Market",
-                "Exhibition",
-                "Pop Culture Convention"
+                "Convention / Expo / Comic Market",
+                "Toy / Figure / Hobby",
+                "Festival / Matsuri"
             ],
             "organizer": "Comic Frontier Committee",
             "description": "Acara konvensi dan pasar kreatif berkala untuk kreator pop kultur, doujinshi, komik, cosplay, serta gathering komunitas terbesar di Indonesia yang diadakan di [Indonesia Convention Exhibition (ICE) BSD City](http://googleusercontent.com/map_location_reference/0).",

@@ -225,7 +225,9 @@
                     "Index": 24
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -255,7 +257,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1252,7 +1256,9 @@
                     "Index": 28
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1282,7 +1288,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Fanmeet"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1312,7 +1320,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1480,7 +1490,9 @@
                     "Index": 16
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1510,7 +1522,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1848,7 +1862,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1878,7 +1894,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2064,7 +2082,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2458,7 +2478,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2633,7 +2655,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3129,7 +3153,9 @@
                     }
                 }
             ],
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3664,7 +3690,9 @@
                 "FACEBOOK": "INORI - Isshoni no Monogatari",
                 "INSTAGRAM": "@inori_nk3"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3706,7 +3734,9 @@
                 ""
             ],
             "contact_person": "0896-5404-4655",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4369,7 +4399,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4399,7 +4431,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4429,7 +4463,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4583,7 +4619,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4929,8 +4967,7 @@
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
                 "Bazaar / Market",
-                "Pendidikan / Workshop",
-                "Performance Lainnya"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Himpunan Mahasiswa Sastra Jepang Unpad",
             "theme": "Fesbukan 6: Festival Budaya dan Pendidikan",
@@ -5010,10 +5047,79 @@
         "location_coordinate": "-6.275535980919699, 106.88661550924003",
         "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
         "links": [
-            ""
+            "https://web.facebook.com/events/1314242952032594/",
+            "https://web.facebook.com/share/p/1LrB31Gkb1/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Maid Cafe / Obake"
+            ],
+            "organizer": "67's Nihon Shakai",
+            "theme": "Rochi No Hori 7",
+            "edition": "Ke-7",
+            "description": "Festival Jepang tahunan (Japanese Festival) berskala sekolah yang diselenggarakan oleh komunitas Jepang SMAN 67 Jakarta Timur. Acara ini menghadirkan panggung musik pop kultur populer, area pameran hobi seperti Itasha dan Mini Museum, serta kompetisi kreatif bagi para pelajar dan komunitas umum.",
+            "date": "Sabtu, 21 Oktober 2017",
+            "venue": "SMAN 67 Jakarta Timur, Halim Perdanakusuma",
+            "guest_stars": [
+                "Twenty Nine Teens (29Teens)",
+                "Rachel Florencia",
+                "Redshift",
+                "Jakarta Keion Club"
+            ],
+            "special_performances": [
+                "Invasion 48 (IDOL BOYS)",
+                "Kepik Terbang",
+                "Style Anime Team"
+            ],
+            "judges": {
+                "cosplay_judges": [
+                    "Lopi",
+                    "Bommu"
+                ]
+            },
+            "mc": [
+                "Milokuma",
+                "EGA"
+            ],
+            "competitions": [
+                "Dance Cover",
+                "Karaoke Audition",
+                "Band Audition",
+                "Cosplay",
+                "Short Comic",
+                "Fanart",
+                "Fanfiction",
+                "Costreet",
+                "Janken Tournament",
+                "Onigiri Challenge"
+            ],
+            "attractions": [
+                "Obake Yashiki (Rumah Hantu)",
+                "Maid & Butler Cafe",
+                "Itasha Display",
+                "Comic Room",
+                "Mini Museum",
+                "Photo Spot",
+                "Japanese Food and Other Stands"
+            ],
+            "ticket_info": {
+                "presale": "IDR 15k",
+                "on_the_spot": "IDR 18k"
+            },
+            "event_rules": [
+                "Use half face helmet",
+                "No smoking, drugs, and alcohol"
+            ],
+            "social_media": {
+                "blog": "rochinohori.blogspot.com",
+                "facebook": "Rochi no Hori",
+                "twitter": "@rochinohori",
+                "line_oa": "@saa5619x"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5107,7 +5213,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5297,7 +5405,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5327,7 +5437,9 @@
             "https://radarbali.jawapos.com/events/23/11/2017/6th-djafu-makin-keren-dan-menarik/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5597,7 +5709,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5627,7 +5741,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5916,7 +6032,9 @@
             "https://www.facebook.com/japannoshiki/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5946,7 +6064,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

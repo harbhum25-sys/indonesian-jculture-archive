@@ -156,7 +156,9 @@
                 "SMA"
             ],
             "event_context": "Acara dalam rangka HUT Yayasan Cakra Buana ke-5 dan Yayasan Pendidikan Bintara ke-21",
-            "category": []
+            "category": [
+                "Talkshow / Seminar / Workshop"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -249,7 +251,7 @@
         ],
         "Content": {
             "event_info": {
-                "title": "Animonster Sound L\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2\u00c3\u201a\u00c2\u00a5VE~en~Ciel",
+                "title": "Animonster Sound L\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00be\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a5VE~en~Ciel",
                 "presenter": "simPATI",
                 "date": "Sabtu, 12 Februari 2005",
                 "time": "12.00 - 17.00",
@@ -744,7 +746,9 @@
                     "halaman": 85
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -789,7 +793,10 @@
                 "Penampilan band Jepang"
             ],
             "source": "Animonster 76 - Juli 2005, halaman 32",
-            "category": []
+            "category": [
+                "Game / Esports Tournament",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1057,7 +1064,9 @@
                 "Categories": "A: SD kls 3-6, B: SMP, C: SMA"
             },
             "GeneralActivities": "Meet & Greet, Photo Session, Fun with Doraemon, Bintang Cilik, Games & Kuis",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1172,7 +1181,9 @@
             "RegistrationFee": "Rp 50.000",
             "RegistrationInclusions": "T-Shirt, Snack, materi lomba",
             "GeneralActivities": "Meet & Greet, Photo Session, Fun with Doraemon, Bintang Cilik, Games & Kuis",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1373,7 +1384,9 @@
                 "bulan": "September 2005",
                 "halaman": "34"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1469,7 +1482,9 @@
                 "audience_count": "Sekitar 300 orang"
             },
             "source": "Animonster 78 - September 2005 - halaman 78",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1880,7 +1895,11 @@
                 "Nokia",
                 "K.L.A Tours & Travel"
             ],
-            "category": []
+            "category": [
+                "Launching / Grand Opening",
+                "Talkshow / Seminar / Workshop",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2103,7 +2122,11 @@
             "source": [
                 "Animonster 80 - November 2005, page 35"
             ],
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2158,7 +2181,9 @@
                 "MAX Speed"
             ],
             "Source": "Animonster 78 - September 2005",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2375,7 +2400,9 @@
                 "Pinkan Mambo",
                 "Radja"
             ],
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2498,7 +2525,10 @@
                     "L'Aji~en~Ciel"
                 ]
             },
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Talkshow / Seminar / Workshop"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

@@ -23,7 +23,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Seni / Workshop",
+                "Talkshow / Seminar / Workshop",
                 "Musik - Band / Live Performance"
             ],
             "organizer": "Program Studi Bahasa Jepang Universitas Widyatama",
@@ -86,7 +86,9 @@
             "https://www.instagram.com/p/CPOCBqSB-R4/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -174,7 +176,9 @@
             "edition": "CV1",
             "description": "Comifuro Virtual pengganti event offline",
             "estimated_attendance": "50000",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -231,7 +235,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -296,7 +302,9 @@
             "https://www.instagram.com/re.windofficial/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -353,7 +361,9 @@
             "series": "Comivuro",
             "edition": "CV2",
             "estimated_attendance": "70000",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

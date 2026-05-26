@@ -338,7 +338,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -568,7 +570,7 @@
                 "Festival / Matsuri",
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
-                "Seni / Workshop"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Komunitas Alumni Jepang di Indonesia (KAJI)",
             "description": "Festival tahunan Sakura Matsuri yang ketiga di Cikarang yang menghadirkan perpaduan kebudayaan Jepang dan Indonesia.",
@@ -699,7 +701,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -731,10 +735,13 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Kebudayaan / Budaya Tradisional",
+                "Budaya Jepang - Seni Tradisional",
                 "Bazaar / Market",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Cosplay - Competition / Coswalk"
+            ],
+            "performers": [
+                "Lumina Scarlet"
             ]
         },
         "location_country": "Indonesia",
@@ -765,7 +772,9 @@
             "http://jurnalotaku.com/2015/05/27/hotaru-4-forever-young-the-japan-fair-itb-2015-31-mei-2015-lap-cc-barat-timur-itb/hotaru-3/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -828,7 +837,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -890,7 +901,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1016,7 +1029,9 @@
             "https://www.ui.ac.id/events/gelar-jepang-2014/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1046,7 +1061,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1111,7 +1128,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1175,7 +1194,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Game / Esports Tournament"
+            ]
         },
         "location_country": "Japan",
         "date_precision": "day",
@@ -1295,7 +1316,7 @@
         ],
         "Content": {
             "presenter": "Himpunan Mahasiswa Sastra Jepang (HIMADE S1) Universitas Padjadjaran",
-            "theme": "Festival Budaya dan Pendidikan Indonesia-Jepang \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c Sister City",
+            "theme": "Festival Budaya dan Pendidikan Indonesia-Jepang \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 Sister City",
             "event_days": {
                 "20141011": "Lomba Bahasa Jepang tingkat SMA dan sederajat Regional I",
                 "20141012": "Acara puncak festival kebudayaan Indonesia-Jepang"
@@ -1327,11 +1348,74 @@
                 "asri": "082117975159",
                 "hanifah": "085782342060"
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20141018",
+        "Start Time": "",
+        "End Date": "20141018",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Rochi No Hori 4",
+        "Location": "Gedung SMAN 67 Jakarta",
+        "Comment": "Tata tertib mewajibkan penggunaan helm half-face serta melarang rokok, obat-obatan terlarang, dan alkohol bagi seluruh pengunjung.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "rochi_no_hori_4_sman67_2014_jkt",
+        "location_address": "Jalan Squadron No.35-36 Jalan Halim Perdana Kusuma, RW No.RT.3, RT.3/RW.4, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13610",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.275535980919699, 106.88661550924003",
+        "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/18RTaiq9vm/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "67's Nihon Shakai / SMAN 67 Jakarta",
+            "ticket_info": {
+                "htm": "Presale: Rp 13.000 / OTS: Rp 16.000 (+ Sticker)"
+            },
+            "guest_stars": [
+                "Tokyo Lite",
+                "Lumina Scarlet",
+                "Henohenomoheji",
+                "Amehana"
+            ],
+            "special_performances": [
+                "Shadow Cosplay Team",
+                "Nihon Buyou Club Universitas Darma Persada (NBC)"
+            ],
+            "activities": [
+                "Cosplay Competition",
+                "Design Character Competition",
+                "Manga Competition",
+                "Dance Cover Competition",
+                "Band Audition & Competition",
+                "Kompetisi Ramen",
+                "Kompetisi Kakigori"
+            ],
+            "contact": {
+                "general": [
+                    "0821-1175-9178 (Fakhri)"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20141026",
@@ -1487,7 +1571,9 @@
             "https://www.facebook.com/Japan.Culture.Daisuki/photos/a.175685089237341/479968912142289/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Anime - Screening / Nobar"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1581,7 +1667,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1840,7 +1928,9 @@
                     }
                 ]
             },
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1870,7 +1960,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1932,7 +2024,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

@@ -23,7 +23,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -385,7 +387,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -480,7 +484,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -542,7 +548,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -637,7 +645,9 @@
             "https://www.akibanation.com/update-terbaru-dari-clash-2015-yogyakarta/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -768,12 +778,16 @@
         "location_gmaps": "https://goo.gl/maps/rSRoFjXf2pvwJjpE7",
         "links": [
             "https://www.kawasanindustri.net/sakura-matsuri-2015-lippo-cikarang-indonesia.html",
-            "https://jakartaglobe.id/business/lippo-cikarang-holds-fourth-sakura-matrusi-festival/"
+            "https://jakartaglobe.id/business/lippo-cikarang-holds-fourth-sakura-matrusi-festival/",
+            "https://web.facebook.com/share/1CkgLtqJon/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
                 "Budaya Jepang - Seni Tradisional"
+            ],
+            "performers": [
+                "Tokyo Hits Joshi"
             ]
         },
         "location_country": "Indonesia",
@@ -804,7 +818,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1005,9 +1021,9 @@
             },
             "category": [
                 "Festival / Matsuri",
-                "Kebudayaan / Budaya Tradisional",
+                "Budaya Jepang - Seni Tradisional",
                 "Bazaar / Market",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Cosplay - Competition / Coswalk"
             ]
         },
@@ -1117,7 +1133,9 @@
             "https://jakusai.tumblr.com/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1147,7 +1165,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1209,7 +1229,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1239,7 +1261,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1456,11 +1480,41 @@
         "location_coordinate": "-6.224349127917853, 106.80389986760805",
         "location_gmaps": "https://goo.gl/maps/w8siWfkWtc4zz1rs7",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/17LNWhFU7x/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Bazaar / Market"
+            ],
+            "organizer": "Happy Kingdom Inc.",
+            "guest_stars": [
+                "Teenebelle",
+                "Roli Angel (from Japan)"
+            ],
+            "performers": [
+                "FleursMelon",
+                "WISH",
+                "Crystal Melody",
+                "Lumina Scarlet",
+                "Ministry of Idols",
+                "Jendral Pavlichenko",
+                "Tokyo Hits Joshi",
+                "Japanese Station Navigator Kirari \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+                "Noella Sisterina",
+                "Meliana Marthina",
+                "Rachel Florencia"
+            ],
+            "mc": [
+                "Kei Andinta",
+                "Dea Marella"
+            ],
+            "activities": [
+                "Idol Stage Performance",
+                "Direct Selling Booth",
+                "2-shot Session Booth",
+                "Online Dance Cover Competition (via zeemi.tv)"
             ]
         },
         "location_country": "Indonesia",
@@ -1561,7 +1615,9 @@
             "source": [
                 "AMH Magz Vol 27"
             ],
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Japan",
         "date_precision": "day",
@@ -1806,7 +1862,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1836,7 +1894,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2133,8 +2193,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Kebudayaan / Budaya Tradisional",
-                "Exhibition / Pameran",
+                "Budaya Jepang - Seni Tradisional",
+                "Toy / Figure / Hobby",
                 "Bazaar / Market",
                 "Cosplay - Competition / Coswalk"
             ],
@@ -2186,7 +2246,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2397,7 +2459,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2538,7 +2602,7 @@
                 "panelis_lokal": [
                     "Sunny Gho",
                     "Faza Meonk",
-                    "Jhos\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a9phine Tanuwidjaja",
+                    "Jhos\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9phine Tanuwidjaja",
                     "Bryan Lie",
                     "Andry Widjaja",
                     "Eric Wirjanata"
@@ -2621,7 +2685,7 @@
         "Content": {
             "presenter": "Kotakotak Organizer",
             "venue_alternate_plan": [
-                "Originally planned for Garuda Wisnu Kencana Cultural Park from October 2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c4, 2015",
+                "Originally planned for Garuda Wisnu Kencana Cultural Park from October 2\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u01534, 2015",
                 "GOR (Gelanggang Olah Raga) Ngurah Rai, Bali"
             ],
             "Changed Start Date": "20151031",
@@ -3089,8 +3153,7 @@
                 "Cosplay - Competition / Coswalk",
                 "Musik - Band / Live Performance",
                 "Musik - Idol / VTuber",
-                "Pendidikan / Workshop",
-                "Performance Lainnya"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "HIMADE UNPAD",
             "theme": "Fesbukan 4 Matsuri (Festival Budaya dan Pendidikan)",
@@ -3193,10 +3256,84 @@
         "location_coordinate": "-6.275535980919699, 106.88661550924003",
         "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
         "links": [
-            ""
+            "https://web.facebook.com/share/1DHRxjuuej/",
+            "https://web.facebook.com/events/1626348034315400/",
+            "https://web.facebook.com/share/17PRv4ZVjt/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "67's Nihon Shakai",
+            "theme": "Rochi No Hori V",
+            "edition": "Ke-5",
+            "description": "Festival Jepang tahunan berskala sekolah yang diselenggarakan oleh komunitas Jepang SMAN 67 Jakarta Timur. Acara ini menghadirkan panggung pertunjukan musik dari berbagai guest star pop kultur populer, penampilan kebudayaan, serta beragam kompetisi kreatif tingkat umum dan sekolah.",
+            "date": "Sabtu, 24 Oktober 2015",
+            "venue": "SMAN 67 Jakarta Timur",
+            "guest_stars": [
+                "Kira Kira (KK)",
+                "LuSca (Lumina Scarlet)",
+                "Popstripe",
+                "Honeybeat"
+            ],
+            "special_performances": [
+                "Lia Club",
+                "Shadow Cosplay Team"
+            ],
+            "competitions": [
+                "Mindgames",
+                "Janken Tournament",
+                "Cosplay",
+                "Costreet",
+                "Design Character",
+                "Manga",
+                "Fan Fictions",
+                "Band Audition",
+                "Cover Dance",
+                "Ramen Eat Competition"
+            ],
+            "ticket_info": {
+                "presale": "Rp. 10.000,-",
+                "on_the_spot": "Rp. 13.000,-"
+            },
+            "event_rules": [
+                "Use half-face helmet",
+                "No smoking",
+                "No drugs and alcohol"
+            ],
+            "sponsors": [
+                "Salemba Group (SG)",
+                "Sosro"
+            ],
+            "social_media": {
+                "facebook": "https://web.facebook.com/events/1626348034315400/"
+            },
+            "rundown": {
+                "07.00": "Persiapan",
+                "07.30": "Pembukaan / Open Gate",
+                "08.45": "Homeband",
+                "09.00": "Penampilan Juara 2 Band",
+                "09.15": "Janken Part 1",
+                "09.40": "Penampilan Juara 1 Band",
+                "09.55": "Senbonzakura Dance",
+                "10.15": "Lomba Makan Ramen",
+                "10.35": "Cover Dance",
+                "10.50": "Janken Part 2",
+                "11.15": "Popstripe",
+                "11.45": "ISOMA",
+                "12.15": "Honey Beat",
+                "12.45": "Lumina Scarlet",
+                "13.15": "Lomba Cosplay",
+                "14.15": "Shadow Cosplay",
+                "14.45": "ISOMA",
+                "15.10": "Pengumuman Pemenang",
+                "15.40": "Y-BOYS / Kira - Kira Jakarta",
+                "16.30": "Bon Odori",
+                "16.50": "Penutupan"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3498,7 +3635,9 @@
             "https://japanesestation.com/events/upcoming-events/japan-art-project-2015-15-november-2015-sabuga-bandung"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3533,12 +3672,12 @@
                 "Festival / Matsuri",
                 "Musik - Idol / VTuber",
                 "Gathering / Komunitas",
-                "Workshop / Demo Culture"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Bintaro Jaya Xchange Mall",
             "theme": "Bintaro Jaya Xchange Mall Japan Festival",
             "description": "Festival budaya Jepang yang menghadirkan perpaduan antara penampilan musik populer, demo kebudayaan tradisional seperti Ikebana dan Chanoyu, hingga aktivitas komunitas hobi seperti Gundam dan Cosplay.",
-            "date": "14 \ufffd\ufffd\ufffd 23 November 2015",
+            "date": "14 \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd 23 November 2015",
             "venue": "Main Atrium, Bintaro Jaya Xchange Mall, Tangerang",
             "guest_stars": [
                 "Vierratale",
@@ -3546,7 +3685,7 @@
                 "Yumi",
                 "Hiroaki Kato",
                 "Lumina Scarlet",
-                "Kirari (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)"
+                "Kirari (\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd)"
             ],
             "performers": [
                 "Sekar Khatulistiwa",
@@ -3679,7 +3818,9 @@
             "https://web.facebook.com/photo/?fbid=1219569638068459&set=g.442373135840352"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

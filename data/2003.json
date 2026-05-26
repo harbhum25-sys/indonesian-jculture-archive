@@ -39,7 +39,11 @@
             },
             "merchandise_highlights": "Trading Figure Love Hina, Sakura Card Captor Gashapon, Naruto Diorama Figure, Rurouni Kenshin Trading Figure, Prince of Tennis Trading Figure",
             "source": "Animonster 54 - September 2003",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Party / Night Event",
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -209,7 +213,10 @@
             "total_prize": "Rp7.500.000",
             "additional_event": "Hovercraft Exhibition by SMUN 8 students",
             "source": "Animonster 50 - Mei 2003",
-            "category": []
+            "category": [
+                "Talkshow / Seminar / Workshop",
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -536,7 +543,11 @@
             },
             "catatan_perjalanan": "Menggunakan Shinkansen untuk antar kota, durasi total 10 malam di Jepang",
             "source": "Animonster 57 - Desember 2003",
-            "category": []
+            "category": [
+                "Wisata / Trip Jepang",
+                "Tokusatsu / Kamen Rider",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Japan",
         "date_precision": "day",

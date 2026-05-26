@@ -56,7 +56,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -461,7 +461,9 @@
             "https://web.facebook.com/LuSca.ID/posts/pfbid0EgL2MUng4NCKAaHPwT5AkMswa1AACcjnSF7MxBRMDXhA55BfKADwXgBPVY34ffmBl"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -497,10 +499,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
-                "Cosplay Gathering",
-                "Budaya Live"
+                "Cosplay - Gathering / Parade / Casual"
             ],
             "organizer": "Program Studi Bahasa Jepang Universitas Widyatama",
             "theme": "Kisaragi no Seiya",
@@ -516,7 +517,7 @@
                 "09.19": "Soran Boshi",
                 "09.27": "Demo Shuji + Talk Show",
                 "09.51": "Penjelasan Tempat Pelaksanaan Lomba",
-                "10.11": "LOMBA COVER SING (Naira Nadira, Fahmi Akbar, Mikan, Riza Ibrahim, Aboi, Dinda Trisiana, Azha, Fachri Muchlasul A'mal, Zei, Fujiwara Essa, Sesey, Rieda Tismawaty, Keyko, Dori, \u00c3\u00a3\u00e2\u20ac\u0161\u00c2\u00a2\u00c3\u00a3\u00c6\u2019\u00c2\u00ab\u00c3\u00a3\u00c6\u2019\u00e2\u20ac\u00a2\u00c3\u00a3\u00e2\u20ac\u0161\u00c2\u00a3\u00c3\u00a3\u00c6\u2019\u00c2\u00bc, Dhilah, Yandi Firmansyah & Rian Andriansah, Gytrizz007, Sphynx, Dana Alata)",
+                "10.11": "LOMBA COVER SING (Naira Nadira, Fahmi Akbar, Mikan, Riza Ibrahim, Aboi, Dinda Trisiana, Azha, Fachri Muchlasul A'mal, Zei, Fujiwara Essa, Sesey, Rieda Tismawaty, Keyko, Dori, \u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u201a\u00c2\u00ab\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00a3\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u201a\u00c2\u00bc, Dhilah, Yandi Firmansyah & Rian Andriansah, Gytrizz007, Sphynx, Dana Alata)",
                 "11.00 - 16.15": "PELAKSANAAN LOMBA AKADEMIK (Paralel): Rodoku contest, Kana A Contest, Kana B Contest, Shuji Contest, Cerdas Cermat, Character Illustration",
                 "12.11": "REHAT",
                 "12.30": "JC Band",
@@ -636,7 +637,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -670,7 +673,7 @@
             "edition": 12,
             "estimated_attendance": "17600",
             "category": [
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -701,7 +704,9 @@
             "https://web.facebook.com/groups/251875943835/posts/10157461273113836/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -736,9 +741,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik Band Live",
-                "Cosplay Competition",
-                "Budaya Live"
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk"
             ],
             "organizer": "Dian Nuswantoro University (UDINUS)",
             "theme": "Seishun no Sekai",
@@ -812,7 +816,9 @@
             "https://web.facebook.com/groups/251875943835/posts/10157461273113836/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -842,7 +848,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -876,8 +884,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
                 "Cover Sing"
             ],
@@ -1023,9 +1031,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ],
             "theme": "JOGJA IDOL FESTIVAL & INDONESIAN COSPLAY GRANDPRIX",
             "guest_stars": {
@@ -1079,7 +1087,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1112,7 +1122,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Sakamichi Surabaya",
             "theme": "Sakamichi Surabaya Punya!!! 2nd Anniversary",
@@ -1174,7 +1184,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1205,7 +1217,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -1241,7 +1253,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing",
                 "Bazaar / Market"
@@ -1319,7 +1331,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1352,10 +1366,10 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Cosplay Competition",
-                "Talkshow / Seminar",
+                "Cosplay - Competition / Coswalk",
+                "Talkshow / Seminar / Workshop",
                 "Bazaar / Market",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Fakultas Ilmu Budaya Universitas Brawijaya",
             "theme": "Isshoni Tanoshimimashou 14: Sora no Bouken",
@@ -1452,7 +1466,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1487,10 +1503,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Cover Sing",
-                "Budaya Live"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Cover Sing"
             ],
             "organizer": "@nimats_unnes (UNNES)",
             "theme": "Nihon no Utsukushisa",
@@ -1561,7 +1576,7 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -1689,7 +1704,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
+                "Cosplay - Gathering / Parade / Casual",
                 "Fanmeet"
             ],
             "organizer": "@japancornerpolinema",
@@ -1759,10 +1774,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
                 "Cover Sing",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "@monogatariuty",
             "theme": "School of Magic",
@@ -1848,7 +1863,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -1879,7 +1894,9 @@
             "https://web.facebook.com/Ennichisai/posts/pfbid02fqcYobMuoHxTV2MkWXARhyquwiMx8ssPL5Ay1WF4AKkgqAWV32ZcRe7w1wJ4FoEdl"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2069,7 +2086,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Gathering"
+                "Cosplay - Gathering / Parade / Casual"
             ]
         },
         "location_country": "Indonesia",
@@ -2105,9 +2122,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
+                "Cosplay - Competition / Coswalk",
                 "Fanmeet",
-                "Talkshow / Seminar"
+                "Talkshow / Seminar / Workshop"
             ],
             "organizer": "Div. Bahasa dan Budaya Himahi Unisri",
             "description": "Jinsei Fest kembali hadir di tahun 2019 dengan tema 'Jinsei Wa Kibou Desu'.",
@@ -2203,7 +2220,9 @@
             "https://www.kaorinusantara.or.id/newsline/134143/gjui-25-walau-mati-listrik-ternyata-tetep-rame-dan-bikin-nostalgia"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2234,7 +2253,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -2266,7 +2285,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -2328,7 +2347,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2363,10 +2384,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Cover Sing",
-                "Budaya Live"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Cover Sing"
             ],
             "organizer": "SMAN 3 Malang",
             "theme": "Orihime to Hikoboshi no Monogatari",
@@ -2667,7 +2687,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -2700,7 +2720,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -2735,7 +2755,7 @@
             "edition": 13,
             "estimated_attendance": "20500",
             "category": [
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -2801,7 +2821,7 @@
         "Content": {
             "category": [
                 "Bazaar / Market",
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Party / Night Event"
             ],
             "organizer": "J-Music Lovers Kendari",
@@ -2849,12 +2869,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Cover Sing",
-                "Game / E-Sport",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": "Gadjah Mada Bunka Taika UGM",
@@ -2948,7 +2968,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3010,7 +3032,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3073,7 +3097,7 @@
         ],
         "Content": {
             "category": [
-                "Cosplay Competition"
+                "Cosplay - Competition / Coswalk"
             ]
         },
         "location_country": "Indonesia",
@@ -3235,7 +3259,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -3267,7 +3291,7 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -3427,12 +3451,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
                 "Fanmeet",
                 "Cover Sing",
                 "Bazaar / Market",
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ],
             "organizer": "Hikari Japan Club - SMAN 44 Jakarta",
             "theme": "HIKARI NO MATSURI (Tanabata Matsuri)",
@@ -3524,7 +3548,7 @@
         ],
         "Content": {
             "category": [
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -3563,8 +3587,8 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Game / E-Sport",
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament",
                 "Bazaar / Market"
             ],
             "organizer": "Mikata x Kishira OS x BNC",
@@ -3636,7 +3660,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Anime Convention"
+                "Convention / Expo / Comic Market"
             ]
         },
         "location_country": "Indonesia",
@@ -3708,9 +3732,9 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Game / E-Sport",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament",
                 "Bazaar / Market",
                 "Cover Sing"
             ],
@@ -3912,8 +3936,8 @@
         ],
         "Content": {
             "category": [
-                "Convention / Expo",
-                "Musik Band Live"
+                "Convention / Expo / Comic Market",
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -3947,8 +3971,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RFCREATE",
@@ -4042,9 +4066,9 @@
         "Content": {
             "category": [
                 "Fanmeet",
-                "Cosplay Competition",
-                "Musik / Anisong / Karaoke",
-                "Musik Band Live",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
                 "Festival / Matsuri",
                 "Bazaar / Market",
                 "Party / Night Event"
@@ -4283,7 +4307,9 @@
             "https://www.instagram.com/koreaxjapanstore/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4534,9 +4560,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
-                "Budaya Live",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "JKT48 Karawang x Karaage Otaku",
@@ -4638,10 +4663,10 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Gathering",
-                "Musik Band Live",
-                "Game / E-Sport",
-                "Talkshow / Seminar"
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance",
+                "Game / Esports Tournament",
+                "Talkshow / Seminar / Workshop"
             ],
             "theme": "Owari No Tabi",
             "edition": "2019",
@@ -4711,13 +4736,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Cosplay Competition",
-                "Musik Band Live",
-                "Musik / Anisong / Karaoke",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Musik - Anisong / Karaoke",
                 "Fanmeet",
                 "Cover Sing",
-                "Budaya Live",
-                "Talkshow / Seminar",
+                "Talkshow / Seminar / Workshop",
                 "Bazaar / Market"
             ],
             "organizer": "Himpunan Mahasiswa Program Studi D3 Bahasa Jepang dan S1 Bahasa dan Kebudayaan Jepang Universitas Diponegoro",
@@ -4832,7 +4856,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -4897,7 +4923,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RFCREATE",
@@ -4996,7 +5022,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5058,7 +5086,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5091,7 +5121,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RFCREATE",
@@ -5163,7 +5193,7 @@
         ],
         "Content": {
             "category": [
-                "Nobar"
+                "Anime - Screening / Nobar"
             ]
         },
         "location_country": "Indonesia",
@@ -5279,7 +5309,7 @@
             "category": [
                 "Festival / Matsuri",
                 "Fanmeet",
-                "Musik / Anisong / Karaoke",
+                "Musik - Anisong / Karaoke",
                 "Bazaar / Market"
             ],
             "organizer": "RFCREATE",
@@ -5383,7 +5413,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik Band Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -5541,7 +5571,7 @@
         ],
         "Content": {
             "category": [
-                "Musik Band Live",
+                "Musik - Band / Live Performance",
                 "Festival / Matsuri"
             ]
         },
@@ -5607,7 +5637,7 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Budaya Live"
+                "Musik - Band / Live Performance"
             ]
         },
         "location_country": "Indonesia",
@@ -5735,7 +5765,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -5795,7 +5827,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

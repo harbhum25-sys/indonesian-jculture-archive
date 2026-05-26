@@ -234,7 +234,9 @@
                 "Satellite Creative",
                 "J-Fans United"
             ],
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -520,7 +522,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -550,7 +554,9 @@
             ""
         ],
         "Content": {
-            "category": [],
+            "category": [
+                "Anime - Screening / Nobar"
+            ],
             "ticket_info": {
                 "monday_thursday": "Rp 50.000",
                 "friday": "Rp 60.000",
@@ -591,8 +597,7 @@
         "Content": {
             "category": [
                 "Gathering / Komunitas",
-                "Musik - Band / Live Performance",
-                "Performance Lainnya"
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Aozora Management",
             "theme": "AOZORA MINI GATH 2013",
@@ -646,7 +651,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -676,7 +683,9 @@
             "https://www.facebook.com/events/436262056448677/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -707,7 +716,9 @@
         ],
         "Content": {
             "organizer": "BEM Fakultas Hukum Unpad",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -866,7 +877,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1025,7 +1038,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1055,7 +1070,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1085,7 +1102,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1115,7 +1134,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1145,7 +1166,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1506,9 +1529,12 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Kebudayaan / Budaya Tradisional",
+                "Budaya Jepang - Seni Tradisional",
                 "Bazaar / Market",
                 "Cosplay - Competition / Coswalk"
+            ],
+            "performers": [
+                "Lumina Scarlet"
             ]
         },
         "location_country": "Indonesia",
@@ -1539,7 +1565,9 @@
             "https://web.facebook.com/events/653048194709373/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1623,7 +1651,9 @@
                 "Faint Star",
                 "Kirari"
             ],
-            "category": []
+            "category": [
+                "Budaya Jepang - Bahasa / Akademik"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1899,7 +1929,9 @@
             "https://web.facebook.com/permalink.php?story_fbid=10151532036487981&id=261419332980"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1964,7 +1996,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2058,7 +2092,9 @@
             "https://www.facebook.com/events/478632002222368/?ref=22"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2506,7 +2542,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2536,7 +2574,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2631,7 +2671,9 @@
             "https://web.facebook.com/photo/?fbid=698757060138631&set=g.442373135840352"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Wisata / Trip Jepang"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2702,6 +2744,63 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20131026",
+        "Start Time": "",
+        "End Date": "20131026",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "The Japanese Festival Rochi no Hori 3",
+        "Location": "Gedung SMAN 67 Jakarta",
+        "Comment": "JUKU bertindak sebagai salah satu sponsor dalam acara ini. Tata tertib mewajibkan penggunaan helm half-face serta melarang rokok, obat-obatan terlarang, dan alkohol.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "rochi_no_hori_3_sman67_2013_jkt",
+        "location_address": "Jalan Squadron No.35-36 Jalan Halim Perdana Kusuma, RW No.RT.3, RT.3/RW.4, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13610",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.275535980919699, 106.88661550924003",
+        "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/18TSemseax/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "67's Nihon Shakai / SMAN 67 Jakarta",
+            "ticket_info": {
+                "htm": "Presale: Rp 12.000 / OTS: Rp 15.000 + Sticker"
+            },
+            "guest_stars": [
+                "Obake",
+                "XShibuya",
+                "Momiji"
+            ],
+            "activities": [
+                "Cosplay Competition",
+                "Manga Competition",
+                "Dance Cover Competition",
+                "Design Character Competition",
+                "Band Competition",
+                "Lomba Makan Ramen",
+                "Special Performances"
+            ],
+            "contact": {
+                "general": [
+                    "0899-877-4493 (Dhimas)",
+                    "0857-7921-2504 (Fellycia)"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20131030",
         "Start Time": "11:00 AM",
         "End Date": "20131103",
@@ -2725,7 +2824,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Game / Esports Tournament"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3074,7 +3175,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Competition / Coswalk"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3233,7 +3336,9 @@
             "https://www.facebook.com/photo.php?fbid=708952942448859&set=a.616437308367090.1073741827.616426801701474&type=1"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

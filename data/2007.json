@@ -58,7 +58,7 @@
                 "Makanan Jepang"
             ],
             "Source": "Animonster 104 - November 2007, Page 107",
-            "Info_sumber": "Teru-teru Bozu Matsuri SMUN 20 Bandung diperkirakan berlangsung pada 23 September \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 7 Oktober 2007, berdasarkan lead time produksi Animonster edisi 104 (November 2007), anchor tanggal artikel KATTUNesia di halaman sama (1 September 2007), deadline cetak sekitar pertengahan Oktober, dan pola festival sekolah yang lazim diadakan pada akhir pekan awal semester ganjil",
+            "Info_sumber": "Teru-teru Bozu Matsuri SMUN 20 Bandung diperkirakan berlangsung pada 23 September \u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00c2\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00e2\u20ac\u00a6\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c 7 Oktober 2007, berdasarkan lead time produksi Animonster edisi 104 (November 2007), anchor tanggal artikel KATTUNesia di halaman sama (1 September 2007), deadline cetak sekitar pertengahan Oktober, dan pola festival sekolah yang lazim diadakan pada akhir pekan awal semester ganjil",
             "category": [
                 "Festival / Matsuri",
                 "Musik - Band / Live Performance"
@@ -148,7 +148,9 @@
                     "9Tenchi (band audisi terfavorit)"
                 ]
             },
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -191,7 +193,10 @@
                 "Jaiko"
             ],
             "event_details": "Gathering of Indo-Japan bands focused on Rock/J-Rock/J-Pop",
-            "category": []
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -606,7 +611,9 @@
                 "kostum": "Kostum karakter-karakter kartun Jepang"
             },
             "Organizer": "UKJ ITB",
-            "category": []
+            "category": [
+                "Musik - Anisong / Karaoke"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -679,7 +686,11 @@
             ],
             "Informasi Tambahan": "Tiket J-Shock Party seharga Rp 80.000",
             "Source": "Animonster 98 - Mei 2007, Halaman 104-105",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Anime - Screening / Nobar",
+                "Game / Esports Tournament"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -725,7 +736,9 @@
             },
             "prize": "Hadiah jutaan Rupiah",
             "source": "Animonster 97 - April 2007",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -870,7 +883,9 @@
                 ],
                 "source": "Animonster 98 - Mei 2007, Halaman 54"
             },
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -1099,7 +1114,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1273,7 +1291,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1308,7 +1329,9 @@
             "promo": "Diskon sampai dengan 50% dari transaksi senilai minimal Rp. 50.000,-",
             "deskripsi": "Pembukaan center kelas premium terbaru di Summarecon Gading Serpong.",
             "informasi_tambahan": "Timezone memiliki lebih dari 94 center di 50 kota dengan lebih dari 600 mesin game. Permainan dirancang memiliki unsur edukatif untuk mengasah kecerdasan majemuk anak.",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "source": "Animonster 102 - September 2007",
         "location_country": "Indonesia",
@@ -1405,7 +1428,9 @@
                 "(021) 83795370"
             ],
             "source": "Animonster 100 - Juli 2007",
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1460,7 +1485,11 @@
             "highlight_tradition": "Perayaan Tanaba di Jepang",
             "tagline": "From Oshin To Cosplay",
             "source": "Animonster edisi 102 September 2007, halaman 105",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby",
+                "Party / Night Event",
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1520,7 +1549,9 @@
                 "juara_3": "Dhias (Lagu: Ita Kono Kitaro)"
             },
             "source": "Animonster 102 - September 2007",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1758,7 +1789,9 @@
             "pengumuman_pemenang": "20 Juli 2007 di website JF",
             "pengambilan_sertifikat": "20 Juli - 10 Agustus 2007",
             "source": "Animonster 100 - Juli 2007, halaman 105",
-            "category": []
+            "category": [
+                "Anime - Screening / Nobar"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1792,7 +1825,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2008,7 +2044,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2066,7 +2105,9 @@
                 "Mr. Rizwan"
             ],
             "source": "Animonster 103 - Oktober 2007, halaman 90-91",
-            "category": []
+            "category": [
+                "Bazaar / Market"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2147,7 +2188,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2181,7 +2225,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2215,7 +2262,10 @@
                 "competitions": "Lomba Jingle Doraemon, Lomba Puzzle & Mewarnai, Lomba Fashion Show"
             },
             "source": "Animonster edisi 102 september 2007",
-            "category": []
+            "category": [
+                "Fanmeet",
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2278,7 +2328,9 @@
                 "Handphone"
             ],
             "source": "Animonster 108 - Maret 2008, halaman 128",
-            "category": []
+            "category": [
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2327,7 +2379,9 @@
                 "page": "106"
             },
             "source": "Animonster 102 - September 2007",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2713,7 +2767,9 @@
                 ],
                 "Official_Opening": "Dibuka oleh Ibu Meuthia Hatta (Menteri Negara Pemberdayaan Perempuan)"
             },
-            "category": []
+            "category": [
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2941,7 +2997,10 @@
             "sumber": [
                 "Animonster 106 - Januari 2008, halaman 128"
             ],
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional",
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3225,7 +3284,10 @@
             "jumlah_peserta": "Kurang lebih 100 orang",
             "keterangan_tambahan": "Acara bertujuan untuk memberikan pemahaman mengenai budaya Jepang modern kepada pengunjung.",
             "source": "Animonster 107 - Februari 2008, halaman 129",
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional",
+                "Anime - Convention / Fan Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3283,7 +3345,9 @@
                 "022-4205927"
             ],
             "source": "Animonster 106 - Januari 2008, halaman 066",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3335,7 +3399,9 @@
                 "Fireworks"
             ],
             "source": "Animonster 107 - Februari 2008, halaman 128",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3374,7 +3440,9 @@
                 "Narator: Bahasa Indonesia"
             ],
             "source": "Animonster 112 - Juli 2008, halaman 121",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3563,7 +3631,11 @@
                 "Cosplay": "Firda"
             },
             "Source": "Animonster 112 - Juli 2008, halaman 96",
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional",
+                "Tokusatsu / Kamen Rider",
+                "Party / Night Event"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

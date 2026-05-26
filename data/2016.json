@@ -55,7 +55,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -85,7 +87,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -334,7 +338,11 @@
                     "Index": 18
                 }
             ],
-            "category": []
+            "category": [
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Musik - Anisong / Karaoke"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -428,7 +436,9 @@
             "https://web.facebook.com/events/1930505667174628/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -584,7 +594,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -614,7 +626,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -676,7 +690,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -775,8 +791,8 @@
             "category": [
                 "Festival / Matsuri",
                 "Cosplay - Gathering / Parade / Casual",
-                "Pendidikan / Workshop",
-                "Performance Lainnya"
+                "Talkshow / Seminar / Workshop",
+                "Musik - Band / Live Performance"
             ],
             "organizer": "Himanika (Himpunan Mahasiswa Bahasa Jepang Universitas Widyatama)",
             "theme": "TAMAHARI - Widyatama Haru Matsuri 2016",
@@ -882,7 +898,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -945,7 +963,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1005,10 +1025,12 @@
         "location_coordinate": "-6.2441224266000726, 106.79901538294986",
         "location_gmaps": "https://goo.gl/maps/oTCN95eSf7fH48wVA",
         "links": [
-            ""
+            "https://web.facebook.com/events/841280512654396/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1040,7 +1062,9 @@
             "https://web.facebook.com/INOBUSMANSASI/photos/a.554127491285137/1137027489661798/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1292,7 +1316,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1322,7 +1348,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1352,7 +1380,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Cosplay - Gathering / Parade / Casual"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1482,7 +1512,10 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Buka Bersama / Ramadan",
+                "Gathering / Komunitas"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1512,7 +1545,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1650,7 +1685,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1680,7 +1717,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1710,7 +1749,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2002,8 +2043,7 @@
                 "Musik - Band / Live Performance",
                 "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
-                "Bazaar / Market",
-                "Performance Lainnya"
+                "Bazaar / Market"
             ],
             "organizer": "Himpunan Mahasiswa Djepang Unpad (Himade)",
             "theme": "Fesbukan 5 - Matsuri (Festival Budaya & Pendidikan 5)",
@@ -2012,7 +2052,7 @@
             "location": "Pusat Studi Bahasa Jepang (PSBJ) Fakultas Ilmu Budaya Universitas Padjadjaran, Jatinangor",
             "date": "Sunday, October 9 2016",
             "rundown": {
-                "open_gate": "10.00 WIB \u00e2\u20ac\u201c drop!"
+                "open_gate": "10.00 WIB \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 drop!"
             },
             "ticket_info": {
                 "presale_2": "IDR 20K",
@@ -2088,10 +2128,91 @@
         "location_coordinate": "-6.275535980919699, 106.88661550924003",
         "location_gmaps": "https://goo.gl/maps/vsCd2DuXFjv5u5oM8",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/1B1RTZ5kHo/",
+            "https://web.facebook.com/share/1LDPZwpv6N/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Maid Cafe / Obake"
+            ],
+            "organizer": "67's Nihon Shakai",
+            "theme": "Harouin Seishun no Mahou",
+            "edition": "Rochi No Hori 6",
+            "description": "Festival Jepang tahunan tingkat sekolah bertema Halloween (Harouin) yang diselenggarakan oleh komunitas Nihon Shakai SMAN 67 Jakarta Timur. Acara ini memadukan panggung pertunjukan musik, berbagai wahana khas kultur pop seperti Obake dan Maid Cafe, serta rangkaian kompetisi kreatif dengan sesi audisi pra-acara.",
+            "date": "Sabtu, 29 Oktober 2016",
+            "venue": "SMAN 67 Halim Perdana Kusuma, Jakarta Timur",
+            "guest_stars": [
+                "Popstripe",
+                "Henohenomoheji",
+                "Kira Kira (KK)",
+                "Lumina Scarlet"
+            ],
+            "special_performances": [
+                "Shadow Cosplay Team",
+                "Lia Club",
+                "Anime Vektor Art with Inu-Kun"
+            ],
+            "judges": {
+                "cosplay_judge": [
+                    "Rikku Tachibana"
+                ]
+            },
+            "competitions": [
+                "Band",
+                "Manga",
+                "Cosplay",
+                "Karaoke",
+                "Dance Cover",
+                "Design Character",
+                "Fanfiction"
+            ],
+            "on_the_day_competitions": [
+                "Costreet",
+                "Onigiri Challenge",
+                "Janken Tournament"
+            ],
+            "audition_details": {
+                "audition_date": "22 Oktober 2016",
+                "band_audition": {
+                    "registration_fee": "Rp. 100.000,-",
+                    "rules": "Terbuka untuk umum, durasi max 15 menit, membawakan 2 lagu (1 lagu bernuansa Jepang), tidak mengandung SARA/pornografi, pemenang wajib tampil di panggung utama",
+                    "contact": "Danial (085891741607 / Line: Devilbat666)"
+                },
+                "karaoke_audition": {
+                    "registration_fee": "Rp. 50.000 (grup max 3 orang) / Rp. 30.000 (solo)",
+                    "rules": "Terbuka untuk umum, durasi max 6 menit, membawa instrumen off-vocal sendiri, lagu wajib berbahasa Jepang asli, pemenang wajib tampil di panggung utama",
+                    "contact": "Luthfan (087876730424 / Line: Lag1010)"
+                }
+            },
+            "attractions": [
+                "Obake (House of Ghosts)",
+                "Comic Room",
+                "Maid Cafe",
+                "Photo Spots",
+                "Japanese Food & Merchandise Stands"
+            ],
+            "ticket_info": {
+                "presale": "12.000 IDR",
+                "on_the_spot": "15.000 IDR (+ Sticker)"
+            },
+            "event_rules": [
+                "Use halfface helmet",
+                "No smoking, drugs and alcohol"
+            ],
+            "sponsors": [
+                "Salemba Group (SG)",
+                "Ultra Milk",
+                "Baraka"
+            ],
+            "social_media": {
+                "twitter": "@rochinori",
+                "blog": "rochinohori.blogspot.com",
+                "line_oa": "@saa5619x"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2154,7 +2275,9 @@
             ""
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2282,7 +2405,9 @@
             "https://www.facebook.com/Musashi10shs/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2613,7 +2738,9 @@
                 "eo_name": "Nathalia Christina. M.T",
                 "notes": "BEC tidak akan bekerja sama lagi sebagai media partner."
             },
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3167,7 +3294,9 @@
             "https://web.facebook.com/Japanoize/photos/a.520604444746063/803482556458249/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",

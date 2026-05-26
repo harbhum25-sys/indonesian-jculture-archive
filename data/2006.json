@@ -190,7 +190,11 @@
                 "juara_2": "Fuu Houji dan Kamen Rider Taiga",
                 "juara_favorit": "Cloud Strife"
             },
-            "category": []
+            "category": [
+                "Tokusatsu / Kamen Rider",
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -242,7 +246,9 @@
                 "Perfect Blue"
             ],
             "detail_tambahan": "Acara berlangsung selama 3 hari dari tanggal 8 hingga 10 Desember 2005. Pada hari Kamis acara dibuka dengan workshop origami dan doujinshi. Pada hari Jumat diadakan audisi band. Pada hari Sabtu diadakan peragaan Aikido dan berbagai penampilan band.",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -338,7 +344,9 @@
                 "Karakter film Narnia"
             ],
             "Ice Blocks": "65000 balok es",
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -379,7 +387,9 @@
                 "Arti Kehidupan",
                 "Bagaimana Teknologi Informasi di Asia"
             ],
-            "category": []
+            "category": [
+                "Toy / Figure / Hobby"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -888,7 +898,9 @@
                 "tour_name": "One Love, One Day, One Life!",
                 "disbanding_announcement": "23 Maret 2006"
             },
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -998,7 +1010,9 @@
                 "band Shin",
                 "band XYZO"
             ],
-            "category": []
+            "category": [
+                "Budaya Jepang - Seni Tradisional"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1273,7 +1287,9 @@
                 "Nissa",
                 "Thina"
             ],
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1320,7 +1336,9 @@
                 "one_day_pass": "25 USD",
                 "three_day_pass": "35 USD"
             },
-            "category": []
+            "category": [
+                "Convention / Expo / Comic Market"
+            ]
         },
         "location_country": "USA",
         "date_precision": "day",
@@ -1355,7 +1373,9 @@
             ],
             "source": "Animonster 86 - Mei 2006",
             "event_goal": "Mewujudkan impian menjadi juara dunia dan tiket bertanding dalam ajang ESCW Pro Evolution Soccer World Cup 2006 di Paris, Prancis",
-            "category": []
+            "category": [
+                "Game / Esports Tournament"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1509,7 +1529,9 @@
                 "Hanabi",
                 "Bon odori"
             ],
-            "category": []
+            "category": [
+                "Festival / Matsuri"
+            ]
         },
         "date_precision": "day",
         "source_status": "archived"
@@ -1928,7 +1950,9 @@
             "activities": "Live music lagu Jepang, lelang amal personil band, lelang merchandise, pengumpulan sumbangan sembako, uang, dan pakaian untuk korban gempa Yogyakarta",
             "ticket_info": "Tiket masuk berupa sumbangan bebas (sembako, uang, baju layak pakai)",
             "source": "Animonster 88 - Juli 2006",
-            "category": []
+            "category": [
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2983,7 +3007,10 @@
                 "highlights": "Orchestral performance of Final Fantasy music",
                 "performance_notes": "Band Wasabi performed J-Rock, though sound quality was suboptimal due to acoustics."
             },
-            "category": []
+            "category": [
+                "Bazaar / Market",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3240,7 +3267,9 @@
             ],
             "press_conference_details": "Invite animation film maker, Invite National TV Director, Invite Journalist",
             "national_championship_details": "MURI certificate attempt, Final Beyblade Championship, Popular Group Band Performance, Screening Preview",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3480,7 +3509,11 @@
                 },
                 "sponsor": "The Face Shop"
             },
-            "category": []
+            "category": [
+                "Launching / Grand Opening",
+                "Fanmeet",
+                "Musik - Band / Live Performance"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3640,7 +3673,9 @@
                 "Penjelasan manfaat snack bagi manajemen stres dan energi positif"
             ],
             "source": "Animonster 95 - Februari 2007, Halaman 110",
-            "category": []
+            "category": [
+                "Launching / Grand Opening"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
