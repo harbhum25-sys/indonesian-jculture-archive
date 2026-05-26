@@ -1137,26 +1137,27 @@
         "Start Date": "20040526",
         "Start Time": "",
         "End Date": "20040530",
-        "End Time": "",
+        "End Time": "21:00",
         "Reminder On/Off": "No",
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "PERANG KOMIK",
-        "Location": "Gema Usakti",
+        "Subject": "PDKT TRISAKTI (Pameran dan Diskusi Komik Trisakti) - PERANG KOMIK",
+        "Location": "Gelanggang Mahasiswa (Gema) Kampus A Universitas Trisakti",
         "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
-        "_id": "knrjyv_8",
+        "_id": "gmgqjd_5",
         "location_address": "Jl. Kyai Tapa No.1 6, RT.6/RW.16, Tomang, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11440",
         "location_city": "Jakarta Barat",
-        "location_coordinate": "-6.167130182982296, 106.79054464886309",
-        "location_gmaps": "https://maps.app.goo.gl/VaRTvY6vaSjgkUxr8",
+        "location_coordinate": "-6.1671273496584895, 106.79054201236193",
+        "location_gmaps": "https://maps.app.goo.gl/4LBFmwhTt71xShwZA",
         "links": [
             ""
         ],
         "Content": {
+            "organizer": "Desarupa Comic Society (DCS) FSRD Usakti dan Masyarakat Komik Indonesia (MKI)",
             "presenter": "FSRD TRISAKTI",
             "pameran_studio": [
                 "Bengkel Qomik",
@@ -1195,40 +1196,6 @@
                 "seventeen INDONESIA",
                 "ANIMONSTER"
             ],
-            "source": "Animonster 63 - Juni 2004",
-            "category": [
-                "Anime - Convention / Fan Event"
-            ]
-        },
-        "location_country": "Indonesia",
-        "date_precision": "day",
-        "source_status": "archived"
-    },
-    {
-        "Start Date": "20040526",
-        "Start Time": "",
-        "End Date": "20040530",
-        "End Time": "21:00",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "PDKT TRISAKTI (Pameran dan Diskusi Komik Trisakti) - PERANG KOMIK",
-        "Location": "Gelanggang Mahasiswa Kampus A Universitas Trisakti",
-        "Comment": "",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "",
-        "_id": "gmgqjd_5",
-        "location_address": "Jl. Kyai Tapa No.1 6, RT.6/RW.16, Tomang, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11440",
-        "location_city": "Jakarta Barat",
-        "location_coordinate": "-6.1671273496584895, 106.79054201236193",
-        "location_gmaps": "https://maps.app.goo.gl/4LBFmwhTt71xShwZA",
-        "links": [
-            ""
-        ],
-        "Content": {
-            "organizer": "Desarupa Comic Society (DCS) FSRD Usakti dan Masyarakat Komik Indonesia (MKI)",
             "theme": "PERANG KOMIK",
             "event_highlights": {
                 "exhibition": "Diikuti oleh 20 studio komik se-Pulau Jawa (Bandung, Jakarta, Semarang, Malang)",
@@ -1243,7 +1210,10 @@
                 "workshop_instructors": "Komikus dari MKI, Alfi Zachkyelle, dan Papillon Studio"
             },
             "participating_studios": "Alfi Zachkyelle, T.Wolv, Papillon Studio, Eyes Studio, Bengkel Qomik, RIPComic, Altis Studio, ORET101, Badjak Laoet, Sekte Komik, Random Artist Junction, Basis Komik, JAM Studio, Studio Tawon, Studio Sempit, Ontong Abung, MKI, Swacomsta, Studio X-Go",
-            "source": "Animonster 64 - Juli 2004",
+            "source": [
+                "Animonster 63 - Juni 2004",
+                "Animonster 64 - Juli 2004"
+            ],
             "category": [
                 "Talkshow / Seminar / Workshop"
             ]

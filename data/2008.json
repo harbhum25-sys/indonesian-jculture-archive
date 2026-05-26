@@ -1,5 +1,44 @@
 [
     {
+        "Start Date": "20080000",
+        "End Date": "",
+        "Start Time": "20080000",
+        "End Time": "",
+        "Subject": "Sashimi I: Teknogenik",
+        "Location": "Universitas Widyatama, Bandung",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "sashimi_2008",
+        "location_address": "Jl. Cikutra No.204A, Sukapada, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40125",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.897720164368746, 107.64543348295432",
+        "location_gmaps": "https://g.page/universitas-widyatama",
+        "links": [],
+        "location_country": "Indonesia",
+        "date_precision": "year",
+        "source_status": "contributed",
+        "contributor_note": "Tahun 2008 dikonfirmasi oleh @robertho.el (alumni Japan Community Widyatama) sebagai tahun pertama Sashimi. Tanggal dan bulan belum diketahui \u00e2\u20ac\u201d poster fisik era 2008\u00e2\u20ac\u201c2010 tidak ditemukan dalam format digital (@ericloki). Tema 'Teknogenik' (\u00e3\u0192\u2020\u00e3\u201a\u00af\u00e3\u0192\u017d\u00e3\u201a\u00b8\u00e3\u201a\u00a7\u00e3\u0192\u2039\u00e3\u0192\u0192\u00e3\u201a\u00af) dikonfirmasi dari poster resmi Sashimi XIII yang memuat rekap semua edisi.",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cover Band / Musik"
+            ],
+            "deskripsi": "Sashimi edisi pertama yang diselenggarakan oleh Japan Community (JC) Universitas Widyatama, Bandung. Bertema 'Teknogenik' (\u00e3\u0192\u2020\u00e3\u201a\u00af\u00e3\u0192\u017d\u00e3\u201a\u00b8\u00e3\u201a\u00a7\u00e3\u0192\u2039\u00e3\u0192\u0192\u00e3\u201a\u00af). Merupakan awal dari rangkaian event tahunan Sashimi yang berlangsung hingga edisi ke-13 (2026). Pada edisi ini terjadi insiden: drummer band peserta ('si Jati') pingsan saat tampil \u00e2\u20ac\u201d belakangan diketahui ketua acara belum tidur semalaman.",
+            "organizer": "Japan Community (JC) Universitas Widyatama",
+            "tema": "\u00e3\u0192\u2020\u00e3\u201a\u00af\u00e3\u0192\u017d\u00e3\u201a\u00b8\u00e3\u201a\u00a7\u00e3\u0192\u2039\u00e3\u0192\u0192\u00e3\u201a\u00af",
+            "tema_romaji": "Teknogenik",
+            "seri": "Sashimi",
+            "edisi": "I",
+            "catatan_historis": [
+                "Tahun pertama Sashimi \u00e2\u20ac\u201d dikonfirmasi @robertho.el yang menjadi panitia dari 2008 sampai selesai kuliah.",
+                "Drummer peserta cover band bernama 'si Jati' pingsan saat tampil; penyebab: ketua acara belum tidur semalaman.",
+                "Poster fisik era 2008\u00e2\u20ac\u201c2010 diperkirakan hanya dicetak, tidak tersimpan dalam format digital.",
+                "Tanggal pasti belum diperoleh \u00e2\u20ac\u201d menunggu konfirmasi dari alumni atau arsip kampus."
+            ]
+        }
+    },
+    {
         "Start Date": "20080108",
         "Start Time": "",
         "End Date": "20080119",
