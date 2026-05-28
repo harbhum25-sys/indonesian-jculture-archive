@@ -21130,6 +21130,65 @@
         }
     },
     {
+        "Start Date": "20260529",
+        "Start Time": "",
+        "End Date": "20260614",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "kaBOGORFEST 2026",
+        "Location": "Stadion Pakansari",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "kabogorfest_pakansari_2026",
+        "location_address": "Jl. Ipik Gandamana No.26, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16915",
+        "location_city": "Bogor",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.4949211651185905, 106.83332106488494",
+        "location_gmaps": "https://maps.app.goo.gl/KKkLrjq9XuNDpnu78",
+        "links": [
+            "https://www.instagram.com/kabogorfest_2026",
+            "https://www.instagram.com/p/DYwFpgnR7Ny/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Community / Hobby Gathering",
+                "Exhibition / Expo"
+            ],
+            "organizer": "Pemerintah Kabupaten Bogor",
+            "performers": [
+                "Soulplay",
+                "Dino Dz (Gitaris Iwan Fals)",
+                "Whisperfall",
+                "Juke",
+                "Wirrast",
+                "Savinka",
+                "Bulie",
+                "Ametta"
+            ],
+            "activities": [
+                "Bazzar",
+                "Music Festival",
+                "Kesenian Budaya",
+                "Pelayanan Publik",
+                "Japanese Culture",
+                "Workshops",
+                "Skateboarding",
+                "Talkshows",
+                "Senam Pagi",
+                "Tabligh Akbar",
+                "Comedy Entertainment"
+            ],
+            "description": "Diselenggarakan dalam rangka Hari Jadi Bogor ke-544. Rangkaian acara berlangsung selama beberapa minggu dengan berbagai aktivitas multikultural dan pelayanan masyarakat."
+        }
+    },
+    {
         "Start Date": "20260530",
         "Start Time": "10:00",
         "End Date": "20260530",
@@ -21140,7 +21199,7 @@
         "Importance": "",
         "Subject": "Sinema Perpusnas Bulan Mei: Okko's Inn",
         "Location": "Teater Mini Lt. 8, Perpustakaan Nasional",
-        "Comment": "",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
@@ -22391,7 +22450,8 @@
         "location_gmaps": "https://maps.app.goo.gl/5R4w17bYmnzUK1cp7",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DYMzO9ZD-bs/"
+            "https://www.instagram.com/p/DYMzO9ZD-bs/",
+            "https://www.instagram.com/p/DY4nUvbjxmy/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -22408,7 +22468,14 @@
             "social_media": {
                 "instagram": "@akemiofficial.id"
             },
-            "web_link": "mez.ink/akemiid.official"
+            "web_link": "mez.ink/akemiid.official",
+            "rundown": {
+                "12.00": "Open Gate",
+                "13.00": "Akemi ID Showtime",
+                "15.30": "Break",
+                "16.00": "Cheki",
+                "17.30": "Clear Area"
+            }
         }
     },
     {
@@ -23003,6 +23070,60 @@
     },
     {
         "Start Date": "20260607",
+        "Start Time": "15:00",
+        "End Date": "20260607",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pop Culture Festival: Anime, Game, Movie Universe",
+        "Location": "Indogrosir Bali",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "pop_culture_festival_indogrosir_bali_2026",
+        "location_address": "Jl. Raya Batubulan No.11, Batubulan, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",
+        "location_city": "Bali",
+        "location_country": "Indonesia",
+        "location_coordinate": "-8.627686563810371, 115.25834858110399",
+        "location_gmaps": "https://maps.app.goo.gl/5h1wzDQmV8i5B8iG6",
+        "links": [
+            "https://www.instagram.com/p/DYzBnecSuCb/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Dance / Performance"
+            ],
+            "organizer": "XOXO Management",
+            "co_organizer": "Indogrosir Bali",
+            "cosplay_judges": [
+                "Dewani",
+                "Sisy"
+            ],
+            "performers": [
+                "KNH0048",
+                "Nikeba Yosakoi"
+            ],
+            "activities": [
+                "Coswalk Competition",
+                "Idol Dance Performance",
+                "Yosakoi Traditional Dance Performance"
+            ],
+            "contact": {
+                "whatsapp": [
+                    "0857-3523-4023 (Ken)",
+                    "0819-4649-4488"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260607",
         "Start Time": "",
         "End Date": "20260607",
         "End Time": "",
@@ -23157,20 +23278,55 @@
         "links": [
             "https://www.instagram.com/p/DWLdymHkwpE/",
             "https://www.instagram.com/p/DWYBr5hE7Wr/",
+            "https://www.instagram.com/p/DY3PwN8gSF_/",
             "bit.ly/PresaleAnisession"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Musik - Anisong / Karaoke",
+                "Musik - J-Pop / DJ / Anisong",
+                "Dance / Performance",
                 "Fanmeet"
             ],
-            "guest_stars": [
-                "CAPRISTAR"
+            "organizer": "BAKURA (Bangawan Anikura Community)",
+            "support": [
+                "Nakatomo Wear",
+                "Solopos Media Group",
+                "Honkerr"
             ],
             "ticket_info": {
                 "presale": "30 K"
             },
+            "guest_stars": [
+                "Senbatsu Cosura (@senbatsucosura)",
+                "Capristar (@_capristar_)"
+            ],
+            "performers": [
+                "E-qourz (@eqourz)",
+                "Amoris Dance Official (@amoris.dance.official)",
+                "Candys (@official_candys)",
+                "Revolt Stray Squad ID (@revoltstraysquad_id)",
+                "Subarashi Reborn (@subarashi_reborn)",
+                "Wayashooooo (@wayashooooo)",
+                "Ara Project",
+                "Starlight (@apx.starlight)",
+                "Re.Groovy (@re.groovy)",
+                "Magna Chaser (@magna_chaser)",
+                "Ryxnia (@ryxnia)",
+                "Youwabe (@youwabe_)",
+                "Kusanagi / Ibnu Kusanagi (@ibnu_kusanagi)",
+                "Hoshiyasa / Bintang Tatank (@bintang.tatank)",
+                "Senkawa (@senkawadesu)",
+                "Gzkn / Bagas Gzkn (@bagas.gzkn)"
+            ],
+            "mcs": [
+                "Rafly / Rafly H.P (@rafly_h.p)"
+            ],
+            "activities": [
+                "Anikura Session / DJ Performance",
+                "2.5D Dance Cover Performance",
+                "Live Performance Music & Dance"
+            ],
             "contact": {
                 "whatsapp": "0887-0680-3191 (Radit)"
             }
@@ -23217,6 +23373,72 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260607",
+        "Start Time": "15:00",
+        "End Date": "20260607",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yamaha Classy Cosplay Festival",
+        "Location": "Main Atrium Royal Plaza, Surabaya",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "yamaha_classy_cosplay_festival_royal_plaza_2026",
+        "location_address": "Jl. Ahmad Yani, Wonokromo, Kec. Wonokromo, Kota SBY, Jawa Timur 60243",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.30918100627443, 112.73420569409235",
+        "location_gmaps": "https://goo.gl/maps/nSq7QsaDmZ3diHsWA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DY4JtFaEfqW/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Yamaha",
+            "co_organizer": "PT. STSJ",
+            "support": "A.C.O.S",
+            "ticket_info": {
+                "htm": "FREE (GRATIS)"
+            },
+            "guest_stars": [
+                "Baby Metal Surabaya",
+                "HT One"
+            ],
+            "cosplay_judges": [
+                "Josafat Chrisdianto",
+                "Zeroxia",
+                "Unu"
+            ],
+            "mcs": [
+                "Mr Noct",
+                "Jhey"
+            ],
+            "activities": [
+                "Cosplay Competition",
+                "Coswalk Competition",
+                "Fun Karaoke / Fun Japan Song",
+                "Idol Performance",
+                "Doorprize Merch Yamaha"
+            ],
+            "contact": {
+                "whatsapp": "0895-6323-32915",
+                "instagram": [
+                    "@yamahafriends",
+                    "@acos.id"
+                ]
+            },
+            "description": "Pendaftaran kompetisi gratis dengan total hadiah up to 4 juta rupiah. Open registrasi peserta dilangsungkan pukul 13.00 - 15.00 WIB."
+        }
     },
     {
         "Start Date": "20260612",
@@ -23407,6 +23629,65 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260614",
+        "Start Time": "",
+        "End Date": "20260614",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "IBAN COMMFEST VOL.3 (Ibento Kanri Communication Festival)",
+        "Location": "Taman Budaya",
+        "Comment": "Festival komunikasi dengan tema Jejepangan bertajuk Natsu No Summer Matsuri.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "iban_commfest_vol3_2026_lpg",
+        "location_address": "Taman Budaya Provinsi Lampung, Jl. Drs. Warsito No.72, Kupang Kota, Kec. Telukbetung Utara, Kota Bandar Lampung, Lampung 35211",
+        "location_city": "Bandar Lampung",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DYwkAFHRO4_/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - J-Pop / DJ / Anisong",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Ibento Kanri (Event Management) / Mahasiswa Komunikasi",
+            "special_guest": [
+                "DJ GIYA"
+            ],
+            "performers": [
+                "DDC48",
+                "BE THE ONE",
+                "YOASABI",
+                "TEAM ROCKET / TIM ROKET"
+            ],
+            "cosplay_and_community_guests": [
+                "Alwi Nef",
+                "Nexon",
+                "Miruru",
+                "Interlunium",
+                "Shirolism"
+            ],
+            "activities": [
+                "Coswalk",
+                "Live Performance Music & Dance",
+                "Community Gathering"
+            ],
+            "contact": {
+                "instagram": "@iban_commfest",
+                "tiktok": "@iban_commfest"
+            }
+        }
     },
     {
         "Start Date": "20260614",
@@ -23727,6 +24008,48 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260619",
+        "Start Time": "10:00",
+        "End Date": "20260621",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hobicon 2026",
+        "Location": "Transmart Mataram",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "hobicon_transmart_mataram_2026",
+        "location_address": "Jl. Selaparang, Mayura, Kec. Cakranegara, Kota Mataram, Nusa Tenggara Bar. 83236",
+        "location_city": "Mataram",
+        "location_country": "Indonesia",
+        "location_coordinate": "-8.59014698969659, 116.14582322308576",
+        "location_gmaps": "https://maps.app.goo.gl/2jaXVn869Ug77C6o6",
+        "links": [
+            "https://www.instagram.com/nesianet.ntb/reel/DYZUHyRAcya/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance / Performance",
+                "Musik - Idol / VTuber"
+            ],
+            "organizer": "Hobby and Community Connect (Hobicon)",
+            "co_organizer": "Inspira",
+            "activities": [
+                "Cosplay Competition",
+                "Coswalk Competition",
+                "K-Pop Dance Cover Competition",
+                "Tenant / Booth Bazaar",
+                "Community Gathering"
+            ]
+        }
     },
     {
         "Start Date": "20260620",
@@ -24459,6 +24782,49 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20260704",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fuku Fest",
+        "Location": "Balikpapan Ocean Square",
+        "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "fuku_fest_bos_balikpapan_2026",
+        "location_address": "Jl. Jenderal Sudirman, Pasar Baru, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur",
+        "location_city": "Balikpapan",
+        "location_coordinate": "-1.2777839600345369, 116.84144407347694",
+        "location_gmaps": "https://goo.gl/maps/p4DpXyyXq3Yk2ygH6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DYzDu5MJH9A/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Game / E-Sports Tournament"
+            ],
+            "organizer": "Fuku Fest",
+            "activities": [
+                "Esports & community activities",
+                "Networking & collaboration space",
+                "Bazaar Local brand & UMKM",
+                "Entertainment & special performances",
+                "Creative experience & interactive vibes",
+                "Creator Market",
+                "Trading Card Game (TCG)"
+            ],
+            "description": "Event kolaboratif untuk membangun ekosistem dan komunitas perwibuan di Kalimantan Timur, khususnya Balikpapan."
+        }
+    },
+    {
         "Start Date": "20260711",
         "Start Time": "",
         "End Date": "20260712",
@@ -24633,19 +24999,19 @@
             "organizer": "Celestine Organizer",
             "edition": "3rd Stage",
             "theme": "Saiko no Odori Matsuri",
-            "description": "Event komunitas dance dan budaya pop Jepang di Bandung Indah Plaza yang menghadirkan Random Play Dance, DJ Anikura, kompetisi dance cover, dan penampilan dance cover dari komunitas.",
-            "activities": {
-                "main_events": [
-                    "Random Play Dance",
-                    "DJ Anikura",
-                    "Dance Cover Competition",
-                    "Dance Cover Performance"
-                ]
+            "description": "Event komunitas dance dan budaya pop Jepang di Bandung Indah Plaza yang menghadirkan Random Play Dance, DJ Anikura, kompetisi dance cover, dan penampilan dance cover dari komunitas.Pengumuman perubahan konten resmi untuk Celfest 3rd Stage!!! yang kini dialihkan agar lebih fokus menghadirkan pengalaman kompetisi terbaik bagi para penari. Melalui penyesuaian ini, sesi Dance Cover Performance resmi ditiadakan dan diganti penuh oleh lini kompetisi serta aktivitas dansa komunitas.",
+            "status": "Content Adjustment / Perubahan Konten Acara",
+            "cancellation_details": {
+                "removed_content": "Dance Cover Performance"
             },
-            "competition": {
-                "dance_cover": {
-                    "registration_status": "Link pendaftaran menyusul"
-                }
+            "activities": [
+                "Dance Cover Competition",
+                "Random Play Dance",
+                "DJ Anikura Session"
+            ],
+            "partnership_info": {
+                "status": "Open for Community & Media Partner",
+                "registration_form": "https://s.id/celfest3-cmp"
             },
             "community_partners": {
                 "open_for": [

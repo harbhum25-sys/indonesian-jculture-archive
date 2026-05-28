@@ -690,6 +690,62 @@
     },
     {
         "Start Date": "20150404",
+        "Start Time": "13:00",
+        "End Date": "20150404",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunka no Hi 2015: Japanese Culture Day",
+        "Location": "Sunken Court ITB",
+        "Comment": "Acara ini merupakan pra-event atau pre-event dari festival Hotaru.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bunka_no_hi_ukj_itb_2015",
+        "location_address": "Jl. X, Lebak Siliwangi, Kota Bandung, Jawa Barat",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888114661546407, 107.61039635411883",
+        "location_gmaps": "https://goo.gl/maps/ntb1F1cQhnxvpN8J8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1FBBoQx7Fg/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Dance / Performance",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "Unit Kebudayaan Jepang (UKJ) ITB",
+            "ticket_info": {
+                "htm": "FREE ENTRY"
+            },
+            "performances": [
+                "Natsu Matsuri",
+                "Yosakoi Jima",
+                "Matsuri Danshaku",
+                "Sagamihara",
+                "Souran bushi",
+                "Bon Odori",
+                "Cosplay Cabaret",
+                "Band"
+            ],
+            "activities": [
+                "Odori",
+                "Manga Display",
+                "Photobooth Yukata",
+                "Food Stand / Stand Makanan Jepang"
+            ],
+            "contact": {
+                "twitter": "@UKJ_ITB"
+            }
+        }
+    },
+    {
+        "Start Date": "20150404",
         "Start Time": "12:00 AM",
         "End Date": "20150405",
         "End Time": "12:00 AM",

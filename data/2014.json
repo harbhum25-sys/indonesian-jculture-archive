@@ -380,6 +380,58 @@
     },
     {
         "Start Date": "20140329",
+        "Start Time": "",
+        "End Date": "20140329",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunka no Hi 2014: Culture Day",
+        "Location": "Lapangan Cinta ITB",
+        "Comment": "Acara diselenggarakan di Lapangan Cinta (disebut juga Lapangan Segitiga) Institut Teknologi Bandung. Berfungsi sebagai acara pra-event resmi menuju festival utama HOTARU.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bunka_no_hi_ukj_itb_2014",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.8916344441454305, 107.610777117188",
+        "location_gmaps": "https://goo.gl/maps/K2X9NgrzK4C8kK3p8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1D7tWqJweb/",
+            "https://web.facebook.com/share/1EEGpyXVjE/",
+            "https://web.facebook.com/share/18aj9RkRGp/",
+            "http://www.thejapanfair.com"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Dance / Performance"
+            ],
+            "organizer": "UKJ (Unit Kesenian Jepang) ITB",
+            "guest_stars": [
+                "Tamu dari Jepang (Penampil Tari Jaipong dengan Kimono)"
+            ],
+            "performances": [
+                "Souran Bushi",
+                "Tankobushi"
+            ],
+            "activities": [
+                "17 Penampilan Budaya Jepang (Tarian & Tarik Suara)",
+                "Pondok Makanan dan Minuman (Indonesia & Jepang)",
+                "Nihongo Battle (Lomba Shuji dengan kanji 'Tamashii')"
+            ],
+            "contact": {
+                "twitter": "@Hotaru_ITB",
+                "facebook": "The Japan Fair ITB"
+            }
+        }
+    },
+    {
+        "Start Date": "20140329",
         "Start Time": "1:00 AM",
         "End Date": "20140329",
         "End Time": "5:00 AM",

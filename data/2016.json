@@ -623,12 +623,31 @@
         "location_coordinate": "-6.892322243487059, 107.61102770000001",
         "location_gmaps": "https://goo.gl/maps/4KeYdMiiZaS6UBbr9",
         "links": [
-            ""
+            "https://web.facebook.com/share/18oNiLerSz/"
         ],
         "Content": {
             "category": [
+                "Festival / Matsuri",
+                "Bunkasai / Festival Sekolah",
+                "Dance / Performance",
                 "Musik - Band / Live Performance"
-            ]
+            ],
+            "organizer": "Unit Kebudayaan Jepang (UKJ) ITB",
+            "ticket_info": {
+                "htm": "Presale: Rp 5.000 / OTS: Rp 10.000",
+                "ticket_box": "Sekre UKJ ITB (Sunken Court W-08)",
+                "sales_period": "14 - 26 Maret 2016"
+            },
+            "activities": [
+                "Odori (Tari Tradisional Jepang)",
+                "Cover Dance Performance",
+                "Band Performance",
+                "Thematic Cafe",
+                "Illustration Exhibition"
+            ],
+            "contact": {
+                "line": "@hgi8678s"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
