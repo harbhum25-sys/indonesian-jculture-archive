@@ -22615,6 +22615,59 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20260531",
+        "Start Time": "",
+        "End Date": "20260531",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Conan Fandom Cafe 2026",
+        "Location": "Nekorenji Ramen, Jakarta",
+        "Comment": "Insert to J-Event List : 20260529 21:07:11\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "conan_fandom_cafe_nekorenji_2026",
+        "location_address": "Jl. Hang Tuah Raya No.9, Keborayan Baru, Jakarta Selatan",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.facebook.com/share/1KKz9NpLd8/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Cafe / Maid Cafe / Pop-up Cafe"
+            ],
+            "organizer": "Conan Fans Club",
+            "co_organizer": [
+                "Nekorenji Ramen",
+                "HEREUS",
+                "3GROUP"
+            ],
+            "activities": [
+                "Mystery Solving Game (Kasus menghilangnya Kazuha)",
+                "Drama / Performance",
+                "Fandom Cafe Dining"
+            ],
+            "description": "Acara bertema Mystery, Drama, dan Party. Peserta diharapkan stand by 30 menit di lokasi sebelum sesi dimulai dan menyiapkan e-tiket reservasi untuk pendaftaran ulang.",
+            "rundown": {
+                "11.30": "Sesi 1: Daftar Ulang Peserta",
+                "12.00": "Sesi 1: Penyajian Menu Pesanan",
+                "12.30": "Sesi 1: Cosplay Stage Show + Games",
+                "13.00": "Sesi 1: Penutupan, Foto Bersama",
+                "13.30": "Sesi 2: Daftar Ulang Peserta",
+                "14.00": "Sesi 2: Penyajian Menu Pesanan",
+                "14.30": "Sesi 2: Cosplay Stage Show + Games",
+                "15.00": "Sesi 2: Penutupan, Foto Bersama"
+            }
+        }
+    },
+    {
         "Start Date": "20260605",
         "Start Time": "",
         "End Date": "20260607",
@@ -24822,6 +24875,94 @@
                 "Trading Card Game (TCG)"
             ],
             "description": "Event kolaboratif untuk membangun ekosistem dan komunitas perwibuan di Kalimantan Timur, khususnya Balikpapan."
+        }
+    },
+    {
+        "Start Date": "20260704",
+        "Start Time": "",
+        "End Date": "20260704",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunka no Hi UKJ ITB 2026",
+        "Location": "Aula Barat, ITB",
+        "Comment": "Insert to J-Event List : 20260529 21:07:11\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "bunka_no_hi_ukj_itb_2026",
+        "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.892180120016601, 107.60992457116457",
+        "location_gmaps": "https://goo.gl/maps/c2nT5FAULrFD51wC6",
+        "location_country": "Indonesia",
+        "links": [
+            "Https://www.instagram.com/p/DY6w6-SFO_5/?img_index=3&igsh=d2JkZzI2YzE0NjU0"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Exhibition / Expo"
+            ],
+            "organizer": "UKJ ITB (Unit Kebudayaan Jepang Institut Teknologi Bandung)",
+            "activities": [
+                "Interactive Booth",
+                "Lomba Coswalk",
+                "Live Performance / Stage Performance"
+            ],
+            "contact": {
+                "instagram": "@bunkanohi_"
+            }
+        }
+    },
+    {
+        "Start Date": "20260705",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shiratsuyu Matsuri",
+        "Location": "GOR Ranggajati",
+        "Comment": "Insert to J-Event List : 20260529 21:07:11\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "shiratsuyu_matsuri_gor_ranggajati_2026",
+        "location_address": "GOR Ranggajati, Sumber, Kec. Sumber, Kabupaten Cirebon, Jawa Barat 45611",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "Https://www.instagram.com/p/DYXWlLsEu1G/?igsh=dmZ1ZTllb2w5YXgy",
+            "bit.ly/4vfgxCq"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance / Performance",
+                "Game / E-Sports Tournament"
+            ],
+            "organizer": "Shokaku Event Organizer",
+            "co_organizer": "@sinarasa_muliatama.id",
+            "description": "Berdasarkan rilis resmi pada instagram, panitia mengumumkan permohonan maaf atas perubahan jadwal dan lokasi acara yang semula akan diadakan pada tanggal 7 Juni di Convention Hall UMC, kini diundur dan dipindahkan ke GOR Ranggajati pada 5 Juli 2026.",
+            "activities": [
+                "Coswalk Competition",
+                "Jsong Competition",
+                "Tekken 7 PS4 Tournament",
+                "E-Football PS4 Tournament",
+                "Random Play Dance (Jsong, Kpop, Meme, etc.)"
+            ],
+            "contact": {
+                "instagram": "@shokaku.organizer"
+            }
         }
     },
     {
