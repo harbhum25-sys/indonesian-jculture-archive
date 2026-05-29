@@ -470,6 +470,82 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20190215",
+        "Start Time": "",
+        "End Date": "20190217",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ow My Plate Japan Matsuri 2019",
+        "Location": "Ow My Plate, Jalan Joglo Raya No. 28 Srengseng, Jakarta Barat",
+        "Comment": "Festival Jepang yang menghadirkan berbagai workshop, kompetisi, dan penampilan spesial.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ow_my_plate_japan_matsuri_2019",
+        "location_address": "Jl. Joglo Raya No.25, RT.7/RW.3, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",
+        "location_city": "Jakarta Barat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.217699515846587, 106.75970750691015",
+        "location_gmaps": "https://maps.app.goo.gl/B1vjkXzHuTjoLfMXA",
+        "links": [
+            "https://www.instagram.com/p/BtXZ9-1BCxP/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Cover Sing"
+            ],
+            "organizer": "Ow My Plate",
+            "description": "Ow My Plate Japan Matsuri 2019 adalah festival budaya Jepang yang berlangsung selama tiga hari di Jakarta Barat.",
+            "activities": {
+                "workshops_classes": [
+                    "Character Bento Art Workshop",
+                    "Origami Art Workshop",
+                    "Kaiwa Class",
+                    "Beauty Class"
+                ],
+                "competitions": [
+                    "Cosplay Competitions",
+                    "Cover Dance Competitions",
+                    "Lomba Mewarnai Anak",
+                    "Lomba Fashion Show Anak"
+                ],
+                "entertainment": [
+                    "Maid Cafe by Ren-Ai",
+                    "Special Performances (termasuk Ren-Ai)",
+                    "Booth: Gacha, Games, Kingyo Sukui, Yukata Photobooth",
+                    "Japanese Food Bazaar"
+                ]
+            },
+            "guest_judges": {
+                "cosplay": [
+                    "Ren & Via Ren-Ai"
+                ],
+                "cover_dance": [
+                    "Ayu",
+                    "Rissa Ren-Ai",
+                    "Hega"
+                ]
+            },
+            "registration": {
+                "contact": "0822-8586-1339"
+            },
+            "media_partners": [
+                "Hantu Komunitas",
+                "Rajanya Event",
+                "Hobiku.net",
+                "LIGI"
+            ]
+        }
+    },
+    {
         "Start Date": "20190216",
         "Start Time": "12:00 AM",
         "End Date": "20190216",

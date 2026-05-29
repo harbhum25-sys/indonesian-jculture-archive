@@ -1,81 +1,5 @@
 [
     {
-        "Start Date": "20190215",
-        "Start Time": "",
-        "End Date": "20190217",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Ow My Plate Japan Matsuri 2019",
-        "Location": "Ow My Plate, Jalan Joglo Raya No. 28 Srengseng, Jakarta Barat",
-        "Comment": "Festival Jepang yang menghadirkan berbagai workshop, kompetisi, dan penampilan spesial.",
-        "Online/Offline": "Offline",
-        "status": "Finished",
-        "attended": "No",
-        "_id": "ow_my_plate_japan_matsuri_2019",
-        "location_address": "Jl. Joglo Raya No.25, RT.7/RW.3, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",
-        "location_city": "Jakarta Barat",
-        "location_country": "Indonesia",
-        "location_coordinate": "-6.217699515846587, 106.75970750691015",
-        "location_gmaps": "https://maps.app.goo.gl/B1vjkXzHuTjoLfMXA",
-        "links": [
-            "https://www.instagram.com/p/BtXZ9-1BCxP/"
-        ],
-        "date_precision": "day",
-        "source_status": "archived",
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Competition / Coswalk",
-                "Musik - Band / Live Performance",
-                "Cover Sing"
-            ],
-            "organizer": "Ow My Plate",
-            "description": "Ow My Plate Japan Matsuri 2019 adalah festival budaya Jepang yang berlangsung selama tiga hari di Jakarta Barat.",
-            "activities": {
-                "workshops_classes": [
-                    "Character Bento Art Workshop",
-                    "Origami Art Workshop",
-                    "Kaiwa Class",
-                    "Beauty Class"
-                ],
-                "competitions": [
-                    "Cosplay Competitions",
-                    "Cover Dance Competitions",
-                    "Lomba Mewarnai Anak",
-                    "Lomba Fashion Show Anak"
-                ],
-                "entertainment": [
-                    "Maid Cafe by Ren-Ai",
-                    "Special Performances (termasuk Ren-Ai)",
-                    "Booth: Gacha, Games, Kingyo Sukui, Yukata Photobooth",
-                    "Japanese Food Bazaar"
-                ]
-            },
-            "guest_judges": {
-                "cosplay": [
-                    "Ren & Via Ren-Ai"
-                ],
-                "cover_dance": [
-                    "Ayu",
-                    "Rissa Ren-Ai",
-                    "Hega"
-                ]
-            },
-            "registration": {
-                "contact": "0822-8586-1339"
-            },
-            "media_partners": [
-                "Hantu Komunitas",
-                "Rajanya Event",
-                "Hobiku.net",
-                "LIGI"
-            ]
-        }
-    },
-    {
         "Start Date": "20260000",
         "Start Time": "",
         "End Date": "20260000",
@@ -21054,7 +20978,7 @@
         "Location": "NICE, PIK 2",
         "Comment": "Insert to J-Event List : 20260522 14:38:49\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "java_jazz_festival_2026",
         "location_address": "Jalan Achmad Yani, Salembaran, Kec. Kosambi, Kabupaten Tangerang, Banten 15214",
@@ -21095,7 +21019,7 @@
         "Location": "Main Atrium Living World Pekanbaru",
         "Comment": "Insert to J-Event List : 20260519 21:32:35\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "for8ver_bloom_tekken_8_tournament_2026",
         "location_address": "Jl. Soekarno-Hatta, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28292",
@@ -21142,7 +21066,7 @@
         "Location": "Stadion Pakansari",
         "Comment": "Insert to J-Event List : 20260529 04:17:04\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "kabogorfest_pakansari_2026",
         "location_address": "Jl. Ipik Gandamana No.26, Pakansari, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16915",
@@ -21357,7 +21281,9 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DYgVoSVSdtO/",
-            "https://web.facebook.com/share/p/1CkkLxqBmJ/"
+            "https://web.facebook.com/share/p/1CkkLxqBmJ/",
+            "https://web.facebook.com/share/p/1cFvVNeMJc/",
+            "https://mmaj-jakarta.jp/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -21408,8 +21334,34 @@
                 "instagram": "https://www.instagram.com/mmaj_jakarta"
             },
             "rundown": {
-                "20260530": "10:00 AM - 10:00 PM",
-                "20260531": "10:00 AM - 08:00 PM"
+                "day_1_30_may_2026": {
+                    "anime_japan_stage_live": {
+                        "10.00": "Press Conference & Grand Opening",
+                        "12.15": "DARUMA Rollin'",
+                        "13.00": "CoColchi Curry Eating Competition",
+                        "14.15": "Shiritsu Ebisu Chugaku",
+                        "15.35": "Yoko Ishida",
+                        "16.30": "otoha",
+                        "17.15": "Voice Actor Workshop \"Voice of Friendship\"",
+                        "18.30": "BAN BAN BAN Sameshima",
+                        "19.15": "Holiday in PHANTOM BABY World supported by TGC Jakarta 2026 and Metro Department Store",
+                        "20.20": "Shiena Nishizawa"
+                    }
+                },
+                "day_2_31_may_2026": {
+                    "anime_japan_stage_live": {
+                        "10.00": "Opening",
+                        "12.00": "Indonesia Cosplay Grand Prix 2026",
+                        "13.30": "DARUMA Rollin'",
+                        "14.15": "Shiena Nishizawa",
+                        "15.10": "otoha",
+                        "16.00": "Indonesia Cosplay Grand Prix 2026 Winner Announcement",
+                        "17.15": "BAN BAN BAN Sameshima",
+                        "18.30": "Yoko Ishida",
+                        "19.10": "Shiritsu Ebisu Chugaku",
+                        "19.45": "Grand Closing"
+                    }
+                }
             },
             "community_partners": [
                 "Rising Sun Cosplay Corp"
@@ -21500,7 +21452,7 @@
         "Location": "Mal Atrium Senen",
         "Comment": "Insert to J-Event List : 20260513 17:03:15\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Cancelled",
         "attended": "No",
         "_id": "scf26_jakarta_2026",
         "location_address": "Jl. Senen Raya No.135, RW.2, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
@@ -21509,7 +21461,8 @@
         "location_gmaps": "https://maps.app.goo.gl/b2EixfuNvhQq7Wgv5",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/infojejepangan.id/p/DYPOkk9EvmD/"
+            "https://www.instagram.com/infojejepangan.id/p/DYPOkk9EvmD/",
+            "https://www.instagram.com/p/DY741MjzwXA/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -21522,7 +21475,7 @@
             ],
             "organizer": "Cosplay Jabodetabek Event Organizer",
             "powered_by": "Mal Atrium Senen",
-            "description": "Festival cosplay dua hari di pusat Jakarta yang menghadirkan berbagai kompetisi dan hiburan budaya pop Jepang.",
+            "description": "Festival cosplay dua hari di pusat Jakarta yang menghadirkan berbagai kompetisi dan hiburan budaya pop Jepang. Festival komunitas cosplay dan kebudayaan Jepang di Jakarta Pusat yang terpaksa dibatalkan secara mendadak pada hari pelaksanaan acara karena kendala internal tim.",
             "activities": [
                 "Coswalk Competition",
                 "Cosplay Parade",
@@ -21537,8 +21490,14 @@
                 "Talkshow",
                 "Quiz & Games"
             ],
-            "contact": {
-                "instagram": "@cosplayjabodetabek",
+            "date": "30 Mei 2026 (BATAL/CANCELLED)",
+            "venue": "Atrium Senen, Jakarta Pusat",
+            "status": "Officially Cancelled / Batal Terlaksana",
+            "cancellation_details": {
+                "announcement_date": "30 Mei 2026",
+                "reason": "Adanya kendala internal tim serta kurangnya persiapan yang membuat acara tidak dapat berjalan dengan maksimal."
+            },
+            "contact_info": {
                 "whatsapp": "0888-1044-872",
                 "email": "cosjabodetabekid@gmail.com"
             }
@@ -25383,6 +25342,53 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260822",
+        "Start Time": "",
+        "End Date": "20260822",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nippon Day 2026",
+        "Location": "Saoraja Ballroom, Wisma Kalla",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nippon_day_wisma_kalla_2026",
+        "location_address": "Jl. DR. Ratulangi No.8, Kunjung Mae, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90114",
+        "location_city": "Makassar",
+        "location_country": "Indonesia",
+        "location_coordinate": "-5.14934969543396, 119.41512089935257",
+        "location_gmaps": "https://maps.app.goo.gl/uavDqYTRv8c5GXfm9",
+        "links": [
+            "https://www.instagram.com/p/DY3paxhRhEJ/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Cultural Exchange"
+            ],
+            "organizer": "Nippon Day Makassar",
+            "co_organizer": "Consular Office of Japan in Makassar",
+            "activities": [
+                "Cultural Exhibition",
+                "Japanese Learning & Information Exchange",
+                "Indonesian & Japanese Cultural Integration"
+            ],
+            "contact": {
+                "whatsapp": "0823-4949-8448",
+                "phone": "0411-871030",
+                "email": "mks.nipponday@gmail.com",
+                "instagram": "@nippondaymks",
+                "facebook": "Nippon Day Makassar"
+            },
+            "description": "Mengusung tema kolaborasi budaya 'Ewako x Kizuna: Spirit of Friendship' dengan penggabungan elemen lokal Makassar (Topi Passapu) dan Jepang (Mizuhiki). Berdasarkan logo di pojok kanan atas poster image_b82ca8.jpg, acara ini didukung atau diselenggarakan bersama Consular Office of Japan in Makassar."
+        }
     },
     {
         "Start Date": "20260906",
