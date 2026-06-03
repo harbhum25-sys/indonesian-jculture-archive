@@ -23389,7 +23389,8 @@
             "https://www.instagram.com/p/DWLdymHkwpE/",
             "https://www.instagram.com/p/DWYBr5hE7Wr/",
             "https://www.instagram.com/p/DY3PwN8gSF_/",
-            "bit.ly/PresaleAnisession"
+            "bit.ly/PresaleAnisession",
+            "https://www.instagram.com/p/DY15oFlJpx7/"
         ],
         "Content": {
             "category": [
@@ -23439,10 +23440,81 @@
             ],
             "contact": {
                 "whatsapp": "0887-0680-3191 (Radit)"
+            },
+            "rundown": {
+                "10:00": "OPEN GATE",
+                "11:00": "DJ PERFORMER 1",
+                "11:30": "DJ PERFORMER 2",
+                "12:00": "AIKATSU STAGE",
+                "12:20": "PROJECT SEKAI STAGE",
+                "12:40": "PROJECT SEKAI STAGE",
+                "13:00": "PROJECT SEKAI STAGE",
+                "13:20": "DJ PERFORMER 3",
+                "13:50": "DJ PERFORMER 4",
+                "14:20": "RANDOM PLAY DANCE",
+                "15:00": "Love Live STAGE",
+                "15:20": "Love Live STAGE",
+                "15:40": "Love Live STAGE",
+                "16:00": "Love Live STAGE",
+                "16:20": "IDOLM@STER STAGE",
+                "17:05": "UMA MUSUME STAGE",
+                "17:50": "BREAK",
+                "18:25": "D4DJ STAGE",
+                "18:45": "DJ PERFORMER 5",
+                "19:15": "DJ PERFORMER 6",
+                "19:45": "PENUTUP"
             }
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260607",
+        "Start Time": "",
+        "End Date": "20260607",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "VARO X KALARAS COFFEE BY BAWADI TEKKEN 8 TOURNAMENT",
+        "Location": "Kalaras Coffee by Bawadi, Jl. Gatot Subroto 104, Bandung",
+        "Comment": "Insert to J-Event List : 20260603 17:26:03\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tekken_8_tournament_kalaras_coffee_bandung_2026",
+        "location_address": "Jl. Gatot Subroto No.104, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.9252489004975875, 107.6304665972575",
+        "location_gmaps": "https://maps.app.goo.gl/gneQTbPzGHN8hLrL8",
+        "links": [
+            "https://www.instagram.com/p/DZBqudDE0Z_/",
+            "https://bit.ly/KalarasT8"
+        ],
+        "Content": {
+            "category": [
+                "Game / E-Sports Tournament"
+            ],
+            "organizer": "Varo Casual Esports",
+            "co_organizer": "Kalaras Coffee by Bawadi",
+            "sponsor": [
+                "BAWADI GROUP",
+                "SuperMachi Festival"
+            ],
+            "activities": [
+                "Tekken 8 PC Offline Tournament"
+            ],
+            "contact": {
+                "instagram": [
+                    "@varocasualesports",
+                    "@kalarascoffee.bandung",
+                    "@supermachifestival"
+                ]
+            },
+            "description": "Turnamen Tekken 8 offline menggunakan platform PC dengan pendaftaran gratis. Berdasarkan poster image_f2c767.jpg, rincian pembagian total prizepool IDR 1.800.000 meliputi Juara 1 (750.000), Juara 2 (500.000), Juara 3 (300.000), dan Juara 4 (250.000). Format pertandingan menggunakan aturan TWT, Double Elimination, All Matches FT2, dan Final Matches FT3."
+        }
     },
     {
         "Start Date": "20260607",
@@ -23551,6 +23623,64 @@
         }
     },
     {
+        "Start Date": "20260607",
+        "Start Time": "15:00",
+        "End Date": "20260607",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "MARKETPLACE FEST 16",
+        "Location": "Convention Hall Tirtonadi Solo",
+        "Comment": "Insert to J-Event List : 20260603 17:26:03\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "marketplace_fest_16_tirtonadi_solo_2026",
+        "location_address": "JL. Jend A Yani 200 RT 004/01 ( Lantai Atas Terminal Tirtonadi ), Solo, 57167, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",
+        "location_city": "Solo",
+        "location_coordinate": "-7.550978018754268, 110.81833183643265",
+        "location_gmaps": "https://goo.gl/maps/GJUxYFNLrmn5TPsG8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZFgsimFIRe/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Music / Concert",
+                "Bazaar / Market / Food Festival"
+            ],
+            "organizer": "Marketplace Fest",
+            "description": "Marketplace Fest 16 mengusung tema '\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd' (Tanoshii Ryokou). Acara jejepangan ini diselenggarakan di area indoor Convention Hall Tirtonadi Solo sehingga nyaman dari kendala cuaca. Masuk gratis tanpa tiket (FREE HTM) dan pengunjung hanya dikenakan biaya parkir. Media visual dapat merujuk pada berkas poster image_e85a3e.jpg.",
+            "activities": [
+                "Coswalk Competition",
+                "Idol Performance",
+                "Dance Performance",
+                "Wibugar",
+                "Clash Of Wibu",
+                "Games",
+                "Fashion",
+                "Festival Kuliner",
+                "Tribute To L'Arc-en-Ciel [Karaoke Session]"
+            ],
+            "contact": {
+                "instagram": [
+                    "@tepungkanzie_",
+                    "@rizkyshirosaki",
+                    "@babyrose_metal",
+                    "@sorahana.idol",
+                    "@lyria_ia",
+                    "@sannoyuka",
+                    "@elauditore_relic",
+                    "@atakaze.cosplay"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260612",
         "Start Time": "",
         "End Date": "20260612",
@@ -23584,6 +23714,55 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260612",
+        "Start Time": "16:00",
+        "End Date": "20260614",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Feast and Fair 2026",
+        "Location": "Warung Be Segara",
+        "Comment": "Insert to J-Event List : 20260603 17:26:03\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "japan_feast_and_fair_bali_2026",
+        "location_address": "Jl. Mertasari No.95, Sidakarya, Denpasar Selatan, Kota Denpasar, Bali 80224",
+        "location_city": "Denpasar",
+        "location_coordinate": "-8.71073943233542, 115.23083425032387",
+        "location_gmaps": "https://goo.gl/maps/A3yRsHPN19P2TzYU6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZHY8rlpx-G/",
+            "https://linktr.ee/JFF26"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bazaar / Market / Food Festival",
+                "Cultural Exchange"
+            ],
+            "organizer": "Sastra Jepang",
+            "description": "Japan Feast and Fair 2026 berlangsung selama tiga hari dengan mengusung tema '\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd: \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd' (Yoi no Utakata: Hotaru to Hanabi no Utage / Ephemeral Night: Banquet of Fireflies and Fireworks) berdasarkan dokumen visual image_e7f4fe.jpg. Acara ini memadukan festival kuliner dengan beragam stan aktivitas kebudayaan Jepang. Akses masuk menggunakan sistem voucher seharga Rp 50.000,00.",
+            "activities": [
+                "Food Events / Culinary Bazaar",
+                "Maid Butler Cafe (Hari ke-2 & ke-3)",
+                "Cosplay Day (Hari ke-3)",
+                "Live Performances (Ayame Yosakoi, Nuel, UKM Symphony, Hanashizu, Triples, Koshekan)",
+                "Daily Events Stand (Tarot, Shodou, Art & Craft, Manga, Tanabata, Hanabi, Games, Yukata, Wibu Corner)"
+            ],
+            "contact": {
+                "whatsapp": [
+                    "+62 812-6343-7280 (Sun)",
+                    "+62 822-4614-0158 (Ardi)",
+                    "0813-3862-6561 (Raeya)"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260613",
@@ -23733,42 +23912,70 @@
         "location_coordinate": "-6.138069691063935, 106.81325325501437",
         "location_gmaps": "https://maps.app.goo.gl/EFomEwZJbPnqoXsc8",
         "links": [
-            "https://www.instagram.com/p/DVe2ftKktEN/"
+            "https://www.instagram.com/p/DVe2ftKktEN/",
+            "https://www.instagram.com/p/DZHduN9p7Qu/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
+                "Musik - Idol / VTuber",
                 "Cosplay - Competition / Coswalk",
-                "Fanmeet",
-                "Musik - Band / Live Performance",
-                "Musik - Anisong / Karaoke",
-                "Bazaar / Market",
-                "Talkshow / Seminar / Workshop"
+                "Bazaar / Market"
             ],
-            "description": "Japanese pop culture festival held for two days featuring anime themed entertainment, cosplay activities, idol performances, live music, DJ sets, talkshows, and merchandise bazaar.",
-            "performers": {
-                "idol_groups": {
-                    "count": "10+ Chika Idol Group"
+            "organizer": "Animeverse Festival Team",
+            "theme": "Animeverse Festival 2026",
+            "edition": "Pertama",
+            "description": "Festival budaya pop Jepang dan anime yang diselenggarakan di Museum Mandiri, Jakarta. Pengumuman terbaru menyatakan bahwa acara akan tetap berjalan sesuai jadwal dengan penyesuaian khusus pada susunan pengisi acara (line-up) serta kategori perlombaan demi optimalisasi kenyamanan pengunjung.",
+            "date": "13\ufffd\ufffd\ufffd14 Juni 2026",
+            "venue": "Museum Mandiri, Jakarta",
+            "status": "Line-up & Competition Adjustment / Penyesuaian Acara",
+            "guest_stars_and_performers": [
+                "Hiro Umeda (Soloist)",
+                "Tsukuridanosu",
+                "Z Krew",
+                "Louise",
+                "Ryuze (Band Performance)",
+                "KazeNoKage (Band Performance)",
+                "Pearls",
+                "Shojo Complex",
+                "Reirin",
+                "La Belle",
+                "Cherrywish",
+                "Stellar Luna"
+            ],
+            "competitions_and_activities": [
+                "Coswalk Competition",
+                "Wotagei Competition",
+                "Karaoke Competition",
+                "Dance Cover Competition",
+                "Idol Performance",
+                "Anikura & RPD Session",
+                "VTuber",
+                "Cosplay Corner",
+                "Bazaar / Stand"
+            ],
+            "ticket_info": {
+                "presale_1": {
+                    "day_1": "25k",
+                    "day_2": "30k",
+                    "2_day_pass": "50k"
                 },
-                "dj": {
-                    "count": "3 DJ Performance"
-                },
-                "j_band": {
-                    "count": "3 J-Band Performance"
-                },
-                "j_song_singers": "J-Song Singers",
-                "comedy": "Stand Up Comedy"
+                "early_bird": {
+                    "day_1": "40k",
+                    "day_2": "45k",
+                    "2_day_pass": "75k"
+                }
+            },
+            "partnership_and_contacts": {
+                "sponsors_partnership": "0882-1433-0705 (Athwan)",
+                "volunteer_contact": "0888-1044-872",
+                "general_contact": "0855-5953-1115"
             },
             "activities": {
                 "anikura": "Anikura session",
                 "rpd": "RPD session",
                 "bazaar": "Merchandise and Japanese food bazaar",
                 "vtuber": "VTuber segment and talkshow"
-            },
-            "guest_stars": {
-                "cosplayer": [
-                    "Guest Star Cosplayer"
-                ]
             },
             "competition": {
                 "coswalk": {
