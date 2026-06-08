@@ -1354,7 +1354,7 @@
         "Importance": "Normal",
         "Subject": "Akiba no Sekai 2nd : \"Koi ni Shigure\"",
         "Location": "STT Tekstil Bandung",
-        "Comment": "\nFoto Putri :\n\nFoto Kanchiel :\n\nFoto Ami dan Lingga :\n\nFoto Edi dkk :\n\nFoto Thousand Sunny :\n\nFoto Lusca tampil :\n\nhttp://voidsaint.deviantart.com/journal/Lumina-Scarlet-at-Akiba-no-Sekai-2-613735848",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
@@ -1364,11 +1364,62 @@
         "location_coordinate": "-6.913558931010058, 107.64124779644818",
         "location_gmaps": "https://goo.gl/maps/Lj41yiyH1JqF5Kxw9",
         "links": [
-            ""
+            "https://web.facebook.com/share/1Ew86nHnwL/"
         ],
         "Content": {
             "category": [
-                "Musik - Band / Live Performance"
+                "Festival / Matsuri",
+                "Musik - Idol / VTuber",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "Japan Community STT Tekstil",
+            "theme": "Koi Ni Shigure",
+            "edition": "Akiba No Sekai #2nd",
+            "description": "Festival budaya pop Jepang tahunan ke-2 yang diselenggarakan oleh komunitas internal kampus Politeknik STT Tekstil Bandung. Acara ini memadukan panggung pertunjukan idola dan band, kompetisi dance serta cosplay, pameran komunitas, hingga area pasar kreatif.",
+            "date": "Sabtu, 4 Juni 2016",
+            "venue": "Politeknik-STTT Bandung, Jln. Jakarta No 31",
+            "open_gate": "09.00",
+            "contents_and_attractions": [
+                "Cover dance",
+                "Cosplay Couple",
+                "Cosplay Team",
+                "Live Music",
+                "Stand Community",
+                "Bazaar"
+            ],
+            "guest_stars": [
+                "Thousand Sunny",
+                "Tokyo Night",
+                "LiveAF",
+                "Lumina Scarlet",
+                "Five Forite",
+                "Akiba Kick",
+                "Daisy"
+            ],
+            "ticket_info": {
+                "pre_sale": "5k",
+                "ots": "7,5k"
+            },
+            "sponsored_by": [
+                "Hazawa mikomall",
+                "CGV blitz mikomall"
+            ],
+            "supported_by": [
+                "Kameko Bandung",
+                "MayMay Shop"
+            ],
+            "media_partners": [
+                "Japanese Station",
+                "Japanese Music ID",
+                "Info Bandung",
+                "J-Hidamari",
+                "Get!!! TV J-Music Channel"
+            ],
+            "organized_by": [
+                "Akiba Nation",
+                "IKI Event Organizer",
+                "Japan Community STT Tekstil"
             ]
         },
         "location_country": "Indonesia",

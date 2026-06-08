@@ -51898,7 +51898,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "tjgqeb_7",
+        "_id": "eokucm_7",
         "location_address": "Jl. Kayu Tangan No.1, Pengkol I, Pengkol, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",
         "location_city": "Jepara",
         "location_coordinate": "-6.588188223133742, 110.67682550178617",
@@ -52095,7 +52095,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "tjgqeb_7",
+        "_id": "eokucm_7",
         "location_address": "4V36+Q72, Baru, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221",
         "location_city": "Palu",
         "location_coordinate": "-0.8955864992698198, 119.8606283911032",
@@ -52670,7 +52670,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "tjgqeb_7",
+        "_id": "eokucm_7",
         "location_address": "Jl. Giriharja, Kebonjati, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621",
         "location_city": "Sumedang",
         "location_coordinate": "-6.8281192256424665, 107.9361821261313",
@@ -77603,6 +77603,100 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20231118",
+        "Start Time": "10:00",
+        "End Date": "20231119",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JAK JAPAN MATSURI 2023",
+        "Location": "Gambir Expo, JIEXPO Kemayoran, Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_2023",
+        "location_address": "VR4W+GQH, Jl. Benyamin Suaeb, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.143657946299207, 106.84698429973604",
+        "location_gmaps": "https://goo.gl/maps/YJSaCRu7AVQNCPow7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18mEgjjRr9/",
+            "https://goers.co/jjm2023",
+            "https://instagram.com/jktjapanmatsuri?igshid=YmMyMTA2M2Y=",
+            "https://www.facebook.com/jktjapanmatsuri?mibextid=ZbWKwL"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts",
+                "Music / Concert",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Yayasan Jabat Hati Indonesia Jepang",
+            "co_organizer": "Kedutaan Besar Jepang di Indonesia, Misi Jepang untuk ASEAN, The Japan Foundation, Pemerintah Provinsi DKI Jakarta, Jakarta Japan Club, PT. Ihza Integrated Consulting",
+            "description": "Jak-Japan Matsuri 2023 diselenggarakan selama dua hari penuh pada tanggal 18-19 November 2023 bertempat di Gambir Expo, JIEXPO Kemayoran, Jakarta. Festival persahabatan Indonesia-Jepang ini menghadirkan perayaan kebudayaan, parade tradisional, pertunjukan musik dari idola grup asal Jepang, proyek drama, serta panggung runway khusus bagi komunitas pencinta cosplay. Acara ini didukung penuh oleh JCB dan Sugoi Japan sebagai penyokong acara musik spesial, serta Genji sebagai penyokong area Cosplay Runway.",
+            "activities": [
+                "Parade Tandu Tradisional / Mikoshi Parade",
+                "Pertunjukan Kolaborasi Musik Tradisional Wadaiko Benten & Japanesia",
+                "Panggung Mode Cosplay / Cosplay Runway by CLAS:H",
+                "Penampilan Khusus Proyek Seni Shin-Dorama Project"
+            ],
+            "line_up": {
+                "special_guests": [
+                    "SKE48 (Hara Yune, Ota Ayaka, Takahata Yuki, Inoue Ruka, Nakano Airi)",
+                    "Yukitora Keiji",
+                    "Nadia Losita",
+                    "Ayaleeya",
+                    "Maki Zenin",
+                    "Dimboy (Cosplay Guest)",
+                    "Tachitach (Cosplay Guest)",
+                    "Caramelatte (Cosplay Guest)",
+                    "Maul Nakahara (Cosplay Guest)",
+                    "Virtualize (DJ Day 1)",
+                    "Murry Monolite (DJ Day 2)"
+                ],
+                "mc": [
+                    "Jerome Polin",
+                    "Ayana Shahab",
+                    "Zhuge Kamiya"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "sales_channels": [
+                    "https://goers.co/jjm2023"
+                ],
+                "pricing": [
+                    {
+                        "type": "Pre-sale 1 Day Ticket",
+                        "price": 90000,
+                        "note": "Belum termasuk pajak 25% dan biaya lain-lain. Dijual selama 2 minggu atau sampai kuota habis."
+                    },
+                    {
+                        "type": "Pre-sale 2 Days Ticket",
+                        "price": 140000,
+                        "note": "Belum termasuk pajak 25% dan biaya lain-lain. Dijual selama 2 minggu atau sampai kuota habis."
+                    },
+                    {
+                        "type": "Reguler & OTS 1 Day Ticket",
+                        "price": 120000,
+                        "note": "Belum termasuk pajak 25% dan biaya lain-lain."
+                    },
+                    {
+                        "type": "Reguler & OTS 2 Days Ticket",
+                        "price": 190000,
+                        "note": "Belum termasuk pajak 25% dan biaya lain-lain."
+                    }
+                ],
+                "policy": "Anak-anak dengan tinggi badan di bawah 140cm gratis masuk. Tiket yang sudah dibeli tidak dapat direfund."
+            }
+        }
     },
     {
         "Start Date": "20231118",

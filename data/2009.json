@@ -1837,6 +1837,55 @@
     },
     {
         "Start Date": "20091003",
+        "Start Time": "13:00",
+        "End Date": "20091011",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak-Japan Matsuri 2009",
+        "Location": "Monumen Nasional (Monas) & Berbagai Wilayah di Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_jakarta_2009",
+        "location_address": "Monumen Nasional (Monas), Gambir, Kec. Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.175280338769763, 106.82708384666685",
+        "location_gmaps": "https://maps.app.goo.gl/YcHUwqVV9DdLZdNPA",
+        "links": [
+            "https://web.facebook.com/share/p/17C8hZvESr/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "Kedutaan Besar Jepang & Panitia Penyelenggara Jak-Japan Matsuri",
+            "co_organizer": "Pemerintah Daerah DKI Jakarta",
+            "description": "Sebagai langkah awal memasuki tahun ke-51 hubungan bilateral antara Indonesia dan Jepang, Kedutaan Besar Jepang bersama Panitia Penyelenggara dan Pemda DKI Jakarta menggelar rangkaian Festival Jepang berskala besar bertajuk Jak-Japan Matsuri 2009. Selama sepekan penuh (3-11 Oktober 2009, didahului pre-event pada 2 Oktober), acara ini menyajikan ratusan agenda yang tersebar di berbagai titik ibu kota, meliputi pertunjukan kesenian, workshop, kompetisi kuliner, seminar edukasi, hingga laga pertandingan olahraga persahabatan, yang kemudian ditutup secara meriah melalui pesta puncak 'Matsuri at Monas'.",
+            "activities": [
+                "Matsuri at Monas (Acara Penutupan Besar / Grand Closing)",
+                "Melati & Sakura in Harmony - Pameran & Workshop Origami (Senayan City)",
+                "Pameran Pendidikan Jepang (JCC)",
+                "Sakura Matsuri ke-4 & Dinner Show with Miss Universe - Hono-o Daiko (Nikko Hotel)",
+                "Drama Musikal oleh Teater Mahasiswa En-Juku (Gedung Kesenian Jakarta)",
+                "VFX Seminar: Introduksi Teknik Visual Effects Film Jepang Terkini (Komunitas Salihara)",
+                "Pertandingan Olahraga Persahabatan (Tenis, Judo, Softball, Baseball, Sepakbola, Karate, Badminton, Bola Voli, Kendo, Golf, Bridge)",
+                "Sushi Competition (Intercontinental MidPlaza Hotel)",
+                "Pemutaran Film 'Mas Endang' & Aneka Seminar Kebudayaan/Kesehatan (Japan Foundation)",
+                "HORE-HORE Bazaar & Pameran Foto 'Indonesia Indah' (Nikko Hotel Lobby)",
+                "Simposium Regional & Program Pelestarian Lingkungan (Cibodas, Gn. Gede Pangrango, Makassar)"
+            ]
+        }
+    },
+    {
+        "Start Date": "20091003",
         "Start Time": "11:00 AM",
         "End Date": "20091003",
         "End Time": "11:30 AM",

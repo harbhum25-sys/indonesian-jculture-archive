@@ -20,12 +20,53 @@
         "location_coordinate": "-6.91693047857716, 107.60896289644823",
         "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/1K8m9vA4QX/",
+            "https://web.facebook.com/share/p/18BApkLz8t/"
         ],
         "Content": {
             "category": [
-                "Musik - Band / Live Performance"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "Panitia Online Shop Fair 2012",
+            "theme": "Online Shop Fair 2012",
+            "edition": "Pertama",
+            "description": "Pameran toko daring yang diklaim sebagai yang terbesar dan pertama di Indonesia, memadukan bazar belanja dengan kompetisi cosplay. Namun, pada hari pelaksanaan, panitia merilis surat pembatalan dadakan dan menjadwalkan ulang seluruh rangkaian acara akibat masalah miskomunikasi di dalam tim.",
+            "original_date": "Minggu, 15 Januari 2012",
+            "new_date": "Minggu, 12 Februari 2012 (DIUNDUR / POSTPONED)",
+            "venue": "Braga City Walk, Bandung",
+            "status": "Rescheduled Due to Internal Misunderstanding / Diundur karena Masalah Internal",
+            "cancellation_details": {
+                "announcement_date": "15 Januari 2012 (Pukul 01.00 WIB Dini Hari)",
+                "reason": "Kesalahpahaman intern pada pihak panitia pelaksana",
+                "accountable_party": "Ryan M. Yudhistira (Project Officer)",
+                "resolution_statement": "Panitia memohon maaf sebesar-besarnya atas kerugian semua pihak akibat penundaan sepihak dan mengundang seluruh sponsor, peserta, talent, serta cosplayer ke forum penjelasan langsung pada hari yang sama pukul 13.00 WIB di area Braga City Walk."
+            },
+            "planned_activities": [
+                "Online Shop Exhibition / Bazaar",
+                "Cosplay Competition (Single, Couple, Team)"
+            ],
+            "cosplay_registration": {
+                "fees": {
+                    "single": "20 ribu",
+                    "couple": "30 ribu",
+                    "team": "50 ribu"
+                },
+                "prizes": {
+                    "best_perform_and_costume_single": "Rp. 400.000",
+                    "best_perform_and_costume_couple": "Rp. 600.000",
+                    "best_perform_and_costume_team": "Rp. 1.000.000"
+                },
+                "form_download_link": "http://aksesbuateksis.com/dl/Form_Cosplay.doc",
+                "contact_person": "Togabito Ryuukossei (0857-21-89-53-76)"
+            },
+            "contacts": {
+                "booth_info": "0857-22-5-33-555"
+            },
+            "social_media": {
+                "facebook": "http://www.facebook.com/OnlineShopFair"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1197,6 +1238,68 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20120923",
+        "Start Time": "",
+        "End Date": "20120930",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak-Japan Matsuri 2012",
+        "Location": "Hotel Sari Pan Pacific, Plaza Senayan, & Monas, Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_jakarta_2012",
+        "location_address": "Monumen Nasional (Monas), Gambir, Kec. Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.175280338769763, 106.82708384666685",
+        "location_gmaps": "https://maps.app.goo.gl/YcHUwqVV9DdLZdNPA",
+        "links": [
+            "https://web.facebook.com/events/314733095277906/",
+            "https://web.facebook.com/share/p/1BDS4wJngX/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Music / Concert",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Komite Jak-Japan Matsuri & Sekretariat JJM",
+            "description": "Mengusung tema 'Indonesia & Jepang, Ikatan Kian Mendalam, Interaksi Kian Meluas', Jak-Japan Matsuri 2012 diselenggarakan untuk menggambarkan hubungan bilateral yang semakin erat serta interaksi level masyarakat yang meluas pasca-dukungan Indonesia terhadap pemulihan rakyat Jepang. Rangkaian festival ini berlangsung selama sepekan penuh dari tanggal 23 hingga 30 September 2012 (didahului pre-event tanggal 21 September) dengan menghadirkan berbagai acara kebudayaan, pameran seni, ajang olahraga, hingga pertunjukan musik kolosal yang tersebar di sejumlah titik strategis kota Jakarta dan berpuncak di Monas.",
+            "activities": [
+                "Opening Event: Stage Events & Ennichi Booths (Sari Pan Pacific Hotel, 23 September 2012)",
+                "Japan Week: Stage & Booth Events (Plaza Senayan, 25-30 September 2012)",
+                "Closing Event / Acara Puncak (Monas, 30 September 2012)",
+                "Pre-Event: Workshop 'Youth Movement for Disaster Risk Reduction' (Japan Foundation, 21 September 2012)",
+                "Pertunjukan Musik JKT48 & Penjualan Souvenir JKT48",
+                "Pertunjukan Spesial oleh May J. (J-MELO) di Acara Penutupan",
+                "Demo Peserta World Cosplay Summit (WCS Juara ke-3)",
+                "Sushi Battle (Lomba Membuat Sushi) & Demo Pemotongan Ikan Tuna",
+                "Arak-arakan Omikoshi & Dashi, serta Tarian Bon Odori",
+                "Tarian Tradisional (Yosakoi Soran, Kochi Yosakoi, Okinawa Eisa, Tari Bali) & Genderang Oedo Sukeroku Taiko",
+                "Pameran Pendidikan Jepang 2012 (Jakarta Convention Center, 30 September 2012)",
+                "Pertunjukan Seni Tradisional '21st Century Classical Japanese Music, Wagakudan' oleh Hitomi Nakamura",
+                "Pameran Seni & Budaya (Lukisan Cat Air Kyoto Ichisan Harja, Keramik Chitaru Kawasaki di Galeri Nasional, Pameran Origami, & Pameran Nasi Jepang)",
+                "Aktivitas Olahraga: Jakarta Marathon, Ekiden, Pertandingan Olahraga JJC (Senayan), & Indonesia Enduro Project (Cycling Event)",
+                "Talk Show Penerima Penghargaan Mangga Internasional & Perkenalan Acara TV 'Kokoro No Tomo'",
+                "Lomba Nyanyi (Babak Final), Yukata Fashion Show, Demo Upacara Minum Teh, & Gerakan 3R Bersama"
+            ],
+            "line_up": {
+                "performers": [
+                    "JKT48",
+                    "May J. (J-MELO)",
+                    "Hitomi Nakamura (Wagakudan)",
+                    "Oedo Sukeroku Taiko Jakarta"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20121005",

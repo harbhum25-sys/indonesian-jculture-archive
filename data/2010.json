@@ -1122,6 +1122,147 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20100925",
+        "Start Time": "12:00",
+        "End Date": "20101003",
+        "End Time": "21:35",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak-Japan Matsuri ke-2",
+        "Location": "Nikko Hotel, Blitz Megaplex Grand Indonesia, Monas-Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_jakarta_2010",
+        "location_address": "Monumen Nasional (Monas), Gambir, Kec. Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.175280338769763, 106.82708384666685",
+        "location_gmaps": "https://maps.app.goo.gl/YcHUwqVV9DdLZdNPA",
+        "links": [
+            "https://web.facebook.com/events/1067755419904539/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Movie / Screening",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Komite Penyelenggara Jak-Japan Matsuri & Kedutaan Besar Jepang di Indonesia",
+            "co_organizer": "ITOCHU, Japan Foundation, IMMG, Animation International",
+            "description": "Menyusul kesuksesan tahun pertamanya, Jak-Japan Matsuri ke-2 kembali diselenggarakan secara masif selama 9 hari penuh mulai tanggal 25 September hingga 3 Oktober 2010. Festival ini menyajikan perpaduan antara agenda resmi komite seperti Upacara Pembukaan megah yang dihadiri Gubernur Fauzi Bowo di Nikko Hotel, pekan film animasi di Blitz Megaplex, serta ratusan aktivitas partisipatif dari berbagai komunitas masyarakat Indonesia dan Jepang yang berpuncak pada perayaan akbar FINALE di Monas.",
+            "activities": [
+                "Upacara Pembukaan Resmi & En-nichi (Nikko Hotel Jakarta, 26 September 2010)",
+                "Pekan Film Animasi Jepang / Japanese Animation Film Festival (Blitz Megaplex Grand Indonesia)",
+                "FINALE - Acara Penutupan Besar (Lapangan Bagian Selatan Monas, 3 Oktober 2010)",
+                "Sushi Battle, Mochi Tsuki, & Pertunjukan Pemotongan Ikan Tuna",
+                "Pameran Pendidikan Jepang (Jakarta Convention Center, 2 Oktober 2010)",
+                "Workshop Origami oleh The Japan Foundation & Nippon Origami Association",
+                "Sepeda Pagi Bersama (Rute Senayan - Monas - Senayan)",
+                "Pertandingan Persahabatan Olahraga oleh Jakarta Japan Club (JJC)",
+                "Seminar & Simposium Hubungan Bilateral (Universitas Indonesia, Universitas Dharma Persada, Asosiasi SME-JJC)",
+                "Lomba Nyanyi Karaoke, Lomba Tarik Tambang, & Kuis Yes-No",
+                "Arak-arakan Mikoshi, Tarian Bon Odori, Yosakoi Soran, Okinawa Eisa, & Pertunjukan Cosplay",
+                "Pertunjukan Musik (Oedo SukerokuTaiko, Galaxy Jazz Band, Sing Out Asia, Jak-Flute)",
+                "Pameran Budaya Indonesia (Khususnya Budaya Betawi)",
+                "Pesta Kembang Api (Penutupan Acara)"
+            ],
+            "line_up": {
+                "special_guests": [
+                    "Fauzi Bowo (Gubernur DKI Jakarta)"
+                ],
+                "performers": [
+                    "Oedo SukerokuTaiko Jakarta",
+                    "Lagu-Lagu-Kai",
+                    "Jak-Flute",
+                    "Southern Cross",
+                    "NONNOKO (Bandung)",
+                    "Galaxy Jazz Band",
+                    "Sing Out Asia"
+                ]
+            },
+            "rundown": {
+                "24_september_jumat": {
+                    "14:30": "Pekan Film Animasi Jepang: 5 Centimeters Per Second & DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'"
+                },
+                "25_september_sabtu": {
+                    "12:00": "Pekan Film Animasi Jepang: 5 Centimeters Per Second & The Place Promised In Our Early Days",
+                    "14:00": "Pekan Film Animasi Jepang: 5 Centimeters Per Second & DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'",
+                    "16:00": "Pekan Film Animasi Jepang: DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'",
+                    "16:30": "Pekan Film Animasi Jepang: The Place Promised In Our Early Days",
+                    "full_day": "Upacara Pembukaan (Nikko Hotel Jakarta) & Pertandingan Persahabatan Olahraga"
+                },
+                "26_september_minggu": {
+                    "12:00": "Pembukaan & Kata Sambutan",
+                    "12:02": "Genderang Jepang Oedo Sukeroku Taiko Jakarta",
+                    "12:05": "Kata Sambutan Duta Besar, Gubernur dan Ketua Komite",
+                    "12:20": "Mochi Tsuki",
+                    "12:35": "Pertunjukan Pemotongan Ikan Tuna",
+                    "12:50": "Sushi Battle",
+                    "13:20": "Paduan Suara Lagu-Lagu-Kai & Penilaian Sushi Battle",
+                    "13:35": "Penyerahan Hadiah Pemenang Sushi Battle",
+                    "13:45": "Persiapan Panggung",
+                    "13:50": "Tari dan Lagu Tradisi Indonesia",
+                    "14:20": "Persiapan Panggung",
+                    "14:25": "Ensemble Musik Jak-Flute",
+                    "14:30": "Pekan Film Animasi Jepang: The Place Promised In Our Early Days & DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'",
+                    "14:40": "Persiapan Panggung",
+                    "14:45": "Paduan Suara Southern Cross",
+                    "15:00": "Fashion Show",
+                    "16:00": "Persiapan Panggung",
+                    "16:05": "Upacara Penyerahan Hadiah Pertandingan Olahraga Persahabatan",
+                    "17:00": "Pekan Film Animasi Jepang: 5 Centimeters Per Second",
+                    "other_events": "Sepeda Pagi Bersama (Senayan - Monas - Senayan), Ballroom & Lobby Exhibition (Ennichi, Mini-class Ikebana, Tea Ceremony, dll)"
+                },
+                "1_oktober_jumat": {
+                    "14:30": "Pekan Film Animasi Jepang: The Place Promised In Our Early Days & DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'"
+                },
+                "2_oktober_sabtu": {
+                    "12:00": "Pekan Film Animasi Jepang: 5 Centimeters Per Second & DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'",
+                    "14:00": "Pekan Film Animasi Jepang: DORAEMON the movie 'Nobita\u00e2\u20ac\u2122s Dinosaur 2006'",
+                    "14:30": "Pekan Film Animasi Jepang: The Place Promised In Our Early Days",
+                    "16:30": "Pekan Film Animasi Jepang: 5 Centimeters Per Second & The Place Promised In Our Early Days",
+                    "full_day": "Pameran Pendidikan Jepang (Jakarta Convention Center)"
+                },
+                "3_oktober_minggu_finale": {
+                    "12:00": "Panggung Utama: Sambutan Pembawa Acara | Lapangan: Pertandingan Sepakbola Mini SMP Jepang & Indonesia | Film Animasi: 5 Centimeters Per Second & DORAEMON the movie",
+                    "12:10": "Panggung Utama: Pembukaan & Kata Sambutan",
+                    "12:20": "Panggung Utama: Genderang Jepang Oedo Sukeroku Taiko Jakarta",
+                    "12:50": "Panggung Utama: Persiapan Panggung",
+                    "13:50": "Panggung Utama: Paduan Suara",
+                    "14:00": "Panggung Utama: Tarian Matsuri NONNOKO (Bandung) | Panggung Kecil: Lomba Nyanyi Karaoke | Film Animasi: The Place Promised In Our Early Days",
+                    "14:20": "Panggung Utama: Persiapan Panggung | Panggung Kecil: Lomba Tarik Tambang",
+                    "14:25": "Panggung Kecil: Lagu Indonesia untuk Orang Jepang",
+                    "14:30": "Film Animasi: 5 Centimeters Per Second",
+                    "15:05": "Panggung Kecil: Lagu Jepang untuk Orang Indonesia",
+                    "15:15": "Panggung Utama: YES-NO QUIZ (Kuis untuk Seluruh Pengunjung)",
+                    "16:15": "Panggung Utama: Persiapan Panggung | Panggung Kecil: Pembuatan Mochi Jepang (Mochi-tsuki)",
+                    "16:20": "Panggung Utama: Tarian Yosakoi Soran",
+                    "16:50": "Panggung Utama: Persiapan Panggung",
+                    "16:55": "Panggung Utama: Tarian Okinawa Eisa",
+                    "17:25": "Lapangan: Arak-arakan Mikoshi (Oleh Kelompok Orang Jepang)",
+                    "17:55": "Panggung Utama: Persiapan Panggung",
+                    "18:05": "Panggung Utama: Galaxy Jazz Band | Panggung Kecil: Pertunjukan Cosplay",
+                    "18:35": "Lapangan: Arak-arakan Mikoshi (Masyarakat Indonesia dan Jepang)",
+                    "19:00": "Panggung Utama: Sambutan Pejabat VIP",
+                    "19:15": "Lapangan: Arak-arakan Mikoshi (Bersama VIP)",
+                    "19:30": "Panggung Utama: Sing Out Asia",
+                    "20:30": "Panggung Utama: Tarian BON-ODORI",
+                    "21:30": "Panggung Utama: Kembang Api"
+                },
+                "partisipatif_&_simposium_general": {
+                    "workshop_origami": "Diselenggarakan oleh The Japan Foundation & Nippon Origami Association",
+                    "seminar_simposium": "Diselenggarakan oleh UI, Universitas Dharma Persada, Asosiasi SME-JJC",
+                    "pameran_budaya": "Pameran Budaya Indonesia (khususnya Budaya Betawi)"
+                }
+            }
+        }
+    },
+    {
         "Start Date": "20100926",
         "Start Time": "5:00 PM",
         "End Date": "20100926",

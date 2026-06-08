@@ -3520,14 +3520,44 @@
         "links": [
             "https://web.facebook.com/groups/152402028271/?multi_permalinks=10150436077043272",
             "http://www.id.emb-japan.go.jp/matsuri/jakjapan2011.html",
-            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818"
+            "https://web.facebook.com/groups/183024568817/?multi_permalinks=10150310947173818",
+            "https://web.facebook.com/groups/244034015615327/",
+            "https://web.facebook.com/share/p/1AnStdShmH/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Budaya Jepang - Seni Tradisional"
+                "Kebudayaan / Cultural Show",
+                "Theater / Drama Performance"
             ],
             "description": "Festival Jepang-Jakarta yang berlangsung mulai 18 September di Hotel Nikko Jakarta dan berakhir pada 25 September di Monas. Closing Event diadakan di Monas dari Siang Hari sampai Malam Hari, menampilkan banyak Street Cosplay. Acara ditutup dengan Bon Odori.",
+            "organizer": "Jak-Japan Matsuri Committee",
+            "co_organizer": [
+                "Jakarta Capital City Government",
+                "Embassy of Japan in Indonesia"
+            ],
+            "support": [
+                "Jakarta Japan Club",
+                "Jakarta Shimbun"
+            ],
+            "theme": "Terima Kasih Indonesia",
+            "edition": "Jak-Japan Matsuri 2011 (Japan Festival in Jakarta)",
+            "date": "18 Sep - 25 Sep 2011",
+            "event_schedule": {
+                "opening_ceremony": {
+                    "date": "Sunday, 18th Sep 2011",
+                    "venue": "Hotel Nikko"
+                },
+                "special_performance": {
+                    "group_name": "Nakamura Japan-Dramatic Company",
+                    "date": "22 Sep - 24 Sep 2011",
+                    "venue": "Teater Jakarta, Taman Ismail Marzuki"
+                },
+                "closing_event": {
+                    "date": "Sunday, 25th Sep 2011",
+                    "venue": "Monas (Monumen Nasional)"
+                }
+            },
             "rundown": {
                 "pembukaan": {
                     "tanggal": "18 September 2011",

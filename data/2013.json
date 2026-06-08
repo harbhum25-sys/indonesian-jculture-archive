@@ -2153,12 +2153,61 @@
         "location_coordinate": "-6.2058368072522265, 106.83637027020104",
         "location_gmaps": "https://goo.gl/maps/ZRTJS7J9Spiy9WSM8",
         "links": [
-            "https://www.angloinfo.com/blogs/indonesia/jakarta/jak-japan-matsuri-2013/"
+            "https://www.angloinfo.com/blogs/indonesia/jakarta/jak-japan-matsuri-2013/",
+            "https://web.facebook.com/share/p/17WhjukaWJ/",
+            "https://web.facebook.com/share/p/1BP8JKh1nt/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri"
-            ]
+            ],
+            "rundown": {
+                "opening_js_luwansa_hotel": {
+                    "keterangan": "Minggu, 1 September 2013, 13:30 - 16:30 (12:30 Open)",
+                    "acara": [
+                        "Tarian Selamat Datang",
+                        "Kata Sambutan Ketua Panitia, Duta Besar Jepang dan Wakil Gubernur DKI, Pembukaan Jak-Japan Matsuri",
+                        "Penabuhan Taiko & Demo Pembuatan Mochi",
+                        "Pertunjukan JKT48",
+                        "Curio Asia & Ms. Amanda (Kokoro-chan & Tomo-kun)",
+                        "Sing out Asia",
+                        "Demo Pemotongan Ikan Tuna",
+                        "Sushi Battle Lomba Membuat Sushi",
+                        "Pertunjukan Oedo Sukeroku Taiko",
+                        "Pertunjukan Koto dan Flute oleh Hana Temari",
+                        "Pengumuman Pemenang Sushi Battle",
+                        "Paduan Suara En-Juku 'Sakura-yo' (200 orang)"
+                    ]
+                },
+                "closing_monas": {
+                    "keterangan": "Minggu, 8 September 2013, 10:40 - 21:00",
+                    "main_stage_event": {
+                        "10:40": "Pembukaan: Genderang Jepang Oedo Sukeroku Taiko Jakarta",
+                        "11:00": "Kata Sambutan Panitia",
+                        "11:15": "Genderang Jepang Oedo Sukerokuryu Taiko",
+                        "11:50": "Tarian Kochi Yosakoi / Tarian Okinawa Eisa",
+                        "12:15": "Gerakan 3R Bersama",
+                        "12:25": "Tarian Yosakoi Soran",
+                        "12:50": "Doraemon Show",
+                        "13:35": "Nyanyi yuk! Lomba nyanyi Indonesia-Jepang",
+                        "14:35": "Gerakan 3R Bersama",
+                        "14:45": "Awaodori",
+                        "15:00": "Omikoshi & Dashi",
+                        "15:15": "BIMA SATRIA GARUDA",
+                        "15:40": "Angklung + Jakarta Keion",
+                        "15:45": "JAKARTA KEI-ON",
+                        "16:25": "Galaxy Jazz Band",
+                        "17:05": "Pertunjukkan yang dipersembahkan oleh DKI Jakarta",
+                        "17:40": "Sponsor PR",
+                        "18:00": "Istirahat",
+                        "18:30": "Kata Sambutan VIP",
+                        "18:50": "DENPA-GUMI & KOKORO no TOMO",
+                        "19:25": "JKT48",
+                        "19:55": "INDONESIA POP MUSIC (Special Guest Star)",
+                        "20:15": "Penutupan"
+                    }
+                }
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

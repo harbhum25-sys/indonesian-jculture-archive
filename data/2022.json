@@ -16665,6 +16665,55 @@
     },
     {
         "Start Date": "20221014",
+        "Start Time": "10:00",
+        "End Date": "20221016",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak-Japan Matsuri 2022",
+        "Location": "fX Sudirman, Jakarta",
+        "Comment": "Kembali diselenggarakan setelah vakum selama 2 tahun.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_2022",
+        "location_address": "Jl. Jenderal Sudirman, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.224349127917853, 106.80389986760805",
+        "location_gmaps": "https://goo.gl/maps/w8siWfkWtc4zz1rs7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1HE7665hhD/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts",
+                "Exhibition / Expo",
+                "Music / Concert"
+            ],
+            "organizer": "Yayasan Jabat Hati Indonesia Jepang",
+            "co_organizer": "Pemprov DKI Jakarta, Kedutaan Besar Jepang di Indonesia, fX Sudirman, The Jakarta Japan Club",
+            "description": "Setelah mengalami vakum selama dua tahun, Jak-Japan Matsuri (JJM) 2022 kembali hadir dengan mengusung slogan resmi 'Berkawan itu menyenangkan!' (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd). Acara ini diselenggarakan secara bauran (hybrid), memadukan rangkaian agenda luring (onsite) di lantai 1 dan 3 fX Sudirman dari tanggal 14 hingga 16 Oktober 2022, serta penyiaran langsung (online streaming) melalui kanal YouTube resmi Jakarta Japan Matsuri.",
+            "activities": [
+                "Pameran Stan Kebudayaan & Komersial / Booth on F1 & F3 (14-16 Oktober 2022, 10:00 - 21:00 WIB)",
+                "Kunjungan Terbuka ke Booth Pemerintah Provinsi DKI Jakarta",
+                "Pertunjukan Seni & Musik di Atrium Stage Lantai 3 / Performance at Atrium Stage F3 (15 Oktober 2022 pukul 11:00 - 21:00 WIB & 16 Oktober 2022 pukul 10:00 - 21:00 WIB)",
+                "Online Streaming on YouTube (15 Oktober 2022, 14:00 - 21:00 WIB)",
+                "Live Performance Artis dari JKT48 Theatre via Streaming (15 Oktober 2022, 18:30 - 21:00 WIB)",
+                "Parade Tandu Tradisional / Omikoshi Parade 'Let's Experience Omikoshi' (16 Oktober 2022, Sesi I: 07:30 - 08:30 WIB & Sesi II: 09:00 - 10:00 WIB)"
+            ],
+            "line_up": {
+                "performers": [
+                    "JKT48"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20221014",
         "Start Time": "",
         "End Date": "20221016",
         "End Time": "",

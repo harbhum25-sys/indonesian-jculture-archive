@@ -1158,6 +1158,228 @@
     },
     {
         "Start Date": "20140914",
+        "Start Time": "",
+        "End Date": "20140921",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JAK-APAN MATSURI 2014",
+        "Location": "Plaza Senayan & Parkir Timur Senayan, Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_jakarta_2014",
+        "location_address": "Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219246747376081, 106.80810142527882",
+        "location_gmaps": "https://goo.gl/maps/zvmqYLcDH4rtiNp18",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18ZjEeNJRn/",
+            "https://web.facebook.com/share/p/18gF55ft5b/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Community / Hobby Gathering",
+                "Cultural / Arts"
+            ],
+            "organizer": "Jak-Japan Matsuri Committee",
+            "co_organizer": "Jakarta Capital City Government, Embassy of Japan in Indonesia",
+            "description": "Mengusung slogan resmi 'Maju Bersama, Bergandeng Tangan! INDONESIA - JAPAN ONE TEAM', festival tahunan Jak-Japan Matsuri kembali digelar pada bulan September 2014. Rangkaian festival kebudayaan berskala besar ini mengintegrasikan upacara pembukaan eksklusif, rangkaian eksibisi kebudayaan selama sepekan penuh di pusat perbelanjaan, serta ditutup dengan perayaan akbar terbuka yang memamerkan kesenian tradisional kolosal Jepang.",
+            "activities": [
+                "Opening Ceremony (14 September 2014, khusus undangan / Invitation Only)",
+                "Japan Week (15 - 20 September 2014, bertempat di Plaza Senayan)",
+                "Closing Event / Final (21 September 2014, bertempat di Parkir Timur Senayan / Parkit Senayan)",
+                "Arak-arakan Mikoshi & Pertunjukan Seni Tradisional Jepang"
+            ],
+            "contact": {
+                "support": [
+                    "Jakarta Japan Club (JJC)",
+                    "Jakarta Shimbun"
+                ]
+            },
+            "sub_event": {
+                "category": [
+                    "Festival / Matsuri",
+                    "Kebudayaan / Cultural Show",
+                    "Workshop / Edukasi"
+                ],
+                "organizer": "The Japan Foundation, Jakarta",
+                "theme": "Partisipasi Japan Foundation di Jak-Japan Matsuri 2014",
+                "edition": "Jak-Japan Matsuri 2014 (Booth Activity)",
+                "description": "Rangkaian kegiatan workshop kerajinan tangan khas Jepang tingkat pemula dan kelas pengenalan budaya yang diadakan oleh The Japan Foundation Jakarta di dalam area Plaza Senayan untuk memeriahkan festival tahunan Jak-Japan Matsuri 2014.",
+                "date": "15 \u00e2\u20ac\u201c 20 September 2014",
+                "venue": "Plaza Senayan, Jl. Asia Afrika No.8, Jakarta",
+                "workshop_schedule": {
+                    "senin_15_september_2014": [
+                        {
+                            "activity": "Origami (Seni melipat kertas khas Jepang)",
+                            "booth": "Booth A",
+                            "time": "10:30 \u00e2\u20ac\u201c 12:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Booth A & Booth B",
+                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Furoshiki (Seni membungkus benda menggunakan kain khas Jepang)",
+                            "booth": "Booth A",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "GRATIS"
+                        }
+                    ],
+                    "selasa_16_september_2014": [
+                        {
+                            "activity": "Patchwork Project (Membuat kantong/dompet dengan kain khas Jepang)",
+                            "booth": "Booth A",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "Rp 100,000"
+                        },
+                        {
+                            "activity": "Yukata Shoukai (Pengenalan budaya Yukata & Kimono)",
+                            "booth": "Booth B",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Booth A & Booth B",
+                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Kurumie (Seni membungkus gambar menggunakan kertas khas Jepang)",
+                            "booth": "Booth A",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "Rp 100,000"
+                        },
+                        {
+                            "activity": "Yukata Shoukai (Pengenalan budaya Yukata & Kimono)",
+                            "booth": "Booth B",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "GRATIS"
+                        }
+                    ],
+                    "rabu_17_september_2014": [
+                        {
+                            "activity": "Quilling & Knitting (Teknik merangkai hiasan kertas & merajut benang - Smarty Hands)",
+                            "booth": "Booth A",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "Rp 50,000"
+                        },
+                        {
+                            "activity": "Kirigami (Seni menggunting dan melipat kertas - Smarty Hands)",
+                            "booth": "Booth B",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "Rp 50,000"
+                        },
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Booth A & Booth B",
+                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Kinchaku (Seni membuat tas kain khas Jepang)",
+                            "booth": "Booth A",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "Rp 100,000"
+                        },
+                        {
+                            "activity": "Kimekomi (Seni membuat boneka dari kain khas Jepang)",
+                            "booth": "Booth B",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "Rp 100,000"
+                        }
+                    ],
+                    "kamis_18_september_2014": [
+                        {
+                            "activity": "Washi Ningyo (Seni membuat boneka dari kertas khas Jepang)",
+                            "booth": "Tidak spesifik",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "Rp 75,000"
+                        },
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Tidak spesifik",
+                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Shibori (Teknik pewarnaan celup kain/dying dari Jepang)",
+                            "booth": "Tidak spesifik",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "Rp 100,000"
+                        }
+                    ],
+                    "jumat_19_september_2014": [
+                        {
+                            "activity": "Kurumie (Seni membungkus gambar menggunakan kertas khas Jepang)",
+                            "booth": "Tidak spesifik",
+                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "fee": "Rp 100,000"
+                        },
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Tidak spesifik",
+                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Kanzashi (Seni membuat hiasan rambut menggunakan kain khas Jepang)",
+                            "booth": "Tidak spesifik",
+                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "fee": "Rp 100,000"
+                        }
+                    ],
+                    "sabtu_20_september_2014": [
+                        {
+                            "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
+                            "booth": "Tidak spesifik",
+                            "time": "10:30 \u00e2\u20ac\u201c 12:30",
+                            "fee": "GRATIS"
+                        },
+                        {
+                            "activity": "Clay (Seni membuat kerajinan tangan dari tanah liat - Smarty Hands)",
+                            "booth": "Tidak spesifik",
+                            "time": "13:30 \u00e2\u20ac\u201c 17:30",
+                            "fee": "Rp 100,000"
+                        }
+                    ]
+                },
+                "registration_info": {
+                    "start_date": "1 September 2014",
+                    "hours": "08:30 \u00e2\u20ac\u201c 16:30 WIB (Istirahat 12:30 \u00e2\u20ac\u201c 13:30 WIB)",
+                    "capacity_limit": "Maksimal 10 orang per sesi workshop berbayar",
+                    "procedures": {
+                        "paid_workshops": "Datang langsung ke kantor Japan Foundation (Gedung Summitmas 1 Lt.3, Jl. Jend. Sudirman kav.61-62, Jakarta) untuk mengisi formulir dan membayar biaya",
+                        "origami_and_furoshiki": "Dapat mendaftar via telepon melalui Sdri. Vivi (021-5201266)",
+                        "nihongo_shoukai_and_yukata_shoukai": "Tidak memerlukan pendaftaran awal, peserta bisa langsung datang ke booth Plaza Senayan sebelum acara dimulai untuk mencatatkan nama"
+                    }
+                },
+                "contacts": {
+                    "pic": "Sdri. Vivi (021-5201266 / 021-520-1266)"
+                },
+                "source": {
+                    "images": [
+                        "image_01be7e.jpg",
+                        "image_01be63.jpg"
+                    ],
+                    "text": "User provided schedule announcement text"
+                }
+            }
+        }
+    },
+    {
+        "Start Date": "20140914",
         "Start Time": "12:00 AM",
         "End Date": "20140915",
         "End Time": "12:00 AM",

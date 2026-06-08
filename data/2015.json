@@ -374,7 +374,7 @@
         "Importance": "Normal",
         "Subject": "Akiba no Sekai",
         "Location": "STT Tekstil - Jl Jakarta, Bandung",
-        "Comment": "Bagian depan :\n\nBagian dalam :\n\nBagian soundman :\n\nBagian belakang :\n\nBagian belakang dan merchandise :\n\nBagian stand depan gedung :\n\nFoto Dinda saat Cover Sing :\n\nFoto 2 Cosplayer yang cover sing juga :\n\nFoto Cosplayer teman Ryan :\n\n",
+        "Comment": "",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
@@ -384,12 +384,135 @@
         "location_coordinate": "-6.913558931010058, 107.64124779644818",
         "location_gmaps": "https://goo.gl/maps/Lj41yiyH1JqF5Kxw9",
         "links": [
-            ""
+            "https://web.facebook.com/share/1EQadj3xCz/",
+            "https://web.facebook.com/share/p/18XeBM5GXv/",
+            "https://web.facebook.com/share/1BBg1bpeeG/"
         ],
         "Content": {
             "category": [
-                "Musik - Band / Live Performance"
-            ]
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "Japan Community STT Tekstil",
+            "theme": "Akiba No Sekai",
+            "edition": "Pertama",
+            "description": "Festival budaya Jepang berskala kampus yang diselenggarakan oleh komunitas Jepang Sekolah Tinggi Teknologi Tekstil (STT Tekstil) Bandung. Acara ini menghadirkan panggung pertunjukan band, berbagai kompetisi kreatif pop kultur, serta area stand bazzar.",
+            "date": "Minggu, 8 Februari 2015",
+            "venue": "Sekolah Tinggi Teknologi Tekstil (STT Tekstil), Bandung",
+            "performers": [
+                "Vassuling",
+                "Tokyo Night",
+                "LiveAF",
+                "Red Paradise",
+                "Thousand Sunny"
+            ],
+            "competitions": [
+                "Cosplay (Individu & Group)",
+                "Cover Dance",
+                "Cover Sing",
+                "Otaku Battle (Kuota minimal 10 orang)"
+            ],
+            "competition_registration": {
+                "deadline": "30 Januari 2015",
+                "fees": {
+                    "cosplay_individual": "25K / person",
+                    "cosplay_group": "50K / team",
+                    "cover_sing": "15K / person",
+                    "cover_dance": "50K / team"
+                },
+                "submission_channels": {
+                    "email": "dewiherdiyanti96@gmail.com",
+                    "sms": "08965713522"
+                },
+                "payment_info": {
+                    "bank": "Mandiri",
+                    "account_number": "105-00-1127851-6",
+                    "account_name": "Anindhita Karin Oktaviani"
+                }
+            },
+            "ticket_info": {
+                "htm": "5K"
+            },
+            "contacts": {
+                "dewi": "08965713522",
+                "dhita": "089648907756",
+                "bryan_stand": "085706228886"
+            },
+            "media_partners": [
+                "Idamari",
+                "Japbandung-Asia"
+            ],
+            "social_media": {
+                "facebook": "Akiba No Sekai"
+            },
+            "Cover Dance Performance Order": [
+                {
+                    "sequence": 1,
+                    "performer_name": "Black Rose"
+                },
+                {
+                    "sequence": 2,
+                    "performer_name": "Binggo!"
+                },
+                {
+                    "sequence": 3,
+                    "performer_name": "Yume No Hoshi"
+                },
+                {
+                    "sequence": 4,
+                    "performer_name": "Sakura Blossom"
+                },
+                {
+                    "sequence": 5,
+                    "performer_name": "Milk Chocolate"
+                },
+                {
+                    "sequence": 6,
+                    "performer_name": "NZK"
+                },
+                {
+                    "sequence": 7,
+                    "performer_name": "Himawari"
+                },
+                {
+                    "sequence": 8,
+                    "performer_name": "Ai No Tomodachi"
+                },
+                {
+                    "sequence": 9,
+                    "performer_name": "AGS 48"
+                },
+                {
+                    "sequence": 10,
+                    "performer_name": "Love u's"
+                },
+                {
+                    "sequence": 11,
+                    "performer_name": "RPG role play"
+                },
+                {
+                    "sequence": 12,
+                    "performer_name": "Lumina Scarlet"
+                }
+            ],
+            "rundown": {
+                "09.00": "pembukaan acara",
+                "10.00": "cover sing",
+                "12.00": "otaku battle",
+                "12.30": "isoma",
+                "13.00": "cosplay individu",
+                "13.30": "cosplay team",
+                "14.30": "red paradise",
+                "15.30": "isoma",
+                "16.00": "livera",
+                "16.30": "cover dance",
+                "17.00": "thousand sunny",
+                "17.30": "glass wing",
+                "18.00": "isoma",
+                "18.45": "pengumuman dan tokyo night",
+                "19.45": "penutup"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2343,6 +2466,68 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20150907",
+        "Start Time": "15:00",
+        "End Date": "20150913",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak-Japan Matsuri 2015",
+        "Location": "Plaza Senayan & Parkir Timur Senayan, Jakarta",
+        "Comment": "Acara penutupan tertulis tanggal 13 September 2013 pada teks, namun dikoreksi menjadi 13 September 2015 untuk sinkronisasi tahun rangkaian acara.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_jakarta_2015",
+        "location_address": "Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219246747376081, 106.80810142527882",
+        "location_gmaps": "https://goo.gl/maps/zvmqYLcDH4rtiNp18",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/JFJakarta/photos/workshop-kerajinan-tangan-dari-jepang-dalam-rangkaian-kegiatan-jak-japan-matsuri/891321464273498/?_rdc=1&_rdr",
+            "https://japanesestation.com/events/event-coverage/event-coverage-ribuan-penggemar-budaya-jepang-tumpah-ruah-di-jak-japan-matsuri-2015"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts",
+                "Music / Concert",
+                "Exhibition / Expo"
+            ],
+            "organizer": "Kedutaan Besar Jepang & Pemerintah Provinsi DKI Jakarta",
+            "co_organizer": "The Japan Foundation, Jakarta",
+            "description": "Memasuki tahun ke-7 penyelenggaraannya, Jak-Japan Matsuri 2015 mengusung tema 'Indonesia-Jepang in Dream Team'. Rangkaian kegiatan ini diawali dengan rangkaian workshop kerajinan tangan tradisional Jepang oleh The Japan Foundation di Plaza Senayan dari tanggal 7 hingga 12 September 2015, dan dipuncaki oleh festival penutupan massal yang sangat sukses di Parkir Timur Senayan pada tanggal 13 September 2015.",
+            "activities": [
+                "Workshop Kimekomi (Atrium Plaza Senayan, 7 September 2015)",
+                "Workshop Clay oleh Smarty Hands (Atrium Plaza Senayan, 10 September 2015)",
+                "Workshop Kirigami (Atrium Plaza Senayan, 11 September 2015)",
+                "Booth Informasi The Japan Foundation & Distribusi Tiket Gratis Konser AYJO (Asian Youth Jazz Orchestra)",
+                "Acara Penutupan Akbar / Closing Event (Parkir Timur Senayan, 13 September 2015)",
+                "Pertunjukan Seni Tradisional & Kolaborasi Budaya di Panggung Utama",
+                "Arak-arakan Mikoshi, Obake (Rumah Hantu), dan Parade Cosplayer",
+                "Pertunjukan Komedi Tradisional Lenong Betawi oleh Pemprov DKI Jakarta",
+                "Pertunjukan Idola Indie Lokal di Area Mini Stage",
+                "Pesta Kembang Api (Grand Closing)"
+            ],
+            "line_up": {
+                "performers": [
+                    "Mayumi Itsuwa",
+                    "JKT48",
+                    "J-Rocks",
+                    "Hiroaki Kato"
+                ]
+            },
+            "contact": {
+                "phone": [
+                    "021-5201266 (Ishariyadi / JF Jakarta)"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20150911",
         "Start Time": "12:00 AM",
         "End Date": "20150914",
@@ -3617,10 +3802,10 @@
         "status": "Finished",
         "attended": "No",
         "_id": "hangou_6",
-        "location_address": "Jl. Cihampelas No.160, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.894959018939662, 107.60429474062266",
-        "location_gmaps": "https://g.page/ciwalk-bandung",
+        "location_address": "Gn. Sari, Kec. Dukuhpakis, Kota SBY, Jawa Timur",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.293553542978731, 112.71930114091644",
+        "location_gmaps": "https://goo.gl/maps/aG8dCC1B79WcxjQ67",
         "links": [
             "https://web.facebook.com/photo/?fbid=10205218749929128&set=gm.865932953484366&idorvanity=442373135840352",
             "https://web.facebook.com/groups/442373135840352/?multi_permalinks=865932953484366",

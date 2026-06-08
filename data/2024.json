@@ -43623,7 +43623,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "diqdnf_2",
+        "_id": "ytmxts_2",
         "location_address": "Jl. Gatot Subroto Tim., Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80235",
         "location_city": "Denpasar",
         "location_coordinate": "-8.634926295219515, 115.23190417604059",
@@ -43691,7 +43691,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "diqdnf_2",
+        "_id": "ytmxts_2",
         "location_address": "Jl. Ahmad Yani, Muka Kuning, Kec. Sei Beduk, Kota Batam, Kepulauan Riau 29433",
         "location_city": "Batam",
         "location_coordinate": "1.0719001685616156, 104.02406785289169",
@@ -58955,6 +58955,64 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20240914",
+        "Start Time": "10:00",
+        "End Date": "20240915",
+        "End Time": "18:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jak Japan Matsuri 2024",
+        "Location": "Plaza Parkir Timur - GBK Senayan, Jakarta Pusat",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jak_japan_matsuri_2024",
+        "location_address": "Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.219246747376081, 106.80810142527882",
+        "location_gmaps": "https://goo.gl/maps/zvmqYLcDH4rtiNp18",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18g6wMd1bD/",
+            "https://www.facebook.com/share/p/ULWQpNcVQqYxLq7W/?mibextid=oFDknk",
+            "https://web.facebook.com/share/p/1BEbNsyjVw/",
+            "https://goers.co/jjm2024",
+            "https://www.instagram.com/jktjapanmatsuri",
+            "https://www.facebook.com/jktjapanmatsuri",
+            "https://www.jakjapanmatsuri.id/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts",
+                "Exhibition / Expo",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Komite Jak-Japan Matsuri",
+            "description": "Jak-Japan Matsuri (JJM) 2024 diselenggarakan secara luring selama dua hari pada tanggal 14-15 September 2024 di Plaza Parkir Timur - GBK Senayan, Jakarta Pusat. Salah satu sorotan utama pada festival persahabatan Indonesia-Jepang tahun ini adalah dibukanya 'Area Menjelajahi Jepang', sebuah zona khusus edukasi dan pameran interaktif yang menampilkan keunikan, aktivitas seru, serta kuliner khas dari berbagai prefektur di Negeri Sakura tanpa perlu jauh-jauh pergi ke sana.",
+            "activities": [
+                "Eksplorasi Kebudayaan dan Kuliner di 'Area Menjelajahi Jepang' (Pukul 10.00 - 18.00 WIB)",
+                "Pameran Interaktif dan Aktivitas Menarik Khas Prefektur Jepang"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "sales_channels": [
+                    "https://goers.co/jjm2024"
+                ],
+                "pricing": [
+                    {
+                        "type": "Harga Tiket Masuk (HTM)",
+                        "price": 50000,
+                        "note": "Informasi detail mengenai rangkaian acara dan sistem pembelian tiket tersedia melalui bio serta highlight media sosial resmi."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20240914",

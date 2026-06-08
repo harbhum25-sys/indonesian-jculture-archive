@@ -211,6 +211,38 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20210911",
+        "Start Time": "10:00",
+        "End Date": "20210911",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "The 12th JAK-JAPAN MATSURI 2021",
+        "Location": "Online Event",
+        "Comment": "Acara ini mendapatkan pembaruan status dibatalkan berdasarkan informasi pada takarir kiriman media sosial.",
+        "Online/Offline": "Online",
+        "status": "Canceled",
+        "attended": "No",
+        "_id": "the_12th_jak_japan_matsuri_2021",
+        "links": [
+            "https://web.facebook.com/share/p/1D88DoUmVQ/",
+            "https://instagram.com/jktjapanmatsuri?igshid=1g8ikkfyq0pnd",
+            "https://www.facebook.com/jktjapanmatsuri/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts"
+            ],
+            "organizer": "Komite Jak-Japan Matsuri",
+            "co_organizer": "Yayasan Jabat Hati Indonesia Jepang",
+            "description": "Penyelenggaraan ke-12 dari festival kebudayaan tahunan Jak-Japan Matsuri yang direncanakan untuk digelar secara daring pada tahun 2021 dengan mengusung tema resmi 'New Move, New Future'. Berdasarkan materi publikasi poster pada berkas image_f0fb68.jpg, acara ini dijadwalkan mulai pukul 10:00 WIB atau 12:00 JST, namun statusnya kemudian dinyatakan batal diselenggarakan.",
+            "activities": []
+        }
+    },
+    {
         "Start Date": "20211015",
         "Start Time": "13:00",
         "End Date": "20211015",
