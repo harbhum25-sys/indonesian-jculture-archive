@@ -24230,6 +24230,58 @@
         }
     },
     {
+        "Start Date": "20260612",
+        "Start Time": "",
+        "End Date": "20260712",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "KAIHIN ODOIBA",
+        "Location": "QBIG BSD City, Tangerang",
+        "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "kaihin_odaiba_2026",
+        "location_address": "Jl. BSD Raya Utama, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.284255653497206, 106.63572693136464",
+        "location_gmaps": "https://goo.gl/maps/PjwhuZUHAbY1fDCX7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZUSIUgJKhg/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Bazaar / Market",
+                "Competition / Tournament"
+            ],
+            "organizer": "QBIG BSD City",
+            "co_organizer": "Sinarmas Land",
+            "description": "KAIHIN ODOIBA merupakan perayaan festival pop kultur, hobi, dan kuliner Jepang yang berlangsung selama satu bulan penuh dari tanggal 12 Juni hingga 12 Juli 2026 di QBIG BSD City. Berdasarkan informasi dari materi publikasi poster pada berkas image_c1d022.jpg, acara ini mengusung tajuk penjelas 'Japanese Hobbies, Pop Culture and Food Bazaar' serta diselenggarakan dalam kemitraan dengan Velocity, Omni Game Rekreasi Edukatif, Riftbound League of Legends, dan pihak terkait lainnya.",
+            "activities": [
+                "Cosplay Competition (Kompetisi Cosplay)",
+                "Tamiya Competition / Tournament",
+                "Beyblade X 5G Tournament",
+                "TCG Riftbound by Omni Channel",
+                "Anime DJ Performance",
+                "Community Performances (Pertunjukan Komunitas)",
+                "Interactive Activities & Fun Games",
+                "Giveaways",
+                "Japanese Food Bazaar (Bazaar Makanan Jepang)"
+            ],
+            "partners": [
+                "Velocity",
+                "Omni Game Rekreasi Edukatif",
+                "Riftbound League of Legends"
+            ]
+        }
+    },
+    {
         "Start Date": "20260613",
         "Start Time": "15:00",
         "End Date": "20260614",
@@ -24883,6 +24935,53 @@
                 "venue": "D'freeze Music Studio",
                 "contact": "Mar - 0899-3170-311",
                 "registration": "https://forms.gle/nPRCgMGm65c9Bj339"
+            },
+            "rundown": {
+                "day_1_13_juni_2026": {
+                    "07:15": "Rangkaian Pembukaan",
+                    "08:15": "Penampilan HIMADE Souran Bushi",
+                    "08:25": "Persiapan Lomba",
+                    "08:35": "Lomba Pendidikan",
+                    "10:15": "Lomba Cover Dance (Solo/Duo)",
+                    "11:45": "Break Dzuhur",
+                    "12:00": "Lomba Cover Sing",
+                    "14:40": "Lomba Cover Dance (Group)",
+                    "15:10": "Lomba Cover Dance (Group)",
+                    "16:20": "MC",
+                    "16:25": "Pengumuman Pemenang Lomba Akademik & Nonakademik",
+                    "16:55": "Penutupan"
+                },
+                "day_2_14_juni_2026": {
+                    "10:00": "Open Gate",
+                    "10:15": "Opening Ceremony",
+                    "10:25": "Magnifichor",
+                    "10:35": "Gentra Seba",
+                    "10:45": "D.O.S",
+                    "10:55": "Big Band",
+                    "11:05": "Penampilan Pemenang Cover Sing",
+                    "11:20": "Penampilan Pemenang Cover Dance - Solo/Duo",
+                    "11:35": "Penampilan Pemenang Cover Dance - Group",
+                    "11:55": "Break Dzuhur",
+                    "12:10": "Penampilan HIMADE Sakura Odori",
+                    "12:20": "Maru Kana Band",
+                    "12:40": "Aozora no Hime",
+                    "13:00": "Saturday Kensou",
+                    "13:20": "Lumina Scarlet",
+                    "13:40": "ANSR",
+                    "14:00": "Ice Break",
+                    "14:10": "Coswalk",
+                    "14:40": "Pengumuman Coswalk",
+                    "14:50": "Ice Break",
+                    "15:00": "Break Ashar",
+                    "16:05": "Thousand Sunny",
+                    "16:35": "Tracen Top Star",
+                    "17:05": "Gitaris Egois ft. Laesa",
+                    "17:35": "Break Maghrib",
+                    "17:55": "Harvest",
+                    "18:25": "Naira",
+                    "18:55": "Penutupan",
+                    "19:05": "Heno Heno Moheji"
+                }
             }
         },
         "date_precision": "day",
@@ -25078,149 +25177,52 @@
         }
     },
     {
-        "Start Date": "20260906",
-        "Start Time": "",
-        "End Date": "20260906",
-        "End Time": "",
+        "Start Date": "20260620",
+        "Start Time": "18:00",
+        "End Date": "20260620",
+        "End Time": "23:00",
         "Reminder On/Off": "No",
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Cosplay Creator & Community Convention (C4)",
-        "Location": "Tunjungan Plaza Surabaya",
-        "Comment": "Pendaftaran untuk penampil (performers) saat ini telah dibuka melalui narahubung yang tertera.",
+        "Subject": "OTAGEI CONNECT \u00e3\u0192\u00bc 3rd Link",
+        "Location": "The Gade Cafe & Gold Poncol, Semarang",
+        "Comment": "Insert to J-Event List : 20260610 03:55:21\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
-        "_id": "cosplay_creator_community_convention_c4_2026",
-        "location_address": "Jl. Jenderal Basuki Rachmat.8-12, Tunjungan Plaza IV, UG. 54-55, Kedungdoro, Tegalsari, Surabaya, East Java 60261",
-        "location_city": "Surabaya",
-        "location_coordinate": "-7.2632979535255595, 112.74050266888294",
-        "location_gmaps": "https://maps.app.goo.gl/4AoYe1k3usMNJkN1A",
+        "_id": "otagei_connect_3rd_link_semarang_2026",
+        "location_address": "Jl. Imam Bonjol No.24-26, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50139",
+        "location_city": "Semarang",
         "location_country": "Indonesia",
+        "location_coordinate": "-6.970832025390411, 110.4208929125346",
+        "location_gmaps": "https://maps.app.goo.gl/unUCDjMbiepKM6Aw6",
         "links": [
-            "https://www.instagram.com/p/DZSAkrCDjhh/",
-            "http://linktr.ee/c4_official"
+            "https://www.instagram.com/p/DZW7kP6y2Vl/"
         ],
         "Content": {
             "category": [
                 "Community / Hobby Gathering",
-                "Exhibition / Expo"
+                "Music / Concert"
             ],
-            "organizer": "Cosplay Creator & Community Convention (C4)",
-            "description": "Cosplay Creator & Community Convention (C4) merupakan sebuah acara konvensi yang dirancang untuk menghubungkan ekosistem cosplay dengan mempertemukan para pencipta (creators), komunitas, pelaku bisnis, dan penggemar dalam satu wadah. Acara ini diselenggarakan secara luring pada tanggal 6 September 2026 di Tunjungan Plaza Surabaya. Pihak penyelenggara membuka kesempatan seleksi terbuka bagi berbagai macam penampil untuk ikut serta meramaikan panggung acara.",
+            "organizer": "Lights Project",
+            "co_organizer": "Group Z Collective, SANITY",
+            "description": "OTAGEI CONNECT \u00e3\u0192\u00bc 3rd Link merupakan pergelaran acara musik Anikura (Anime Kura) berkonsep bawah tanah (underground) yang diselenggarakan di Semarang. Berbeda dengan ajang Anikura pada umumnya, acara ini memadukan setlist lagu populer hingga trek tersembunyi yang jarang didengar untuk memberikan ruang bebas tanpa batas bagi para pelaku Wotagei/Otagei dalam mengekspresikan koreografi mereka. Acara ini terbuka untuk umum secara gratis.",
             "activities": [
-                "Konvensi Cosplay dan Komunitas / Cosplay Convention",
-                "Pertunjukan Musisi (Solo, Band, Perkusi)",
-                "Pertunjukan Cosplay (Kabaret, Cover Dance, dll)",
-                "Pertunjukan Tari (Solo, Grup)",
-                "Penampil Panggung (Standup, Sulap/Tricks, dll)",
-                "Diskusi Panel Khusus / Special Interest Panelists",
-                "Lokakarya / Workshop"
+                "Underground Otagei Anikura DJ Event",
+                "Wotagei Gathering / Otagei No Limits",
+                "Live DJ Performance & Visual Exhibition"
             ],
-            "contact": {
-                "registration_links": [
-                    "http://linktr.ee/c4_official"
-                ],
-                "phone_numbers": [
-                    "Nadia (0881-0360-33012)",
-                    "Jerry (0878-5556-8835)"
-                ],
-                "social_media": [
-                    "Instagram: @c4_surabaya"
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk / HTM",
+                        "price": 0,
+                        "note": "FREE / Gratis masuk tanpa tiket."
+                    }
                 ]
             }
-        }
-    },
-    {
-        "Start Date": "20260612",
-        "Start Time": "",
-        "End Date": "20260712",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "KAIHIN ODOIBA",
-        "Location": "QBIG BSD City, Tangerang",
-        "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "No",
-        "_id": "kaihin_odaiba_2026",
-        "location_address": "Jl. BSD Raya Utama, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331",
-        "location_city": "Tangerang",
-        "location_coordinate": "-6.284255653497206, 106.63572693136464",
-        "location_gmaps": "https://goo.gl/maps/PjwhuZUHAbY1fDCX7",
-        "location_country": "Indonesia",
-        "links": [
-            "https://www.instagram.com/p/DZUSIUgJKhg/"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Exhibition / Expo",
-                "Bazaar / Market",
-                "Competition / Tournament"
-            ],
-            "organizer": "QBIG BSD City",
-            "co_organizer": "Sinarmas Land",
-            "description": "KAIHIN ODOIBA merupakan perayaan festival pop kultur, hobi, dan kuliner Jepang yang berlangsung selama satu bulan penuh dari tanggal 12 Juni hingga 12 Juli 2026 di QBIG BSD City. Berdasarkan informasi dari materi publikasi poster pada berkas image_c1d022.jpg, acara ini mengusung tajuk penjelas 'Japanese Hobbies, Pop Culture and Food Bazaar' serta diselenggarakan dalam kemitraan dengan Velocity, Omni Game Rekreasi Edukatif, Riftbound League of Legends, dan pihak terkait lainnya.",
-            "activities": [
-                "Cosplay Competition (Kompetisi Cosplay)",
-                "Tamiya Competition / Tournament",
-                "Beyblade X 5G Tournament",
-                "TCG Riftbound by Omni Channel",
-                "Anime DJ Performance",
-                "Community Performances (Pertunjukan Komunitas)",
-                "Interactive Activities & Fun Games",
-                "Giveaways",
-                "Japanese Food Bazaar (Bazaar Makanan Jepang)"
-            ],
-            "partners": [
-                "Velocity",
-                "Omni Game Rekreasi Edukatif",
-                "Riftbound League of Legends"
-            ]
-        }
-    },
-    {
-        "Start Date": "20260712",
-        "Start Time": "",
-        "End Date": "20260712",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "Shou Sekai Matsuri",
-        "Location": "New Small World, Baturraden",
-        "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "No",
-        "_id": "shou_sekai_matsuri_2026",
-        "location_address": "Jl. Raya Baturaden Barat No.270, Ketenger, Jl. Raya Barat Baturraden, Dusun I Karangmangu, Karangmangu, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
-        "location_city": "Banyumas",
-        "location_country": "Indonesia",
-        "location_coordinate": "-7.332344615189318, 109.22441782793611",
-        "location_gmaps": "https://maps.app.goo.gl/Ro2KquQ2CCTeDWsj6",
-        "links": [
-            "https://www.instagram.com/p/DZURtFMRSSN/",
-            "https://www.instagram.com/new.smallworld/"
-        ],
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Community / Hobby Gathering"
-            ],
-            "organizer": "Senshi Matsuri",
-            "co_organizer": "New Small World",
-            "description": "Shou Sekai Matsuri merupakan acara festival Jejepangan kolaborasi antara Senshi Matsuri dengan New Small World. Acara ini mengusung konsep unik yang memadukan kegiatan festival budaya pop Jepang dengan pengalaman berpetualang dan rekreasi mengelilingi dunia di dalam area wisata New Small World, Baturraden.",
-            "activities": [
-                "Festival Jejepangan / Event Matsuri",
-                "Rekreasi dan Petualangan Mengelilingi Miniatur Dunia"
-            ]
         }
     },
     {
@@ -26324,6 +26326,45 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20260712",
+        "Start Time": "",
+        "End Date": "20260712",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shou Sekai Matsuri",
+        "Location": "New Small World, Baturraden",
+        "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "shou_sekai_matsuri_2026",
+        "location_address": "Jl. Raya Baturaden Barat No.270, Ketenger, Jl. Raya Barat Baturraden, Dusun I Karangmangu, Karangmangu, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+        "location_city": "Banyumas",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.332344615189318, 109.22441782793611",
+        "location_gmaps": "https://maps.app.goo.gl/Ro2KquQ2CCTeDWsj6",
+        "links": [
+            "https://www.instagram.com/p/DZURtFMRSSN/",
+            "https://www.instagram.com/new.smallworld/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Senshi Matsuri",
+            "co_organizer": "New Small World",
+            "description": "Shou Sekai Matsuri merupakan acara festival Jejepangan kolaborasi antara Senshi Matsuri dengan New Small World. Acara ini mengusung konsep unik yang memadukan kegiatan festival budaya pop Jepang dengan pengalaman berpetualang dan rekreasi mengelilingi dunia di dalam area wisata New Small World, Baturraden.",
+            "activities": [
+                "Festival Jejepangan / Event Matsuri",
+                "Rekreasi dan Petualangan Mengelilingi Miniatur Dunia"
+            ]
+        }
+    },
+    {
         "Start Date": "20260718",
         "Start Time": "",
         "End Date": "20260718",
@@ -26429,6 +26470,77 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260719",
+        "Start Time": "",
+        "End Date": "20260719",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yappari Matsuri",
+        "Location": "Depok Town Center",
+        "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "yappari_matsuri_2026",
+        "location_address": "Jl. Raya Sawangan No.1, Rangkapan Jaya, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16435",
+        "location_city": "Depok",
+        "location_coordinate": "-6.395267178619833, 106.7928637374198",
+        "location_gmaps": "https://goo.gl/maps/gYdmgvu6DhyajVxL7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZW1dzyxxuI/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Competition / Tournament"
+            ],
+            "organizer": "Regalien ID",
+            "description": "Yappari Matsuri adalah acara festival Jejepangan yang diselenggarakan oleh Regalien ID. Festival ini akan diadakan secara luring pada tanggal 19 Juli 2026 di Depok Town Center. Acara ini terbuka untuk umum tanpa biaya masuk dan menghadirkan berbagai agenda khas komunitas, termasuk kompetisi Coswalk.",
+            "activities": [
+                "Festival Jejepangan / Matsuri Event",
+                "Coswalk Competition (Kompetisi Coswalk)"
+            ],
+            "contact": {
+                "phone_numbers": [
+                    "0889-7666-8427"
+                ],
+                "social_media": [
+                    "Instagram: @regalien_id"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Harga Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "FREE HTM / Gratis masuk bagi pengunjung."
+                    },
+                    {
+                        "type": "Pendaftaran Coswalk (Online)",
+                        "price": 15000,
+                        "note": "Biaya registrasi daring untuk peserta kompetisi Coswalk."
+                    },
+                    {
+                        "type": "Pendaftaran Coswalk (OTS / On The Spot)",
+                        "price": 20000,
+                        "note": "Biaya registrasi di lokasi untuk peserta kompetisi Coswalk."
+                    },
+                    {
+                        "type": "Pendaftaran Coswalk (Media & Community Partner)",
+                        "price": 0,
+                        "note": "Gratis biaya registrasi khusus untuk mitra media dan komunitas."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260719",
@@ -26882,6 +26994,61 @@
                 "facebook": "Nippon Day Makassar"
             },
             "description": "Mengusung tema kolaborasi budaya 'Ewako x Kizuna: Spirit of Friendship' dengan penggabungan elemen lokal Makassar (Topi Passapu) dan Jepang (Mizuhiki). Berdasarkan logo di pojok kanan atas poster image_b82ca8.jpg, acara ini didukung atau diselenggarakan bersama Consular Office of Japan in Makassar."
+        }
+    },
+    {
+        "Start Date": "20260906",
+        "Start Time": "",
+        "End Date": "20260906",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cosplay Creator & Community Convention (C4)",
+        "Location": "Tunjungan Plaza Surabaya",
+        "Comment": "Pendaftaran untuk penampil (performers) saat ini telah dibuka melalui narahubung yang tertera.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "cosplay_creator_community_convention_c4_2026",
+        "location_address": "Jl. Jenderal Basuki Rachmat.8-12, Tunjungan Plaza IV, UG. 54-55, Kedungdoro, Tegalsari, Surabaya, East Java 60261",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.2632979535255595, 112.74050266888294",
+        "location_gmaps": "https://maps.app.goo.gl/4AoYe1k3usMNJkN1A",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZSAkrCDjhh/",
+            "http://linktr.ee/c4_official"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Exhibition / Expo"
+            ],
+            "organizer": "Cosplay Creator & Community Convention (C4)",
+            "description": "Cosplay Creator & Community Convention (C4) merupakan sebuah acara konvensi yang dirancang untuk menghubungkan ekosistem cosplay dengan mempertemukan para pencipta (creators), komunitas, pelaku bisnis, dan penggemar dalam satu wadah. Acara ini diselenggarakan secara luring pada tanggal 6 September 2026 di Tunjungan Plaza Surabaya. Pihak penyelenggara membuka kesempatan seleksi terbuka bagi berbagai macam penampil untuk ikut serta meramaikan panggung acara.",
+            "activities": [
+                "Konvensi Cosplay dan Komunitas / Cosplay Convention",
+                "Pertunjukan Musisi (Solo, Band, Perkusi)",
+                "Pertunjukan Cosplay (Kabaret, Cover Dance, dll)",
+                "Pertunjukan Tari (Solo, Grup)",
+                "Penampil Panggung (Standup, Sulap/Tricks, dll)",
+                "Diskusi Panel Khusus / Special Interest Panelists",
+                "Lokakarya / Workshop"
+            ],
+            "contact": {
+                "registration_links": [
+                    "http://linktr.ee/c4_official"
+                ],
+                "phone_numbers": [
+                    "Nadia (0881-0360-33012)",
+                    "Jerry (0878-5556-8835)"
+                ],
+                "social_media": [
+                    "Instagram: @c4_surabaya"
+                ]
+            }
         }
     },
     {
