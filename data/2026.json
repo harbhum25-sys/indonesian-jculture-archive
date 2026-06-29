@@ -25069,7 +25069,8 @@
         "links": [
             "https://www.instagram.com/nerokufest",
             "https://www.instagram.com/p/DYHSroKibYF/",
-            "https://www.instagram.com/p/DYJL8k7CcAp/"
+            "https://www.instagram.com/p/DYJL8k7CcAp/",
+            "https://www.instagram.com/p/DZgjshSJsaj/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -25091,6 +25092,17 @@
             ],
             "social_media": {
                 "instagram": "@nerokufest"
+            },
+            "rundown": {
+                "13.00": "Registration & Open Gate",
+                "15.00": "Chit Chat",
+                "15.30": "Aurora Dream",
+                "16.30": "Break",
+                "16.45": "Random Anisong",
+                "17.15": "Muses",
+                "18.15": "Break",
+                "18.30": "DJ",
+                "19.30": "Arigatouu!!"
             }
         }
     },
@@ -26193,7 +26205,7 @@
         "Location": "JIEXPO Kemayoran, Jakarta",
         "Comment": "Insert to J-Event List : 20260605 04:24:23\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "jakarta_fair_music_concert_jkt48_2026",
         "location_address": "Jakarta International Expo (JIEXPO), Gedung Pusat Niaga Lt. 1, Jl. Benyamin Suaeb, Pademangan Timur, Kec. Pademangan, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta 14410",
@@ -26242,7 +26254,7 @@
         "Location": "Institut Teknologi Bandung",
         "Comment": "Insert to J-Event List : 20260507 16:39:54\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "genfest_itb_2026",
         "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
@@ -26254,22 +26266,203 @@
             "https://www.instagram.com/genfest.itb/",
             "https://linktr.ee/GenFest2026",
             "https://x.com/genfest_utb",
-            "https://www.en.bushi-navi.com/event?eventCode=HKDYV#detail"
+            "https://www.en.bushi-navi.com/event?eventCode=HKDYV#detail",
+            "https://www.instagram.com/wibu_baleendah/p/DZ4aUTjsMis/"
         ],
         "date_precision": "day",
         "source_status": "active",
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Toy / Figure / Hobby"
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Gaming / Game Tournament",
+                "Musik - Idol / VTuber"
             ],
             "organizer": "Genshiken ITB",
-            "description": "Acara tahunan Genshiken ITB yang menghadirkan pasar kreatif (booth), pameran, dan turnamen resmi Bushiroad.",
+            "theme": "Genfest 2026",
+            "tagline": "Let's Party in the Stars!",
+            "description": "Festival budaya pop Jepang tahunan yang diselenggarakan oleh Genshiken ITB di area kampus ITB Ganesha dengan mengusung tema penjelajahan luar angkasa dan lautan bintang. Acara ini memadukan pasar seni (art market), kompetisi coswalk, panggung pertunjukan musik dan VTuber, serta interaksi komunitas game kartu.",
+            "date": "Jumat & Sabtu, 26 - 27 Juni 2026",
+            "time": {
+                "day_1": "09.00 - 18.00 WIB",
+                "day_2": "09.00 - 21.00 WIB"
+            },
+            "venue": "Aula Timur, ITB Ganesha, Bandung",
             "ticket_info": {
-                "price": "TBA"
+                "day_1_ticket": "Rp 10.000",
+                "day_2_ticket": "Rp 15.000",
+                "both_days_ticket": "Rp 20.000",
+                "purchase_link": "https://genticket.zite.so"
+            },
+            "contents_and_activities": [
+                "Genvoca Performance",
+                "Genfest Asssemble",
+                "Art Market (Day 1)",
+                "Trading Card Game",
+                "Booth Interaction"
+            ],
+            "talent_and_crew": {
+                "coswalk_judges": [
+                    "Tasya",
+                    "Dede"
+                ],
+                "coswalk_total_prize": "500 K"
+            },
+            "guest_stars": [
+                {
+                    "name": "Seinen Beats",
+                    "members": [
+                        "Ryuu",
+                        "Van_fenny",
+                        "Mekolyn",
+                        "Kala"
+                    ]
+                },
+                "Catto",
+                "Yomigaere",
+                {
+                    "name": "Project Livium",
+                    "members": [
+                        "Gui",
+                        "Indira",
+                        "Lilis",
+                        "Yuura"
+                    ]
+                }
+            ],
+            "media_partners_and_supports": [
+                "KAORI Nusantara",
+                "Media Formasi"
+            ],
+            "contact_and_social_media": {
+                "instagram": "@genfest.itb",
+                "twitter_x": "@genfest_itb",
+                "phone": "+62 811-2211-033 (El Agape B. J.)"
             },
             "registration_links": {
                 "booth": "https://bit.ly/BoothGenFest2026"
+            }
+        }
+    },
+    {
+        "Start Date": "20260627",
+        "Start Time": "",
+        "End Date": "20260627",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pelepasan Siswa/i PKBM Bunga Bangsa: Setelah Lulus Harus Jadi Apa?",
+        "Location": "PKBM Bunga Bangsa, Ds. Cilele",
+        "Comment": "Insert to J-Event List : 20260630 04:08:07\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "pelepasan_pkbm_bunga_bangsa_cosplay_santuy_2026",
+        "location_address": "H7QF+7P, Margakaya, Kec. Telukjambe Bar., Karawang, Jawa Barat 41361",
+        "location_city": "Karawang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.411765378001308, 107.27429193697961",
+        "location_gmaps": "https://maps.app.goo.gl/ZKBTDyD7vJGnXXXy6",
+        "links": [
+            "https://www.instagram.com/p/DaDHU5-TXUy/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Social / Charity Event",
+                "Talkshow / Seminar"
+            ],
+            "organizer": "YPDH Peduli (@ypdhpeduli), Puri Dharma Hamemayu (@puridharma_hamemayu)",
+            "co_organizer": "Cosplay Santuy (@cosplaysantuy)",
+            "description": "Acara ini merupakan bentuk kolaborasi sosial antara organisasi YPDH Peduli dan komunitas Cosplay Santuy dalam rangka merayakan kelulusan sekaligus pelepasan siswa-siswi PKBM Bunga Bangsa. Berdasarkan informasi dari materi visual poster pada berkas image_a87067.jpg, acara ini mengusung tajuk 'Setelah Lulus Harus Jadi Apa?' dengan sub-tema 'Menemukan Diri Lewat Hobi, Komunitas & Pengalaman' yang bertujuan untuk menginspirasi para lulusan dalam menentukan langkah masa depan mereka.",
+            "activities": [
+                "Pelepasan Siswa/i PKBM Bunga Bangsa",
+                "Sharing Session / Talkshow Motivasi Lulusan",
+                "Cosplay Performance & Gathering"
+            ],
+            "performers": [
+                "Zalxgra",
+                "Auryzune",
+                "Ucan",
+                "Kaguzen",
+                "Agaas",
+                "Nana"
+            ],
+            "contact": {
+                "phone": "089513442844 (Ibu Pury)",
+                "social_media": [
+                    "Instagram: @ypdhpeduli",
+                    "Instagram: @cosplaysantuy",
+                    "Instagram: @puridharma_hamemayu"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "HTM / Tiket Masuk",
+                        "price": null,
+                        "note": "Acara internal/sosial pelepasan siswa sekolah."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260627",
+        "Start Time": "16:00",
+        "End Date": "20260627",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tekken 8 Gathering X Mini Tour - Fear the Wrath of the Devil!",
+        "Location": "Toko Mie Ali",
+        "Comment": "Insert to J-Event List : 20260627 03:47:10\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tekken_8_gathering_x_mini_tour_palembang_2026",
+        "location_address": "Jl. Inspektur Marzuki No.3302, Demang Lebar Daun, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30138",
+        "location_city": "Palembang",
+        "location_coordinate": "-2.9633363368612966, 104.73506853173191",
+        "location_gmaps": "https://maps.app.goo.gl/SWN3ejZzhm4xycks5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZ9Sl9ASwYR/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Competition / Tournament",
+                "Esports / Gaming"
+            ],
+            "organizer": "Palembang Tekken Community (PTC)",
+            "co_organizer": "Toko Mie Ali (@tokomieali.id)",
+            "description": "Palembang Tekken Community (PTC) menyelenggarakan acara kumpul komunitas (gathering) sekaligus turnamen kecil (mini tournament) untuk permainan Tekken 8 secara luring. Berdasarkan informasi resmi pada poster dan takarir media sosial, kegiatan ini terbuka bagi komunitas pencinta game bertarung (fighting game community) di wilayah Palembang untuk menguji kemampuan bermain dengan sistem pendaftaran langsung di tempat.",
+            "activities": [
+                "Tekken 8 Mini Tournament",
+                "Fighting Game Community Gathering / Casual Match"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @tokomieali.id"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Registration Fee / Biaya Pendaftaran",
+                        "price": 15000,
+                        "note": "Biaya keikutsertaan turnamen dibayarkan langsung saat mendaftar di lokasi."
+                    }
+                ],
+                "prize_pool": "Rp550.000 (550k)"
             }
         }
     },
@@ -26286,7 +26479,7 @@
         "Location": "Barblaz Beer Mart",
         "Comment": "Insert to J-Event List : 20260620 03:54:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "anisong_karaoke_night_2026",
         "location_address": "Jl. Banda No.35, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
@@ -26340,7 +26533,7 @@
         "Location": "Telkom University",
         "Comment": "Insert to J-Event List : 20260421 16:47:01\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "nihon_no_matsuri_17_telkom_bdg_2026",
         "location_address": "Jl. Telekomunikasi No.20, Sukapura, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40267",
@@ -26485,7 +26678,7 @@
         "Location": "Convention Hall TP 3",
         "Comment": "Insert to J-Event List : 20260308 16:27:08\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "",
         "_id": "chibicon_x_2026_sby",
         "location_address": "Jl. Jenderal Basuki Rachmat.8-12, Tunjungan Plaza IV, UG. 54-55, Kedungdoro, Tegalsari, Surabaya, East Java 60261",
@@ -26569,7 +26762,7 @@
         "Location": "Concourse Zona Utara (area indoor & outdoor), Jakarta International Stadium",
         "Comment": "Insert to J-Event List : 20260614 04:08:02\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "jis_animexpo_2026",
         "location_address": "RT.1/RW.12, Papanggo, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14340",
@@ -26647,7 +26840,7 @@
         "Location": "Plaza Pondok Gede",
         "Comment": "Insert to J-Event List : 20260620 03:54:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "nands_purplefest_2026_bekasi",
         "location_address": "Jl. Raya Pd. Gede, RT.001/RW.001, Jatiwaringin, Kec. Pd. Gede, Kota Bks, Jawa Barat 17411",
@@ -26716,7 +26909,7 @@
         "Location": "Wisata Alam Oasis Sukabumi",
         "Comment": "Insert to J-Event List : 20260604 11:04:46\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "after_party_oasis_pop_culture_fest_2026",
         "location_address": "Jl. Mayor Mahmud, Sukajaya, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat",
@@ -26762,7 +26955,7 @@
         "Location": "Indogrosir Ciputat",
         "Comment": "Insert to J-Event List : 20260620 03:54:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "banzai_bluelock_matsuri_2026",
         "location_address": "Jl. Raya Parung - Ciputat, Bojongsari Baru, Kec. Bojongsari, Kota Depok, Jawa Barat, Kedaung, Kec. Sawangan, Kota Depok, DKI Jakarta 16516",
@@ -26895,6 +27088,64 @@
                 "instagram": [
                     "@meo.mns",
                     "@minostudio.ltd"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260701",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanese Fest 2026",
+        "Location": "OPI Mall",
+        "Comment": "Festival kebudayaan Jepang yang berlangsung selama 5 hari berturut-turut di OPI Mall, menghadirkan berbagai kompetisi seperti Japan Dance, Poundfit, Cosplay, serta bazaar kuliner dan anime merchandise.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "japanese_fest_opi_mall_2026",
+        "location_address": "Jakabaring Sport City, Jl. Gubernur H. A Bastari, Sungai Kedukan, Kec. Rambutan, Kab. Banyuasin, Sumatera Selatan 30257",
+        "location_city": "Palembang",
+        "location_coordinate": "-3.0361397472523555, 104.79156412913565",
+        "location_gmaps": "https://maps.app.goo.gl/oFzAMSHtYcZ5w2Wu5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZ_gPzTxpMe/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Competition / Tournament",
+                "Culinary Event"
+            ],
+            "organizer": "OPI Mall (@opimall)",
+            "description": "Japanese Fest 2026 merupakan sebuah pergelaran expo, kuliner, dan festival kebudayaan pop Jepang luring yang diadakan di OPI Mall. Berdasarkan keterangan takarir media sosial dan visual poster resmi pada berkas image_a85a44.jpg, acara ini didukung oleh Bank Indonesia serta dinas pariwisata setempat, dengan menyajikan rangkaian kompetisi menarik, pesta idola grup, serta area bazaar kuliner khas Jepang dan pernak-pernik anime.",
+            "activities": [
+                "Japanese Fest Expo & Kuliner Bazaar",
+                "Japan Dance Competition",
+                "Poundfit Competition",
+                "Japan Fashion Fest",
+                "Cosplay Competition",
+                "Japan Idol Party",
+                "Anime & Merchandise Hunting"
+            ],
+            "contact": {
+                "phone": "+62 711 562 0477",
+                "website": "www.opimall.com"
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Akses terbuka untuk umum (bazaar/mall festival area)."
+                    }
                 ]
             }
         }
@@ -27068,6 +27319,57 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "WIBU BERMAIN GEMBIRA",
+        "Location": "Miko Mall",
+        "Comment": "Insert to J-Event List : 20260624 17:27:02\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "wibu_gembira_festival_wgf_2026_pengganti",
+        "location_address": "Jl. Raya Kopo No.599, Cirangrang, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40227",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.959920899029212, 107.58084641179033",
+        "location_gmaps": "https://g.page/mikomallkopo_bdg",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaAEx_RI8ba/",
+            "https://www.instagram.com/p/DZ9m4KoGPKf/",
+            "https://www.instagram.com/p/DVBjIRHEp5M/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Ankoku Festival, Wibu Baleendah",
+            "co_organizer": "Kitsuki Entertainment",
+            "description": "Event Alternatif Pengganti Wibu Gembira Fest 2026. Menanggapi pemindahan jadwal utama Wibu Gembira Festival (WGF) 2026 ke bulan Agustus, pihak panitia menghadirkan sebuah event alternatif pengganti spesial hasil kolaborasi antara Ankoku Festival dan Wibu Baleendah. Event ini diselenggarakan secara luring di Miko Mall Bandung pada tanggal 4-5 Juli 2026 tanpa dipungut biaya masuk (FREE HTM) sebagai bentuk apresiasi kepada komunitas dan pengunjung.",
+            "activities": [
+                "Cosplay Gathering & Performance",
+                "Community Silaturahmi",
+                "Music Performance / Idol Showcase"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (FREE HTM) untuk seluruh pengunjung di Miko Mall."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260704",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Pesta Komik",
         "Location": "Festival Citylink",
         "Comment": "Insert to J-Event List : 20260119 17:00:52\n",
@@ -27212,6 +27514,68 @@
             ],
             "contact": {
                 "instagram": "@bunkanohi_"
+            }
+        }
+    },
+    {
+        "Start Date": "20260705",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Banzai Depok Matsuri",
+        "Location": "Ciplaz Depok Ramayana Prime",
+        "Comment": "Insert to J-Event List : 20260630 04:20:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "banzai_depok_matsuri_2026",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.391816768232732, 106.82521213985275",
+        "location_gmaps": "https://maps.app.goo.gl/oVWsgu1K7d5Mbfpu7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaK7MkaSanu/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "Cosplay Depok (@cosplay_depok), Rising Sun Cosplay Corp (@risingsuncosplaycorp), Ramayana Depok (@ramayanadepok)",
+            "sponsor": "Pungki Cosplay (@pungkicosplay)",
+            "description": "Banzai Depok Matsuri adalah festival luring kebudayaan pop Jepang yang diadakan di Ciplaz Depok Ramayana Prime. Acara ini merangkul berbagai elemen komunitas penikmat kultur jejepangan melalui pagelaran musik, tarian idola, pertunjukan cosplay, serta area pasar kreatif untuk pernak-pernik anime.",
+            "activities": [
+                "Cosplay Party & Free Regist Coswalk",
+                "Idol Dance Cover Performance",
+                "DJ Performance",
+                "Band Performance",
+                "Cover Sing Performance",
+                "Random Play Dance",
+                "Bazaar Merchandise Wibu"
+            ],
+            "contact": {
+                "phone": "081389307687 (Umi)",
+                "social_media": [
+                    "Instagram: @cosplay_depok",
+                    "Instagram: @risingsuncosplaycorp",
+                    "Instagram: @ramayanadepok"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk / Pendaftaran Coswalk",
+                        "price": 0,
+                        "note": "Pendaftaran kompetisi Coswalk tidak dipungut biaya (Free Regist)."
+                    }
+                ]
             }
         }
     },
@@ -27414,6 +27778,76 @@
                     "Instagram: @deliparkmedan",
                     "Instagram: @glowenterprise.id",
                     "Instagram: @kzr.inc"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260711",
+        "Start Time": "",
+        "End Date": "20260711",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "East Culture: Itashadomei Meetup & Coswalk Competition",
+        "Location": "AEON Mall BSD City, Event Plaza, Ground Floor",
+        "Comment": "Insert to J-Event List : 20260627 03:47:10\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "east_culture_itashadomei_meetup_bsd_2026",
+        "location_address": "Jl. BSD Raya Utama, Pagedangan, Kec. Pagedangan, Kabupaten Tangerang, Banten 15345",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.305143908519015, 106.64353605411492",
+        "location_gmaps": "https://goo.gl/maps/X1wjDBidLTqkVzFt5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.facebook.com/share/p/196Xpg39ME/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Competition / Tournament",
+                "Festival / Matsuri",
+                "Exhibition / Expo"
+            ],
+            "organizer": "Itasha Domei Indonesia (@itashadomei)",
+            "co_organizer": "AEON Mall BSD City",
+            "description": "East Culture: Itashadomei Meetup merupakan pergelaran luring yang memadukan ajang kumpul komunitas pencinta otomotif kultur pop Jepang (itasha) dan kompetisi kostum pop kultur. Berdasarkan informasi resmi dan materi visual poster pada berkas image_2a7a95.jpg, acara ini diselenggarakan di Event Plaza Ground Floor AEON Mall BSD City pada tanggal 11 Juli 2026 dengan menyajikan panggung pertunjukan musik serta ajang unjuk bakat bagi para cosplayer nasional.",
+            "activities": [
+                "Itasha Domei Gathering & Meetup",
+                "Coswalk Competition (16 Kategori Pemenang)",
+                "Live Music & Performance",
+                "Guest Judges Session"
+            ],
+            "performers": [
+                "La Belle",
+                "Elyria",
+                "Anikuma",
+                "Stellar Luna",
+                "Yuriwa"
+            ],
+            "guest_stars": [
+                "@chelynchan27 (Guest Star & Judge)",
+                "@jusuf.ramadhan (Guest Star & Judge)"
+            ],
+            "mc": [
+                "Orereoorereo92"
+            ],
+            "media_partners": [
+                "Cosclip.id (@cosclip.id)",
+                "Easter Feeds (@easter.feeds)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Total Hadiah Lomba (Prizepool)",
+                        "price": 4000000,
+                        "note": "Total nilai hadiah tunai yang diperebutkan dalam Coswalk Competition."
+                    }
                 ]
             }
         }
@@ -27736,6 +28170,76 @@
                 "Festival Jejepangan / Event Matsuri",
                 "Rekreasi dan Petualangan Mengelilingi Miniatur Dunia"
             ]
+        }
+    },
+    {
+        "Start Date": "20260718",
+        "Start Time": "13:30",
+        "End Date": "20260718",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pra Event Back With Love Cosplay: Lomba Mewarnai \u00e2\u20ac\u201c Colourful Fantasy Adventure",
+        "Location": "Mall ITC Depok",
+        "Comment": "Insert to J-Event List : 20260630 04:20:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "pra_event_back_with_love_cosplay_mewarnai_2026",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.392704524156228, 106.823214511036",
+        "location_gmaps": "https://maps.app.goo.gl/6NpjB8udg53kpPWB7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaHz4ftv7qu/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "FAMS Event Organizer (@fams.eventorganizer)",
+            "description": "Lomba Mewarnai \u00e2\u20ac\u201c Colourful Fantasy Adventure merupakan rangkaian pra-event luring dari pergelaran utama Back With Love Cosplay 'Love Reborn Arc'. Berdasarkan materi publikasi resmi media sosialnya, kegiatan kompetisi kreativitas anak ini ditujukan bagi murid tingkatan PAUD, TK, hingga SD Kelas 1-3 dengan mengusung nuansa petualangan fantasi dan turut diramaikan oleh panggung hiburan grup idola.",
+            "activities": [
+                "Lomba Mewarnai Anak (Durasi pengerjaan 90 menit)",
+                "Idol Performance Group Showcase"
+            ],
+            "contact": {
+                "phone": "088905014181",
+                "social_media": [
+                    "Instagram: @fams.eventorganizer"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Biaya Registrasi Online",
+                        "price": 15000,
+                        "note": "Pendaftaran awal secara daring."
+                    },
+                    {
+                        "type": "Biaya Registrasi On The Spot (OTS)",
+                        "price": 35000,
+                        "note": "Pendaftaran langsung di lokasi acara."
+                    }
+                ],
+                "prizepool": [
+                    {
+                        "type": "Juara 1\u00e2\u20ac\u201c3 (Tiap Kategori)",
+                        "price": null,
+                        "note": "Mendapatkan Piala, Uang Tunai, dan Sertifikat."
+                    },
+                    {
+                        "type": "Favorit Juri 1\u00e2\u20ac\u201c3 (Tiap Kategori)",
+                        "price": null,
+                        "note": "Mendapatkan Piala dan Sertifikat."
+                    }
+                ]
+            }
         }
     },
     {
@@ -28274,6 +28778,69 @@
     },
     {
         "Start Date": "20260801",
+        "Start Time": "11:00",
+        "End Date": "20260802",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Back With Love Cosplay: Love Reborn Arc",
+        "Location": "Mall ITC Depok Lantai 2",
+        "Comment": "Insert to J-Event List : 20260630 04:20:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "back_with_love_cosplay_depok_2026",
+        "location_address": "Jl. Margonda, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+        "location_city": "Depok",
+        "location_coordinate": "-6.392704524156228, 106.823214511036",
+        "location_gmaps": "https://maps.app.goo.gl/6NpjB8udg53kpPWB7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaFDwczj5iz/",
+            "https://www.instagram.com/p/DZ46tIFvbcq/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert",
+                "Bazaar / Market"
+            ],
+            "organizer": "FAMS Event Organizer (@fams.eventorganizer)",
+            "description": "Back With Love Cosplay 'Love Reborn Arc' merupakan sebuah pergelaran festival kebudayaan pop Jepang luring berskala besar di Kota Depok. Acara ini dirancang sebagai wadah berkumpulnya para cosplayer, kreator, dan penikmat kultur anime dengan menyajikan kombinasi panggung pertunjukan musik, parade kostum, komunitas gim, hingga area pasar kreatif.",
+            "activities": [
+                "Cosplay Parade",
+                "Anisong Performance",
+                "Idol Performance",
+                "Band Performance",
+                "DJ Performance",
+                "Games Community",
+                "Bazar Merchandise",
+                "Bazar F&B",
+                "Community Corner Booth"
+            ],
+            "contact": {
+                "phone": "088905014181",
+                "social_media": [
+                    "Instagram: @fams.eventorganizer"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Harga Tiket Masuk (HTM)",
+                        "price": null,
+                        "note": "HTM segera diumumkan / status penjualan tiket masih belum dibuka secara resmi."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260801",
         "Start Time": "",
         "End Date": "20260802",
         "End Time": "",
@@ -28512,6 +29079,65 @@
         }
     },
     {
+        "Start Date": "20260829",
+        "Start Time": "",
+        "End Date": "20260830",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wibu Gembira Festival (WGF) 2026",
+        "Location": "Bandung",
+        "Comment": "Insert to J-Event List : 20260624 17:27:02\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "wibu_gembira_festival_wgf_2026_rescheduled",
+        "location_address": "Bandung, Jawa Barat, Indonesia",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DZ9m4KoGPKf/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert",
+                "Competition / Tournament"
+            ],
+            "organizer": "Ankoku Fest (@ankokufest)",
+            "co_organizer": "Kitsuki Entertainment (@kitsuki_entertainment)",
+            "description": "Wibu Gembira Festival (WGF) 2026 merupakan festival kebudayaan pop Jepang utama yang awalnya direncanakan berlangsung di lingkungan sekolah pada bulan Juli. Sehubungan dengan adanya kegiatan serentak SPMB (Sistem Penerimaan Murid Baru), Pelatihan Guru, serta MOS di berbagai sekolah, pihak panitia memutuskan mengundur pelaksanaan demi kesiapan lokasi dan kenyamanan bersama. Pada jadwal baru ini, durasi acara diperpanjang menjadi dua hari penuh (29-30 Agustus 2026) dengan jaminan tidak ada pengurangan bintang tamu (guest star), melainkan akan ada penambahan pengisi acara.",
+            "activities": [
+                "Idol Performance & Showcase",
+                "Cosplay & Coswalker Showcase",
+                "Cover Song & Coswalk Competition",
+                "Karaoke Party & DJ Performance",
+                "Community Gathering",
+                "Open Booth / Tenant Market"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Early Miaw / Pre-Sale 1 (Konfirmasi Ulang)",
+                        "price": null,
+                        "note": "Pengunjung yang sudah membeli tiket ini diwajibkan mengisi formulir konfirmasi ulang untuk memilih hari kunjungan (Day 1 atau Day 2)."
+                    },
+                    {
+                        "type": "Biaya Kompensasi Akses Hari Kedua",
+                        "price": 10000,
+                        "note": "Bagi pemegang tiket awal yang ingin menambah akses masuk ke hari kedua, dikenakan biaya tambahan sebesar Rp10.000 per tiket."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260906",
         "Start Time": "",
         "End Date": "20260906",
@@ -28646,6 +29272,85 @@
             "organizer": "katofest_id",
             "edition": "V 2.0",
             "theme": "Chaos Be Going Started"
+        }
+    },
+    {
+        "Start Date": "20260919",
+        "Start Time": "",
+        "End Date": "20260920",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Idolverse Festival 2026",
+        "Location": "Bandung (TBA)",
+        "Comment": "Insert to J-Event List : 20260630 04:08:07\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "idolverse_festival_bandung_2026",
+        "location_address": "Bandung, Jawa Barat, Indonesia",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/idolverse_festival/",
+            "https://www.instagram.com/p/DaKzk6viDfL/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Music / Concert"
+            ],
+            "organizer": "Arventa Production",
+            "description": "Idolverse Festival 2026 adalah festival musik luring di Bandung yang berfokus pada pertunjukan grup idola (idol group). acara ini mengombinasikan penampilan grup idola, solois, pertunjukan cosplay, wotagei, serta aktivitas komunitas pencinta kultur idola Jepang dan lokal.",
+            "activities": [
+                "Special Idol Performance",
+                "Soloist Performance",
+                "Live Music & Dance Showcase",
+                "Wotagei Activity",
+                "Cosplay Performance",
+                "Community Gathering"
+            ],
+            "performers": [
+                "NAIRA (@officialnaira_)",
+                "ARUNIKA",
+                "STELLFY TEAM",
+                "YUME MIRAGE",
+                "HT-One",
+                "ACELLIA (Soloist)"
+            ],
+            "mc": [
+                "KARYL"
+            ],
+            "contact": {
+                "phone": "0851-3945-2789",
+                "social_media": [
+                    "Instagram: @idolverse_festival"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Early Bird (Day 1 / Day 2)",
+                        "price": 15000,
+                        "note": "Harga tiket per hari untuk kategori penjualan awal."
+                    },
+                    {
+                        "type": "Early Bird (2 Days Pass)",
+                        "price": 25000,
+                        "note": "Tiket terusan untuk akses penuh selama dua hari (Sabtu & Minggu)."
+                    },
+                    {
+                        "type": "Presale",
+                        "price": null,
+                        "note": "Kuota dan harga tahap Presale berikutnya masih terkunci (TBA)."
+                    }
+                ]
+            }
         }
     },
     {
@@ -28960,6 +29665,56 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20261012",
+        "Start Time": "",
+        "End Date": "20261013",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Binus Bunkasai 2026: Cyberpunk Harajuku Colors of the Future",
+        "Location": "Binus Kemanggisan, Kampus Anggrek",
+        "Comment": "Insert to J-Event List : 20260624 17:27:02\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "binus_bunkasai_2026",
+        "location_address": "Jl. Raya Kb. Jeruk No.27, RT.1/RW.9, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.201753186273936, 106.78225468742923",
+        "location_gmaps": "https://maps.app.goo.gl/MmQS8KUievQ8Hv8F7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZwtU9NkpNB/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Exhibition / Expo",
+                "Bazaar / Market"
+            ],
+            "organizer": "Himpunan Mahasiswa Sastra Jepang Binus University (@himjabinus)",
+            "description": "Binus Bunkasai 2026 merupakan festival kebudayaan Jepang tahunan yang diselenggarakan oleh Himpunan Mahasiswa Sastra Jepang Universitas Bina Nusantara (Binus). Pada edisi kali ini, acara mengusung tema 'Cyberpunk Harajuku Colors of the Future' dan diadakan secara luring (offline) bertempat di Kampus Anggrek Binus Kemanggisan pada tanggal 12-13 Oktober 2026. Festival ini menyajikan perpaduan antara edukasi kebudayaan tradisional Jepang dan budaya pop modern.",
+            "activities": [
+                "Workshop",
+                "Idol Performances",
+                "Lomba Berhadiah / Competitions",
+                "Coswalk",
+                "Bazaar",
+                "Yukata Rental",
+                "Photobooth"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @himjabinus",
+                    "Instagram: @binus.bunkasai"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20261022",
