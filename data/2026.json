@@ -23855,7 +23855,8 @@
             "https://www.instagram.com/p/DWYBr5hE7Wr/",
             "https://www.instagram.com/p/DY3PwN8gSF_/",
             "bit.ly/PresaleAnisession",
-            "https://www.instagram.com/p/DY15oFlJpx7/"
+            "https://www.instagram.com/p/DY15oFlJpx7/",
+            "https://web.facebook.com/groups/251875943835/posts/10165522195643836/"
         ],
         "Content": {
             "category": [
@@ -27067,7 +27068,8 @@
         "links": [
             "https://www.instagram.com/p/DZwipgiErxI/",
             "https://metaco.gg/event/uUReUlRPdxwMCN4l5bmud",
-            "https://drive.google.com/drive/folders/1smFbQo3cgbFsVhYCZ3m3UzRgJw8-nI1t"
+            "https://drive.google.com/drive/folders/1smFbQo3cgbFsVhYCZ3m3UzRgJw8-nI1t",
+            "https://web.facebook.com/share/p/1EM3N8zLAV/"
         ],
         "Content": {
             "category": [
@@ -27264,7 +27266,7 @@
         "Location": "Tentrem Mall",
         "Comment": "Insert to J-Event List : 20260608 17:30:10\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "infinifest_dx_tentrem_mall_semarang_2026",
         "location_address": "Gajah Mada 123, Kota Semarang, Jawa Tengah 50134",
@@ -27320,7 +27322,7 @@
         "Location": "Main Atrium, Tentrem Mall",
         "Comment": "Insert to J-Event List : 20260620 03:54:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "infinifest_dx_2026",
         "location_address": "Gajah Mada 123, Kota Semarang, Jawa Tengah 50134",
@@ -27374,7 +27376,7 @@
         "Location": "Main Atrium, Mall Alam Sutera",
         "Comment": "Insert to J-Event List : 20260702 03:34:24\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "nobox_hobby_collectors_festival_2026",
         "location_address": "Jl. Jalur Sutera Bar. No.Kav. 16, RT.002/RW.003, Panunggangan Tim., Kec. Pinang, Kota Tangerang, Banten 15143",
@@ -27841,15 +27843,17 @@
         "status": "Scheduled",
         "attended": "No",
         "_id": "sound_of_wibu_3_0_purwakarta_2026",
-        "location_address": "Coffee Rider Purwakarta, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41115",
+        "location_address": "Jl. Suradireja No.20, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41114",
         "location_city": "Purwakarta",
         "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.54500302685458, 107.44531930352416",
+        "location_gmaps": "https://maps.app.goo.gl/K6Xr3Gj1BGsqnYht6",
         "links": [
             "https://www.instagram.com/p/DaNvET5h50M/",
             "https://www.instagram.com/soundofwibupwk/",
-            "https://www.instagram.com/p/DaR9GuXhNSU/"
+            "https://www.instagram.com/p/DaR9GuXhNSU/",
+            "https://web.facebook.com/share/p/19FtcDG3hn/",
+            "https://web.facebook.com/share/p/1K6DzAkV7N/"
         ],
         "Content": {
             "category": [
@@ -28039,6 +28043,112 @@
         }
     },
     {
+        "Start Date": "20260704",
+        "Start Time": "10:00",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Rock & Idol Festival Vol 7",
+        "Location": "Mall@Bassura",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jrif_vol7_bassura_2026",
+        "location_address": "Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.223361616824525, 106.88094583840649",
+        "location_gmaps": "https://goo.gl/maps/GUeYpkrExKGBaamZ7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaRy-BREaxf/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Music / Concert",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "RAF Creative (@rafcreative)",
+            "co_organized_by": [
+                "Sisi Kanan (@_sisikanan_)"
+            ],
+            "powered_by": [
+                "Mall@Bassura (@mallbassura)"
+            ],
+            "description": "Japan Rock & Idol Festival Vol 7 (JRIF Vol 7) merupakan pergelaran festival musik pop-rock Jepang luring berskala komunitas di Jakarta Timur. Berdasarkan informasi visual poster pada berkas image_4995a6.jpg dan takarir publikasi resmi, festival ini menyajikan panggung hiburan musik yang mempertemukan deretan grup idola lokal, solois, komunitas cover tari/grup, hingga grup band beraliran J-Rock tanpa memungut biaya masuk bagi pengunjung.",
+            "activities": [
+                "Idol Group Showcase Performance",
+                "J-Rock & Anime Band Performance",
+                "Solo & Unit Performance Showcase",
+                "Community Gathering"
+            ],
+            "performers": [
+                "@nekodachi_",
+                "@amaimonogatari_",
+                "@kiraqueen_project",
+                "@ametta_official",
+                "@moonmetal.id",
+                "@mirukii.day",
+                "@valerie.idol",
+                "@vela_sanza",
+                "@sunnytale.ofc",
+                "@r3ach.official",
+                "@bgr48id",
+                "@dreamscape_officialgram",
+                "@gokkusagi.band"
+            ],
+            "contact": {
+                "whatsapp": "0858-9181-6962",
+                "instagram": "@rafcreative",
+                "email": "rafcreativepro@gmail.com"
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "Acara ini gratis untuk umum (Free Entry) tanpa dipungut biaya pendaftaran masuk berdasarkan keterangan resmi dan poster image_4995a6.jpg."
+                    }
+                ]
+            },
+            "rundown": {
+                "day_1": {
+                    "10.00": "Open Gate",
+                    "13.30": "Opening by MC",
+                    "14.00": "Idol Show - Moon Metal",
+                    "14.30": "Random Play Dance",
+                    "15.00": "Cosplay Parade",
+                    "15.30": "Idol Show - Mirukii Day",
+                    "16.00": "Idol Show - Valerie",
+                    "16.30": "DJ Performance - Unravel",
+                    "17.30": "Break",
+                    "18.15": "J Band - Dreamscape",
+                    "19.30": "J Band - GokkuSagi",
+                    "20.00": "Closing"
+                },
+                "day_2": {
+                    "10.00": "Open Gate",
+                    "13.30": "Idol Show - Sunny Tale",
+                    "14.00": "Idol Show - Kira Queen",
+                    "14.30": "Random Play Dance",
+                    "15.00": "JRIF Coswalk Competition",
+                    "15.30": "Idol Show - Sanza Velamasc",
+                    "16.00": "Idol Show - Ametta",
+                    "16.30": "Idol Show - BGR48",
+                    "17.00": "Idol Show - R3ach",
+                    "17.30": "Idol Show - Nekodachi",
+                    "18.15": "Winner Awards",
+                    "18.30": "Idol Show - Amai Monogatari"
+                }
+            }
+        }
+    },
+    {
         "Start Date": "20260705",
         "Start Time": "",
         "End Date": "20260705",
@@ -28060,7 +28170,8 @@
         "location_gmaps": "https://maps.app.goo.gl/oVWsgu1K7d5Mbfpu7",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DaK7MkaSanu/"
+            "https://www.instagram.com/p/DaK7MkaSanu/",
+            "https://web.facebook.com/share/p/18o12U5HCx/"
         ],
         "Content": {
             "category": [
@@ -28097,6 +28208,118 @@
                         "note": "Pendaftaran kompetisi Coswalk tidak dipungut biaya (Free Regist)."
                     }
                 ]
+            },
+            "rundown": {
+                "13.00 - 13.15": "PEMBUKAAN OLEH MC",
+                "13.15 - 14.00": "SPECIAL PERFORM DUO SINGER NYA",
+                "14.00 - 14.30": "GUEST STAR IDOL FUJINKAI43",
+                "14.30 - 15.00": "SPECIAL PERFORM SING COVER KEIGA",
+                "15.00 - 15.20": "SPECIAL PERFORM CEBEH KYUN",
+                "15.20 - 16.20": "LOMBA COSWALK",
+                "16.20 - 17.00": "FREE FOR ALL KARAOKE PARTY & RANDOM PLAY DANCE",
+                "17.00 - 17.35": "GUEST STAR DJ BANZAI SQUAD & BON ODORI",
+                "17.35 - SELESAI": "PENGUMUMAN LOMBA COSWALK"
+            }
+        }
+    },
+    {
+        "Start Date": "20260705",
+        "Start Time": "11:00",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "METACORE 2nd STAGE",
+        "Location": "Gressmall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "metacore_2nd_stage_gresik_2026",
+        "location_address": "Jl. Sumatra No.1-5, Gn. Malang, Randuagung, Kec. Kebomas, Kabupaten Gresik, Jawa Timur 61121",
+        "location_city": "Gresik",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.158057292088124, 112.61606335438195",
+        "location_gmaps": "https://maps.app.goo.gl/5WcLfyxV67Rt1Ssa8",
+        "links": [
+            "https://www.instagram.com/p/DaVKm6Uj6C1/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "NEOKAMI NO STAGE",
+            "supported_by": [
+                "@gressmall_gresik",
+                "@cosplay_gresik"
+            ],
+            "description": "METACORE 2nd STAGE (juga diidentifikasikan sebagai METACORE Anniversary pada berkas poster image_492c49.jpg) adalah sebuah pergelaran festival pop culture Jepang luring di Kabupaten Gresik. Berdasarkan takarir resmi dan informasi infografis visual poster pada berkas image_492c49.jpg, acara ini mempertemukan komunitas pencinta hobi melalui parade kostum, kompetisi coswalk, serta panggung pertunjukan yang dimeriahkan oleh deretan grup idola lokal, penampilan band, hingga aksi wotagei.",
+            "activities": [
+                "Cosplay Parade",
+                "Coswalk Competition",
+                "Idol Performance",
+                "Band Performance",
+                "Wotagei Performance",
+                "Community Gathering"
+            ],
+            "performers": [
+                "@kitsune_idol",
+                "@reviveidol.ofc",
+                "@lunarise.ofc",
+                "@nonamisty.official",
+                "@dreamsky_ofc",
+                "@beetrie.official",
+                "@akenohoshi_ofc",
+                "@fanstarstic._",
+                "@metanaru.project",
+                "@mirage_dreamproject",
+                "@memoryofmine.band",
+                "@sby_wotagei"
+            ],
+            "guest_stars": [
+                "Tamz (berdasarkan visual poster image_492c49.jpg)",
+                "Faylyne (berdasarkan visual poster image_492c49.jpg)"
+            ],
+            "guest_judges": [
+                "Jean / @Pratama.coss (diidentifikasi via teks dan poster image_492c49.jpg)",
+                "Jean / @bluepurplee__",
+                "Kurumi / @kurumifuka (diidentifikasi via teks dan poster image_492c49.jpg)",
+                "Jean / @jnnieell"
+            ],
+            "mc": [
+                "@laffayza_"
+            ],
+            "contact": {
+                "whatsapp": "0882-3594-2414"
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": []
+            },
+            "rundown": {
+                "11.00": "Open Gate",
+                "11.30 - 12.00": "BEETRIE",
+                "12.00 - 12.30": "FANSTRASTIC",
+                "12.30 - 13.00": "LUNARISE",
+                "13.00 - 13.30": "DREAMSKY",
+                "13.30 - 14.00": "NONA MISTY",
+                "14.00 - 14.10": "SURABAYA WOTAGEI",
+                "14.10 - 14.40": "MIRAGE DREAM PROJECT BAND",
+                "14.40 - 15.50": "METANARU Sesi 1",
+                "15.50 - 16.20": "COSPLAY PARADE",
+                "16.20 - 17.00": "COSWALK COMPETITION",
+                "17.00 - 17.30": "KITSUNE",
+                "17.30 - 18.00": "AKENOHOSHI",
+                "18.00 - 18.10": "AWARDING",
+                "18.10 - 18.30": "RANDOM PLAY DANCE , GAMES",
+                "18.30 - 19.00": "REVIVE",
+                "19.00 - 19.30": "MEMORY OF MIND BAND",
+                "19.30 - END": "METANARU Sesi 2 & CEREMONY PARTY"
             }
         }
     },
@@ -28371,6 +28594,115 @@
         }
     },
     {
+        "Start Date": "20260705",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Shiratsuyu Matsuri 2026",
+        "Location": "Famouz Cafe Cirebon",
+        "Comment": "Insert to J-Event List : 20260703 20:19:07\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "shiratsuyu_matsuri_cirebon_2026",
+        "location_address": "Jl. Tuparev No.88A, Pilangsari, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",
+        "location_city": "Cirebon",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.709525675388079, 108.53311156548196",
+        "location_gmaps": "https://maps.app.goo.gl/6P6sYtwwCjG43WCr8",
+        "links": [
+            "https://www.instagram.com/p/DaSb6VxkuBv/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "Shokaku Organizer",
+            "supported_by": [
+                "Project Ibuki"
+            ],
+            "description": "Shiratsuyu Matsuri 2026 merupakan festival kebudayaan pop Jepang luring yang mengusung gerakan tagar #wibudilarangmalu di Cirebon. Berdasarkan materi promosi visual pada berkas poster image_f8cda9.jpg hingga image_f8d0f0.jpg, acara ini mengombinasikan berbagai elemen kompetisi kreatif, turnamen bermain peran fisik (LARP), sesi diskusi komunitas, pameran hobi, serta pertunjukan panggung musik idola dan grup band.",
+            "activities": [
+                "J-Song Competition",
+                "Coswalk Competition",
+                "LARP Tournament",
+                "Random Play Dance (RPD)",
+                "Community Talkshow",
+                "Itasha Display",
+                "Toys Display",
+                "Merchandise Bazaar",
+                "Games & Doorprize"
+            ],
+            "performers": [
+                "KIRAGORE (Idol Performance)",
+                "NEON VANDAL (Idol Performance)",
+                "KASUMI (Idol Performance)",
+                "Shizuku (Band Performance)"
+            ],
+            "guest_stars": [
+                "Eru Faz (Coswalk Judge)",
+                "Heyitsmomokun (Special Judge)",
+                "Zetsuya Takarai (J-Song Judge)"
+            ],
+            "mc": [
+                "Dinda Key"
+            ],
+            "collaborators": [
+                "Kajene Guild (LARP Tournament Host)"
+            ],
+            "community_partners": [
+                "Pravda Community",
+                "Negashi Cossteam",
+                "Kompeni Itasha",
+                "Cirebon Toys Community",
+                "Kajene Guild"
+            ],
+            "additional_info": {
+                "rpd_setlist_categories": [
+                    "Indonesia",
+                    "Vocaloid / Project Sekai",
+                    "Idol",
+                    "Japan Pop",
+                    "Korean Pop",
+                    "International"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "On The Spot (OTS) Ticket",
+                        "price": 40000,
+                        "note": "Harga tiket masuk di lokasi acara sebesar Rp 40.000 berdasarkan maklumat resmi pada berkas poster image_f8cda9.jpg."
+                    }
+                ]
+            },
+            "rundown": {
+                "10:00": "Open Gate",
+                "10:30": "Opening By MC",
+                "11:00": "Talk Show Community",
+                "11:30": "Jsong Competition",
+                "12:00": "Ishoma",
+                "12:45": "Zetsuya Perform",
+                "13:15": "Random Play Dance",
+                "14:00": "Shizuku",
+                "14:30": "Neon Vandals",
+                "15:00": "Final Larp Competition",
+                "15:30": "Coswalk Competition",
+                "16:00": "Kasumi",
+                "16:30": "Kiragore",
+                "17:00": "Pembagian Hadiah dan Closing Event"
+            }
+        }
+    },
+    {
         "Start Date": "20260708",
         "Start Time": "",
         "End Date": "20260712",
@@ -28380,7 +28712,7 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Retro Console Game",
-        "Location": "Delipark Mall Medan \u00e2\u20ac\u201c Terra Atrium (LG Floor)",
+        "Location": "Delipark Mall Medan - Terra Atrium (LG Floor)",
         "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
@@ -29709,6 +30041,60 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "Euphoria Fest 2026",
+        "Location": "Graha Manggala Siliwangi",
+        "Comment": "Festival pop culture, mainan, dan pameran kartu koleksi Euphoria Fest 2026 yang dikolaborasikan bersama Bandung Toys & Trading Card Expo 2026. Acara bertempat di Graha Manggala Siliwangi Bandung pada hari Sabtu dan Minggu, 25-26 Juli 2026 (kegiatan panggung utama berfokus di hari Minggu, 26 Juli 2026).",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "euphoria_fest_bandung_2026",
+        "location_address": "Jl. Aceh No.66, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.909099376541049, 107.61973776576473",
+        "location_gmaps": "https://goo.gl/maps/KhuBg36igj5NGHAN7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaPlEboGiwx/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Exhibition / Expo",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "NEO Organizer",
+            "co_organized_by": [
+                "Euphoria Creation"
+            ],
+            "description": "Euphoria Fest 2026 merupakan pergelaran eksibisi pop culture terintegrasi yang diselenggarakan bersamaan dengan Bandung Toys & Trading Card Expo 2026 di Graha Manggala Siliwangi. Berdasarkan informasi infografis poster image_491da0.jpg, acara ini menjadi ruang temu bagi komunitas kolektor mainan, kartu permainan (trading card), penggemar idola lokal, penikmat musik, serta penggiat cosplay di kota Bandung.",
+            "activities": [
+                "Band Performance",
+                "Cosplay Parade",
+                "Random Play Dance (RPD)",
+                "DJ Performance",
+                "Performance Show",
+                "Toys Display & Trading Card Exhibition",
+                "Idol Booth Activity",
+                "Photography Booth Session",
+                "Merchandise & Handmade Bazaar",
+                "Artist Alley & Creator Showcase"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": []
+            }
+        }
+    },
+    {
+        "Start Date": "20260725",
+        "Start Time": "",
+        "End Date": "20260726",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Hajimari no Hi (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd) - The Day of Beginning",
         "Location": "Star Square Mall",
         "Comment": "Insert to J-Event List : 20260702 03:34:24\n",
@@ -29795,14 +30181,42 @@
         "links": [
             "https://www.instagram.com/p/DY2RuNFAdkj/",
             "https://youtu.be/f9jZkJ1B_EA",
-            "kaji.or.id"
+            "kaji.or.id",
+            "https://web.facebook.com/share/p/1Bo7Z3K3F4/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
                 "Bazaar / Market / Food Festival",
-                "Cultural Exchange"
+                "Cultural Exchange",
+                "Musik - Idol / VTuber",
+                "Musik - Band / Live Performance"
             ],
+            "presenter": "KAJI",
+            "guest_stars": {
+                "idol_group": [
+                    "JKT48"
+                ]
+            },
+            "performers": [
+                "Cikarang Keion Club",
+                "Ryu band",
+                "Koki Ota",
+                "Meutia Amanda",
+                "SC93 Band",
+                "Shuu",
+                "Hiro Umeda",
+                "Yeonina"
+            ],
+            "ticket_info": {
+                "price": "Free"
+            },
+            "social_media": {
+                "instagram": "@kajisakuramatsuri"
+            },
+            "source": {
+                "facebook": "https://www.facebook.com/share/1CxnwWhRoM/"
+            },
             "organizer": "KAJI (Komunitas Alumni Jepang di Indonesia)",
             "co_organizer": "KAJIkai",
             "sponsor": [
@@ -29941,6 +30355,61 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260726",
+        "Start Time": "16:00",
+        "End Date": "20260726",
+        "End Time": "20.00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "AFTER PARTY: +DETOX Positive Chaos Disorder!",
+        "Location": "Yuan Garden Hotel",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "oor_after_party_detox_jakarta_2026",
+        "location_address": "Jl. Pintu Air V No.53, RT.5/RW.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+        "location_city": "Jakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.1626971450983055, 106.83224768905761",
+        "location_gmaps": "https://maps.app.goo.gl/ynuHyG29Aoy4jxVr5",
+        "links": [
+            "https://web.facebook.com/share/p/1VTWrChNnm/",
+            "https://bit.ly/AFTERPARTY-DETOXJKT"
+        ],
+        "Content": {
+            "category": [
+                "Music / Concert",
+                "Community / Hobby Gathering",
+                "Party / Nightlife"
+            ],
+            "organizer": "OOR Jakarta Fellows",
+            "description": "AFTER PARTY: +DETOX Positive Chaos Disorder! merupakan pergelaran kumpul komunitas dan pesta selebrasi pasca-konser ONE OK ROCK Detox Asia Tour 2026 di Jakarta. Acara ini mewadahi para penggemar untuk bernyanyi bersama (sing-along) melalui aransemen musik khusus serta sesi karaoke massal guna mempererat solidaritas sesama penikmat musik rock Jepang.",
+            "activities": [
+                "Orchestra / Jazz Live Music Session",
+                "J-Rock Karaoke Night",
+                "Community Gathering & Sing-Along",
+                "Unlimited Photobooth Session"
+            ],
+            "performers": [
+                "Re;LIZE (Orchestra/Jazz Sessions)",
+                "ANIKUMA (Karaoke Night Host)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "First Drink Charge (FDC)",
+                        "price": 75000,
+                        "note": "Biaya masuk sebesar Rp 75.000 (kuota terbatas) yang sudah mencakup fasilitas makanan ringan gratis, minuman bebas isi ulang, cinderamata eksklusif, serta akses stan foto tanpa batas."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260726",
@@ -31302,7 +31771,8 @@
         "links": [
             "https://www.instagram.com/p/DZKcPO7uvnX/",
             "jakjapanmatsuri.id",
-            "https://web.facebook.com/share/p/17wzLEUnPw/"
+            "https://web.facebook.com/share/p/17wzLEUnPw/",
+            "https://web.facebook.com/share/p/1HwMrYm7Sm/"
         ],
         "Content": {
             "category": [
