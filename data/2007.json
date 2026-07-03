@@ -1124,6 +1124,79 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20070612",
+        "Start Time": "11:00",
+        "End Date": "20070617",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Grand Final Electronic Sports World Cup (ESWC) 2007 - Indonesia Preliminary",
+        "Location": "Atrium Mal Taman Anggrek",
+        "Comment": "Babak grand final nasional untuk menjaring atlet siber terbaik yang akan mewakili Indonesia di ajang ESWC tingkat dunia di Paris, Prancis. Acara digagas oleh PT Indosat Tbk bersama Gamestation.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "eswc_indonesia_grand_final_2007",
+        "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.178265290478324, 106.7924018010367",
+        "location_gmaps": "https://maps.app.goo.gl/v2wDwkafraKENKWn9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://inet.detik.com/consumer/d-792680/electronic-sports-world-cup-2007-masuki-grand-final",
+            "https://inet.detik.com/cyberlife/d-801351/jawara-perang-dan-sepakbola-indonesia-berlaga-di-paris"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Exhibition / Expo"
+            ],
+            "organizer": "PT Indosat Tbk, Gamestation (Indonesian Strategic Partner)",
+            "description": "Grand Final ESWC 2007 Indonesia merupakan puncak dari rangkaian kualifikasi daerah yang telah berlangsung sejak 30 April 2007 di berbagai kota (Bandung, Jakarta, Denpasar, Yogyakarta, Makassar, dan Samarinda). Pemenang utama dari kategori kompetisi resmi dikirim secara resmi menuju babak Grand Final Dunia di Paris, Prancis.",
+            "activities": [
+                "Grand Final Tournament Cyber Games",
+                "National Representative Selection"
+            ],
+            "games_played": [
+                "Counter-Strike (Official Category)",
+                "Pro Evolution Soccer 6 (Official Category)",
+                "Ghost Recon 2 (i-games Category)",
+                "Real Football 2006 (i-games Category)"
+            ],
+            "winners": [
+                {
+                    "name": "Villy Vega",
+                    "category": "Pro Evolution Soccer 6 (PES6)",
+                    "status": "Lolos ke Paris, Prancis"
+                },
+                {
+                    "name": "XcN Sanpeurs",
+                    "category": "Counter-Strike 1.6",
+                    "roster": [
+                        "Ferdinand",
+                        "Andrew",
+                        "Varian",
+                        "Romillo",
+                        "Lau Chee Teik"
+                    ],
+                    "status": "Lolos ke Paris, Prancis"
+                }
+            ],
+            "officials": [
+                {
+                    "name": "Wendy Chandra",
+                    "role": "President ESWC Indonesia / Ketua Kontingen Tim"
+                },
+                {
+                    "name": "Judy Natasatria Adhitianto",
+                    "role": "Group Head Gaming & Content Indosat"
+                }
+            ]
+        }
+    },
+    {
         "Start Date": "20070616",
         "Start Time": "",
         "End Date": "20070617",
@@ -1435,6 +1508,73 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20070703",
+        "Start Time": "",
+        "End Date": "20070708",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "World Cyber Games (WCG) 2007: Indonesia Preliminary",
+        "Location": "Mal Taman Anggrek",
+        "Comment": "Babak final penyisihan nasional tingkat Indonesia yang diselenggarakan oleh PT Samsung Electronics Indonesia selama enam hari berturut-turut.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "wcg_indonesia_preliminary_2007",
+        "location_address": "Jl. Letjen S. Parman, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.178265290478324, 106.7924018010367",
+        "location_gmaps": "https://maps.app.goo.gl/v2wDwkafraKENKWn9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://inet.detik.com/cyberlife/d-801351/jawara-perang-dan-sepakbola-indonesia-berlaga-di-paris"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Exhibition / Expo"
+            ],
+            "organizer": "PT Samsung Electronics Indonesia (SEIN)",
+            "description": "WCG 2007 Indonesia Preliminary merupakan ajang seleksi nasional yang diikuti oleh lebih dari 2.000 gamer dari delapan kota besar di Indonesia (Jakarta, Bandung, Semarang, Yogyakarta, Solo, Surabaya, Batam, dan Bali). Pemenang kategori internasional (kecuali Counter Strike) akan dikirim ke tingkat Asia di Singapura, sementara pemenang Counter Strike 1.6 dikirim ke tingkat dunia di Seattle, Amerika Serikat.",
+            "activities": [
+                "E-sports Elimination Tournament",
+                "Regional Showcase & Gaming Exhibition"
+            ],
+            "games_played": [
+                "Warcraft III: The Frozen Throne",
+                "Counter Strike 1.6",
+                "Dota",
+                "Microsoft Xbox: Dead or Alive (DoA)",
+                "FIFA Soccer 2006",
+                "Age of Empire (AoE)",
+                "Ayo Dance (Local Game)",
+                "Mobile Game Content XL (Local Game)"
+            ],
+            "officials": [
+                {
+                    "name": "Stefanus Indrayana",
+                    "role": "Marketing Director PT SEIN"
+                },
+                {
+                    "name": "Rudy Sumadi",
+                    "role": "Senior Manager IT Business Department PT SEIN"
+                }
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Akses Area Mall",
+                        "price": null,
+                        "note": "Terbuka bagi penonton dan pengunjung umum Mal Taman Anggrek."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20070706",

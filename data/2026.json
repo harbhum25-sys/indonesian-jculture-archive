@@ -25331,8 +25331,8 @@
         "location_address": "Jl. Selaparang, Mayura, Kec. Cakranegara, Kota Mataram, Nusa Tenggara Bar. 83236",
         "location_city": "Mataram",
         "location_country": "Indonesia",
-        "location_coordinate": "-8.59014698969659, 116.14582322308576",
-        "location_gmaps": "https://maps.app.goo.gl/2jaXVn869Ug77C6o6",
+        "location_coordinate": "-8.590268748908866, 116.14581078051563",
+        "location_gmaps": "https://maps.app.goo.gl/HeK5Ek8xyxkcREns5",
         "links": [
             "https://www.instagram.com/nesianet.ntb/reel/DYZUHyRAcya/"
         ],
@@ -25352,6 +25352,107 @@
                 "Tenant / Booth Bazaar",
                 "Community Gathering"
             ]
+        }
+    },
+    {
+        "Start Date": "20260619",
+        "Start Time": "",
+        "End Date": "20260621",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HOBICON 2026 - Hobby & Community Connect",
+        "Location": "Transmart Mataram Lt. F1",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hobicon_mataram_2026",
+        "location_address": "Transmart Mataram, Lantai F1, Jl. Mayura, Mayura, Kec. Mataram, Kota Mataram, Nusa Tenggara Barat 83239",
+        "location_city": "Mataram",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DZcm19PpFk6/",
+            "https://hobicon.id/go/ig"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Exhibition / Expo",
+                "Music / Concert",
+                "Competition / Tournament"
+            ],
+            "organizer": "INSPIRA",
+            "description": "HONDA HOBICON 2026 - Hobby and Community Connect merupakan pameran dan festival multi-komunitas kreatif terbesar di Lombok yang digagas oleh INSPIRA. Berdasarkan takarir resmi dan materi promosi visual poster pada berkas image_c1bd81.jpg, eksibisi tiga hari ini menggabungkan ekosistem subkultur pop Jepang, K-Pop, kolektor mainan, pecinta satwa eksotis, hingga olahraga elektronik dengan panggung pertunjukan musik dari grup-grup idola lokal.",
+            "activities": [
+                "Hobby Exhibition & Showcase",
+                "Community Gathering & Networking",
+                "Cosplay Performance & Competition",
+                "K-Pop Dance Cover Showcase",
+                "JJ-Song & Idol Live Performance",
+                "Tabletop & TCG Card Match",
+                "Mini 4WD & Diecast Racing Exhibition"
+            ],
+            "performers": [
+                "Shizuna",
+                "Hoshizora",
+                "Team Kaze",
+                "Summer Girl",
+                "Ureka",
+                "Dedare Idol",
+                "Mythsune",
+                "Kawai Showjo",
+                "Yuchi",
+                "Neostreet",
+                "Tsukihana",
+                "Tsumi To Batsu",
+                "Banzai Cabaret"
+            ],
+            "participating_communities": [
+                "Banzai Mataram J-Community",
+                "K-Pop Squad Lombok",
+                "Mini 4WD GTS Galeria",
+                "Lombok Diecast Crew",
+                "Snake Edge Tekken Community",
+                "Pokemon TCG Lombok",
+                "Yugi-Oh Duelist Lombok",
+                "Mataram Gundam",
+                "Mataram Gunpla Mokit",
+                "Lombok Reptile Community",
+                "Mayoung Universe",
+                "Up-Space Lotim",
+                "Japanese Club PPL",
+                "Wibufest Mataram",
+                "Doki Doki Daisuki",
+                "Komunitas DJ Aspen Lombok",
+                "Mataram University Chess Club",
+                "Aldeas Lombok",
+                "Project Isekai",
+                "Xgame Portable"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @hobicon.id"
+                ],
+                "website": [
+                    "https://hobicon.id"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": null,
+                        "note": "Pembelian dan detail harga tiket masuk dapat diakses secara daring melalui tautan resmi https://hobicon.id/go/ig."
+                    }
+                ]
+            }
         }
     },
     {
@@ -27050,7 +27151,7 @@
         "Location": "Ponorogo City Center",
         "Comment": "Insert to J-Event List : 20260501 04:18:49\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "meo_is_back_trinity_anniv_2026",
         "location_address": "Jl. Ir. H Juanda No.19, Tonatan, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63475",
@@ -27105,7 +27206,7 @@
         "Location": "OPI Mall",
         "Comment": "Festival kebudayaan Jepang yang berlangsung selama 5 hari berturut-turut di OPI Mall, menghadirkan berbagai kompetisi seperti Japan Dance, Poundfit, Cosplay, serta bazaar kuliner dan anime merchandise.",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "japanese_fest_opi_mall_2026",
         "location_address": "Jakabaring Sport City, Jl. Gubernur H. A Bastari, Sungai Kedukan, Kec. Rambutan, Kab. Banyuasin, Sumatera Selatan 30257",
@@ -27261,6 +27362,89 @@
         }
     },
     {
+        "Start Date": "20260703",
+        "Start Time": "",
+        "End Date": "20260705",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nobox Hobby Collectors Festival",
+        "Location": "Main Atrium, Mall Alam Sutera",
+        "Comment": "Insert to J-Event List : 20260702 03:34:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nobox_hobby_collectors_festival_2026",
+        "location_address": "Jl. Jalur Sutera Bar. No.Kav. 16, RT.002/RW.003, Panunggangan Tim., Kec. Pinang, Kota Tangerang, Banten 15143",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.221465682586498, 106.6541313964435",
+        "location_gmaps": "https://goo.gl/maps/Vn2UmfCcfTtKCEqW8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaKaqBVlFWU/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Bazaar / Market",
+                "Competition / Tournament",
+                "Festival / Matsuri"
+            ],
+            "organizer": "Nobox Entertainment (@noboxentertainment), Mikesie Garage (@mikesie.garage)",
+            "description": "Nobox Hobby Collectors Festival merupakan sebuah pergelaran luring berskala besar bagi pencinta koleksi mainan dan berbagai hobi di wilayah Tangerang. Berdasarkan publikasi resmi media sosial dan tambahan poster info pengisi acara pada berkas image_e996b6.jpg, rangkaian festival yang bertempat di Main Atrium Mall Alam Sutera ini menyajikan pasar kreatif produk mainan (diecast, TCG, figur aksi), kompetisi balap Hot Wheels, Coswalk Competition, serta panggung hiburan musik yang diisi oleh penampilan grup idola lokal dan disjoki (DJ).",
+            "activities": [
+                "Coswalk Competition",
+                "Hot Wheels Race Competition",
+                "Idol Performances",
+                "DJ Performance",
+                "Hobby Marketplace (Toys, Diecast, TCG, Figures, Accessories, and more)",
+                "Hobby Community Gathering & Meetup"
+            ],
+            "performers": [
+                "Lunite (Idol Group)",
+                "Crescendo (Idol Group)",
+                "Tomodachi (Idol Group)"
+            ],
+            "guest_stars": [
+                "Adam Zeins (DJ)",
+                "Phankness (Coswalk Judge)"
+            ],
+            "mc": [
+                "Power Young"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Akses terbuka untuk umum di area Main Atrium mall."
+                    }
+                ]
+            },
+            "rundown": {
+                "04 July": {
+                    "12:00": "REGISTRATION FUN RACE OPEN",
+                    "12:30": "OPENING",
+                    "13:00": "TOMOSHIBI",
+                    "14:00": "CRESCENDO",
+                    "15:00": "LUNITE",
+                    "16:00": "COSWALK COMPETITION",
+                    "17:00": "DJ ADAM ZEINS + FUN RACE START",
+                    "18:30": "WINNER ANNOUNCEMENT + CLOSING"
+                },
+                "05 July": {
+                    "12:00": "REGISTRATION FUN RACE OPEN",
+                    "15:00": "TALK SHOW \"BICARA HOBBY\"",
+                    "17:00": "FUN RACE START",
+                    "18:30": "WINNER ANNOUNCEMENT + CLOSING"
+                }
+            }
+        }
+    },
+    {
         "Start Date": "20260704",
         "Start Time": "12:00",
         "End Date": "20260704",
@@ -27339,15 +27523,38 @@
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Community / Hobby Gathering"
+                "Community / Hobby Gathering",
+                "Music / Concert"
             ],
             "organizer": "Ankoku Festival, Wibu Baleendah",
             "co_organizer": "Kitsuki Entertainment",
-            "description": "Event Alternatif Pengganti Wibu Gembira Fest 2026. Menanggapi pemindahan jadwal utama Wibu Gembira Festival (WGF) 2026 ke bulan Agustus, pihak panitia menghadirkan sebuah event alternatif pengganti spesial hasil kolaborasi antara Ankoku Festival dan Wibu Baleendah. Event ini diselenggarakan secara luring di Miko Mall Bandung pada tanggal 4-5 Juli 2026 tanpa dipungut biaya masuk (FREE HTM) sebagai bentuk apresiasi kepada komunitas dan pengunjung.",
+            "description": "Wibu Bermain Gembira merupakan event alternatif pengganti luring yang diadakan di Miko Mall Bandung setelah jadwal utama WGF 2026 diundur ke bulan Agustus. Festival gratis ini menghadirkan panggung pertunjukan idola grup, band, kompetisi trivia, coswalk, hingga sesi Random Play Dance (RPD).",
             "activities": [
-                "Cosplay Gathering & Performance",
-                "Community Silaturahmi",
-                "Music Performance / Idol Showcase"
+                "Idol & Band Performance Showcase",
+                "Utaodo RC:STAGE",
+                "Random Play Dance (RPD) Request",
+                "AniQuest Trivia (Win 5 Tickets for WGF)",
+                "Coswalk Gathering",
+                "Art Market & Community Activity"
+            ],
+            "performers": [
+                "Blanko (Band)",
+                "Kateba (Band)",
+                "Tentative",
+                "Mashy",
+                "Valentiana",
+                "Koichigo",
+                "Say Go!",
+                "Ao Hime",
+                "Kirin Day",
+                "Summertime",
+                "Lumina Scarlet",
+                "Naira",
+                "Chorusella",
+                "Nekodachi"
+            ],
+            "guest_stars": [
+                "Kamen Suki (Coswalk Judge)"
             ],
             "ticket_info": {
                 "currency": "IDR",
@@ -27358,6 +27565,41 @@
                         "note": "GRATIS (FREE HTM) untuk seluruh pengunjung di Miko Mall."
                     }
                 ]
+            },
+            "rundown": {
+                "day_1": {
+                    "12:00": "OPEN GATE",
+                    "12:10": "ANIQUIZ BATTLE",
+                    "12:40": "ZHNV",
+                    "13:40": "ANIQUIZ BATTLE 2",
+                    "14:10": "AO HIME",
+                    "14:40": "LUMINA SCARLET",
+                    "15:10": "Break",
+                    "15:20": "COSWALK",
+                    "15:55": "NAIRA",
+                    "16:25": "SUMMERTIME",
+                    "16:55": "RPD",
+                    "17:55": "BREAK",
+                    "18:10": "NEKODACHI",
+                    "18:40": "CHORUSELLA",
+                    "19:10": "KIRIN DAY"
+                },
+                "day_2": {
+                    "10:00": "OPEN GATE",
+                    "10:30": "Re:Stage Queue",
+                    "11:00": "UtaOdo - Re:Stage",
+                    "11:55": "BREAK",
+                    "12:10": "UtaOdo - Re:Stage",
+                    "13:00": "KOICHIGO",
+                    "13:30": "UtaOdo - RPD",
+                    "14:30": "KATEBA",
+                    "15:25": "TENTATIVE",
+                    "15:55": "BLANKO",
+                    "16:25": "SAY GO!",
+                    "16:55": "OTAOKE",
+                    "17:55": "BREAK",
+                    "18:10": "DJ CLOSING"
+                }
             }
         }
     },
@@ -27427,7 +27669,8 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DYzDu5MJH9A/",
-            "https://www.instagram.com/infojejepangan.id/p/DZFJs7pEjHR/"
+            "https://www.instagram.com/infojejepangan.id/p/DZFJs7pEjHR/",
+            "https://www.instagram.com/p/DaSU_s1iQ9g/"
         ],
         "Content": {
             "category": [
@@ -27445,7 +27688,34 @@
                 "Creator Market",
                 "Trading Card Game (TCG)"
             ],
-            "description": "Event kolaboratif untuk membangun ekosistem dan komunitas perwibuan di Kalimantan Timur, khususnya Balikpapan."
+            "description": "Event kolaboratif untuk membangun ekosistem dan komunitas perwibuan di Kalimantan Timur, khususnya Balikpapan.",
+            "rundown": {
+                "day_1": {
+                    "12.00": "OPEN GATE",
+                    "13.15": "J-SONG COMPETITION NO.1-7",
+                    "14.25": "PERFORMANCE AKASHI SHOTA",
+                    "14.35": "J-SONG COMPETITION NO.8-14",
+                    "16.15": "AUCTION BY POKECARDBPP",
+                    "17.15": "PERFORMANCE MAS KENTUNKS",
+                    "18.25": "COSPLAY COSWALK COMPETITION",
+                    "19.25": "DJ OMOK",
+                    "19.55": "REWARDING",
+                    "20.50": "RANDOM PLAY DANCE"
+                },
+                "day_2": {
+                    "12:00": "OPEN GATE",
+                    "13:15": "PERFORMANCE LUKE ORIANA",
+                    "14:15": "AUCTION BY BERTUJUH PROJECT",
+                    "15:15": "PERFORMANCE HOSHIKO YURA",
+                    "15:25": "PERFORMANCE ASTRA SEKAI",
+                    "16:05": "COSPLAY RACE BY UMA BORNEO",
+                    "17:05": "KEYRA",
+                    "18:35": "COSPLAY COSWALK",
+                    "19:35": "STAR US",
+                    "20:05": "WAKU - WAKU",
+                    "20:35": "REWARDING"
+                }
+            }
         }
     },
     {
@@ -27472,7 +27742,8 @@
         "links": [
             "Https://www.instagram.com/p/DY6w6-SFO_5/",
             "https://www.instagram.com/p/DZj6CJ1SmoL/",
-            "https://www.instagram.com/p/DZuhA5qEmWl/"
+            "https://www.instagram.com/p/DZuhA5qEmWl/",
+            "https://www.instagram.com/p/DaQc7bnn8TZ/"
         ],
         "Content": {
             "category": [
@@ -27514,6 +27785,43 @@
             ],
             "contact": {
                 "instagram": "@bunkanohi_"
+            },
+            "rundown": {
+                "10:00": "Open Gate",
+                "10:30": "Opening",
+                "10:43": "Story - Memo #1",
+                "10:45": "Haiku (puisi)",
+                "10:50": "GiaJiResonance \u00e2\u02dc\u2020",
+                "11:02": "Souran Bushi",
+                "11:09": "EnKei",
+                "11:17": "Story - Memo #2",
+                "11:20": "Sagamihara!",
+                "11:26": "Agnetha Yurie",
+                "11:32": "Unagi",
+                "11:44": "YTF",
+                "11:54": "ISHOMA",
+                "12:14": "Story - Memo #3",
+                "12:18": "Aikatsu6!",
+                "12:27": "Soul of Fire!!",
+                "12:36": "Sen",
+                "12:51": "City Tour",
+                "13:11": "Story - Memo #4",
+                "13:14": "Coswalk",
+                "13:35": "Uraja",
+                "13:42": "\u00e2\u02dc\u2020MAZU\u00e2\u02dc\u2020",
+                "13:49": "Eqiastrian",
+                "14:03": "Pleiades",
+                "14:15": "\u00e2\u02dc\u2020KELYN",
+                "14:23": "Story - Memo #5",
+                "14:29": "Natsumatsuri",
+                "14:35": "Elooney",
+                "14:46": "Guest Star: Hana-B",
+                "14:58": "ISHOMA",
+                "15:24": "Pengumuman Coswalk",
+                "15:57": "KopipasTEA",
+                "16:19": "Kono Chi E",
+                "16:29": "Bon Odori",
+                "16:44": "Penutupan"
             }
         }
     },
@@ -27649,7 +27957,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Wibu Expert Season 2",
+        "Subject": "Yogya Anifest 2026 (Wibu Expert Season 2)",
         "Location": "Food Court Toserba Yogya Tegal",
         "Comment": "Insert to J-Event List : 20260620 03:54:03\n",
         "Online/Offline": "Offline",
@@ -27662,22 +27970,73 @@
         "location_coordinate": "-6.8723667438458484, 109.13576233815613",
         "location_gmaps": "https://maps.app.goo.gl/GesVDZerL9HC69oP9",
         "links": [
-            "https://www.instagram.com/p/DZuzeuIj8Bi/"
+            "https://www.instagram.com/p/DZuzeuIj8Bi/",
+            "https://www.instagram.com/p/DaSfVT7DwWO/",
+            "https://www.instagram.com/p/DaKvBmmPWt3/"
         ],
         "Content": {
             "category": [
-                "Community / Hobby Gathering",
                 "Festival / Matsuri",
-                "Competition / Tournament"
+                "Community / Hobby Gathering",
+                "Competition / Tournament",
+                "Music / Concert"
             ],
-            "organizer": "Toserba Yogya Tegal",
-            "description": "Wibu Expert Season 2 merupakan sebuah acara mini festival dan ajang kumpul bagi para pencinta anime serta komunitas Jejepangan di wilayah Tegal. Berdasarkan informasi takarir media sosial dan materi publikasi visual pada berkas image_8f8c65.jpg, acara ini juga membawa tajuk utama 'Yogya Anifest' (atau Yogya Anifest 2026) dan diselenggarakan secara luring pada hari Minggu, 5 Juli 2026 bertempat di area Food Court Toserba Yogya Tegal dengan menyajikan beragam kompetisi interaktif.",
+            "organizer": "Toserba Yogya Tegal (@yogyategal), NGZ",
+            "description": "**Yogya Anifest 2026** merupakan festival budaya pop Jepang di Kota Tegal yang sebelumnya diumumkan dengan nama **Wibu Expert Season 2** pada materi promosi awal. Setelah mengalami perubahan branding, acara resmi menggunakan nama **Yogya Anifest 2026** dan diselenggarakan secara luring pada **Minggu, 5 Juli 2026** di **Food Court Toserba Yogya Tegal**. Festival ini menjadi ajang berkumpul bagi pencinta anime, cosplayer, dan komunitas Jejepangan dengan menghadirkan berbagai kompetisi interaktif, kuis anime, arena arcade, pertunjukan musik idola, serta hadiah jutaan rupiah.",
             "activities": [
-                "Wibu Expert Quiz (Kuis Pengetahuan Anime)",
                 "Coswalk Competition",
-                "Eat Competition (Lomba Makan)",
-                "Open Performance"
-            ]
+                "Wibu Expert Season 2 (Quiz Otaku & Anime)",
+                "Eat Competition",
+                "Arcade Games Arena",
+                "Special Performance Showcase",
+                "Community Gathering"
+            ],
+            "performers": [
+                "CHaNGE (@change.idol)",
+                "There Something on Eternity (@theresomethingoneternityofc)"
+            ],
+            "guest_stars": [
+                "Justxalx / Justalx (Coswalk Judge)"
+            ],
+            "mc": [
+                "Kiki (@im_kii8)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (FREE HTM) untuk umum. Tautan pendaftaran peserta lomba tersedia di bio Instagram pihak penyelenggara."
+                    }
+                ],
+                "prizepool": [
+                    {
+                        "type": "Total Hadiah Kompetisi",
+                        "price": null,
+                        "note": "Prizepool senilai jutaan rupiah bagi para pemenang kompetisi."
+                    }
+                ]
+            },
+            "rundown": {
+                "rundown": {
+                    "09:00": "OPEN GATE",
+                    "10:00": "MC TIME",
+                    "11:00": "LOMBA MAKAN SESI 1",
+                    "11:45": "ISTIRAHAT",
+                    "12:15": "MC TIME",
+                    "12:30": "T.S.O.E PERFORMANCE",
+                    "13:00": "LOMBA MAKAN SESI 2",
+                    "13:30": "WIBU EXPERT",
+                    "14:45": "ISTIRAHAT",
+                    "15:00": "MC TIME",
+                    "15:15": "CHANGE PERFORMANCE",
+                    "15:45": "LOMBA MAKAN SESI 3",
+                    "16:15": "COSWALK",
+                    "16:45": "FINAL WIBU EXPERT",
+                    "17:00": "AWARDING"
+                }
+            }
         }
     },
     {
@@ -27724,6 +28083,112 @@
             ],
             "contact": {
                 "instagram": "@shokaku.organizer"
+            }
+        }
+    },
+    {
+        "Start Date": "20260708",
+        "Start Time": "",
+        "End Date": "20260712",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Retro Console Game",
+        "Location": "Delipark Mall Medan \u00e2\u20ac\u201c Terra Atrium (LG Floor)",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "retro_console_game_otanoka_medan_2026",
+        "location_address": "Jl. Putri Hijau Dalam No.1 Blok OPQ, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111",
+        "location_city": "Medan",
+        "location_coordinate": "3.5945607420274235, 98.67440519665938",
+        "location_gmaps": "https://maps.app.goo.gl/x83rhfpDhZAt592B9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaKVQhiE44z/"
+        ],
+        "Content": {
+            "category": [
+                "Exhibition / Expo",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "GLOW KZR Event Organizer (@glowenterprise.id / @kzr.inc)",
+            "supported_by": [
+                "Hybrid.statioN"
+            ],
+            "description": "Retro Console Game merupakan bagian eksibisi interaktif dari pergelaran Hobby Week Otanoka 2026 di Medan. Berdasarkan takarir resmi serta materi promosi visual pada berkas image_c1c53e.jpg, image_c1c545.jpg, image_c1c562.jpg, dan image_c1c581.jpg, acara ini menyediakan ruang bermain interaktif (playtime) menggunakan berbagai platform perangkat retro klasik seperti mesin Arcade (dingdong), Super Nintendo, dan PlayStation One.",
+            "activities": [
+                "Retro Gaming Exhibition",
+                "Arcade & Classic Console Freeplay",
+                "Score Challenge",
+                "Community Gathering"
+            ],
+            "games_played": [
+                "Cadillacs and Dinosaurs",
+                "Tekken 3",
+                "Street Fighter II",
+                "Hyper Bishi Bashi Champ",
+                "Megaman The Power Battle",
+                "Sonic The Hedgehog 2",
+                "Pretty Soldier Sailor Moon",
+                "Demon Front",
+                "Dyna Gear",
+                "Ultimate Mortal Kombat 3",
+                "X-Men Children of the Atom",
+                "Crime City",
+                "Marvel vs Capcom 2",
+                "Jackie Chan in Fists of Fire",
+                "Kaiser Knuckle",
+                "Metal Slug 5",
+                "Dan-Ku-Ga",
+                "Dragon Might",
+                "Puzzle Bobble",
+                "Rabbit",
+                "The King of Fighters",
+                "Strikers 1945",
+                "Super Mario Bros.",
+                "Classic Kong",
+                "Gundam Battle Assault 1-2",
+                "Kamen Rider Agito",
+                "Power Rangers Wild Force",
+                "The Great Battle VI",
+                "Bakusou Kyoudai Lets and Go",
+                "Crash Gear Turbo",
+                "Bomberman Party Edition",
+                "Digimon Rumble Arena",
+                "Tatsunoko Fight",
+                "One Piece Grand Battle 2",
+                "Dragon Ball GT Final Bout",
+                "Bakuretsu Soccer",
+                "Bloody Roar",
+                "Vigilante 8",
+                "Megaman 8",
+                "Street Fighter Alpha 3",
+                "MSH vs Street Fighter",
+                "Twisted Metal III",
+                "Pepsiman",
+                "Bishi Bashi Special 2",
+                "Metal Slug X"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @deliparkmedan",
+                    "Instagram: @glowenterprise.id",
+                    "Instagram: @kzr.inc"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Insert Coin / Playtime Session",
+                        "price": 5000,
+                        "note": "Biaya sebesar Rp 5.000 untuk durasi bermain selama 15 menit per sesi berdasarkan informasi resmi pada berkas poster image_c1c53e.jpg."
+                    }
+                ]
             }
         }
     },
@@ -28135,6 +28600,63 @@
     },
     {
         "Start Date": "20260712",
+        "Start Time": "14:30",
+        "End Date": "20260712",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mini Wibutachi - Pasar Rakyat Jombang 2026",
+        "Location": "Lap Atletik SMAN 3 Jombang",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "mini_wibutachi_pasar_rakyat_jombang_2026",
+        "location_address": "Jalan Dokter Sutomo No.75, Jombatan, Kec. Jombang, Kabupaten Jombang, Jawa Timur 61419",
+        "location_city": "Jombang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.551562121273371, 112.22905252310282",
+        "location_gmaps": "https://maps.app.goo.gl/z78kxmzaJzTno7vJ9",
+        "links": [
+            "https://www.instagram.com/p/DaSoRHYEgrM/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Festival / Matsuri",
+                "Music / Concert"
+            ],
+            "organizer": [
+                "IKI For Enthusiasm",
+                "Owls Costume Creative"
+            ],
+            "description": "Mini Wibutachi merupakan sub-event bertema kebudayaan pop Jepang yang diintegrasikan untuk memeriahkan acara Pasar Rakyat Jombang (PRJ) 2026. Berdasarkan informasi dari takarir resmi dan visual poster pada berkas image_c1c8c3.jpg, acara luring ini mewadahi berkumpulnya para pecinta anime, cosplay, musik, dan idola dengan format pertunjukan terbuka.",
+            "activities": [
+                "Cosplay Gathering",
+                "Music & Anisong Performance",
+                "Idol Performance Showcase",
+                "Free Perform Session",
+                "Community Gathering"
+            ],
+            "contact": {
+                "phone": "0895-3285-80150"
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (Free HTM) tanpa dipungut biaya masuk bagi pengunjung umum maupun pengisi acara."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260712",
         "Start Time": "",
         "End Date": "20260712",
         "End Time": "",
@@ -28371,27 +28893,55 @@
         "location_gmaps": "https://goo.gl/maps/gYdmgvu6DhyajVxL7",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DZW1dzyxxuI/"
+            "https://www.instagram.com/p/DZW1dzyxxuI/",
+            "https://www.instagram.com/p/DaQZYYgkrcF/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Community / Hobby Gathering",
-                "Competition / Tournament"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber"
             ],
-            "organizer": "Regalien ID",
-            "description": "Yappari Matsuri adalah acara festival Jejepangan yang diselenggarakan oleh Regalien ID. Festival ini akan diadakan secara luring pada tanggal 19 Juli 2026 di Depok Town Center. Acara ini terbuka untuk umum tanpa biaya masuk dan menghadirkan berbagai agenda khas komunitas, termasuk kompetisi Coswalk.",
-            "activities": [
-                "Festival Jejepangan / Matsuri Event",
-                "Coswalk Competition (Kompetisi Coswalk)"
-            ],
-            "contact": {
-                "phone_numbers": [
-                    "0889-7666-8427"
-                ],
-                "social_media": [
-                    "Instagram: @regalien_id"
+            "organizer": "Regalien",
+            "judges": {
+                "coswalk": [
+                    "Ikkyuusan"
                 ]
+            },
+            "mc": [
+                "Norman"
+            ],
+            "guest_stars": {
+                "performers": [
+                    "Ametta",
+                    "IND48",
+                    "DDM+",
+                    "Marionette",
+                    "Valerie",
+                    "Haru Hime"
+                ]
+            },
+            "competition": {
+                "coswalk": {
+                    "registration_fee": {
+                        "online": "Rp 15.000",
+                        "ots": "Rp 20.000"
+                    },
+                    "prizes": {
+                        "juara_1_3": "@200.000 + Trophy + Certificate",
+                        "awards_for_best": "Trophy + Certificate"
+                    },
+                    "categories": [
+                        "Best Male",
+                        "Best Female",
+                        "Best Costume",
+                        "Best Character",
+                        "Favourite"
+                    ]
+                }
+            },
+            "registration": {
+                "notes": "FREE REGIST UTK MEDIA & COMMUNITY PARTNER"
             },
             "ticket_info": {
                 "currency": "IDR",
@@ -28416,6 +28966,22 @@
                         "price": 0,
                         "note": "Gratis biaya registrasi khusus untuk mitra media dan komunitas."
                     }
+                ]
+            },
+            "media_partners": [
+                "Sparkling Asia",
+                "Sparkling Stuff",
+                "EventHubID",
+                "Eventfest.id",
+                "Rising Sun Cosplay Corp",
+                "Cosplay Depok"
+            ],
+            "contact": {
+                "phone_numbers": [
+                    "0889-7666-8427"
+                ],
+                "social_media": [
+                    "Instagram: @regalien_id"
                 ]
             }
         }
@@ -28483,6 +29049,86 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20260719",
+        "Start Time": "",
+        "End Date": "20260719",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "WibuFest Cosplay Competition Vol. 6",
+        "Location": "Maitri Coffee & Social Hub",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "wibufest_cosplay_competition_vol6_malang_2026",
+        "location_address": "Jl. Simpang Balapan No.7, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65113",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.966176945828606, 112.62533760718092",
+        "location_gmaps": "https://maps.app.goo.gl/p2hxGtNqkQJhGW9Q6",
+        "links": [
+            "https://www.instagram.com/p/DZpqQz8hndx/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "WibuFest Malang",
+            "description": "WibuFest Cosplay Competition Vol. 6 merupakan pergelaran kompetisi dan festival kebudayaan pop Jepang luring yang diadakan di Malang, Jawa Timur. Berdasarkan takarir resmi dan informasi visual poster pada berkas image_c1b6b9.jpg, acara ini berlokasi di Maitri Coffee & Social Hub dengan menghadirkan panggung pertunjukan J-Song, kompetisi kostum (Cosplay & Coswalk), serta dimeriahkan oleh penampilan berbagai grup idola lokal.",
+            "activities": [
+                "Cosplay Competition",
+                "Coswalk Competition",
+                "J-Song Competition",
+                "Idol & Music Performance Showcase",
+                "Community Gathering"
+            ],
+            "performers": [
+                "Aminus",
+                "Hitatsu",
+                "Re:Code",
+                "Euna",
+                "Awaikoi",
+                "Philosophy",
+                "Fatiikan",
+                "Mizume"
+            ],
+            "guest_stars": [
+                "Veronyaan (@veronyaan_ / J-Song Judge)",
+                "Re.hiroto (@re.hiroto_ / Coswalk Cosstreet Judge)",
+                "Puripuy (@_puripuy_ / Coswalk Cosstreet Judge)"
+            ],
+            "mc": [
+                "Ocha Chang (@ocha.chang)"
+            ],
+            "media_partners": [
+                "@cosuki.malang"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (FREE HTM) untuk umum. Tautan registrasi peserta kompetisi tersedia melalui s.id/WCCVOL6 atau memindai kode QR."
+                    }
+                ],
+                "prizepool": [
+                    {
+                        "type": "Total Hadiah Kompetisi",
+                        "price": 2850000,
+                        "note": "Total prize pool sebesar Rp 2.850.000 untuk para pemenang kategori kompetisi."
+                    }
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260722",
         "Start Time": "",
         "End Date": "20260722",
@@ -28540,18 +29186,119 @@
         "location_gmaps": "https://maps.app.goo.gl/9yzXAZYrzCpaVbWAA",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DZJbEInEQa6/"
+            "https://www.instagram.com/p/DZJbEInEQa6/",
+            "https://www.instagram.com/p/DaK1gnTCR2r/"
         ],
         "date_precision": "day",
         "source_status": "archived",
         "Content": {
             "category": [
-                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
                 "Game / Esports Tournament",
-                "Cosplay - Gathering / Parade / Casual",
-                "Musik - Idol / VTuber"
+                "Convention / Expo / Comic Market"
             ],
+            "theme": "Indonesia Game Experience (IGEX2026)",
+            "competition": {
+                "category": "Coswalk Competition",
+                "prizepool": "Rp 1.000.000"
+            },
+            "prizes": {
+                "coswalk": [
+                    {
+                        "rank": "Juara 1",
+                        "prize": "Rp 500.000 + Sertifikat"
+                    },
+                    {
+                        "rank": "Juara 2",
+                        "prize": "Rp 300.000 + Sertifikat"
+                    },
+                    {
+                        "rank": "Juara 3",
+                        "prize": "Rp 200.000 + Sertifikat"
+                    }
+                ]
+            },
+            "registration": {
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLSdW2Kqj3Pl3PIasBF7SiFUGbWaPXIed3o1Qe3skEGMGSMxgpA/viewform?usp=header"
+            },
+            "social_media": {
+                "instagram": [
+                    "@indonesiagameexperience",
+                    "@digitalife.nusantara"
+                ]
+            },
             "description": "Festival gaming yang menghadirkan turnamen esports, pameran teknologi dan AI, showcase developer game, bazaar komputer, festival cosplay, serta penampilan idol."
+        }
+    },
+    {
+        "Start Date": "20260725",
+        "Start Time": "",
+        "End Date": "20260726",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hajimari no Hi (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd) - The Day of Beginning",
+        "Location": "Star Square Mall",
+        "Comment": "Insert to J-Event List : 20260702 03:34:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "hajimari_no_hi_manado_2026",
+        "location_address": "Jalan R.W. Monginsidi VI, Bahu, Kota Manado, Sulawesi Utara",
+        "location_city": "Manado",
+        "location_coordinate": "1.4625327519848255, 124.82530937896276",
+        "location_gmaps": "https://goo.gl/maps/QtdDKY5JivXf5f7NA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZPx7uvJaH7/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "Nomes Cosplay (@nomes.cosplay)",
+            "co_organizer": "Star Square Mall",
+            "description": "Hajimari no Hi (\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd / 'The Day of Beginning') merupakan pergelaran festival kebudayaan pop Jepang luring yang diadakan di Kota Manado. Berdasarkan keterangan takarir media sosial dan visual poster resmi pada berkas image_28fcbb.jpg, acara ini berkolaborasi dengan perayaan hari jadi ke-9 Star Square Mall serta menggandeng berbagai komunitas jejepangan lokal sebagai mitra media.",
+            "activities": [
+                "Cosplay Event",
+                "Noraebang Party",
+                "Idol Performance",
+                "Dance Cover Showcase",
+                "DJ Performance",
+                "Bazaar Merchandise Wibu",
+                "Bazaar F&B"
+            ],
+            "contact": {
+                "phone": "0813-5616-2157 (Merry)",
+                "social_media": [
+                    "Instagram: @nomes.cosplay",
+                    "Instagram: @nomes_team",
+                    "Instagram: @cinguya.mdo",
+                    "Instagram: @army_sulut"
+                ]
+            },
+            "media_partners": [
+                "@official.cosplaymanado",
+                "@animatara.official",
+                "@manevecos",
+                "@zry.gallery",
+                "@akari_community",
+                "@demonslayer_cosplay"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Akses terbuka untuk umum di area mall festival."
+                    }
+                ]
+            }
         }
     },
     {
@@ -28724,6 +29471,66 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260726",
+        "Start Time": "12:00",
+        "End Date": "20260726",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Turnamen Tekken 8 2026",
+        "Location": "Rental Respawn Gaming Space",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tekken_8_tournament_respawn_gaming_2026",
+        "location_address": "Jl. Tambak Asri No.154 A, Morokrembangan, Kec. Krembangan, Surabaya, Jawa Timur 60178",
+        "location_city": "Surabaya",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.236341783412663, 112.71255213190574",
+        "location_gmaps": "https://maps.app.goo.gl/4vHVaFPDepMTt8cT6",
+        "links": [
+            "https://www.instagram.com/p/DaPm9sRPVyF/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Rental Respawn Gaming Space (@Respawn.ps)",
+            "description": "Turnamen kompetitif luring untuk gim Tekken 8 yang diselenggarakan oleh Rental Respawn Gaming Space. Kompetisi ini menggunakan platform PlayStation 5 (PS5) dan terbuka untuk komunitas pemain gim tarung (fighting games) dengan mekanisme pendaftaran daring maupun luring.",
+            "activities": [
+                "Tekken 8 E-sports Tournament"
+            ],
+            "rules": [
+                "Waktu: 60 detik per match",
+                "Format: 3 Round",
+                "Settingan turnamen: ON",
+                "Stage: Random",
+                "Pemilihan Karakter: Bebas (Pemain yang menang tetap pada karakter yang sama, yang kalah boleh mengganti karakter di set selanjutnya)",
+                "Peralatan: Diperbolehkan menggunakan controller sendiri, termasuk arcade stick"
+            ],
+            "contact": {
+                "phone": "087819946090",
+                "social_media": [
+                    "Instagram: @Respawn.ps"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Biaya Pendaftaran",
+                        "price": 0,
+                        "note": "Gratis (Free) dengan syarat dan ketentuan berlaku."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260726",
@@ -28911,6 +29718,120 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260802",
+        "Start Time": "",
+        "End Date": "20260802",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Halloweaboo VI : Natsukoi",
+        "Location": "Sky Garden, Rooftop Malang Town Square",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "halloweaboo_vi_natsukoi_malang_2026",
+        "location_address": "Jl. Veteran No.2, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+        "location_city": "Malang",
+        "location_coordinate": "-7.956861182723852, 112.61877697415309",
+        "location_gmaps": "https://maps.app.goo.gl/cccsBH1SXHcvKfBz5",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaS2P_-JUsW/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Competition / Tournament",
+                "Music / Concert"
+            ],
+            "organizer": [
+                "Malang Town Square",
+                "Hotaru"
+            ],
+            "description": "Halloweaboo VI : Natsukoi merupakan pergelaran festival kebudayaan pop Jepang luring yang diadakan di Kota Malang. Berdasarkan materi publikasi visual poster resmi pada berkas image_c14cc2.jpg, acara ini bertempat di area Sky Garden Rooftop Malang Town Square dengan menghadirkan panggung pertunjukan musik, pertunjukan idola, serta ragam kompetisi kostum.",
+            "activities": [
+                "Cosplay Competition",
+                "Coswalk Competition",
+                "Idol Performance",
+                "Anisong Performance",
+                "Community Gathering"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Informasi ketersediaan dan harga tiket masuk belum dicantumkan secara detail."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260809",
+        "Start Time": "",
+        "End Date": "20260809",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tokidoki Mirai!",
+        "Location": "Transmart Sidoarjo",
+        "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tokidoki_mirai_sidoarjo_2026",
+        "location_address": "Jl. Mayjend Sungkono, Nggrekmas, Pagerwojo, Kec. Buduran, Kabupaten Sidoarjo, Jawa Timur 61219",
+        "location_city": "Sidoarjo",
+        "location_coordinate": "-7.439486061835351, 112.71495111142599",
+        "location_gmaps": "https://goo.gl/maps/YrpAQuVvDN41HZRQ9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaTCVENzmgn/",
+            "https://www.instagram.com/p/DaAitwLE3WG/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Music / Concert"
+            ],
+            "organizer": "Chujitsu ID (@chujitsuid)",
+            "description": "Tokidoki Mirai! adalah pergelaran festival kebudayaan pop Jepang luring yang diadakan di Sidoarjo, Jawa Timur. Berdasarkan publikasi resmi media sosialnya, acara ini menghadirkan panggung pertunjukan musik, penampilan grup idola, pasar kreatif (art & food market), serta aktivitas komunitas pencinta anime dan cosplay.",
+            "activities": [
+                "Idol Performance Showcase",
+                "Cosplay Gathering",
+                "Bazaar Tenant (FnB & Merch)",
+                "Community Gathering"
+            ],
+            "performers": [
+                "Idolize"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @chujitsuid"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Informasi ketersediaan dan harga tiket masuk belum diumumkan secara detail."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260813",
