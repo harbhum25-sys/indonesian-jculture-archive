@@ -27826,6 +27826,219 @@
         }
     },
     {
+        "Start Date": "20260704",
+        "Start Time": "11:00",
+        "End Date": "20260704",
+        "End Time": "17:45",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sound of Wibu: 3.0 - Special Anniversary",
+        "Location": "Coffee Rider Purwakarta",
+        "Comment": "Festival musik dan kebudayaan populer Jepang luring di Purwakarta yang diadakan dalam rangka perayaan hari jadi pada hari Sabtu, 4 Juli 2026 mulai pukul 11:00 WIB hingga 17:45 WIB.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "sound_of_wibu_3_0_purwakarta_2026",
+        "location_address": "Coffee Rider Purwakarta, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41115",
+        "location_city": "Purwakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/DaNvET5h50M/",
+            "https://www.instagram.com/soundofwibupwk/",
+            "https://www.instagram.com/p/DaR9GuXhNSU/"
+        ],
+        "Content": {
+            "category": [
+                "Music / Concert",
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Competition / Tournament"
+            ],
+            "organizer": "Barudak's SOW (@soundofwibupwk)",
+            "sponsored_by": [
+                "Hanamint Media"
+            ],
+            "supported_by": [
+                "Coffee Rider"
+            ],
+            "description": "Sound of Wibu: 3.0, Special Anniversary dengan slogan \"Biarkan Suaramu Bergema Tanpa Takut!!\" merupakan pergelaran festival kebudayaan pop Jepang, pertunjukan musik band, dan kompetisi cosplay luring di Kabupaten Purwakarta. Berdasarkan takarir resmi serta materi promosi visual poster pada berkas image_ea2bc5.jpg, acara ini dimeriahkan oleh penampilan deretan band, kesenian Taiko, pertunjukan ekskul sekolah, serta kuis interaktif berhadiah.",
+            "activities": [
+                "Band Performance Showcase",
+                "Coswalk Competition",
+                "Taiko Performance",
+                "Interactive Quiz Session",
+                "Community Gathering"
+            ],
+            "performers": [
+                "Henohenomoheji (@henohenmohejiband)",
+                "Essagarden",
+                "GATE (@gate409official_new)",
+                "JOYFUL YOUTH (@joyfulyouth.pwk)",
+                "CAP-DESU",
+                "Tamama Impact (@tamamaimpact.2026)",
+                "Taiko by Haru",
+                "Kurabu SMAN 2 Purwakarta"
+            ],
+            "guest_stars": [
+                "WJDGoth (@wjdgoth - Juri Coswalk)",
+                "Rich Rui / Mario (@rich_ruii - Juri Coswalk)"
+            ],
+            "mc": [
+                "Yora (@yorenard)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 35000,
+                        "note": "Biaya masuk sebesar Rp 35.000 (mendapatkan cinderamata gratis selama persediaan masih ada, serta voucher diskon 10% untuk pembelanjaan di Coffee Rider Purwakarta dengan ketentuan tidak berlaku kelipatan)."
+                    }
+                ]
+            },
+            "rundown": {
+                "11:00": "OPEN GATE",
+                "11:30": "TAIKO",
+                "11:50": "BREAK DHUHUR",
+                "12:20": "JOYFUL - GATE",
+                "12:50": "CAP-DESU",
+                "13:25": "TAMAMA IMPACT",
+                "14:05": "ESSAGARDEN",
+                "14:30": "GATE",
+                "15:05": "BREAK ASHAR",
+                "15:25": "COSWALK COMPETITION",
+                "15:55": "HENOHENOMOHEJI",
+                "16:25": "PENGUMUMAN COSWALK",
+                "16:35": "JOYFUL YOUTH",
+                "17:05": "FREE JAMMING"
+            }
+        }
+    },
+    {
+        "Start Date": "20260704",
+        "Start Time": "15:00",
+        "End Date": "20260704",
+        "End Time": "21:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Miku Night Party",
+        "Location": "Amboja In Jogja (Amboja Coffee & Social Space)",
+        "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "miku_night_party_jogja_2026",
+        "location_address": "Jl. Demangan Baru, Demangan Baru, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.777596341042874, 110.39292805451788",
+        "location_gmaps": "https://maps.app.goo.gl/m5Z4yruvMMRiAAi47",
+        "links": [
+            "https://www.instagram.com/p/DaJ0cniyrAl/",
+            "https://www.instagram.com/anikarta.yk/",
+            "https://www.instagram.com/p/DaITO3ayuyq/",
+            "https://tinyurl.com/MNP-Regist2",
+            "https://www.instagram.com/p/DaUxsoayjf0/"
+        ],
+        "Content": {
+            "category": [
+                "Music / Concert",
+                "Party / Nightlife",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": [
+                "@anikarta.yk",
+                "@otagarchy",
+                "@pjsk_yk"
+            ],
+            "sponsored_by": [
+                "@yoroshikuproduction"
+            ],
+            "supported_by": [
+                "@ambojainjogja",
+                "@coloksound_audiolabs"
+            ],
+            "description": "Miku Night Party adalah pergelaran pesta disjoki luring yang berfokus sepenuhnya pada katalog musik Vocaloid dan Vocal Synthesizer. Berdasarkan materi promosi visual pada berkas image_e9d169.jpg, acara ini mengusung sub-tema DJ Party, Vocaloid Quiz, serta Dance Cover. Pengunjung diajak bernostalgia bersama era keemasan Vocaloid dengan membawa cinderamata maupun pernak-pernik terkait ke area pertunjukan.",
+            "activities": [
+                "Vocaloid Focused DJ Session",
+                "Vocaloid Quiz",
+                "Dance Cover Performance",
+                "Community Gathering & Networking"
+            ],
+            "performers": [
+                "RYXNIA (@ryxnia)",
+                "RWBU (@shunshunrwbu)",
+                "CHIZU (@eka114._)",
+                "QRYUU (@kiryuu.371)",
+                "IKAN (@ikandes_3)",
+                "KIASKA (@ekabochan)",
+                "\u00e3\u201a\u00ab\u00e3\u0192\u00bcBEAT (@idzadzakia)",
+                "GZKN (@bagas.gzkn)",
+                "NIGHTSPACE AT 25.00 (@nightspace_at_25)",
+                "WAYAHE SHOWTIME (@wayashooooo)"
+            ],
+            "staff": {
+                "mc": [
+                    "YURAKU",
+                    "IYUY"
+                ],
+                "vj": [
+                    "IJICHI"
+                ],
+                "illustrator": "@akihisa_art"
+            },
+            "partners": [
+                "@chika_lights",
+                "@sanity.smg",
+                "@bakura_soc",
+                "@anisura.nakayoshi",
+                "@gamabuntaugm",
+                "@pjsk_ska",
+                "@tosaku.shita",
+                "@pjsk_smg",
+                "@kochibuchi",
+                "@pjsk_sby",
+                "@group.z.collective"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "1st Pre-Registered Ticket",
+                        "price": 0,
+                        "note": "GRATIS (FREE HTM) bagi peserta gelombang registrasi awal via tautan resmi tinyurl.com/MNP-Regist2."
+                    },
+                    {
+                        "type": "2nd Pre-Register & On The Spot (OTS)",
+                        "price": 27000,
+                        "note": "Biaya sebesar Rp 27.000 dengan ketentuan pembelian minimum (minimum purchase) di lokasi acara berdasarkan informasi resmi pada berkas poster image_e9d169.jpg."
+                    }
+                ]
+            },
+            "rundown": {
+                "15:00": "OPEN GATE",
+                "16:00": "CHIZU",
+                "16:30": "QRYUU",
+                "17:00": "KIASKA",
+                "17:30": "\u00e3\u201a\u00ab\u00e3\u0192\u00bcBEAT",
+                "18:00": "IKAN",
+                "18:30": "VOCALOID MUSIC QUIZ",
+                "19:00": "WAYAHE SHOWTIME",
+                "19:30": "NIGHTSPACE at 25:00",
+                "20:00": "RWBU",
+                "20:30": "RYXNIA",
+                "21:00": "GZKN",
+                "21:30": "END"
+            }
+        }
+    },
+    {
         "Start Date": "20260705",
         "Start Time": "",
         "End Date": "20260705",
@@ -28019,23 +28232,21 @@
                 ]
             },
             "rundown": {
-                "rundown": {
-                    "09:00": "OPEN GATE",
-                    "10:00": "MC TIME",
-                    "11:00": "LOMBA MAKAN SESI 1",
-                    "11:45": "ISTIRAHAT",
-                    "12:15": "MC TIME",
-                    "12:30": "T.S.O.E PERFORMANCE",
-                    "13:00": "LOMBA MAKAN SESI 2",
-                    "13:30": "WIBU EXPERT",
-                    "14:45": "ISTIRAHAT",
-                    "15:00": "MC TIME",
-                    "15:15": "CHANGE PERFORMANCE",
-                    "15:45": "LOMBA MAKAN SESI 3",
-                    "16:15": "COSWALK",
-                    "16:45": "FINAL WIBU EXPERT",
-                    "17:00": "AWARDING"
-                }
+                "09:00": "OPEN GATE",
+                "10:00": "MC TIME",
+                "11:00": "LOMBA MAKAN SESI 1",
+                "11:45": "ISTIRAHAT",
+                "12:15": "MC TIME",
+                "12:30": "T.S.O.E PERFORMANCE",
+                "13:00": "LOMBA MAKAN SESI 2",
+                "13:30": "WIBU EXPERT",
+                "14:45": "ISTIRAHAT",
+                "15:00": "MC TIME",
+                "15:15": "CHANGE PERFORMANCE",
+                "15:45": "LOMBA MAKAN SESI 3",
+                "16:15": "COSWALK",
+                "16:45": "FINAL WIBU EXPERT",
+                "17:00": "AWARDING"
             }
         }
     },
@@ -28083,6 +28294,79 @@
             ],
             "contact": {
                 "instagram": "@shokaku.organizer"
+            }
+        }
+    },
+    {
+        "Start Date": "20260705",
+        "Start Time": "10:30",
+        "End Date": "20260705",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "OTAGEI CONNECT \u00e3\u0192\u00bc 4th Link",
+        "Location": "Zona Korea Creative Space, Mangga 2 Square",
+        "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "otagei_connect_4th_link_jakarta_2026",
+        "location_address": "Jl. Gn. Sahari No.1, RT.1/RW.13, Pademangan Bar., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14420",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.139010141620753, 106.83184489283629",
+        "location_gmaps": "https://maps.app.goo.gl/5R4w17bYmnzUK1cp7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaQJQqEEnIY/"
+        ],
+        "Content": {
+            "category": [
+                "Music / Concert",
+                "Community / Hobby Gathering",
+                "Party / Nightlife"
+            ],
+            "organizer": "OTAGEI CONNECT",
+            "description": "OTAGEI CONNECT \u00e3\u0192\u00bc 4th Link merupakan pergelaran pesta disjoki lagu anime (Anikura) serta kumpul komunitas Otagei independen berskala bawah tanah (underground) di Jakarta. Acara ini memfasilitasi para penikmat musik subkultur Jepang untuk melakukan koreografi otagei secara bebas tanpa batas, dengan menyajikan repertoar kurasi musik mulai dari lagu populer hingga nomor-nomor musik bawah tanah yang jarang dimainkan di lantai dansa arus utama.",
+            "activities": [
+                "Underground Anikura DJ Session",
+                "Otagei & Wotagei Gathering",
+                "Community Networking"
+            ],
+            "performers": [
+                "@xy.hadii",
+                "@fortimindofficial",
+                "Kaeruuu",
+                "@kautsarmusic",
+                "@ibnu_kusanagi",
+                "@galitama_",
+                "Nakanon",
+                "@nabil.hebat",
+                "@pie.prtm",
+                "@oyop7._",
+                "@kiryuu.371",
+                "Roblox at 25:00",
+                "@wongking.to",
+                "@vlvt._"
+            ],
+            "staff": {
+                "vj": [
+                    "@mecha_hunter"
+                ],
+                "leads": [
+                    "@yurikokayla"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (FREE ENTRY) untuk umum."
+                    }
+                ]
             }
         }
     },
@@ -28696,6 +28980,109 @@
     },
     {
         "Start Date": "20260718",
+        "Start Time": "18:00",
+        "End Date": "20260718",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JCM 2026 - JOGJA COSPLAY MATSURI",
+        "Location": "Atrium Jogja City Mall",
+        "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jogja_cosplay_matsuri_jcm_2026",
+        "location_address": "Jl. Magelang 6 No.18, Kutu Patran, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "-7.753204030074064, 110.36091829916025",
+        "location_gmaps": "https://goo.gl/maps/VMZRRdyXxcitz9dJ8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DZ-HDmUoBAm/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Competition / Tournament",
+                "Music / Concert"
+            ],
+            "organizer": "Jogja City Mall",
+            "description": "JCM 2026 - Jogja Cosplay Matsuri merupakan pergelaran festival kebudayaan pop Jepang, cosplay, dan tokusatsu luring yang diadakan di Yogyakarta. Berdasarkan takarir resmi dan materi promosi visual poster pada berkas image_e9c911.jpg, acara ini berlokasi di Atrium Jogja City Mall dengan menghadirkan panggung pertunjukan musik grup idola, aktivitas menari bersama, serta kompetisi kostum dan peragaan aksi.",
+            "activities": [
+                "Coswalk Competition",
+                "Henshin Contest",
+                "Random Play Dance",
+                "Idol Performance Showcase",
+                "Community Gathering"
+            ],
+            "performers": [
+                "Megami",
+                "Eclipse",
+                "Lyria"
+            ],
+            "guest_stars": [
+                "Cipa (Juri)",
+                "Wealbird (Juri)"
+            ],
+            "mc": [
+                "Rafly"
+            ],
+            "collaborators": [
+                "ANIKARTA (Random Play Dance)",
+                "Tokujo (Henshin Contest)"
+            ],
+            "media_partners": [
+                "@tokusatsu_yogyakarta",
+                "@kitsu.sekai",
+                "@jogjacosplay",
+                "@otsuru.idn",
+                "@wibufest.jogja",
+                "@tosaku.shita",
+                "@konco_ngevent.info",
+                "@anamimee",
+                "@kinoha_magelang",
+                "kochibuchi",
+                "@azurlane.yk",
+                "@kummoto.official"
+            ],
+            "contact": {
+                "phone": "085726231026",
+                "name": "Pinastu"
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk Pengunjung (HTM)",
+                        "price": 0,
+                        "note": "GRATIS (FREE HTM) bagi seluruh pengunjung umum."
+                    },
+                    {
+                        "type": "Pendaftaran Coswalk Competition",
+                        "price": 20000,
+                        "note": "Biaya registrasi peserta sebesar Rp 20.000 melalui tautan bit.ly/RegisCoswalkJCM2026 (mendapatkan voucher berdasarkan berkas poster image_e9c911.jpg)."
+                    },
+                    {
+                        "type": "Pendaftaran Henshin Contest",
+                        "price": null,
+                        "note": "Registrasi peserta dapat diakses secara daring melalui tautan bit.ly/HenshinJCM2026."
+                    }
+                ],
+                "prizepool": [
+                    {
+                        "type": "Total Hadiah Kompetisi",
+                        "price": 1250000,
+                        "note": "Total hadiah sebesar Rp 1.250.000 untuk para pemenang kategori kompetisi."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260718",
         "Start Time": "13:30",
         "End Date": "20260718",
         "End Time": "",
@@ -29228,6 +29615,89 @@
                 ]
             },
             "description": "Festival gaming yang menghadirkan turnamen esports, pameran teknologi dan AI, showcase developer game, bazaar komputer, festival cosplay, serta penampilan idol."
+        }
+    },
+    {
+        "Start Date": "20260724",
+        "Start Time": "13:00",
+        "End Date": "20260802",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nipponsai Matsuri",
+        "Location": "Lapangan Saburai",
+        "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nipponsai_matsuri_lampung_2026",
+        "location_address": "H7J5+GXJ, Jl. Sriwijaya Jl. Majapahit, Enggal, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35213",
+        "location_city": "Bandar Lampung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-5.41864127265785, 105.25990424769981",
+        "location_gmaps": "https://maps.app.goo.gl/iBoK497wRtFj6q9dA",
+        "links": [
+            "https://www.instagram.com/nipponsaimatsuri",
+            "https://www.instagram.com/p/DaTFz4oEk__/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Gathering / Parade / Casual",
+                "Bazaar / Market",
+                "Musik - Anisong / Karaoke",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Game / Esports Tournament",
+                "Toy / Figure / Hobby",
+                "Party / Night Event"
+            ],
+            "competition": {
+                "categories": [
+                    "Lomba Speech Jepang",
+                    "Lomba Story Telling Jepang",
+                    "Lomba Nyanyi Solo Jepang",
+                    "Standup Tema Jepang",
+                    "Coswalk Competition",
+                    "Anisong Competition",
+                    "Dance Cover Competition",
+                    "Tekken Champions",
+                    "Tamiya Challenge",
+                    "Beyblade Challenge",
+                    "Cosplay Sprint Run"
+                ]
+            },
+            "performers": [
+                "DJ Bawang",
+                "Himawari"
+            ],
+            "organizer": "Nipponsai Matsuri (@nipponsaimatsuri)",
+            "description": "Nipponsai Matsuri adalah pergelaran festival kebudayaan Jepang luring yang diadakan di Kota Bandar Lampung, Lampung. Acara ini berlangsung selama beberapa hari dengan menghadirkan beragam eksibisi kebudayaan tradisional maupun pop kontemporer Jepang, panggung hiburan, serta berbagai kategori perlombaan dengan kuota pendaftaran terbatas.",
+            "activities": [
+                "Japanese Cultural Exhibition",
+                "Cosplay & Community Gathering",
+                "Competition / Tournament Sessions",
+                "Stage Performance Showcase"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @nipponsaimatsuri"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Informasi Tiket Masuk",
+                        "price": null,
+                        "note": "Informasi mengenai harga tiket masuk untuk pengunjung umum belum dicantumkan secara detail."
+                    }
+                ]
+            }
         }
     },
     {
@@ -29951,6 +30421,71 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260816",
+        "Start Time": "",
+        "End Date": "20260816",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tanoshii no Omatsuri 2026",
+        "Location": "The Legend Stars Park - Jawa Timur Park 3",
+        "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tanoshii_no_omatsuri_jtp3_2026",
+        "location_address": "Jl. Ir. Soekarno No.144, Beji, Kec. Junrejo, Kota Batu, Jawa Timur 65236",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.898551205148878, 112.55135355659138",
+        "location_gmaps": "https://maps.app.goo.gl/jHMFXPmJyJ6erUtg9",
+        "links": [
+            "https://www.instagram.com/tanoshiinoomatsuri/",
+            "https://www.instagram.com/tanoshiinoomatsuri/p/DaSjX4CSil2/",
+            "https://www.instagram.com/tanoshiinoomatsuri/p/DaUl_E1SoGx/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Tanoshii no Omatsuri (@tanoshiinoomatsuri)",
+            "supported_by": [
+                "Jawa Timur Park 3",
+                "The Legend Stars Park"
+            ],
+            "description": "Tanoshii no Omatsuri merupakan acara festival kebudayaan pop Jepang luring yang diselenggarakan di area The Legend Stars Park, Jawa Timur Park 3. Berdasarkan informasi takarir serta publikasi materi promosi visual poster pada berkas image_ea9fc3.jpg dan image_ea9fe1.jpg, festival ini menghadirkan kompetisi Coswalk serta mengundang sederet cosplayer populer sebagai bintang tamu sekaligus juri perlombaan.",
+            "activities": [
+                "Coswalk Competition",
+                "Cosplay Gathering",
+                "Guest Star Meet and Greet",
+                "Community Gathering"
+            ],
+            "guest_stars": [
+                "Seirabel (@seirabel)",
+                "Ali Takajo (@ali_takajo)"
+            ],
+            "contact": {
+                "social_media": [
+                    "Instagram: @tanoshiinoomatsuri"
+                ]
+            },
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk",
+                        "price": null,
+                        "note": "Rincian harga tiket masuk ke area festival atau ke dalam kawasan Jawa Timur Park 3 belum tercantum dalam informasi awal."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20260822",

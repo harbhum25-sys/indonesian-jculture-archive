@@ -43623,7 +43623,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "ytmxts_2",
+        "_id": "hniyrl_3",
         "location_address": "Jl. Gatot Subroto Tim., Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80235",
         "location_city": "Denpasar",
         "location_coordinate": "-8.634926295219515, 115.23190417604059",
@@ -43691,7 +43691,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "ytmxts_2",
+        "_id": "hniyrl_3",
         "location_address": "Jl. Ahmad Yani, Muka Kuning, Kec. Sei Beduk, Kota Batam, Kepulauan Riau 29433",
         "location_city": "Batam",
         "location_coordinate": "1.0719001685616156, 104.02406785289169",
@@ -58149,6 +58149,89 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20240908",
+        "Start Time": "",
+        "End Date": "20240908",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tanoshii no Omatsuri 2024",
+        "Location": "The Legend Stars Park - Jawa Timur Park 3",
+        "Comment": "Arsip pergelaran festival kebudayaan pop Jepang masa lalu Tanoshii no Omatsuri yang diadakan di The Legend Stars Park, Jawa Timur Park 3 pada hari Minggu, 8 September 2024.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tanoshii_no_omatsuri_jtp3_2024",
+        "location_address": "Jl. Ir. Soekarno No.144, Beji, Kec. Junrejo, Kota Batu, Jawa Timur 65236",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.898551205148878, 112.55135355659138",
+        "location_gmaps": "https://maps.app.goo.gl/jHMFXPmJyJ6erUtg9",
+        "links": [
+            "https://www.instagram.com/tanoshiinoomatsuri/p/C7JcwqKL4eB/",
+            "https://www.instagram.com/p/C_ooFzkBp8Y/",
+            "https://www.instagram.com/tanoshiinoomatsuri/reel/C_sW_f-ykJn/",
+            "https://www.instagram.com/itsstarcaptain/reel/DAtCwXwyi-g/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Tanoshii no Omatsuri (@tanoshiinoomatsuri)",
+            "supported_by": [
+                "Jawa Timur Park 3",
+                "The Legend Stars Park",
+                "Bank BRI"
+            ],
+            "description": "Tanoshii no Omatsuri 2024 merupakan edisi pertama festival cosplay dan kebudayaan pop Jepang luring yang diselenggarakan langsung di dalam area taman hiburan The Legend Stars Park, Jawa Timur Park 3. Berdasarkan rekaman visual poster pada berkas image_eaae6b.png, festival ini menghadirkan panggung hiburan musik, kompetisi kostum dengan total hadiah jutaan rupiah, serta berbagai tantangan kreatif di media sosial.",
+            "activities": [
+                "Cosplay Walk Competition",
+                "Reels & TikTok Challenges",
+                "Anisong & Band Cover Showcase",
+                "Japanese Dance Cover Performance",
+                "Idol Performance Showcase",
+                "Community Gathering"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Tiket Masuk (HTM) Terusan",
+                        "price": 80000,
+                        "note": "Biaya sebesar Rp 80.000 yang sudah termasuk tiket masuk ke kawasan The Legend Stars Park berdasarkan informasi berkas image_eaae6b.png."
+                    }
+                ],
+                "prizepool": [
+                    {
+                        "type": "Total Hadiah Kompetisi",
+                        "price": 9200000,
+                        "note": "Total hadiah yang diperebutkan adalah sebesar Rp 9.200.000 berdasarkan maklumat visual pada poster."
+                    }
+                ],
+                "rundown": {
+                    "10:00": "OPEN GATE & REGISTRATION",
+                    "12:00": "OPENING TANOSHII BY MC",
+                    "12:30": "MOONBEAMS",
+                    "13:30": "AMINUS",
+                    "14:00": "SHOUJO RIDER",
+                    "15:15": "GUEST STAR & JUDGE PERFORM",
+                    "15:30": "COSPLAY COMPETITION",
+                    "16:00": "COSPLAY WALK COMPETITION",
+                    "17:00": "STAR CAPTAIN",
+                    "18:00": "AKIRAMENNA",
+                    "18:30": "LITTLE BLACK CHERIE",
+                    "19:30": "AWARDING",
+                    "20:00": "MOZALELLY LIMOON27",
+                    "20:30": "KLAB KARAOKE KONOHA"
+                }
+            }
+        }
     },
     {
         "Start Date": "20240908",
