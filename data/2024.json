@@ -43623,7 +43623,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "hniyrl_3",
+        "_id": "jwhbex_8",
         "location_address": "Jl. Gatot Subroto Tim., Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80235",
         "location_city": "Denpasar",
         "location_coordinate": "-8.634926295219515, 115.23190417604059",
@@ -43691,7 +43691,7 @@
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "No",
-        "_id": "hniyrl_3",
+        "_id": "jwhbex_8",
         "location_address": "Jl. Ahmad Yani, Muka Kuning, Kec. Sei Beduk, Kota Batam, Kepulauan Riau 29433",
         "location_city": "Batam",
         "location_coordinate": "1.0719001685616156, 104.02406785289169",
@@ -67655,6 +67655,120 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20241123",
+        "Start Time": "10:00",
+        "End Date": "20241123",
+        "End Time": "20:20",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JPOP YUME FESTIVAL",
+        "Location": "Auditorium Istana BEC Mall, Bandung",
+        "Comment": "Festival budaya pop Jepang 'JPOP YUME FESTIVAL' yang diselenggarakan secara luring di Auditorium Istana BEC Mall Bandung pada hari Sabtu, 23 November 2024 mulai pukul 10:00 sampai 20:20 WIB, menyajikan panggung musik, kompetisi cosplay, dan pameran komunitas.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jpop_yume_festival_bandung_2024",
+        "location_address": "Jl. Purnawarman No.13-15, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.907847877175112, 107.60880798465827",
+        "location_gmaps": "https://goo.gl/maps/kvUzEXRfxyxH44AT8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DCiLBZIh_ub/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Music / Concert",
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Treehouse Japan Community x Yume Euforia Entertainment (@yume_euforia.ent)",
+            "co_organized_by": [
+                "@treehouse_jpcom"
+            ],
+            "description": "JPOP YUME FESTIVAL merupakan proyek kolaborasi festival perdana antara Treehouse Japan Community dan Yume Euforia Entertainment yang diselenggarakan secara luring di pusat perbelanjaan Istana BEC, Bandung. Acara ini memadukan panggung hiburan musik berskala komunitas dengan parade kompetisi coswalk, penampilan idola lokal, sesi karaoke massal, serta pameran stan kreatif interaktif.",
+            "activities": [
+                "Band Performance",
+                "Idol Performance",
+                "Karaoke Train Session",
+                "DJ Karaoke Party",
+                "Coswalk Competition",
+                "Doorprize Giveaway",
+                "Booth Community Exhibition",
+                "Booth Commercial & Toys Exhibition"
+            ],
+            "mc": [
+                "Isal / @isaljanuar",
+                "Gin / @gingaxy"
+            ],
+            "judges": [
+                "Zwandoff / @zwandoff (Coswalk Competition Judge)"
+            ],
+            "performers": [
+                "Sirene Star / @sirenestar",
+                "Secret Hope / @secrethope_band",
+                "Karakama / @karakama.dj",
+                "Star Effect / @stareffect_id",
+                "Megami no Yami / @mny.ofc",
+                "Starry Night / @starrynight.ofc",
+                "Joshi Kousei / @joshikousei.idol",
+                "Sang Joon and Broken Heart Factory / @infosangjoon",
+                "Eliziana / @elizianagram",
+                "Raven / @_ravenband",
+                "Tabaqo / @tabaqo_ofc",
+                "Polarize / @polarizeofcl.band",
+                "Flying of Money / @flyingofmoneyband",
+                "UtaOdo Karaoke Train / @hayu.utaodo",
+                "Monyet Digantung / @monyetdigantung",
+                "Green Bottle / @greenbottlemusik",
+                "ANSR / @ansrofficial",
+                "MOA / @moa.band",
+                "Midnight Serenade / @midnightserenade.official"
+            ],
+            "sponsors": [
+                "Istana BEC / @istanabec",
+                "Studio Family Karaoke / @studiofamilykaraoke"
+            ],
+            "community_partners": [
+                "@kopki_bdg",
+                "@nakama.op.bandung",
+                "@wibu_baleendah",
+                "@secretfriends666",
+                "@pazweebsnime._ind",
+                "@wibu_online_bdg",
+                "@keluargawibucemara.id",
+                "@wibu_warass",
+                "@wibugabutcomunity",
+                "@boa_community"
+            ],
+            "media_partners": [
+                "@fa_ryuzaki",
+                "@jfesthunter_",
+                "@wibufest_bandung",
+                "@sastraweebs_",
+                "@coserbandung",
+                "@bae_anime_event",
+                "@subangwibuempire_",
+                "@48finest_",
+                "@fjkt48.bdg",
+                "@japanforpolban"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "HTM Reguler",
+                        "price": 0,
+                        "note": "Akses masuk menuju area panggung festival utama di dalam mal tidak dipungut biaya atau gratis (Free Entry) bagi seluruh pengunjung."
+                    }
+                ]
+            }
+        }
     },
     {
         "Start Date": "20241123",
