@@ -28508,7 +28508,8 @@
         "location_coordinate": "-7.158057292088124, 112.61606335438195",
         "location_gmaps": "https://maps.app.goo.gl/5WcLfyxV67Rt1Ssa8",
         "links": [
-            "https://www.instagram.com/p/DaVKm6Uj6C1/"
+            "https://www.instagram.com/p/DaVKm6Uj6C1/",
+            "https://www.instagram.com/p/DaXk1iDD2dg/"
         ],
         "Content": {
             "category": [
@@ -29472,7 +29473,8 @@
         "links": [
             "https://www.instagram.com/p/DZrweGtJ5C8/",
             "https://www.instagram.com/p/DZqWO_gT7aQ/",
-            "https://www.instagram.com/p/DZ2R10TiUz_/"
+            "https://www.instagram.com/p/DZ2R10TiUz_/",
+            "https://www.instagram.com/p/DaowuQmCU-_/"
         ],
         "Content": {
             "category": [
@@ -29505,7 +29507,12 @@
                     "MIEKORKY",
                     "Fawkszero",
                     "MY"
-                ]
+                ],
+                "Cover Sing": [
+                    "Chieri",
+                    "Kazuki "
+                ],
+                "Duo": "Nachi"
             },
             "supports": [
                 "Bagi Kopi Metro (@bagikopi.metro)",
@@ -29529,6 +29536,25 @@
                         "note": "FREE HTM / Gratis masuk."
                     }
                 ]
+            },
+            "rundown": {
+                "13.00": "OPENING GATE",
+                "14.00": "KAZUKI",
+                "14.20": "CHIERI",
+                "14.40": "KATEBA",
+                "15.00": "NACHI",
+                "15.20": "COMMUNITY EXHIBITION",
+                "16.00": "SILLENT BULLET",
+                "16.30": "SECRET HOPE",
+                "17.00": "COSWALK COMPETIION",
+                "17.20": "MELON PUNCH",
+                "17.50": "PENGUMUMAN PEMENANG",
+                "18.10": "AOZORA NO HIME",
+                "18.40": "MIEKORKY X MY",
+                "19.10": "BL1TZ",
+                "19.40": "LUMINA SCARLET",
+                "20.10": "JACKTHERIPPXR X FAWKSZERO",
+                "20.40": "REYJ X MAHARAJAVEE"
             }
         }
     },
