@@ -30383,6 +30383,76 @@
         }
     },
     {
+        "Start Date": "20260716",
+        "Start Time": "18:00",
+        "End Date": "20260716",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Domino Idol Master - ORENO TURN",
+        "Location": "DON Boardgame & Coffee",
+        "Comment": "Insert to J-Event List : 20260716 03:30:55\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "domino_idol_master_oreno_turn_yogyakarta_2026",
+        "location_address": "Jl. Bhayangkara, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55261",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.796367723571072, 110.36206679515549",
+        "location_gmaps": "https://maps.app.goo.gl/K12pQz6pRuA3HgGx7",
+        "links": [
+            "https://www.instagram.com/p/Daz_szwzTUF/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Competition / Tournament"
+            ],
+            "organizer": "PORDI (Persatuan Olahraga Domino Indonesia) (@pordi.official) & Idol Stage (@idolstage.id)",
+            "description": "Domino Idol Master - ORENO TURN (Chapter Central Java) merupakan kompetisi ekshibisi olahraga domino unik yang mempertemukan para member grup idola lokal Yogyakarta di atas meja pertandingan. Menggabungkan ketangkasan taktis permainan domino tradisional di bawah naungan PORDI dengan daya tarik budaya idola pop lokal dari Idol Stage, acara ini dirancang sebagai tontonan hiburan komunitas yang santai dan interaktif di kafe board game.",
+            "activities": [
+                "Domino Card Tournament Exhibition",
+                "Idol Meet & Greet",
+                "Boardgame Gathering"
+            ],
+            "performers": [
+                "Dea Awalia (@deaawaliaa)",
+                "Zhevinci Amarzie (@zhevinciamarzie)",
+                "Vanesa Vanilla (@vanesavanilla)",
+                "Anya (@anyawsaa)",
+                "Vinli - Eclipse (@eclipse.vinli)",
+                "Gadis - Crayon (@crayon.gadis)",
+                "Rissa - Crayon (@crayon.rissa)",
+                "Velan - HTRB (@htrb_velan)"
+            ],
+            "venue_partner": [
+                "DON Boardgame & Coffee"
+            ],
+            "sponsors": [
+                "Beda Unik (@bedaunik)",
+                "Katsu Sekai",
+                "Yogyakarta Idol Fans"
+            ],
+            "support_and_media_partners": [
+                "Jeketian",
+                "Jankuro"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission",
+                        "price": 0,
+                        "note": "FREE ENTRY / GRATIS MASUK"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260718",
         "Start Time": "15:00",
         "End Date": "20260719",
@@ -31457,7 +31527,8 @@
         "location_gmaps": "https://maps.app.goo.gl/iC9Tx1NTUsX5NpgA9",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/DaaW6hvk6HI/"
+            "https://www.instagram.com/p/DaaW6hvk6HI/",
+            "https://www.instagram.com/p/Da0aIzIhAPK/"
         ],
         "Content": {
             "category": [
@@ -31501,6 +31572,27 @@
                         "note": "Informasi detail mengenai harga tiket masuk belum tertera pada takarir maupun visual poster lineup utama."
                     }
                 ]
+            },
+            "rundown": {
+                "11.00": "OPENING MC",
+                "11.15": "ELYRIA",
+                "11.45": "YUME MIRAGE'S AURORA",
+                "12.00": "NYXIA",
+                "12.30": "YUME MIRAGE'S CECIL",
+                "12.45": "STELLIFY",
+                "13.15": "YUME MIRAGE'S ZUKA",
+                "13.30": "YUME MIRAGE'S KEZI",
+                "13.50": "MEIA",
+                "14.10": "MOON NANA",
+                "14.30": "YUME MIRAGE'S NISSY",
+                "14.50": "AKEMI",
+                "15.20": "LABELLE",
+                "15.50": "STELLAR LUNA",
+                "16.20": "YUME MIRAGE",
+                "17.00": "TOMOSHIBI",
+                "17.30": "HIRA DAZZLE",
+                "18.15": "BUBBLE BLISS",
+                "18.45": "CRESCENDO"
             }
         }
     },
@@ -31737,6 +31829,56 @@
                     }
                 ]
             }
+        }
+    },
+    {
+        "Start Date": "20260725",
+        "Start Time": "",
+        "End Date": "20260725",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "OTAKU CLUB! Vol.3",
+        "Location": "Main Atrium Gaia Bumi Raya City",
+        "Comment": "Insert to J-Event List : 20260715 10:53:15\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "otaku_club_vol3_pontianak_2026",
+        "location_address": "Jl. Arteri Supadio, Sungai Raya, Kec. Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat 78391",
+        "location_city": "Pontianak",
+        "location_coordinate": "-0.07672979931143085, 109.36886890091746",
+        "location_gmaps": "https://goo.gl/maps/VY8hXeHBgVzwHeop7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DaZ2ubiT8oS/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "AWP / Aliansi Wibu Pontianak (@awp.ptk)",
+            "description": "OTAKU CLUB! Vol.3 merupakan perhelatan festival komunitas pencinta budaya populer Jepang di wilayah Pontianak dan sekitarnya. Event ini berfungsi sebagai ruang apresiasi berbagai minat kreatif subkultur Jepang, mulai dari seni pertunjukan panggung musik, unjuk bakat suara dan gambar komik secara langsung, hingga demonstrasi ketangkasan hobi di area publik mall.",
+            "activities": [
+                "Cosplay Showcase",
+                "Idol Group Performance",
+                "J-Sing Session",
+                "J-Rap Performance",
+                "Manga Live Drawing",
+                "Seiyuu Performance",
+                "Yoyo Performance",
+                "Random Play Dance (RPD)",
+                "Interactive Games"
+            ],
+            "venue_partner": [
+                "Gaia Bumi Raya City (@gaiabumirayacity)"
+            ],
+            "contact_person": [
+                "CP AWP: 0823-5328-5938"
+            ]
         }
     },
     {
@@ -33693,6 +33835,75 @@
                 "facebook": "Nippon Day Makassar"
             },
             "description": "Mengusung tema kolaborasi budaya 'Ewako x Kizuna: Spirit of Friendship' dengan penggabungan elemen lokal Makassar (Topi Passapu) dan Jepang (Mizuhiki). Berdasarkan logo di pojok kanan atas poster image_b82ca8.jpg, acara ini didukung atau diselenggarakan bersama Consular Office of Japan in Makassar."
+        }
+    },
+    {
+        "Start Date": "20260828",
+        "Start Time": "16:30",
+        "End Date": "20260830",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "KOMPAK Eps. 2",
+        "Location": "Ciplaz Jatinegara",
+        "Comment": "Insert to J-Event List : 20260716 03:30:55\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "kompak_eps2_jakarta_2026",
+        "location_address": "Jl. Matraman Raya No.173-175, RT.7/RW.6, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13310",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.213847260892432, 106.86440198179886",
+        "location_gmaps": "https://goo.gl/maps/bW42mb19JZb343QCA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DazIID1k3wS/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Exhibition / Exhibition Trade Show"
+            ],
+            "organizer": "KOMPAK (Pameran Ame Pasar Komik Indonesia)",
+            "description": "KOMPAK (Pameran Ame Pasar Komik Indonesia) Eps. 2 merupakan ruang pameran, pasar kreatif komik lokal, sekaligus wadah berkumpulnya para kreator gambar dan penggemar subkultur pop-culture di Jakarta. Event ini memadukan ekosistem jual-beli karya kreatif dengan panggung apresiasi seni cosplay melalui parade komunitas dan kompetisi peragaan kostum (coswalk).",
+            "activities": [
+                "Cosplay Parade (Sabtu, 29 Agustus 2026)",
+                "Coswalk Competition (Minggu, 30 Agustus 2026)",
+                "Comic & Art Exhibition",
+                "Pasar Komik / Creator Booths"
+            ],
+            "judges": [
+                "Miyuki Yoruna (@miyuki.yoruna)",
+                "Rune Hato (@rune.hato)"
+            ],
+            "venue_partner": [
+                "Ciplaz Jatinegara (@ciplaz_jatinegara)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission",
+                        "price": 0,
+                        "note": "FREE ENTRY / NO HTM"
+                    },
+                    {
+                        "type": "Registration Fee Coswalk",
+                        "price": 15000,
+                        "note": "Slot kompetisi terbatas."
+                    }
+                ]
+            },
+            "prizes": [
+                {
+                    "type": "Total Prize Pool Coswalk",
+                    "reward": "Jutaan Rupiah"
+                }
+            ]
         }
     },
     {
