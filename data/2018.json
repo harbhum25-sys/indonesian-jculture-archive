@@ -2845,7 +2845,8 @@
         "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
         "links": [
             "https://www.instagram.com/animeindonesiatv/p/BoYA1lXA1fq/",
-            "https://www.instagram.com/animeindonesiatv/p/BoYAKIggFpl/"
+            "https://www.instagram.com/animeindonesiatv/p/BoYAKIggFpl/",
+            "https://www.instagram.com/p/BonS3icB-Ma/"
         ],
         "Content": {
             "category": [
@@ -2863,7 +2864,21 @@
             "location": "PSBJ UNPAD",
             "date": "October 7, 2018",
             "rundown": {
-                "open_gate": "10AM"
+                "10.00": "OPEN GATE",
+                "11.00 - 11.20": "PEMBUKAAN",
+                "11.20 - 12.20": "PENAMPILAN HIMADE",
+                "12.20 - 12.50": "ORKESTRA ANGKLUNG FIB",
+                "12.50 - 13.20": "OMIKOSHI PARADE",
+                "*13.20 - 15.00": "CINEMA CARAVAN BY JAPAN FOUNDATION",
+                "14.30 - 14.45": "NPM",
+                "14.55 - 16.15": "PENAMPILAN JUARA AUDISI",
+                "*15.30 - 16.30": "GUNPLA WORKSHOP",
+                "17.30 - 18.30": "ISHOMA",
+                "18.30 - 19.00": "ICA ZAHRATUNNISA",
+                "19.00 - 19.30": "OLEGUN AND THE GOBS",
+                "19.30 - 20.00": "LUSCA",
+                "20.00 - 21.00": "J-ROCKS",
+                "21.00 - 21.15": "BON ODORI DAN PENUTUPAN"
             },
             "guest_stars": [
                 "J-Rocks",
