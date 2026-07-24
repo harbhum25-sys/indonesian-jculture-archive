@@ -32904,7 +32904,7 @@
         "Location": "TikTok @makicos.id",
         "Comment": "Insert to J-Event List : 20260713 17:19:14\n",
         "Online/Offline": "Online",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "makicos_tiktok_cosplay_contest_2026",
         "links": [
@@ -32953,7 +32953,7 @@
         "Location": "Lapangan Saburai",
         "Comment": "Insert to J-Event List : 20260703 17:44:26\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "nipponsai_matsuri_lampung_2026",
         "location_address": "H7J5+GXJ, Jl. Sriwijaya Jl. Majapahit, Enggal, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35213",
@@ -33796,111 +33796,90 @@
             "rundown": {
                 "sabtu_25_juli_2026": {
                     "main_stage": {
-                        "days": {
-                            "09.10": "Parade Cosplay",
-                            "09.30": "YOSAKOI",
-                            "11.10": "Pembukaan / Cikarang Japanese School Taiko",
-                            "11.30": "Grup Angklung SMK Ananda Mitra Industri",
-                            "11.55": "Ishoma Dzuhur",
-                            "12.20": "Miss Sakura Penyelisihan",
-                            "13.35": "A'rt Pen~Ciel",
-                            "14.00": "Skyfall",
-                            "14.20": "UMEDA",
-                            "14.40": "Cosplay Competition",
-                            "15.15": "Ishoma Ashar"
-                        },
-                        "night": {
-                            "15.40": "LEMON",
-                            "16.05": "Final Lomba Sing Cover",
-                            "16.25": "YUM! TUK!",
-                            "16.55": "YURU BAND",
-                            "17.20": "Pengumuman Miss Sakura, Juara Sing Cover dan Cosplay",
-                            "17.40": "ISHOMA MAGHRIB",
-                            "18.15": "Cikarang Keion Club",
-                            "18.40": "RyuBand",
-                            "19.05": "Yeonine",
-                            "19.30": "Meutia Amanda",
-                            "20.05": "DIA",
-                            "20.55": "Penutupan"
-                        }
-                    },
-                    "second_stage": {
-                        "days": {
-                            "11.05": "Lomba Shuuji",
-                            "11.55": "ISHOMA DZUHUR",
-                            "12.15": "Tari Genjring Parti",
-                            "12.30": "Shodo Performance",
-                            "12.45": "Pengumuman Lomba Shuuji",
-                            "12.55": "Tsuru Making Event",
-                            "13.20": "Lomba Sing Cover",
-                            "14.40": "Koki Ota",
-                            "15.05": "Pengumuman Semi Final Sing Cover",
-                            "15.10": "ISHOMA ASHAR"
-                        },
-                        "night": {
-                            "15.30": "RYUBAND Komedi Balon",
-                            "16.00": "RICK",
-                            "16.25": "LAVANI",
-                            "16.50": "Penutupan"
-                        }
+                        "09.10": "Parade Cosplay",
+                        "09.30": "YOSAKOI",
+                        "11.10": "Pembukaan / Cikarang Japanese School Taiko",
+                        "11.30": "Grup Angklung SMK Ananda Mitra Industri",
+                        "11.55": "Ishoma Dzuhur",
+                        "12.20": "Miss Sakura Penyelisihan",
+                        "13.35": "A'rt Pen~Ciel",
+                        "14.00": "Skyfall",
+                        "14.20": "UMEDA",
+                        "14.40": "Cosplay Competition",
+                        "15.15": "Ishoma Ashar",
+                        "15.40": "LEMON",
+                        "16.05": "Final Lomba Sing Cover",
+                        "16.25": "YUM! TUK!",
+                        "16.55": "YURU BAND",
+                        "17.20": "Pengumuman Miss Sakura, Juara Sing Cover dan Cosplay",
+                        "17.40": "ISHOMA MAGHRIB",
+                        "18.15": "Cikarang Keion Club",
+                        "18.40": "RyuBand",
+                        "19.05": "Yeonine",
+                        "19.30": "Meutia Amanda",
+                        "20.05": "DIA",
+                        "20.55": "Penutupan"
                     }
                 },
-                "minggu_26_juli_2026": {
-                    "main_stage": {
-                        "days": {
-                            "10.05": "Angklung Panji Laras Wulung",
-                            "10.25": "Tari Sakura (STBA Yapari Bandung)",
-                            "10.40": "Pencak Silat (Maung Lugay PCA)",
-                            "10.50": "Tari Soran Bushi (STBA)",
-                            "11.05": "Tari Modern SD President",
-                            "11.20": "Lagu Lagu KAI",
-                            "11.40": "Joyful Youth Band",
-                            "11.55": "ISHOMA DZUHUR",
-                            "12.15": "Miss Sakura Semi Final",
-                            "13.10": "Acapella Group Jam",
-                            "13.25": "Pengumuman Final",
-                            "13.55": "KOKI OTA"
-                        },
-                        "night": {
-                            "13.55": "Coswalk Competition",
-                            "14.35": "DDM+",
-                            "15.10": "ISHOMA ASHAR",
-                            "15.35": "Miss Sakura Final",
-                            "16.20": "GATE BAND",
-                            "16.45": "Pengumuman Juara Coswalk & Miss Sakura",
-                            "17.05": "LUMINA SCARLET",
-                            "17.25": "UMEDA",
-                            "17.40": "ISHOMA MAGHRIB",
-                            "18.15": "Galaxy Big Band Jazz Orchestra",
-                            "18.50": "SC93 Band",
-                            "19.20": "SHUN",
-                            "20.05": "JKT48",
-                            "20.55": "Penutupan"
-                        }
-                    },
-                    "second_stage": {
-                        "days": {
-                            "11.05": "Pendaftaran Lomba Re-Registrasi",
-                            "11.55": "Lomba Mewarnai A&B",
-                            "12.15": "Tari Kreasi TK Midori",
-                            "12.30": "Lomba Fashion Show Anak",
-                            "12.45": "ISHOMA DZUHUR",
-                            "12.55": "Pengumuman Juara Lomba Mewarnai",
-                            "13.20": "Pengumuman Juara Fashion Show",
-                            "14.40": "DEMO YUKATA",
-                            "15.05": "Tari Tradisional SD MIDORI",
-                            "15.10": "YOSAKOI",
-                            "15.30": "EASY",
-                            "16.00": "MAJIK MONSTA"
-                        },
-                        "night": {
-                            "15.05": "Meia Solo Performance",
-                            "15.10": "ISHOMA ASHAR",
-                            "15.30": "DJ RICA",
-                            "16.00": "YURIWA",
-                            "16.50": "Penutupan"
-                        }
-                    }
+                "second_stage": {
+                    "11.05": "Lomba Shuuji",
+                    "11.55": "ISHOMA DZUHUR",
+                    "12.15": "Tari Genjring Parti",
+                    "12.30": "Shodo Performance",
+                    "12.45": "Pengumuman Lomba Shuuji",
+                    "12.55": "Tsuru Making Event",
+                    "13.20": "Lomba Sing Cover",
+                    "14.40": "Koki Ota",
+                    "15.05": "Pengumuman Semi Final Sing Cover",
+                    "15.10": "ISHOMA ASHAR",
+                    "15.30": "RYUBAND Komedi Balon",
+                    "16.00": "RICK",
+                    "16.25": "LAVANI",
+                    "16.50": "Penutupan"
+                }
+            },
+            "minggu_26_juli_2026": {
+                "main_stage": {
+                    "10.05": "Angklung Panji Laras Wulung",
+                    "10.25": "Tari Sakura (STBA Yapari Bandung)",
+                    "10.40": "Pencak Silat (Maung Lugay PCA)",
+                    "10.50": "Tari Soran Bushi (STBA)",
+                    "11.05": "Tari Modern SD President",
+                    "11.20": "Lagu Lagu KAI",
+                    "11.40": "Joyful Youth Band",
+                    "11.55": "ISHOMA DZUHUR",
+                    "12.15": "Miss Sakura Semi Final",
+                    "13.10": "Acapella Group Jam",
+                    "13.25": "Pengumuman Final",
+                    "13.55": "Coswalk Competition",
+                    "14.35": "DDM+",
+                    "15.10": "ISHOMA ASHAR",
+                    "15.35": "Miss Sakura Final",
+                    "16.20": "GATE BAND",
+                    "16.45": "Pengumuman Juara Coswalk & Miss Sakura",
+                    "17.05": "LUMINA SCARLET",
+                    "17.25": "UMEDA",
+                    "17.40": "ISHOMA MAGHRIB",
+                    "18.15": "Galaxy Big Band Jazz Orchestra",
+                    "18.50": "SC93 Band",
+                    "19.20": "SHUN",
+                    "20.05": "JKT48",
+                    "20.55": "Penutupan"
+                },
+                "second_stage": {
+                    "11.05": "Pendaftaran Lomba Re-Registrasi",
+                    "11.55": "Lomba Mewarnai A&B",
+                    "12.15": "Tari Kreasi TK Midori",
+                    "12.30": "Lomba Fashion Show Anak",
+                    "12.45": "ISHOMA DZUHUR",
+                    "12.55": "Pengumuman Juara Lomba Mewarnai",
+                    "13.20": "Pengumuman Juara Fashion Show",
+                    "14.40": "DEMO YUKATA",
+                    "15.05": "Meia Solo Performance",
+                    "15.10": "ISHOMA ASHAR",
+                    "15.30": "DJ RICA",
+                    "16.00": "YURIWA",
+                    "16.50": "Penutupan"
                 }
             }
         }
