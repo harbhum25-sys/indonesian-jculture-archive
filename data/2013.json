@@ -329,6 +329,43 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20130224",
+        "End Date": "20130224",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Fair",
+        "Location": "Universitas Dharma Persada (Unsada), Jakarta",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "japan_fair_unsada_2013",
+        "location_address": "",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "Seri yang sama dengan 'Japan Fair 2010' yang sudah tercatat di venue sama (_id japanf_2); edisi 2013 ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20130301",
         "Start Time": "5:30 PM",
         "End Date": "20130303",
@@ -1253,6 +1290,42 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20130428",
+        "End Date": "20130428",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Grestal Damashi",
+        "Location": "SMA 5, Tambun Selatan",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "grestal_damashi_sma5_tambunselatan_2013",
+        "location_address": "",
+        "location_city": "Tambun Selatan",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20130504",
         "Start Time": "",
         "End Date": "20130505",
@@ -1487,12 +1560,13 @@
         "location_coordinate": "-6.261012604146182, 106.81291364062086",
         "location_gmaps": "https://goo.gl/maps/YAXVa6EoPvDdj4x37",
         "links": [
-            ""
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri"
-            ]
+            ],
+            "catatan_konflik": "KONFLIK LOKASI - PERLU TINDAK LANJUT: Profil Sekar Khatulistiwa di Japanese Station (diambil 20260728 04:12:49 WIB dari https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui) menyebutkan ia tampil di 'Japanese Wave Festival' pada 19 Mei 2013 di Kramat Jati Indah Plaza. Tanggal ini cocok persis dengan rentang event yang tercatat di sini (18-19 Mei 2013, dan Comment entri ini secara spesifik menyebut penampilan di 'hari Minggu' = 19 Mei), TAPI lokasi yang tercatat di sini adalah Lippo Mall - Kemang, BUKAN Kramat Jati Indah Plaza. Perlu verifikasi lebih lanjut: apakah ada dua venue berbeda untuk 'Japanese Wave Festival' pada tanggal berdekatan, salah satu sumber keliru menyebut nama mal, atau ini dua event berbeda dengan nama sama."
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2850,6 +2924,42 @@
         }
     },
     {
+        "Start Date": "20131026",
+        "End Date": "20131026",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Matsuri",
+        "Location": "Pluit Village, Jakarta",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "japan_matsuri_pluitvillage_2013",
+        "location_address": "",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20131030",
         "Start Time": "11:00 AM",
         "End Date": "20131103",
@@ -3286,12 +3396,13 @@
         "location_coordinate": "-6.224349127917853, 106.80389986760805",
         "location_gmaps": "https://goo.gl/maps/w8siWfkWtc4zz1rs7",
         "links": [
-            ""
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
         ],
         "Content": {
             "category": [
                 "Musik - Band / Live Performance"
-            ]
+            ],
+            "catatan_lineup": "CATATAN LINEUP - PERLU TINDAK LANJUT: Profil Sekar Khatulistiwa di Japanese Station (diambil 20260728 04:12:49 WIB dari https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui) mencantumkan tanggal 15 Desember 2013 untuk 'J-Music Lab' dengan menyebut SEMUA musisi (moumoon, Kaname Kawabata, DENPAGUMI, TARO & JIRO, EIR AOI) seolah tampil bersamaan hari itu. Arsip menunjukkan J-Music Lab 2013 sebenarnya berlangsung 5 weekend terpisah (15 Nov - 15 Des): AMIAYA/Kaname Kawabata/DJ Kazu (weekend 1, _id jmusic_1), moumoon (weekend 2, _id jmusic_2), Dempagumi.inc (weekend 3, _id jmusic_3), Taro and Jiro (weekend 4, _id jmusic_4), dan Eir Aoi (weekend 5/tanggal ini, _id jmusic_5). Kemungkinan besar hanya Eir Aoi yang benar-benar sepanggung pada tanggal 15 Desember; perlu verifikasi apakah Sekar Khatulistiwa memang tampil spesifik di weekend ke-5 ini atau di weekend lain, dan koreksi atribusi 4 musisi lain di sumber jika perlu."
         },
         "location_country": "Indonesia",
         "date_precision": "day",

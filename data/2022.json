@@ -31081,5 +31081,66 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20260829",
+        "Start Time": "15:00",
+        "End Date": "20260830",
+        "End Time": "20:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "AXIA Matsuri 2026",
+        "Location": "AXIA South Cikarang",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "axia_matsuri_2026",
+        "location_address": "Jl. Pajajaran No.7, Sukaresmi, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "https://maps.app.goo.gl/1oad1EvhJTEVkARXA",
+        "location_gmaps": "https://maps.app.goo.gl/1oad1EvhJTEVkARXA",
+        "links": [
+            "https://www.instagram.com/p/DbXsPqMTI0t/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts Event",
+                "Performance / Concert"
+            ],
+            "organizer": "AXIA South Cikarang (@axiasouthcikarang)",
+            "description": "AXIA Natsu Matsuri 2026 hari kedua menghadirkan tarian anak-anak, pertunjukan budaya tradisional, tarian eisa, pertunjukan cosplayshow dari STBA JIA, penampilan band, hingga tarian bersama Bon Odori.",
+            "rundown": {
+                "day 1": {
+                    "15:30": "Opening Speech",
+                    "15:35": "JUICE Kids Dancers",
+                    "16:00": "Traditional Dance ",
+                    "16:15": "STBA JIA Cosplayshow",
+                    "16:30": "Kura Kura Pom Pom",
+                    "17:00": "Kira Kira Band",
+                    "18:10": "Harvest",
+                    "18:40": "YURU \u00e2\u02dc\u2026 BAN, HITOSHI & U-maku Eisa Shinka",
+                    "19:10": "Bon Odori"
+                },
+                "day 2": {
+                    "15:30": "Marching Band",
+                    "15:40": "Opening Speech",
+                    "15:50": "AXIA Kids Dancers",
+                    "16:10": "Nusa Pesona Studio",
+                    "16:40": "Hula at Senayan",
+                    "17:00": "OniRay Coustic",
+                    "18:10": "AXIA Band",
+                    "18:40": "Jakarta Keion Club",
+                    "19:10": "Bon Odori"
+                }
+            },
+            "venue_partner": [
+                "AXIA South Cikarang"
+            ]
+        }
     }
 ]

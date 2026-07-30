@@ -33036,7 +33036,7 @@
         "Location": "Kings Shopping Center",
         "Comment": "Insert to J-Event List : 20260716 17:30:14\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "pemanasan_4_wibu_gembira_fest_bandung_2026",
         "location_address": "Jl. Kepatihan No.11-17, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
@@ -33100,7 +33100,7 @@
         "Location": "Sepanjang Jalan Nogosari, Tamansari, Yogyakarta",
         "Comment": "Insert to J-Event List : 20260716 17:09:59\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "summer_showdown_jband_competition_yogyakarta_2026",
         "location_address": "Jl. Nogosari, Patehan, Kec. Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55133",
@@ -33179,7 +33179,7 @@
         "Location": "Main Atrium Gaia Bumi Raya City",
         "Comment": "Insert to J-Event List : 20260715 10:53:15\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "otaku_club_vol3_pontianak_2026",
         "location_address": "Jl. Arteri Supadio, Sungai Raya, Kec. Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat 78391",
@@ -33229,7 +33229,7 @@
         "Location": "Indogrosir Yogyakarta",
         "Comment": "Insert to J-Event List : 20260710 17:22:32\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "iec_season7_yogyakarta_2026",
         "location_address": "Indogrosir, Jl. Magelang No.KM.6, Kutu Patran, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55288",
@@ -33288,7 +33288,7 @@
         "Location": "Pelataran parkiran belakang Muraa Supermarket 2",
         "Comment": "Insert to J-Event List : 20260706 17:45:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "hulonthalo_matsuri_gorontalo_2026",
         "location_address": "Jl. Kalimantan No.94, Dulalowo Tim., Kec. Kota Tengah, Kota Gorontalo, Gorontalo 96138",
@@ -33371,7 +33371,7 @@
         "Location": "Marvell City Mall",
         "Comment": "Insert to J-Event List : 20260718 11:36:59\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "jiyuu_no_tame_ni_2_surabaya_2026",
         "location_address": "Jl. Ngagel No.123, Ngagel, Kec. Wonokromo, Kota Surabaya, Jawa Timur 60246",
@@ -33473,7 +33473,7 @@
         "Location": "Atrium Lippo Plaza Sidoarjo",
         "Comment": "Insert to J-Event List : 20260724 17:18:33\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "kalcer_cosplay_sidoarjo_2026",
         "location_address": "Jl. Jati Raya No.1, Jati, Kec. Sidoarjo, Kabupaten Sidoarjo, Jawa Timur 61226",
@@ -33552,7 +33552,7 @@
         "Location": "Graha Manggala Siliwangi",
         "Comment": "Festival pop culture, mainan, dan pameran kartu koleksi Euphoria Fest 2026 yang dikolaborasikan bersama Bandung Toys & Trading Card Expo 2026. Acara bertempat di Graha Manggala Siliwangi Bandung pada hari Sabtu dan Minggu, 25-26 Juli 2026 (kegiatan panggung utama berfokus di hari Minggu, 26 Juli 2026).",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "euphoria_fest_bandung_2026",
         "location_address": "Jl. Aceh No.66, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
@@ -33607,7 +33607,7 @@
         "Location": "Star Square Mall",
         "Comment": "Insert to J-Event List : 20260702 03:34:24\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "hajimari_no_hi_manado_2026",
         "location_address": "Jalan R.W. Monginsidi VI, Bahu, Kota Manado, Sulawesi Utara",
@@ -33715,7 +33715,7 @@
         "Location": "Hollywood Junction, Jababeka, Cikarang",
         "Comment": "Insert to J-Event List : 20260601 21:06:52\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "sakura_matsuri_13_cikarang_2026",
         "location_address": "Jalan H.Usmar Ismail. Mekarmukti. Cikarang Utara. Bekasi. Jawa Barat 17530",
@@ -33728,7 +33728,8 @@
             "https://youtu.be/f9jZkJ1B_EA",
             "kaji.or.id",
             "https://web.facebook.com/share/p/1Bo7Z3K3F4/",
-            "https://www.instagram.com/reel/DbGWQZFvJzM/"
+            "https://www.instagram.com/reel/DbGWQZFvJzM/",
+            "https://www.instagram.com/p/DbSWnOjn7D-/"
         ],
         "Content": {
             "category": [
@@ -33897,7 +33898,7 @@
         "Location": "Graha Manggala Siliwangi, Bandung",
         "Comment": "Insert to J-Event List : 20260614 04:08:02\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "indonesia_cosplay_league_bandung_preliminary_2026",
         "location_address": "Jl. Aceh No.66, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113",
@@ -33947,7 +33948,7 @@
         "Location": "Level 5 Exhibition Hall 1 & 2, The Starling Mall",
         "Comment": "Insert to J-Event List : 20260410 04:17:38\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "fantasy_dream_acg_carnival_2026",
         "location_address": "6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",
@@ -34010,7 +34011,7 @@
         "Location": "GIK UGM Yogyakarta",
         "Comment": "Insert to J-Event List : 20260723 11:23:00\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "coswalk_competition_gik_ugm_yogyakarta_2026",
         "location_address": "Jl. Persatuan, Sendowo, Sinduadi, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
@@ -34046,7 +34047,7 @@
         "Location": "Main Atrium, GF Tangcity Mall",
         "Comment": "Insert to J-Event List : 20260723 11:23:00\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "cosplay_holic_tangcity_2026",
         "location_address": "Tangcity Mall, Jl. Perintis Kemerdekaan No.1, RT.001/RW.005, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15117",
@@ -34082,7 +34083,7 @@
         "Location": "Genius Shopping Center",
         "Comment": "Insert to J-Event List : 20260716 17:09:59\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "road_to_isekai_kobar_matsuri_pangkalan_bun_2026",
         "location_address": "Jl. Iskandar, Madurejo, Kec. Arut Sel., Kabupaten Kotawaringin Barat, Kalimantan Tengah 74112",
@@ -34139,7 +34140,7 @@
         "Location": "Snowville Sentul",
         "Comment": "Insert to J-Event List : 20260717 17:17:55\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "snowville_sentul_winter_cosplay_festival_2026",
         "location_address": "Jl. Raya Cijayanti, Cijayanti, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810",
@@ -34244,7 +34245,7 @@
         "Location": "Gulala Azana Hotel & Resort, Guci, Tegal",
         "Comment": "Insert to J-Event List : 20260713 03:24:09\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "gulala_kazemori_tegal_2026",
         "location_address": "Gulala Azana Hotel & Resort, Kawasan Wisata Guci, Kalipedes, Sigedong, Kec. Bumijawa, Kabupaten Tegal, Jawa Barat 52465",
@@ -34317,7 +34318,7 @@
         "Location": "Kopi Ulon Tuparev, Cirebon",
         "Comment": "Insert to J-Event List : 20260713 03:24:09\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "ulon_enbusai_cirebon_2026",
         "location_address": "Jl. Tuparev No.20, Sutawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153",
@@ -34415,7 +34416,7 @@
         "Location": "Ponorogo City Center (PCC)",
         "Comment": "Insert to J-Event List : 20260715 04:07:45\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "time_to_rise_trinity_aniv_ponorogo_2026",
         "location_address": "Jl. Ir. H Juanda No.19, Tonatan, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63475",
@@ -34513,7 +34514,7 @@
         "Location": "Unggul Sport Center, Malang",
         "Comment": "Insert to J-Event List : 20260713 17:19:14\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "chika_igoal_malang_2026",
         "location_address": "Jl. Raya Karanglo No.84, Karanglo, Banjararum, Kec. Singosari, Kabupaten Malang, Jawa Timur 65153",
@@ -34621,7 +34622,7 @@
         "Location": "Yuan Garden Hotel",
         "Comment": "Insert to J-Event List : 20260705 13:49:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "oor_after_party_detox_jakarta_2026",
         "location_address": "Jl. Pintu Air V No.53, RT.5/RW.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
@@ -34676,7 +34677,7 @@
         "Location": "Rental Respawn Gaming Space",
         "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tekken_8_tournament_respawn_gaming_2026",
         "location_address": "Jl. Tambak Asri No.154 A, Morokrembangan, Kec. Krembangan, Surabaya, Jawa Timur 60178",
@@ -34736,7 +34737,7 @@
         "Location": "WTC Mangga Dua, Jakarta",
         "Comment": "Insert to J-Event List : 20260410 14:17:59. [UPDATE]: Terdapat perubahan informasi acara. Tanggal diundur dari 27-28 Juni 2026 menjadi 26 Juli 2026. Organizer berganti dari 'Cosplay Jabodetabek' menjadi 'Lights Project'.",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "mangdu_otsu_vol_2_2026",
         "location_address": "WTC Mangga Dua, Jl. Mangga Dua Raya No.1, Ancol, Kec. Pademangan, Jakarta Utara, Daerah Khusus Ibukota Jakarta 14430",
@@ -34889,6 +34890,74 @@
     },
     {
         "Start Date": "20260729",
+        "Start Time": "1400",
+        "End Date": "20260802",
+        "End Time": "2100",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fantastic Party (Fantastic Market x Koboy)",
+        "Location": "De\ufffd\ufffd\ufffdTjolomadoe (St.Gilingan Area Indoor)",
+        "Comment": "Insert to J-Event List : 20260725 10:27:59\n",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "fantastic_party_detjolomadoe_2026",
+        "location_address": "Jl. Adi Sucipto No.1, Paulan Wetan, Malangjiwan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah 57177",
+        "location_city": "Solo",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.534130864190558, 110.74992003876393",
+        "location_gmaps": "https://maps.app.goo.gl/3bHQpMaKTn7fyfTe9",
+        "links": [
+            "https://www.instagram.com/p/DbLbEnMTL2a/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Fantastic Market x Koboy",
+            "description": "Fantastic Party merupakan event jejepangan spesial Agustusan Sale hasil kolaborasi Fantastic Market dan Koboy di De'Tjolomadoe. Menghadirkan berbagai kegiatan seru seperti Coswalk Competition, idol performance, J-Song performance, dan bazaar.",
+            "activities": [
+                "Coswalk Competition",
+                "Idol Performance",
+                "J-Song Performance",
+                "Community Gathering",
+                "Bazaar"
+            ],
+            "guest_stars": [
+                "Mikazuki",
+                "Subarashi Reborn",
+                "Veltharis",
+                "Izumi x SBM",
+                "Aphrodite",
+                "Miko x Ryu",
+                "Mizukie",
+                "Ocha"
+            ],
+            "judges": [
+                "Ajione",
+                "Nanalice"
+            ],
+            "venue_partner": [
+                "De\ufffd\ufffd\ufffdTjolomadoe"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE / Gratis"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260729",
         "Start Time": "19:00",
         "End Date": "20260729",
         "End Time": "",
@@ -34900,7 +34969,7 @@
         "Location": "Kantor KONI Kabupaten Banjar",
         "Comment": "Insert to J-Event List : 20260706 17:45:03\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tekken_8_tournament_esi_banjar_2026",
         "location_address": "Jl. Dipayuda No.15A, Krandegan, Kec. Banjarnegara, Kab. Banjarnegara, Jawa Tengah 53414",
@@ -34951,7 +35020,7 @@
         "Location": "City Hall, Pondok Indah Mall 3",
         "Comment": "Insert to J-Event List : 20260716 17:09:59\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "hoyo_fest_jakarta_2026",
         "location_address": "PQPJ+6MQ, RT.6/RW.3, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310",
@@ -35335,6 +35404,134 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "Joryu Greatest Summer Love",
+        "Location": "GOR UNY, Yogyakarta",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "joryu_greatest_summer_love_gor_uny_2026",
+        "location_address": "Jl. Colombo No.1, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Sleman",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.776692421953006, 110.3839491576937",
+        "location_gmaps": "https://maps.app.goo.gl/CwjeKNQHfusPdL9J8",
+        "links": [
+            "https://www.instagram.com/p/DbS8EDHMmpK/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Concert / Music Show"
+            ],
+            "organizer": "Joryu (@joryu.id)",
+            "description": "Joryu Greatest Summer Love merupakan konvensi dan festival jejepangan skala besar di Yogyakarta yang menghadirkan pasar komik (Comic Market), hiburan panggung dari Guest Star lokal ternama, berbagai kompetisi subkultur, serta perayaan Yodha & Jiya Wedding Party pada hari pertama.",
+            "activities": [
+                "JSong Competition",
+                "Cosplay Competition",
+                "Coswalk Competition",
+                "Coswalk Couple Competition",
+                "Chuunibyou Challenge",
+                "Cerdas Cermat Wibu",
+                "Yodha & Jiya Wedding Party",
+                "Comic Market",
+                "Live Guest Performance"
+            ],
+            "guest_stars": [
+                "UKS FT KKK",
+                "Gochikara",
+                "Funnmeri",
+                "MAGNIV",
+                "Forysca",
+                "Equorz",
+                "Vanta Arissa",
+                "Kuremachi",
+                "Stellaria",
+                "Deep Web Dolphin",
+                "Izumi x SBM",
+                "Tenohira Gakkou",
+                "Newbie Abadi",
+                "RPD by Anikarta",
+                "2N2 Project"
+            ],
+            "mcs": [
+                "Juyu",
+                "Ichak Banyak Rezeki"
+            ],
+            "venue_partner": [
+                "GOR UNY"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "OTS Ticket (1 Day)",
+                        "price": 40000,
+                        "note": "Harga tiket On the Spot untuk akses 1 hari."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260801",
+        "Start Time": "",
+        "End Date": "20260801",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Wibufest Cosplay Competition (WCC) @ Market Culture Ep.1",
+        "Location": "Tunjungan Plaza 3 Level 6 Convention Hall, Surabaya",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "wibufest_cosplay_competition_market_culture_2026",
+        "location_address": "Jl. Basuki Rahmat No.8-12, Kedungdoro, Kec. Tegalsari, Kota SBY, Jawa Timur 60261",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.261387405899024, 112.73855390700136",
+        "location_gmaps": "https://goo.gl/maps/jsWAMMWeumF4UN3D6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbXiynqTXlQ/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Festival / Matsuri"
+            ],
+            "organizer": "Project x Market",
+            "description": "Wibufest Cosplay Competition (WCC) merupakan bagian dari gelaran Market Culture Ep.1 oleh Project x Market di Tunjungan Plaza 3 Convention Hall Surabaya. Mengundang para cosplayer untuk menampilkan ekspresi dan kostum karakter favorit mereka dalam kompetisi coswalk.",
+            "activities": [
+                "Coswalk Competition",
+                "Community Gathering",
+                "Pop Culture Market / Exhibition"
+            ],
+            "venue_partner": [
+                "Tunjungan Plaza (TP 3 Level 6 Convention Hall)"
+            ],
+            "prizes": [
+                {
+                    "type": "Best 3 Cosplay Competition",
+                    "total_value": "Rp200.000 / orang"
+                }
+            ]
+        }
+    },
+    {
+        "Start Date": "20260801",
+        "Start Time": "",
+        "End Date": "20260802",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Joryu 2 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Greatest Summer Love",
         "Location": "GOR UNY, Jogja",
         "Comment": "Insert to J-Event List : 20260511 17:32:31\n",
@@ -35520,6 +35717,274 @@
                     }
                 ]
             }
+        }
+    },
+    {
+        "Start Date": "20260803",
+        "Start Time": "",
+        "End Date": "20260814",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Cultural Weeks 2026",
+        "Location": "The Japan Foundation, Jakarta",
+        "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "japan_cultural_weeks_2026_jf_jakarta",
+        "location_address": "Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.2260791264132695, 106.80430171360962",
+        "location_gmaps": "https://goo.gl/maps/TKcs4Pgo2ZAqMxJe8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbSlw0bjN7c/",
+            "https://linktr.ee/jcw_jfja"
+        ],
+        "Content": {
+            "category": [
+                "Cultural / Arts Event",
+                "Workshop / Talkshow",
+                "Exhibition / Expo"
+            ],
+            "organizer": "The Japan Foundation, Jakarta (@jf_jakarta)",
+            "description": "Japan Cultural Weeks 2026 menghadirkan beragam workshop, pertunjukan musik tradisional, pemutaran film, demonstrasi seni, hingga edukasi kuliner khas Jepang secara gratis untuk masyarakat umum.",
+            "activities": [
+                "Pembukaan & Koto Performance (3 Ags)",
+                "Workshop Chanoyu (4 Ags)",
+                "Pemutaran Film 16 mm - Pulse (Kairo) (11 Ags)",
+                "Workshop Pengenalan Igo (12 Ags)",
+                "Demonstrasi Ikebana (13 Ags)",
+                "Pengenalan Wagashi (14 Ags)"
+            ],
+            "venue_partner": [
+                "Gedung Summitmas 2"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission",
+                        "price": 0,
+                        "note": "GRATIS, terbuka untuk umum dengan registrasi/pendaftaran online terlebih dahulu (kuota terbatas)."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260806",
+        "Start Time": "19:00",
+        "End Date": "20260806",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hangout with JETAVA Anniversary Edition",
+        "Location": "Kaori Coffee, Sultan Alauddin, Makassar",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "hangout_with_jetava_4th_anniversary_2026",
+        "location_address": "RCGM+48J, Jl. Ruko Komp. Permatasari, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+        "location_city": "Makassar",
+        "location_country": "Indonesia",
+        "location_coordinate": "-5.174654360916371, 119.43326103948549",
+        "location_gmaps": "https://maps.app.goo.gl/xgVwvTSgRinqGJy57",
+        "links": [
+            "https://www.instagram.com/p/DbVzlXGIHMM/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "JETAVA",
+            "description": "Hangout with JETAVA Anniversary Edition merupakan ajang kumpul komunitas dan perayaan ulang tahun ke-4 JETAVA yang diselenggarakan di Kaori Coffee Sultan Alauddin, Makassar.",
+            "activities": [
+                "Anniversary Celebration",
+                "Community Gathering / Hangout"
+            ],
+            "venue_partner": [
+                "Kaori Coffee (Sultan Alauddin)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE HTM / Gratis"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260807",
+        "Start Time": "",
+        "End Date": "20260809",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Indonesia Designer Art-Toys Expo Vol. 4 2026",
+        "Location": "Central Park 2 (ex-Neo Soho), Jakarta",
+        "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "indonesia_designer_art_toys_expo_vol_4_2026",
+        "location_address": "Jl. Letjen S. Parman No.28, RT.3/RW.5, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.174933221381808, 106.79001078797182",
+        "location_gmaps": "https://goo.gl/maps/Q9NGGeztEBXqnJze8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbXMyVIJmoh/"
+        ],
+        "Content": {
+            "category": [
+                "Exhibition / Expo",
+                "Community / Hobby Gathering",
+                "Competition / Tournament"
+            ],
+            "organizer": "Sacca Production (@saccaevents) x Central Park 2 (@neosohomall) x Indonesia Designer Toys Society (@indodesignertoys)",
+            "description": "Indonesia Designer Art-Toys Expo Vol. 4 merupakan pameran mainan desainer dan karya seni pop budaya tahunan yang menghadirkan eksibisi art toys, booth komikus/ilustrator, kompetisi coswalk, workshop, pertunjukan cosplay/idol/DJ, serta marketplace koleksi komik dan mainan.",
+            "activities": [
+                "Designer/Art/Urban Toys Exhibition",
+                "Comics Artists & Illustrators Marketplace",
+                "Guest Artists Meet & Greet",
+                "Trading Card Game",
+                "Coswalk Competition",
+                "Workshop & Panel Discussion",
+                "Cosplay Show, Idol & DJ Performance"
+            ],
+            "venue_partner": [
+                "Central Park 2 (ex-Neo Soho)"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE ENTRY / Gratis"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260808",
+        "Start Time": "",
+        "End Date": "20260808",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tekken 8 RAGE MODE - Chapter II (TWT Asia 2 Dojo)",
+        "Location": "Battleground JKT (PIK, Jakarta Utara)",
+        "Comment": "Insert to J-Event List : 20260728 03:59:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "rage_mode_chapter_2_tekken8_pik_2026",
+        "location_address": "Jl. Pantai Indah Kapuk No.25, RT.3/RW.3, Kapuk Muara, Jkt Utara, Daerah Khusus Ibukota Jakarta 14460",
+        "location_city": "Jakarta Utara",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.0925868458279835, 106.75008457855758",
+        "location_gmaps": "https://maps.app.goo.gl/5wyba4DPPmcqiuYe6",
+        "links": [
+            "https://www.instagram.com/p/DbSCSGcqOlr/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Dominion Rivals x CNT Team x Jack Organizer",
+            "description": "RAGE MODE Chapter II merupakan turnamen fighting game Tekken 8 tingkat kualifikasi Tekken World Tour (TWT) Asia 2 Dojo Indonesia. Turnamen ini menjadi ajang bagi para pemain terbaik untuk memperebutkan poin TWT serta prizepool tunai.",
+            "activities": [
+                "Tekken 8 Fighting Game Tournament",
+                "Esports Community Gathering"
+            ],
+            "registration_links": [
+                {
+                    "type": "Tournament Registration",
+                    "url": "https://bit.ly/TWTRAGEMODE2"
+                }
+            ],
+            "sponsors": [
+                "RexusID",
+                "MSI",
+                "DOTS Board Game Cafe"
+            ],
+            "prizes": [
+                {
+                    "type": "Total Prizepool",
+                    "total_value": "Rp4.000.000"
+                }
+            ]
+        }
+    },
+    {
+        "Start Date": "20260808",
+        "Start Time": "",
+        "End Date": "20260808",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tekken 8 Hit N Run Tournament (KCS Rookie)",
+        "Location": "Double You Cafe, Jakarta Utara",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tekken8_hit_n_run_tournament_kcs_2026",
+        "location_address": "Jl. Pademangan IV Gg. 27 No.12, RT.6/RW.1, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410",
+        "location_city": "Jakarta Utara",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.134362945106896, 106.8419608685852",
+        "location_gmaps": "https://maps.app.goo.gl/AoxEesS2qDVeK2G6A",
+        "links": [
+            "https://www.instagram.com/p/DbV-50Py82r/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "KCS (@kcs_tekken)",
+            "description": "HIT N RUN TOURNAMENT merupakan turnamen kompetisi Tekken 8 khusus pemain kategori rookie yang diselenggarakan oleh KCS di Double You Cafe, Jakarta Utara. Turnamen ini dibatasi untuk 32 peserta.",
+            "activities": [
+                "Tekken 8 Rookie Tournament",
+                "Fighting Game Community Gathering"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Registration Fee",
+                        "price": 50000,
+                        "note": "Sudah termasuk minuman (Drink Included). Pendaftaran dibuka 27 Juli - 6 Agustus 2026."
+                    }
+                ]
+            },
+            "prizes": [
+                {
+                    "type": "Total Prizepool",
+                    "total_value": "Rp800.000"
+                }
+            ]
         }
     },
     {
@@ -35728,6 +36193,235 @@
                     }
                 ]
             }
+        }
+    },
+    {
+        "Start Date": "20260808",
+        "Start Time": "16:00",
+        "End Date": "20260808",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Vroom & Voice! Otaku Stage Carnival",
+        "Location": "Bintang Carnival Beach Club, Badung, Bali",
+        "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "vroom_and_voice_otaku_stage_carnival_bali_2026",
+        "location_address": "Jl. Pantai Kelan No.99, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361",
+        "location_city": "Bali",
+        "location_country": "Indonesia",
+        "location_coordinate": "-8.755127287122509, 115.16638163664673",
+        "location_gmaps": "https://maps.app.goo.gl/zK1zZQ23zHbFruSq8",
+        "links": [
+            "https://www.instagram.com/p/DbU9vIXJhaK/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Performance / Concert",
+                "Competition / Tournament",
+                "Exhibition / Expo"
+            ],
+            "organizer": "4Media (@4media_ofc) x SoundCult (@soundcult.cltv) x Itasha Bali (@itashabali) x Omaka Soul Beats (@omakasoulbeats)",
+            "description": "Vroom & Voice! Otaku Stage Carnival menggabungkan pameran mobil/motor itasha otomotif, kompetisi coswalk, serta pertunjukan musik dan DJ dari komunitas jejepangan Bali.",
+            "activities": [
+                "Automotive Exhibition (Itasha)",
+                "Stage Performances",
+                "Coswalk Competition"
+            ],
+            "special_guests": [
+                "Beneran Vidi (@beneran.vidi)",
+                "Abe Sugiarto (@abe_sgrt)",
+                "Jiksura (@jiksura)",
+                "Nocturnalyze (@nctrnalyze)",
+                "Yorinne (@yo_rinne)",
+                "Dewani - Coswalk Judge (@dewani_cosplay)",
+                "Kurisumaru - MC",
+                "Louis - MC"
+            ],
+            "venue_partner": [
+                "Bintang Carnival Beach Club"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 50000,
+                        "note": "Sudah termasuk makanan dan minuman (incl. food & drink)."
+                    },
+                    {
+                        "type": "Cosplayer Ticket",
+                        "price": 25000,
+                        "note": "Termasuk pendaftaran dan pass cosplayer."
+                    },
+                    {
+                        "type": "Coswalk Competition OTS Registration",
+                        "price": 10000,
+                        "note": "Biaya pendaftaran kompetisi coswalk di tempat (On The Spot)."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260809",
+        "Start Time": "15:00",
+        "End Date": "20260809",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Denonbu Fan-Party \ufffd\ufffd\ufffdGROUND:0\ufffd\ufffd\ufffd",
+        "Location": "COMA, M Bloc Space, Jakarta Selatan",
+        "Comment": "Insert to J-Event List : 20260728 03:59:24\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "denonbu_fan_party_ground_0_mbloc_2026",
+        "location_address": "Jl. Panglima Polim No.37, RT.1/RW.1, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.241865278753661, 106.79880275643924",
+        "location_gmaps": "https://maps.app.goo.gl/ncED6eQp6MctvbA68",
+        "links": [
+            "https://www.instagram.com/p/DbPjkc8gZpP/"
+        ],
+        "Content": {
+            "category": [
+                "Concert / Music Show",
+                "Community / Hobby Gathering",
+                "Party / Nightlife"
+            ],
+            "organizer": "STACKNATION x Denonbu Indonesia",
+            "description": "Denonbu Fan-Party \ufffd\ufffd\ufffdGROUND:0\ufffd\ufffd\ufffd merupakan perhelatan musik DJ dan anikura yang memadukan budaya musik klub dengan kultur anime, gim, serta internet. Acara ini diselenggarakan khusus untuk merayakan waralaba Denonbu dan mempertemukan para penikmat musik subkultur di Jakarta.",
+            "activities": [
+                "Anikura & Anisong DJ Performance",
+                "Denonbu Fan Gathering",
+                "Clubbing / Party Session"
+            ],
+            "performers": [
+                "Cluenzy x Dyolow",
+                "MOSHIMOSH",
+                "gectheory",
+                "Yutsuri",
+                "Kurisu",
+                "Wisz",
+                "2K7"
+            ],
+            "creators": [
+                {
+                    "role": "Visual Artist",
+                    "name": "Velocrema"
+                },
+                {
+                    "role": "Designer",
+                    "name": "ndewxrks"
+                }
+            ],
+            "contact_person": [
+                {
+                    "phone": "0823-1203-3528",
+                    "note": "RSVP / Table Reservation"
+                }
+            ],
+            "venue_partner": [
+                "COMA Jakarta (M Bloc Space)"
+            ],
+            "supported_by": [
+                "COMA Jakarta",
+                "Nyxtoria",
+                "Linkaryze",
+                "Alternated Synthesizing [AlterSynth]",
+                "Jeruk Asin"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE ENTRY / Gratis"
+                    }
+                ]
+            },
+            "rundown": {
+                "15:00": "OPEN DOOR",
+                "15:30": "STACK RELAY",
+                "16:15": "Yutsuri",
+                "17:00": "Kurisu",
+                "17:45": "BREAK",
+                "18:00": "Cluenzy x Dyolow",
+                "18:45": "MOSHIMOSH",
+                "19:30": "2K7",
+                "20:15": "gectheory",
+                "21:00": "Wisz"
+            }
+        }
+    },
+    {
+        "Start Date": "20260809",
+        "Start Time": "",
+        "End Date": "20260809",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tsunagaru \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Location": "Chiduck KWB Coffee & Eatery, Batu",
+        "Comment": "Insert to J-Event List : 20260725 10:27:59\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "tsunagaru_ikigai_batu_2026",
+        "location_address": "Pesanggrahan, Kec. Batu, Kota Batu, Jawa Timur 65313",
+        "location_city": "Malang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.86372366058885, 112.51579520562947",
+        "location_gmaps": "https://maps.app.goo.gl/DjoYh6riz356pNGx6",
+        "links": [
+            "https://www.instagram.com/p/DbK4PYzJlz_/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Festival / Matsuri"
+            ],
+            "organizer": "Ikigai Project (@ikigai._.project)",
+            "description": "Tsunagaru \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd merupakan event jejepangan dan temu komunitas yang diselenggarakan oleh Ikigai Project di Chiduck KWB Coffee & Eatery, Batu. Acara ini menghadirkan panggung penampilan idol, sesi lagu anikura, cosstreet, booth kreator lokal, serta wadah berjejaring bagi penikmat subkultur Jepang di Malang Raya dan sekitarnya.",
+            "activities": [
+                "Cosstreet",
+                "Idol Performance",
+                "Anikura (DJ Session)",
+                "Creator Booth",
+                "Community Gathering"
+            ],
+            "guest_stars": [
+                "Crownette",
+                "Akiramenna",
+                "Aozora no Belt",
+                "Xeryne",
+                "Fatiikan",
+                "DJ Stella",
+                "Stelllaria",
+                "Nozomi no Kisetsu",
+                "Aminus",
+                "Shizuna",
+                "Hanabi"
+            ],
+            "mcs": [
+                "Juyu",
+                "Renesha"
+            ],
+            "venue_partner": [
+                "Chiduck KWB Coffee & Eatery"
+            ]
         }
     },
     {
@@ -36100,6 +36794,48 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "Bandung Hamamatsu Cultural Festival 2026",
+        "Location": "Universitas Nasional PASIM Bandung",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_cultural_festival_2026",
+        "location_address": "Jl. Dakota No.8A, Sukaraja, Kec. Cicendo, Kota Bandung, Jawa Barat 40175",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.894626191819762, 107.57146583733281",
+        "location_gmaps": "https://maps.app.goo.gl/rGBktjV4i7wWPsS68",
+        "links": [
+            "https://www.instagram.com/p/DbYTeWVT4gb/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Arts Event",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Universitas Nasional PASIM Bandung (@universitasnasionalpasim)",
+            "description": "Bandung Hamamatsu Cultural Festival 2026 merupakan festival kebudayaan dan pertukaran budaya Indonesia-Jepang bertema 'Kizuna no Kiseki' yang menyajikan hiburan pertunjukan, kompetisi, hingga ragam kuliner khas Jepang.",
+            "activities": [
+                "Japanese Cultural Performances",
+                "Cosplay / Cultural Competitions",
+                "Culinary & Merchandise Booths"
+            ],
+            "venue_partner": [
+                "Universitas Nasional PASIM Bandung"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260809",
+        "Start Time": "",
+        "End Date": "20260809",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Tokidoki Mirai!",
         "Location": "Transmart Sidoarjo",
         "Comment": "Insert to J-Event List : 20260703 10:32:30\n",
@@ -36114,28 +36850,45 @@
         "location_country": "Indonesia",
         "links": [
             "https://www.instagram.com/p/DaTCVENzmgn/",
-            "https://www.instagram.com/p/DaAitwLE3WG/"
+            "https://www.instagram.com/p/DaAitwLE3WG/",
+            "https://www.instagram.com/p/DbVqyyFExDr/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
-                "Community / Hobby Gathering",
-                "Music / Concert"
+                "Cosplay - Competition / Coswalk",
+                "Musik - Idol / VTuber",
+                "Musik - Anisong / Karaoke",
+                "Dance Cover Competition",
+                "Bazaar / Market"
             ],
-            "organizer": "Chujitsu ID (@chujitsuid)",
-            "description": "Tokidoki Mirai! adalah pergelaran festival kebudayaan pop Jepang luring yang diadakan di Sidoarjo, Jawa Timur. Berdasarkan publikasi resmi media sosialnya, acara ini menghadirkan panggung pertunjukan musik, penampilan grup idola, pasar kreatif (art & food market), serta aktivitas komunitas pencinta anime dan cosplay.",
-            "activities": [
-                "Idol Performance Showcase",
-                "Cosplay Gathering",
-                "Bazaar Tenant (FnB & Merch)",
-                "Community Gathering"
+            "guest_stars": {
+                "idol": [
+                    "Idolize",
+                    "Nonamisty",
+                    "HT-One",
+                    "Nijiro Clover",
+                    "Deluna Idol",
+                    "Alaricia Girls",
+                    "Lunarise"
+                ],
+                "dj": [
+                    "DJ Yamamoto"
+                ]
+            },
+            "judges": {
+                "coswalk": [
+                    "Yupi Kazuki"
+                ]
+            },
+            "mc": [
+                "Sam"
             ],
-            "performers": [
-                "Idolize"
-            ],
-            "contact": {
-                "social_media": [
-                    "Instagram: @chujitsuid"
+            "competition": {
+                "categories": [
+                    "Coswalk Competition",
+                    "Random Play Dance",
+                    "Mini Games"
                 ]
             },
             "ticket_info": {
@@ -36147,7 +36900,20 @@
                         "note": "Informasi ketersediaan dan harga tiket masuk belum diumumkan secara detail."
                     }
                 ]
-            }
+            },
+            "contact": {
+                "social_media": [
+                    "Instagram: @chujitsuid"
+                ]
+            },
+            "social_media": {
+                "instagram": "@chujitsu.id",
+                "tiktok": "@chujitsu.id"
+            },
+            "source": {
+                "url": "https://www.instagram.com/p/DbVqyyFExDr/"
+            },
+            "organizer": "Chujitsu ID (@chujitsuid)"
         }
     },
     {
@@ -36321,6 +37087,71 @@
     },
     {
         "Start Date": "20260816",
+        "Start Time": "14:00",
+        "End Date": "20260816",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Honda Modif Contest x Coswalk Competition 2026",
+        "Location": "Plaza Medan Fair, Medan",
+        "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "honda_modif_contest_coswalk_competition_medan_2026",
+        "location_address": "Jl. Gatot Subroto No.30, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111",
+        "location_city": "Medan",
+        "location_coordinate": "3.592388884473907, 98.66316762117584",
+        "location_gmaps": "https://maps.app.goo.gl/zoKjFSABdPLv9Xsi7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbPitVRRb5a/",
+            "https://bit.ly/eventcosplaymedan"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Community / Hobby Gathering",
+                "Exhibition / Expo"
+            ],
+            "organizer": "Medan Cosplay Community x JITU",
+            "description": "Honda Modif Contest x Coswalk Competition 2026 mengombinasikan kontes modifikasi motor Honda dengan kompetisi coswalk yang dimeriahkan oleh cosplayer lokal Medan.",
+            "activities": [
+                "Honda Modif Contest",
+                "Coswalk Competition"
+            ],
+            "special_guests": [
+                "Kenzo Kudou (@kenzokudou_)",
+                "Gicha (@gichanyan)",
+                "Aruwado (@aruwado08)",
+                "Dazzel (@dazzel_cos)"
+            ],
+            "venue_partner": [
+                "Plaza Medan Fair"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "Cosplay Registration",
+                        "price": 0,
+                        "note": "Free Registration / Gratis"
+                    }
+                ]
+            },
+            "prizes": [
+                {
+                    "type": "Total Prizepool",
+                    "total_value": "Rp2.000.000",
+                    "note": "Mencakup Juara HMC, Runnerup, Juara 3, Best Waifu, Best Husbando, Best Costume, dan Cosplay Favorite Judges"
+                }
+            ]
+        }
+    },
+    {
+        "Start Date": "20260816",
         "Start Time": "",
         "End Date": "20260816",
         "End Time": "",
@@ -36386,6 +37217,57 @@
     },
     {
         "Start Date": "20260822",
+        "Start Time": "10:00",
+        "End Date": "20260822",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Subunka no Natsu Matsuri",
+        "Location": "Subang Creative Center, Subang",
+        "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "subunka_no_natsu_matsuri_subang_2026",
+        "location_address": "Jl. D. Kartawigenda Gg. Palabuan, Cigadung, Kec. Subang, Kabupaten Subang, Jawa Barat 41211",
+        "location_city": "Subang",
+        "location_coordinate": "-6.557459197550309, 107.76121532886293",
+        "location_gmaps": "https://maps.app.goo.gl/JDAfj4gna6GRqiLY8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbVfms7xTrr/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Subang Wibu Empire (@subangwibuempire_)",
+            "description": "Subunka no Natsu Matsuri merupakan festival budaya populer Jepang musim panas yang diselenggarakan oleh Subang Wibu Empire di Subang Creative Center sebagai wadah berkumpulnya komunitas jejepangan dan cosplayer di Subang dan sekitarnya.",
+            "activities": [
+                "Natsu Matsuri Festival",
+                "Cosplay Gathering",
+                "Community Gathering"
+            ],
+            "venue_partner": [
+                "Subang Creative Center"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "HTM FREE / Gratis"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260822",
         "Start Time": "",
         "End Date": "20260822",
         "End Time": "",
@@ -36444,6 +37326,154 @@
                 "Decosm",
                 "Hobipopnesia"
             ]
+        }
+    },
+    {
+        "Start Date": "20260823",
+        "Start Time": "",
+        "End Date": "20260823",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ngipen Sambil Belanja Komik Yuk @ Gramedia Merdeka Bandung",
+        "Location": "Gramedia Merdeka Bandung",
+        "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "ngipen_sambil_belanja_komik_gramedia_merdeka_bandung_2026",
+        "location_address": "Gramedia Merdeka Bandung, Jl. Merdeka No.43, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.907811471574073, 107.61033143546582",
+        "location_gmaps": "https://maps.google.com/?q=-6.907811471574073,107.61033143546582",
+        "links": [
+            "https://www.instagram.com/p/DbXVIh2vi_l/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Exhibition / Expo",
+                "Festival / Matsuri"
+            ],
+            "description": "Acara gathering dan komunitas jejepangan yang berlokasi di Gramedia Merdeka Bandung, menghadirkan suasana belanja komik dan buku sambil menikmati hiburan event.",
+            "activities": [
+                "Comic & Book Shopping",
+                "Community Gathering"
+            ],
+            "venue_partner": [
+                "Gramedia Merdeka Bandung"
+            ]
+        }
+    },
+    {
+        "Start Date": "20260825",
+        "Start Time": "12:00",
+        "End Date": "20260825",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jogja Cosplay Week",
+        "Location": "Jogja City Mall Outdoor Stage",
+        "Comment": "Event jejepangan bertajuk 'Jogja Cosplay Week' yang diselenggarakan oleh M-Organizer x XO Entertainment secara luring pada hari Selasa, 25 Agustus 2026 mulai pukul 12.00 hingga 21.00 WIB bertempat di Outdoor Stage, Jogja City Mall. Acara ini dimeriahkan oleh J-Song Competition, Coswalk Competition, Idol Performance, dan DJ Session, serta dipandu oleh MC Rafly. Acara tidak dipungut biaya masuk (HTM FREE).",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "jogja_cosplay_week_2026",
+        "location_address": "Jl. Magelang 6 No.18, Kutu Patran, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
+        "location_city": "Yogyakarta",
+        "location_coordinate": "-7.753204030074064, 110.36091829916025",
+        "location_gmaps": "https://goo.gl/maps/VMZRRdyXxcitz9dJ8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DbOKAmUEznI/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "M-Organizer x XO Entertainment Production",
+            "description": "Jogja Cosplay Week merupakan perhelatan festival kebudayaan populer Jepang di Jogja City Mall yang menghadirkan dua ajang kompetisi utama yaitu Japanese Song Competition dan Coswalk Competition, diselingi pertunjukan idol lokal serta penampilan DJ.",
+            "activities": [
+                "Japanese Song Competition",
+                "Coswalk Competition",
+                "Idol Performance",
+                "J-Song DJ Session",
+                "Community Gathering"
+            ],
+            "guest_stars": [
+                "Moon Stellar (@moonstellar_project)",
+                "M-Cross Stage (@m_cross_stage)",
+                "Lyria (@lyria.idol)",
+                "Jonnyx (@jonnyx__)",
+                "Wayashooooo (@wayashooooo)",
+                "Seirax (@seirax.official)",
+                "Ixora (@ixoraidolofficial)",
+                "Sequinn (@sequinn.ofc)",
+                "Megami (@megami.idol)",
+                "Sprinkle Dream (@sprinkledream.id)"
+            ],
+            "mcs": [
+                "Rafly (@rafly_h.p)"
+            ],
+            "judges": [
+                "Aran Velgr (@aran_velgr) - Juri Costreet / Coswalk"
+            ],
+            "contact_person": [
+                {
+                    "name": "Yayuk",
+                    "phone": "0882-1636-9249",
+                    "note": "Contact Person / Sponsor"
+                },
+                {
+                    "name": "Irfan",
+                    "phone": "0813-9079-5640",
+                    "note": "Contact Person"
+                }
+            ],
+            "venue_partner": [
+                "Jogja City Mall"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE / Gratis"
+                    },
+                    {
+                        "type": "J-Song Competition Registration Fee",
+                        "price": 25000,
+                        "note": "Biaya pendaftaran kompetisi bernyanyi"
+                    },
+                    {
+                        "type": "Coswalk Competition Registration Fee",
+                        "price": 20000,
+                        "note": "Biaya pendaftaran kompetisi coswalk"
+                    }
+                ]
+            },
+            "rundown": {
+                "12.00": "Moon Stellar",
+                "13.00": "JSong Competition",
+                "16.00": "M-Cross",
+                "16.30": "DJ Jhonnyx / Coswalk Competition",
+                "17.30": "Break",
+                "18.00": "Wayashoo",
+                "18.30": "Seira X",
+                "19.00": "Ixora",
+                "19.30": "Lyria",
+                "20.00": "Sequinn",
+                "20.30": "Megami",
+                "21.00": "Sprinkle Dream"
+            }
         }
     },
     {
@@ -36668,19 +37698,20 @@
         "Reminder Time": "",
         "Importance": "",
         "Subject": "Wibu Gembira Festival (WGF) 2026",
-        "Location": "Bandung",
+        "Location": "Gedung Serbaguna SMA Negeri 25 Bandung",
         "Comment": "Insert to J-Event List : 20260624 17:27:02\n",
         "Online/Offline": "Offline",
         "status": "Scheduled",
         "attended": "No",
         "_id": "wibu_gembira_festival_wgf_2026_rescheduled",
-        "location_address": "Bandung, Jawa Barat, Indonesia",
+        "location_address": "Jl. Baturaden VIII No.21, Mekarjaya, Kec. Rancasari, Kota Bandung, Jawa Barat 40626",
         "location_city": "Bandung",
         "location_country": "Indonesia",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.966408929545267, 107.66508362184948",
+        "location_gmaps": "https://maps.app.goo.gl/MoYaLE75pRR4FSyQ9",
         "links": [
-            "https://www.instagram.com/p/DZ9m4KoGPKf/"
+            "https://www.instagram.com/p/DZ9m4KoGPKf/",
+            "https://www.instagram.com/p/DbaaOI0oaBF/"
         ],
         "Content": {
             "category": [

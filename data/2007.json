@@ -3438,6 +3438,53 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20071230",
+        "Start Time": "",
+        "End Date": "20071230",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Battle of Harajuku 2007",
+        "Location": "Pasar Festival Kuningan, Jakarta",
+        "Comment": "Event kebudayaan pop-culture dan fashion Jepang bertajuk 'Battle of Harajuku 2007' yang diselenggarakan secara luring pada hari Minggu, 30 Desember 2007 bertempat di Pasar Festival (Pasfest) Kuningan, Jakarta Selatan. Acara ini dimeriahkan dengan kompetisi/parade cosplay, fashion street style Harajuku, serta pertunjukan musik live dari band lokal seperti Shiroi Hana.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "battle_of_harajuku_pasfest_2007",
+        "location_address": "Jl. H. R. Rasuna Said No.22 Kav. C, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.220750964269279, 106.83311943528557",
+        "location_gmaps": "https://maps.app.goo.gl/pWkJktpfAXsMBzAQA",
+        "links": [
+            "https://www.kompas.id/artikel/tato-yang-tak-mengenal-batas-dan-usia",
+            "https://www.youtube.com/watch?v=gqt2mDAN41I"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Concert / Music Show"
+            ],
+            "organizer": "",
+            "description": "Battle of Harajuku 2007 merupakan salah satu perhelatan bersejarah bagi komunitas subkultur jejepangan awal dekade 2000-an di Jakarta. Mengusung tema gaya busana Harajuku dan cosplay, acara ini mempertemukan para pencinta anime, manga, dan musik Jepang melalui parade kostum serta penampilan musik secara langsung.",
+            "activities": [
+                "Cosplay Showcase & Competition",
+                "Harajuku Fashion Show",
+                "Live Band Performance",
+                "Community Gathering"
+            ],
+            "guest_stars": [
+                "Shiroi Hana"
+            ],
+            "venue_partner": [
+                "Pasar Festival Kuningan"
+            ]
+        }
+    },
+    {
         "Start Date": "20071231",
         "Start Time": "19:00",
         "End Date": "20080101",

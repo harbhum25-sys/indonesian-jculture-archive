@@ -107,7 +107,7 @@
         "status": "Finished",
         "attended": "",
         "_id": "rdddbf_8",
-        "location_address": "JL Laks RE. Martadinata No.71 \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c 73, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "location_address": "JL Laks RE. Martadinata No.71 \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 73, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
         "location_city": "Bandung",
         "location_coordinate": "-6.906184576466608, 107.61713295050995",
         "location_gmaps": "https://maps.app.goo.gl/jVaGSW2BgpikkJo8A",
@@ -891,6 +891,43 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20090321",
+        "End Date": "20090321",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Soft Opening 3rd Japan Carnival",
+        "Location": "Margo City, Depok",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "soft_opening_3rd_japan_carnival_margocity_2009",
+        "location_address": "",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "Kemungkinan bagian dari seri 'Japanese Carnival' yang edisi awalnya (Maret 2007) sudah tercatat di arsip (lihat _id pogvnx_9) di venue yang sama; edisi ke-3 (2009) ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20090401",
         "Start Time": "",
         "End Date": "20090430",
@@ -995,6 +1032,43 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20090419",
+        "End Date": "20090419",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Matsuri Akai Ito",
+        "Location": "Universitas Padjadjaran, Bandung",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "matsuri_akai_ito_unpad_2009",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Budaya Jepang - Bahasa / Akademik"
+            ],
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
     },
     {
         "Start Date": "20090425",
@@ -1171,6 +1245,43 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20090530",
+        "End Date": "20090530",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Haru Matsuri",
+        "Location": "Universitas Hamka (UHAMKA), Jakarta",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "haru_matsuri_uhamka_2009",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "Kemungkinan edisi awal dari seri 'Harumatsuri UHAMKA' yang masih berlangsung hingga edisi ke-17 (2023, lihat _id haruma_3); edisi 2009 ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
     },
     {
         "Start Date": "20090602",
@@ -1708,6 +1819,43 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20090809",
+        "End Date": "20090809",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hikari No Matsuri",
+        "Location": "SMAN 44, Jakarta",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "hikari_no_matsuri_sman44_2009",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "Nama & venue sama persis dengan 'Hikari no Matsuri (Hinotsu): Tanabata Matsuri' yang tercatat 10 tahun kemudian (2019, lihat _id hikari_1); edisi 2009 ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20090820",
         "Start Time": "11:00 AM",
         "End Date": "20090820",
@@ -1917,6 +2065,41 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20091017",
+        "End Date": "20091017",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Motto Vol. 2",
+        "Location": "Margo City, Depok",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "motto_vol2_margocity_2009",
+        "location_address": "",
+        "location_city": "Depok",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [],
+            "catatan_seri": "Format/jenis acara belum dapat dipastikan dari sumber; tidak ditemukan entri sejenis (Motto Vol.1 dst) di arsip.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20091025",
         "Start Time": "4:30 PM",
         "End Date": "20091025",
@@ -1947,6 +2130,43 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20091101",
+        "End Date": "20091101",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hikari No Matsuri",
+        "Location": "Bekasi Square, Bekasi",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "hikari_no_matsuri_bekasisquare_2009",
+        "location_address": "",
+        "location_city": "Bekasi",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "Nama seri sama dengan entri 9 Agustus 2009 di SMAN 44 (lihat di atas) namun venue berbeda dalam tahun yang sama \u00e2\u20ac\u201d perlu verifikasi apakah ini dua edisi berbeda atau salah satu tanggal/venue keliru.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
     },
     {
         "Start Date": "20091106",
@@ -2171,5 +2391,44 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20091231",
+        "End Date": "20091231",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Battle of Harajuku",
+        "Location": "Pasar Festival Kuningan, Jakarta",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "battle_of_harajuku_pasfest_2009",
+        "location_address": "",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Community / Hobby Gathering",
+                "Concert / Music Show"
+            ],
+            "catatan_seri": "Edisi 2007 dari seri ini (venue identik) sudah tercatat di arsip (_id battle_of_harajuku_pasfest_2007); edisi 2009 ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
     }
 ]

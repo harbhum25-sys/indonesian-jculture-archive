@@ -217,6 +217,42 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20140222",
+        "End Date": "20140222",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-Coustic Night",
+        "Location": "Tutup Panci Kafe, Tangerang",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "jcoustic_night_tutuppanci_tangerang_2014",
+        "location_address": "",
+        "location_city": "Tangerang",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ],
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20140309",
         "Start Time": "3:00 PM",
         "End Date": "20140309",
@@ -347,6 +383,42 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20140322",
+        "End Date": "20140322",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HELLO STEADY GO! (Tribute to L'Arc~en~Ciel & YUI)",
+        "Location": "Arion Swiss-Belhotel, Kemang",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "hello_steady_go_larc_yui_tribute_arion_kemang_2014",
+        "location_address": "",
+        "location_city": "Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance"
+            ],
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
         "Start Date": "20140323",
         "Start Time": "10.00",
         "End Date": "20140323",
@@ -461,6 +533,43 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20140329",
+        "End Date": "20140330",
+        "Start Time": "",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BIJAC NO TANJOIWAI 7",
+        "Location": "BINUS",
+        "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "",
+        "_id": "bijac_no_tanjoiwai_7_binus_2014",
+        "location_address": "",
+        "location_city": "BINUS International, Jakarta",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
+        ],
+        "location_country": "Indonesia",
+        "date_precision": "day",
+        "source_status": "contributed",
+        "Content": {
+            "category": [
+                "Festival / Matsuri"
+            ],
+            "catatan_seri": "'BIJAC NO TANJOIWAI 6: CosUta Matsuri' tercatat 2013 di The Joseph Wibowo Center (JWC), bagian dari kompleks Binus (_id bijacn_1); pola tahunan (Feb 2013 -> Mar 2014) konsisten, namun edisi 7 ini sendiri belum tercatat sebelumnya.",
+            "performer_mentioned": [
+                "Sekar Khatulistiwa"
+            ],
+            "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
     },
     {
         "Start Date": "20140412",
@@ -1213,26 +1322,26 @@
                 "theme": "Partisipasi Japan Foundation di Jak-Japan Matsuri 2014",
                 "edition": "Jak-Japan Matsuri 2014 (Booth Activity)",
                 "description": "Rangkaian kegiatan workshop kerajinan tangan khas Jepang tingkat pemula dan kelas pengenalan budaya yang diadakan oleh The Japan Foundation Jakarta di dalam area Plaza Senayan untuk memeriahkan festival tahunan Jak-Japan Matsuri 2014.",
-                "date": "15 \u00e2\u20ac\u201c 20 September 2014",
+                "date": "15 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 20 September 2014",
                 "venue": "Plaza Senayan, Jl. Asia Afrika No.8, Jakarta",
                 "workshop_schedule": {
                     "senin_15_september_2014": [
                         {
                             "activity": "Origami (Seni melipat kertas khas Jepang)",
                             "booth": "Booth A",
-                            "time": "10:30 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:30 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Booth A & Booth B",
-                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "time": "13:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 15:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Furoshiki (Seni membungkus benda menggunakan kain khas Jepang)",
                             "booth": "Booth A",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "GRATIS"
                         }
                     ],
@@ -1240,31 +1349,31 @@
                         {
                             "activity": "Patchwork Project (Membuat kantong/dompet dengan kain khas Jepang)",
                             "booth": "Booth A",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "Rp 100,000"
                         },
                         {
                             "activity": "Yukata Shoukai (Pengenalan budaya Yukata & Kimono)",
                             "booth": "Booth B",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Booth A & Booth B",
-                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "time": "13:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 15:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Kurumie (Seni membungkus gambar menggunakan kertas khas Jepang)",
                             "booth": "Booth A",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "Rp 100,000"
                         },
                         {
                             "activity": "Yukata Shoukai (Pengenalan budaya Yukata & Kimono)",
                             "booth": "Booth B",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "GRATIS"
                         }
                     ],
@@ -1272,31 +1381,31 @@
                         {
                             "activity": "Quilling & Knitting (Teknik merangkai hiasan kertas & merajut benang - Smarty Hands)",
                             "booth": "Booth A",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "Rp 50,000"
                         },
                         {
                             "activity": "Kirigami (Seni menggunting dan melipat kertas - Smarty Hands)",
                             "booth": "Booth B",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "Rp 50,000"
                         },
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Booth A & Booth B",
-                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "time": "13:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 15:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Kinchaku (Seni membuat tas kain khas Jepang)",
                             "booth": "Booth A",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "Rp 100,000"
                         },
                         {
                             "activity": "Kimekomi (Seni membuat boneka dari kain khas Jepang)",
                             "booth": "Booth B",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "Rp 100,000"
                         }
                     ],
@@ -1304,19 +1413,19 @@
                         {
                             "activity": "Washi Ningyo (Seni membuat boneka dari kertas khas Jepang)",
                             "booth": "Tidak spesifik",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "Rp 75,000"
                         },
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Tidak spesifik",
-                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "time": "13:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 15:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Shibori (Teknik pewarnaan celup kain/dying dari Jepang)",
                             "booth": "Tidak spesifik",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "Rp 100,000"
                         }
                     ],
@@ -1324,19 +1433,19 @@
                         {
                             "activity": "Kurumie (Seni membungkus gambar menggunakan kertas khas Jepang)",
                             "booth": "Tidak spesifik",
-                            "time": "10:00 \u00e2\u20ac\u201c 12:00",
+                            "time": "10:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:00",
                             "fee": "Rp 100,000"
                         },
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Tidak spesifik",
-                            "time": "13:00 \u00e2\u20ac\u201c 15:00",
+                            "time": "13:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 15:00",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Kanzashi (Seni membuat hiasan rambut menggunakan kain khas Jepang)",
                             "booth": "Tidak spesifik",
-                            "time": "16:00 \u00e2\u20ac\u201c 18:00",
+                            "time": "16:00 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 18:00",
                             "fee": "Rp 100,000"
                         }
                     ],
@@ -1344,20 +1453,20 @@
                         {
                             "activity": "Nihonshoukai (Pengenalan bahasa Jepang tingkat dasar)",
                             "booth": "Tidak spesifik",
-                            "time": "10:30 \u00e2\u20ac\u201c 12:30",
+                            "time": "10:30 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 12:30",
                             "fee": "GRATIS"
                         },
                         {
                             "activity": "Clay (Seni membuat kerajinan tangan dari tanah liat - Smarty Hands)",
                             "booth": "Tidak spesifik",
-                            "time": "13:30 \u00e2\u20ac\u201c 17:30",
+                            "time": "13:30 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 17:30",
                             "fee": "Rp 100,000"
                         }
                     ]
                 },
                 "registration_info": {
                     "start_date": "1 September 2014",
-                    "hours": "08:30 \u00e2\u20ac\u201c 16:30 WIB (Istirahat 12:30 \u00e2\u20ac\u201c 13:30 WIB)",
+                    "hours": "08:30 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 16:30 WIB (Istirahat 12:30 \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 13:30 WIB)",
                     "capacity_limit": "Maksimal 10 orang per sesi workshop berbayar",
                     "procedures": {
                         "paid_workshops": "Datang langsung ke kantor Japan Foundation (Gedung Summitmas 1 Lt.3, Jl. Jend. Sudirman kav.61-62, Jakarta) untuk mengisi formulir dan membayar biaya",
@@ -1590,7 +1699,7 @@
         ],
         "Content": {
             "presenter": "Himpunan Mahasiswa Sastra Jepang (HIMADE S1) Universitas Padjadjaran",
-            "theme": "Festival Budaya dan Pendidikan Indonesia-Jepang \u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00e2\u20ac\u0153 Sister City",
+            "theme": "Festival Budaya dan Pendidikan Indonesia-Jepang \u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u2026\u00c2\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00e2\u20ac\u00a6\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c Sister City",
             "event_days": {
                 "20141011": "Lomba Bahasa Jepang tingkat SMA dan sederajat Regional I",
                 "20141012": "Acara puncak festival kebudayaan Indonesia-Jepang"
