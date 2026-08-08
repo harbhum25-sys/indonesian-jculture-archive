@@ -15015,10 +15015,35 @@
         "location_coordinate": "-6.292950697570819, 106.78655083831046",
         "location_gmaps": "https://goo.gl/maps/nE4WJKnykN7dZUzH7",
         "links": [
-            "https://www.facebook.com/groups/251875943835/permalink/10161218182078836/"
+            "https://www.facebook.com/groups/251875943835/permalink/10161218182078836/",
+            "https://www.instagram.com/p/Ci9LKmUhrsv/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Culinary Event",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Tokyu Land Indonesia / BRANZ Mega Kuningan (@branzmegakuninganofficial)",
+            "description": "Ennichi merupakan festival budaya tradisional Jepang yang diselenggarakan oleh pengembang properti Jepang, Tokyu Land Indonesia, untuk memperkenalkan kebudayaan dan kuliner khas Jepang kepada masyarakat Indonesia.",
+            "activities": [
+                "Taiko Performance",
+                "Bon Odori Traditional Dance",
+                "Food and Beverages Stall"
+            ],
+            "venue_partner": [
+                "BRANZ Simatupang"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE ENTRY / Gratis"
+                    }
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

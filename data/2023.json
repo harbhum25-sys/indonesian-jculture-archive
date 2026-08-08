@@ -44353,7 +44353,7 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "ENNICHI",
+        "Subject": "ENNICHI (Tokyu Land Ennichi Event 2023)",
         "Location": "Branz Simatupang, Jakarta",
         "Comment": "(BUKAN ENNICHISAI) [Acara bazaar dan budaya tradisional]Insert to J-Event List : 20230708 14:27:02\n",
         "Online/Offline": "Offline",
@@ -44366,10 +44366,36 @@
         "location_gmaps": "https://goo.gl/maps/nE4WJKnykN7dZUzH7",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10161922944538836/",
-            "https://instagram.com/branzkuningan_official"
+            "https://instagram.com/branzkuningan_official",
+            "https://jjc.or.id/kojin/oshirase/tokyu-land-ennichi-event/",
+            "https://www.instagram.com/p/CubCHSsBoFC/"
         ],
         "Content": {
-            "category": []
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Culinary Event",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Tokyu Land Indonesia",
+            "description": "Ennichi Event 2023 merupakan festival budaya tradisional Jepang yang diselenggarakan oleh pengembang Tokyu Land Indonesia di BRANZ Simatupang untuk memperkenalkan suasana festival, kuliner, dan kebudayaan Jepang kepada masyarakat umum.",
+            "activities": [
+                "Taiko Performance",
+                "Bon Odori Traditional Dance",
+                "Food and Beverages Stall"
+            ],
+            "venue_partner": [
+                "BRANZ Simatupang Apartment"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission (HTM)",
+                        "price": 0,
+                        "note": "FREE ENTRY / \u00e5\u2026\u00a5\u00e5\u00a0\u00b4\u00e7\u201e\u00a1\u00e6\u2013\u2122 / Gratis"
+                    }
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

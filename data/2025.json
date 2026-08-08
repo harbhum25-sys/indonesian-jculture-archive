@@ -12457,7 +12457,7 @@
                 "support_3": "Connect Art Project (@art.connect20)",
                 "support_4": "Coser Bandung (@coserbandung)",
                 "support_5": "Idolm@ster Bandung (@imaspro.bdg)",
-                "support_6": "J\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bd\u00c3\u00af\u00c2\u00bf\u00c2\u00bdFest Hunter (@jfesthunter_)",
+                "support_6": "J-Fest Hunter (@jfesthunter_)",
                 "support_7": "LoveLive! Bandung (@lovelivebandung)",
                 "support_8": "RITME (@_commun.ritme)",
                 "support_9": "Uniweeb (@uniweeb_)",
@@ -14897,6 +14897,48 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20250719",
+        "Start Time": "11:00",
+        "End Date": "20250720",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ennichi in BRANZ 2025",
+        "Location": "BRANZ Simatupang, Jakarta Selatan",
+        "Comment": "Festival musim panas Jepang bertajuk 'Ennichi in BRANZ' yang diselenggarakan oleh Tokyu Land Indonesia secara luring pada hari Sabtu dan Minggu, 19\u00e2\u20ac\u201c20 Juli 2025 pukul 11.00 hingga 19.00 WIB bertempat di BRANZ Simatupang, Jakarta Selatan. Acara ini menghadirkan permainan tradisional, jajanan khas festival Jepang, serta pertunjukan budaya untuk keluarga.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ennichi_in_branz_2025",
+        "location_address": "12430 Daerah Khusus Ibukota Jakarta, Kota Jakarta Selatan, Kec. Cilandak, Cilandak Bar.",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.292950697570819, 106.78655083831046",
+        "location_gmaps": "https://goo.gl/maps/nE4WJKnykN7dZUzH7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DMGJNU_Tppw/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Culinary Event",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Tokyu Land Indonesia (@branzmegakuninganofficial)",
+            "description": "Ennichi in BRANZ 2025 merupakan perayaan festival musim panas (summer festival) Jepang yang menghadirkan permainan tradisional, jajanan jalanan khas Jepang, serta pertunjukan hiburan untuk keluarga.",
+            "activities": [
+                "Traditional Japanese Games",
+                "Japanese Street Food Stalls",
+                "Stage & Cultural Performances"
+            ],
+            "venue_partner": [
+                "BRANZ Simatupang"
+            ]
+        }
     },
     {
         "Start Date": "20250720",

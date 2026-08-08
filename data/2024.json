@@ -44700,6 +44700,49 @@
     },
     {
         "Start Date": "20240713",
+        "Start Time": "11:00",
+        "End Date": "20240714",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BRANZ in Ennichi 2024",
+        "Location": "BRANZ Simatupang, Jakarta Selatan",
+        "Comment": "Festival budaya tradisional Jepang bertajuk 'BRANZ Ennichi' yang diselenggarakan oleh BRANZ Simatupang / Tokyu Land Indonesia secara luring pada hari Sabtu dan Minggu, 13\u00e2\u20ac\u201c14 Juli 2024 pukul 11.00 hingga 19.00 WIB bertempat di BRANZ Simatupang, Jakarta Selatan. Acara ini menyajikan stan makanan khas Jepang, permainan tradisional, pertunjukan hiburan, serta tur properti eksklusif proyek BRANZ.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "branz_ennichi_event_2024",
+        "location_address": "12430 Daerah Khusus Ibukota Jakarta, Kota Jakarta Selatan, Kec. Cilandak, Cilandak Bar.",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.292950697570819, 106.78655083831046",
+        "location_gmaps": "https://goo.gl/maps/nE4WJKnykN7dZUzH7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/C9TwOfZBzhj/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Culinary Event",
+                "Exhibition / Expo"
+            ],
+            "organizer": "BRANZ Simatupang / Tokyu Land Indonesia",
+            "description": "BRANZ Ennichi 2024 merupakan festival budaya festival musim panas Jepang yang diselenggarakan di BRANZ Simatupang untuk memperkenalkan kebudayaan, kuliner, dan permainan tradisional Jepang sekaligus menyediakan tur proyek properti BRANZ.",
+            "activities": [
+                "Authentic Japanese Food Stalls",
+                "Traditional Games and Activities",
+                "Exclusive Property Tour (BRANZ Project)",
+                "Lively Performances"
+            ],
+            "venue_partner": [
+                "BRANZ Simatupang"
+            ]
+        }
+    },
+    {
+        "Start Date": "20240713",
         "Start Time": "",
         "End Date": "20240713",
         "End Time": "",
@@ -68737,7 +68780,9 @@
         "location_gmaps": "https://g.page/Mangga2Square",
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10162855631233836/",
-            "https://www.facebook.com/share/p/qCjaDtdE6hFEKudj/"
+            "https://www.facebook.com/share/p/qCjaDtdE6hFEKudj/",
+            "https://www.youtube.com/watch?v=5Fs2N9ykdo4",
+            "https://www.youtube.com/watch?v=odT6NO0ZcVU"
         ],
         "Content": {
             "presenter": "Zygma Organizer x Aicong",

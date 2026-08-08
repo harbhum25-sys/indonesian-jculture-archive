@@ -272,7 +272,9 @@
         "location_gmaps": "https://goo.gl/maps/SPHRdLNtVkGTz7638",
         "links": [
             "https://web.facebook.com/photo/?fbid=1841913490547&set=a.1841913370544",
-            "https://web.facebook.com/events/923276404361824/"
+            "https://web.facebook.com/events/923276404361824/",
+            "https://www.youtube.com/watch?v=HoxOtlnuRn8",
+            "https://www.youtube.com/watch?v=QPN2nsFki3A"
         ],
         "Content": {
             "category": [
@@ -2354,7 +2356,7 @@
         "location_coordinate": "-6.912122425343767, 107.61500855227105",
         "location_gmaps": "https://goo.gl/maps/nhpJwpBE879b5AX39",
         "links": [
-            ""
+            "https://www.youtube.com/watch?v=wdYDmxyOz-c"
         ],
         "Content": {
             "event_type": "Japanese Cultural Event",
