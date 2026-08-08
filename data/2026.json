@@ -36799,6 +36799,57 @@
         }
     },
     {
+        "Start Date": "20260808",
+        "Start Time": "17:00",
+        "End Date": "20260808",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Domino Idol \u00e2\u20ac\u201d Region West Java",
+        "Location": "Uncle A Urban, Bandung",
+        "Comment": "Acara hiburan dan kompetisi permainan domino bertajuk 'Domino Idol \u00e2\u20ac\u201d Region West Java' yang diselenggarakan secara luring pada hari Sabtu, 8 Agustus 2026 mulai pukul 17.00 WIB bertempat di Uncle A Urban, Bandung, Jawa Barat. Acara ini gratis (Free Entry) dan menghadirkan aksi dari para idol lokal, games, serta kompetisi domino.",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "domino_idol_west_java_2026",
+        "location_address": "Jl. L. L. R.E. Martadinata No.47a, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.9062442311169505, 107.61451192226744",
+        "location_gmaps": "https://maps.app.goo.gl/nYnEWfR7QVi2ga4c7",
+        "links": [
+            "https://www.instagram.com/p/DbxSnVDktWl/"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Performance / Concert",
+                "Competition / Tournament"
+            ],
+            "organizer": "Domino Idol",
+            "description": "Domino Idol Region West Java merupakan acara permainan domino dan gim interaktif yang dipadukan dengan pertunjukan idol lokal di Bandung.",
+            "activities": [
+                "Domino Tournament / Games",
+                "Idol Performance"
+            ],
+            "venue_partner": [
+                "Uncle A Urban"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission",
+                        "price": 0,
+                        "note": "Free Entry"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20260809",
         "Start Time": "14:00",
         "End Date": "20260809",
@@ -38724,6 +38775,58 @@
     },
     {
         "Start Date": "20260823",
+        "Start Time": "15:00",
+        "End Date": "20260823",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nobar Offline Nogizaka46 Midsummer National Tour 2026 Final",
+        "Location": "Cozwin Coffee & Ice Cream, Jatinegara",
+        "Comment": "Insert to J-Event List : 20260808 20:59:49\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "nobar_nogizaka46_summer_tour_2026",
+        "location_address": "Cozwin coffee & ice cream Jalan Bekasi I no 9, jakarta timur, jatinegara, RT.7/RW.2, Rw. Bunga, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13350",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.216323641592556, 106.8704345369897",
+        "location_gmaps": "https://maps.app.goo.gl/AmTXzZNKKZ6KbDK4A",
+        "links": [
+            "https://www.instagram.com/p/Dbw51SrwiG_/",
+            "https://docs.google.com/forms/d/e/1FAIpQLSdKV8smriKgSyuoL6OROyxPEosej7nVkpGhuvRNHAkRnh43aA/viewform"
+        ],
+        "Content": {
+            "category": [
+                "Community / Hobby Gathering",
+                "Screening / Movie / Watch Party"
+            ],
+            "organizer": "Nogizoku (@sakamichibogor)",
+            "description": "Nonton Bareng Nogizaka46 Midsummer National Tour 2026 merupakan acara kumpul komunitas penggemar Sakamichi Series (khususnya Nogizaka46) untuk menyaksikan siaran langsung konser final tur musim panas Nogizaka46 secara bersama-sama.",
+            "activities": [
+                "Live Streaming Screening / Nobar Konser Nogizaka46",
+                "Community Gathering"
+            ],
+            "venue_partner": [
+                "Cozwin Coffee and Ice Cream"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "HTM / Tiket Masuk Nobar",
+                        "price": 70000,
+                        "note": "Include F&B dan patungan lisensi/biaya streaming"
+                    }
+                ],
+                "ticket_link": "https://docs.google.com/forms/d/e/1FAIpQLSdKV8smriKgSyuoL6OROyxPEosej7nVkpGhuvRNHAkRnh43aA/viewform"
+            }
+        }
+    },
+    {
+        "Start Date": "20260823",
         "Start Time": "",
         "End Date": "20260823",
         "End Time": "",
@@ -39912,6 +40015,82 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
+        "Subject": "Dazzle J-Fest #3",
+        "Location": "Super Dazzle Gejayan, Yogyakarta",
+        "Comment": "Insert to J-Event List : 20260808 20:59:49\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "dazzle_j_fest_3_2026",
+        "location_address": "Jl. Affandi No.20, Soropadan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.760804431891387, 110.39419214418152",
+        "location_gmaps": "https://maps.app.goo.gl/Rw6XiCqqQasyui6S7",
+        "links": [
+            "https://www.instagram.com/p/DbxbcNjExCT/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Community / Hobby Gathering",
+                "Performance / Concert"
+            ],
+            "organizer": "Dazzle (@promodazzle)",
+            "description": "Dazzle J-Fest #3 merupakan perayaan tahunan festival pop kultur Jepang di Yogyakarta yang menghadirkan pertunjukan musik/idol, kompetisi cosplay, permainan kartu, pasar bazaar, hingga bagi-bagi doorprize.",
+            "activities": [
+                "Cosplay Competition",
+                "J-Song Competition",
+                "Coswalk Competition",
+                "Foto Kontes",
+                "Story Kontes",
+                "Beyblade Tournament",
+                "Digimon Card Game",
+                "Yu-Gi-Oh Card Game",
+                "Martial Arts Performance",
+                "Lelang Merchandise/Gadget",
+                "Bazaar Expo",
+                "Doorprize"
+            ],
+            "special_guests": [
+                "Kohi Sekai - Guest Star Idol",
+                "Minerva Land - Guest Star Idol",
+                "Eclipse - Guest Star Idol",
+                "DJ Saddam - Guest Star DJ",
+                "2n2 Project - Guest Star J-Band",
+                "Noctyrn - Guest Star J-Band",
+                "Victoria Symphony - Guest Star J-Band",
+                "Akizu - J-Song Judge",
+                "Chintya Norasella - J-Song Judge",
+                "Daruma - Cosplay Judge",
+                "Chaz - Cosplay Judge",
+                "Rafly - Master of Ceremony (MC)"
+            ],
+            "venue_partner": [
+                "Super Dazzle Gejayan"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission / HTM",
+                        "price": 0,
+                        "note": "Gratis / Free (Syarat: follow Instagram @promodazzle)"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20260913",
+        "Start Time": "",
+        "End Date": "20260913",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
         "Subject": "Ankoku Showa Festival",
         "Location": "Summarecon Mall Bandung",
         "Comment": "Insert to J-Event List : 20260803 17:50:38\n",
@@ -40658,6 +40837,59 @@
                 "Musik - Idol / VTuber"
             ],
             "description": "Festival gaming yang menghadirkan turnamen esports, pameran teknologi dan AI, showcase developer game, bazaar komputer, festival cosplay, serta penampilan idol."
+        }
+    },
+    {
+        "Start Date": "20261024",
+        "Start Time": "",
+        "End Date": "20261025",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Karawang Weabo Fest Reborn 2026",
+        "Location": "Socia Garden Park Karawang",
+        "Comment": "Insert to J-Event List : 20260808 20:59:49\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "karawang_weabo_fest_reborn_2026",
+        "location_address": "Jalan Lingkar Tanjungpura, Palumbonsari, Kec. Karawang Tim., Karawang, Jawa Barat 14314",
+        "location_city": "Karawang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.301538193710095, 107.32965908736614",
+        "location_gmaps": "https://maps.app.goo.gl/gLPhHuRD12mXGRzj9",
+        "links": [
+            "https://www.instagram.com/p/DbqORxKoChj/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Gangsta Organizer (@karawangweabofest)",
+            "description": "Karawang Weabo Fest Reborn 2026 merupakan perayaan festival matsuri dan budaya pop Jepang yang memadukan pertunjukan seni tradisional Jepang, penampilan musik dan dance, pameran itasha, permainan tradisional seperti Kingyo-Sukui, kompetisi cosplay, serta pesta kembang api (Hanabi Party).",
+            "activities": [
+                "Traditional Dance Performance",
+                "Idol Dance Group Performance",
+                "Band Performance",
+                "Parody Dance Performance",
+                "Cosplay-Walk Competition",
+                "Cosplay Competition",
+                "Bazaar Expo",
+                "Games",
+                "Omikuji",
+                "Kingyo-Sukui",
+                "Itasha Exhibition",
+                "Random Play Dance",
+                "Flashmob",
+                "Hanabi Party"
+            ],
+            "venue_partner": [
+                "Socia Garden Park Karawang"
+            ]
         }
     },
     {
