@@ -1319,6 +1319,49 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20120909",
+        "Start Time": "09:00",
+        "End Date": "20120909",
+        "End Time": "16:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Festival Budaya Bandung - Hamamatsu (Natsu Matsuri)",
+        "Location": "Pusat Studi Bahasa Jepang (PSBJ) Universitas Padjadjaran, Jatinangor",
+        "Comment": "Pentas seni dan budaya warga Kota Hamamatsu, Jepang bertajuk 'Festival Budaya Bandung - Hamamatsu / Natsu Matsuri' yang diselenggarakan oleh PERSADA JABAR bekerja sama dengan Lembaga Persahabatan Indonesia-Hamamatsu pada hari Minggu, 9 September 2012 pukul 09.00 hingga 16.00 WIB bertempat di Pusat Studi Bahasa Jepang (PSBJ) Universitas Padjadjaran, Kampus Jatinangor, Sumedang.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "festival_budaya_bandung_hamamatsu_2012",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1EYwtAMq8d/",
+            "https://web.facebook.com/share/p/1TnqKYWMKc/",
+            "https://web.facebook.com/share/p/1J1tNwXC17/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "PERSADA JABAR & Lembaga Persahabatan Indonesia-Hamamatsu",
+            "description": "Festival Budaya Bandung - Hamamatsu (Natsu Matsuri) merupakan acara pertunjukan seni dan budaya yang menghadirkan pertukaran budaya warga Kota Hamamatsu, Jepang dengan Bandung/Jawa Barat di PSBJ Unpad Jatinangor.",
+            "activities": [
+                "Pentas Seni dan Budaya Warga Kota Hamamatsu",
+                "Cultural Exchange Performance"
+            ],
+            "venue_partner": [
+                "Pusat Studi Bahasa Jepang (PSBJ) Universitas Padjadjaran"
+            ]
+        }
+    },
+    {
         "Start Date": "20120923",
         "Start Time": "",
         "End Date": "20120930",

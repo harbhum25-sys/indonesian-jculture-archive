@@ -2161,6 +2161,49 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20180907",
+        "Start Time": "",
+        "End Date": "20180908",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bandung Hamamatsu Cultural Festival 2018",
+        "Location": "GSG Universitas Kristen Maranatha, Bandung",
+        "Comment": "Festival kebudayaan bertajuk 'Bandung Hamamatsu Cultural Festival 2018' yang diselenggarakan pada tanggal 7 dan 8 September 2018 bertempat di Gedung Serba Guna (GSG) Lantai 1, Universitas Kristen Maranatha, Bandung. Acara ini merangkaikan kegiatan babak penyisihan dan babak final untuk Kontes Pidato Bahasa Jepang (Speech Contest) dan Kontes Rodoku.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_cultural_festival_2018",
+        "location_address": "Jl. Surya Sumantri No.65, Sukawarna, Kec. Sukajadi, Kota Bandung, Jawa Barat 40164",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.886322772047325, 107.58090566761265",
+        "location_gmaps": "https://goo.gl/maps/V7psdkbpWWx214L17",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/17p2tjiFue/",
+            "https://web.facebook.com/share/p/1CCxSrC96D/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament"
+            ],
+            "organizer": "PERSADA JABAR & Lembaga Persahabatan Indonesia-Hamamatsu",
+            "description": "Bandung Hamamatsu Cultural Festival 2018 merupakan penyelenggaraan festival pertukaran budaya Indonesia-Jepang tahunan yang diisi dengan kompetisi bahasa Jepang seperti kontes pidato dan rodoku.",
+            "activities": [
+                "Kontes Pidato Bahasa Jepang (Speech Contest)",
+                "Kontes Rodoku",
+                "Cultural Exchange Session"
+            ],
+            "venue_partner": [
+                "Universitas Kristen Maranatha"
+            ]
+        }
+    },
+    {
         "Start Date": "20180908",
         "Start Time": "12:00 AM",
         "End Date": "20180910",

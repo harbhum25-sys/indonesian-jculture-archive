@@ -4344,6 +4344,116 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20170907",
+        "Start Time": "07:00",
+        "End Date": "20170909",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bandung Hamamatsu Cultural Festival ke-12 & PASIM Japan Festival ke-8",
+        "Location": "Kampus Universitas Nasional PASIM, Bandung",
+        "Comment": "Festival kebudayaan Jepang bertajuk 'Bandung Hamamatsu Cultural Festival ke-12 & PASIM Japan Festival ke-8' yang diselenggarakan oleh Lembaga Persahabatan Indonesia Hamamatsu, Universitas Nasional PASIM, dan PERSADA JABAR pada tanggal 7 & 9 September 2017 pukul 07.00 - 17.00 WIB bertempat di Kampus Universitas Nasional PASIM, Jl. Dakota No. 8A, Bandung. Acara ini gratis (Free Entry) dan diisi dengan berbagai kompetisi (Kana, Shuji, Cosplay, Origami, Speech tingkat SMA, Manga, Karaoke, Roudoku) berhadiah jalan-jalan ke Jepang, serta pertunjukan musik dari Fatimah Zahratunnisa, Akustik PASIM, KAWAI, dan d'Cinnamons.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_cultural_festival_12_pasim_jfest_8_2017",
+        "location_address": "Jl. Dakota No.8A, Sukaraja, Kec. Cicendo, Kota Bandung, Jawa Barat 40175",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.894626191819762, 107.57146583733281",
+        "location_gmaps": "https://maps.app.goo.gl/rGBktjV4i7wWPsS68",
+        "links": [
+            "https://web.facebook.com/share/p/18R3TUhWVn/",
+            "https://www.facebook.com/jfest.pasim"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament",
+                "Performance / Concert"
+            ],
+            "organizer": "Lembaga Persahabatan Indonesia Hamamatsu, Universitas Nasional PASIM (HIMADE UNAS PASIM), & PERSADA JABAR",
+            "description": "Kolaborasi tahunan Bandung Hamamatsu Cultural Festival ke-12 dan PASIM Japan Festival ke-8 yang menghadirkan pertukaran budaya Indonesia-Jepang bersama delegasi warga Hamamatsu, perlombaan akademik dan seni kebudayaan, serta penampilan musik live.",
+            "activities": [
+                "Kana Competition",
+                "Shuji Competition",
+                "Cosplay Competition",
+                "Origami Competition",
+                "Speech Contest (Tingkat SMA)",
+                "Manga Competition",
+                "Karaoke Competition",
+                "Roudoku Competition",
+                "Cultural Exchange Session with Hamamatsu Delegates",
+                "Live Music Performance"
+            ],
+            "special_guests": [
+                "Fatimah Zahratunnisa - Guest Star",
+                "Akustik PASIM - Guest Star",
+                "KAWAI - Guest Star",
+                "d'Cinnamons - Special Performance"
+            ],
+            "venue_partner": [
+                "Universitas Nasional PASIM"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission / HTM",
+                        "price": 0,
+                        "note": "Gratis / Free Entry (Terbuka untuk umum)"
+                    },
+                    {
+                        "type": "Biaya Pendaftaran Lomba (Individu)",
+                        "price": 35000,
+                        "note": "Berlaku untuk kategori perorangan"
+                    },
+                    {
+                        "type": "Biaya Pendaftaran Lomba (Grup 4 Orang)",
+                        "price": 55000,
+                        "note": "Berlaku untuk kategori kelompok/grup"
+                    },
+                    {
+                        "type": "Biaya Pendaftaran Lomba Speech",
+                        "price": 50000,
+                        "note": "Khusus tingkat SMA"
+                    }
+                ]
+            },
+            "rundown": {
+                "kamis_07_september_2017": {
+                    "07.00-08.00": "Pendaftaran Ulang",
+                    "08.00-10.40": "Speech + Roudoku",
+                    "10.40-11.40": "Karaoke 1",
+                    "11.40-12.30": "ISOMA",
+                    "12.30-13.20": "Karaoke 2"
+                },
+                "sabtu_09_september_2017": {
+                    "07.00-08.00": "Pendaftaran Ulang",
+                    "08.00-08.40": "Pembukaan dan Sambutan",
+                    "08.40-09.10": "Workshop Piano (Kawai)",
+                    "09.10-11.50": "Pelaksanaan Lomba (Shuji, Manga, Kana, Origami, dan Roudoku)",
+                    "10.20-11.20": "Karaoke + Performance Fatimah Zahratunnisa",
+                    "11.20-11.35": "Pembagian Beasiswa",
+                    "11.35-12.00": "Final Speech Sesi 1 (5 orang)",
+                    "12.00-12.30": "ISOMA",
+                    "12.30-13.00": "Final Speech Sesi 2 (5 orang)",
+                    "13.00-14.00": "Cosplay",
+                    "14.00-14.20": "Pengumuman Pemenang 2 Jenis Lomba",
+                    "14.20-14.35": "Akustik PASIM",
+                    "14.35-14.45": "Pengumuman Pemenang 2 Jenis Lomba",
+                    "14.50-15.20": "d'Cinnamons",
+                    "15.20-15.30": "Pengumuman Pemenang Lomba",
+                    "15.30-15.45": "Penutup",
+                    "15.45-16.40": "Bon odori"
+                }
+            }
+        }
+    },
+    {
         "Start Date": "20170909",
         "Start Time": "12:00 AM",
         "End Date": "20170911",

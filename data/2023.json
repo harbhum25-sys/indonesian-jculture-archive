@@ -69692,6 +69692,94 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20231015",
+        "Start Time": "10:00",
+        "End Date": "20231015",
+        "End Time": "16:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Indonesia Festival in Hamamatsu 2023",
+        "Location": "Shinkawa Mall, Hamamatsu",
+        "Comment": "Festival kebudayaan Indonesia bertajuk 'Indonesia Festival in Hamamatsu 2023' (peringatan 65 tahun hubungan diplomatik Indonesia-Jepang) yang diselenggarakan oleh Lembaga Persahabatan Indonesia-Hamamatsu pada hari Minggu, 15 Oktober 2023 pukul 10.00 - 16.00 JST bertempat di Shinkawa Mall, Hamamatsu (150m dari pintu keluar utara Stasiun Hamamatsu). Acara ini bebas biaya masuk (Bebas Biaya Masuk / \u00e5\u2026\u00a5\u00e5\u00a0\u00b4\u00e7\u201e\u00a1\u00e6\u2013\u2122) dan menghadirkan bazar makanan Indonesia, stan budaya & pengalaman (Wagashi, Yukata, Hijab, Teh Indonesia-Jepang), pertunjukan tari tradisional, fashion show, stan konsultasi kerja, hingga promosi instansi/organisasi lokal.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "indonesia_festival_in_hamamatsu_2023",
+        "location_address": "230-28 Tamachi, Chuo Ward, Hamamatsu, Shizuoka 430-0944, Jepang",
+        "location_city": "Hamamatsu",
+        "location_country": "Japan",
+        "location_coordinate": "34.70683878013448, 137.732582622784",
+        "location_gmaps": "https://maps.app.goo.gl/9DeJb6MHMxNCmiAo6",
+        "links": [
+            "https://web.facebook.com/share/p/18T2zF45DM/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Fashion Show",
+                "Education / Workshop"
+            ],
+            "organizer": "Lembaga Persahabatan Indonesia Hamamatsu (LPIH)",
+            "description": "Festival pertukaran budaya Indonesia di Kota Hamamatsu yang menyajikan kuliner nusantara, pertunjukan tari dan busana tradisional, pengalaman mencoba kebudayaan lokal Jepang & Indonesia, serta bazar interaktif.",
+            "activities": [
+                "Pertunjukan Tarian Indonesia",
+                "Fashion Show Busana Tradisional",
+                "Bazar Kuliner Makanan Indonesia",
+                "Pengalaman Pembuatan Wagashi & Mochitsuki (Hamacho Marche)",
+                "Pengalaman Memakai Yukata (Kimono Azekura)",
+                "Pengalaman Memakai Hijab & Kostum Islami (KMIH)",
+                "Pengalaman Cicip Teh Indonesia & Jepang (LPIH)",
+                "Konsultasi Ketenagakerjaan (HAMAREN)",
+                "Stan Promosi & Edukasi (Prefektur Shizuoka, Kota Hamamatsu, Bandung JC, LPIH)"
+            ],
+            "venue_partner": [
+                "Shinkawa Mall Hamamatsu"
+            ],
+            "ticket_info": {
+                "currency": "JPY",
+                "pricing": [
+                    {
+                        "type": "General Admission / HTM",
+                        "price": 0,
+                        "note": "Gratis / \u00e5\u2026\u00a5\u00e5\u00a0\u00b4\u00e7\u201e\u00a1\u00e6\u2013\u2122 (Bebas Biaya Masuk)"
+                    }
+                ]
+            },
+            "rundown": {
+                "10:00 - 10:03": "Pembukaan (M C)",
+                "10:03 - 10:10": "Tari Jawa, Gambyong (Arta)",
+                "10:10 - 10:15": "Sambutan Ketua LPIH (L P I H)",
+                "10:15 - 10:20": "Sambutan Perwakilan Pref. Shizuoka",
+                "10:20 - 10:30": "Memperkenalkan acara (M C)",
+                "10:30 - 10:40": "Tari Bongkel (Agung)",
+                "10:40 - 11:00": "Angklung",
+                "11:00 - 11:10": "Sambutan Walikota Hamamatsu",
+                "11:00 - 11:15": "Foto session bersama Walikota",
+                "11:15 - 11:30": "Mencoba Mochitsuki (Hamacho)",
+                "11:45 - 12:00": "Perkenalan tentang Islam, Adzan (K M I H)",
+                "12:00 - 12:20": "Gamelan dan tari Bali (Sari Putih)",
+                "12:20 - 12:40": "Istirahat",
+                "12:40 - 13:00": "Talk show Reni-no-Heya (Reni)",
+                "13:00 - 13:15": "Lengser (Abay & Rengga)",
+                "13:15 - 13:35": "Akting mahasiswi SUAC (Petit mari)",
+                "13:40 - 14:05": "Fashion show",
+                "14:05 - 14:25": "Tari Manuk Dadali (Yui, Yuliana, Elisa, Deris, Evi)",
+                "14:25 - 14:40": "Tari Piring (Bayu & Tri)",
+                "14:40 - 14:50": "Tari Sunda, Jaipong (Tyana)",
+                "14:50 - 15:00": "Lagu Indonesia, Ikan Dalam kolam (Elisa)",
+                "15:00 - 15:20": "Bingo",
+                "15:20 - 15:30": "Tari Rantak (Bayu)",
+                "15:35 - 15:50": "POCO-POCO (Wati)",
+                "15:50 - 16:00": "Kashinage",
+                "16:00": "Penutupan",
+                "16:00~": "Foto session"
+            }
+        }
+    },
+    {
         "Start Date": "20231018",
         "Start Time": "17:00",
         "End Date": "20231018",

@@ -17083,18 +17083,19 @@
         "location_coordinate": "-6.905777359530496, 107.6237226127601",
         "location_gmaps": "https://maps.app.goo.gl/UTenxFsWmoz22Ku69",
         "links": [
-            "https://www.instagram.com/jee.unikom/p/DL9dJOixL7M/"
+            "https://www.instagram.com/jee.unikom/p/DL9dJOixL7M/",
+            "https://web.facebook.com/share/r/19CJnoeoaS/"
         ],
         "Content": {
             "supported_by": "Japanese Education Exhibition",
-            "theme": "Agen Keajaiban",
+            "theme": "Bandung Hamamatsu Cultural Festival (BHCF)",
             "competitions": {
                 "Speech": {
                     "note": "Grandprize liburan gratis ke Jepang"
                 },
                 "Coswalk": {}
             },
-            "description": "Festival budaya Jepang yang membangkitkan semangat dan rasa ingin tahu, dengan berbagai lomba seperti Speech dan Coswalk. Kesempatan luar biasa untuk lebih dekat dengan budaya Jepang.",
+            "description": "Kegiatan pertukaran budaya antara Indonesia dan Jepang yang berisikan lomba-lomba akademik dan non-akademik untuk siswa dan mahasiswa guna mempererat jembatan persahabatan.",
             "hashtags": [
                 "#JEE2025",
                 "#JapaneseEducationExhibition",
@@ -17105,7 +17106,35 @@
             "category": [
                 "Festival / Matsuri",
                 "Musik - Band / Live Performance"
-            ]
+            ],
+            "organizer": "PERSADA (Persatuan Alumni dari Jepang)",
+            "co_organizer": "Lembaga Persahabatan Indonesia Hamamatsu (LPIH)",
+            "edition": "2025",
+            "dates_and_locations": [
+                {
+                    "date": "2025-08-09",
+                    "day": "Sabtu",
+                    "location": "UNIKOM"
+                },
+                {
+                    "date": "2025-08-10",
+                    "day": "Minggu",
+                    "location": "SMKN 2 Bandung"
+                }
+            ],
+            "special_guests": [
+                "Walikota Hamamatsu"
+            ],
+            "competition": {
+                "categories": [
+                    "Speech Bahasa Jepang",
+                    "Lomba Akademik",
+                    "Lomba Non-Akademik"
+                ]
+            },
+            "prizes": {
+                "speech_contest_juara_1": "Undangan ke Hamamatsu musim semi tahun depan & liburan ke Jepang selama 1 minggu"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

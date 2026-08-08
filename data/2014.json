@@ -1741,6 +1741,71 @@
     },
     {
         "Start Date": "20141018",
+        "Start Time": "08:00",
+        "End Date": "20141018",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bandung - Hamamatsu Culture Festival Widyatama 2014",
+        "Location": "GSG Universitas Widyatama, Bandung",
+        "Comment": "Festival kebudayaan bertajuk 'Bandung-Hamamatsu Culture Festival Widyatama 2014' yang diselenggarakan oleh Program Studi Bahasa Jepang Universitas Widyatama bekerja sama dengan PERSADA JABAR (Perhimpunan Alumni dari Jepang) dan Lembaga Persahabatan Indonesia-Hamamatsu pada hari Sabtu, 18 Oktober 2014 mulai pukul 08.00 WIB bertempat di Gedung Serba Guna (GSG) Universitas Widyatama, Bandung. Acara ini terbuka untuk umum dan gratis (HTM Free) dengan rangkaian kegiatan seperti Speech Contest (hadiah liburan ke Jepang 10 hari), Shuuji Contest, Kana Contest, Cosplay Contest, pertunjukan musik rakyat Jepang, Bon Odori, pameran bazaar, serta penampilan dari dance cover group LOVE TUNE.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_culture_festival_widyatama_2014",
+        "location_address": "Jl. Cikutra No.204A, Sukapada, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40125",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.897720164368746, 107.64543348295432",
+        "location_gmaps": "https://g.page/universitas-widyatama",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1Jd292T5eH/",
+            "https://web.facebook.com/share/p/1ErbsCrDgk/",
+            "https://web.facebook.com/share/14iue6SntP7/",
+            "https://web.facebook.com/share/p/1FGoRdVQSa/",
+            "https://web.facebook.com/share/1E44BtnzD4/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament",
+                "Cosplay Event"
+            ],
+            "organizer": "Program Studi Bahasa Jepang Universitas Widyatama & PERSADA JABAR",
+            "description": "Bandung-Hamamatsu Culture Festival Widyatama 2014 merupakan festival pertukaran budaya Indonesia-Jepang yang menyajikan berbagai perlombaan akademik bahasa Jepang, pertunjukan seni tradisional Bon Odori dan musik rakyat Jepang, parade cosplay, hingga bazaar.",
+            "activities": [
+                "Speech Contest (Grup A SMA/K & Grup B Mahasiswa)",
+                "Shuuji Contest (Kaligrafi)",
+                "Kana Contest",
+                "Cosplay Contest",
+                "Japanese Folk Music and Dances Performance",
+                "Bon Odori",
+                "Dance Cover Performance oleh LOVE TUNE",
+                "Bazaar Expo"
+            ],
+            "special_guests": [
+                "LOVE TUNE - Love Live Dance Cover Group"
+            ],
+            "venue_partner": [
+                "Universitas Widyatama"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission / HTM",
+                        "price": 0,
+                        "note": "Gratis / Free (Terbuka untuk umum)"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20141018",
         "Start Time": "",
         "End Date": "20141018",
         "End Time": "",

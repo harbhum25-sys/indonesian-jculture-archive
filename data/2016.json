@@ -2053,6 +2053,51 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20161007",
+        "Start Time": "",
+        "End Date": "20161008",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Fesbukan 5 x Bandung Hamamatsu Culture Festival 2016",
+        "Location": "Aula PSBJ FIB Universitas Padjadjaran, Jatinangor",
+        "Comment": "Festival budaya dan pendidikan Jepang bertajuk 'Fesbukan 5 x Bandung Hamamatsu Culture Festival 2016' yang diselenggarakan oleh FESBUKAN HIMADE UNPAD bekerja sama dengan PERSADA JABAR dan Lembaga Persahabatan Indonesia-Hamamatsu pada tanggal 7\u00e2\u20ac\u201c8 Oktober 2016 bertempat di Aula Pusat Studi Bahasa Jepang (PSBJ) FIB Universitas Padjadjaran, Jatinangor. Acara ini mencakup berbagai lomba pendidikan seperti Speech Contest (Tingkat Universitas Regional Jawa Barat dengan grand prize tiket & akomodasi ke Jepang selama 7 hari), Manga Contest, dan Kanji Contest.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "fesbukan_5_x_bandung_hamamatsu_culture_festival_2016",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1F71ruRHE1/",
+            "https://web.facebook.com/share/p/1G2iyQCdsd/",
+            "https://web.facebook.com/share/1EWs8zepVn/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament",
+                "Education / Workshop"
+            ],
+            "organizer": "FESBUKAN HIMADE UNPAD, PERSADA JABAR, & Lembaga Persahabatan Indonesia-Hamamatsu",
+            "description": "Kolaborasi acara Fesbukan 5 Unpad dengan Bandung Hamamatsu Culture Festival 2016 yang menyajikan rangkaian acara kebudayaan Jepang serta kompetisi pendidikan bahasa dan seni seperti Speech Contest, Manga, dan Kanji.",
+            "activities": [
+                "Speech Contest (Tingkat Universitas Regional Jawa Barat)",
+                "Manga Contest",
+                "Kanji Contest"
+            ],
+            "venue_partner": [
+                "Pusat Studi Bahasa Jepang (PSBJ) FIB Universitas Padjadjaran"
+            ]
+        }
+    },
+    {
         "Start Date": "20161008",
         "Start Time": "12:00 AM",
         "End Date": "20161010",
@@ -2085,9 +2130,9 @@
         "source_status": "archived"
     },
     {
-        "Start Date": "20161009",
+        "Start Date": "20161008",
         "Start Time": "12:00 AM",
-        "End Date": "20161010",
+        "End Date": "20161009",
         "End Time": "12:00 AM",
         "Reminder On/Off": "Yes",
         "Reminder Date": "20161008",

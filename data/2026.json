@@ -36246,7 +36246,7 @@
         "Location": "GOR UNY, Sleman / Yogyakarta",
         "Comment": "Insert to J-Event List : 20260804 17:09:16\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "anime_in_symphony_2026",
         "location_address": "Jl. Colombo No.1, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
@@ -36297,7 +36297,7 @@
         "Location": "Battleground JKT (PIK, Jakarta Utara)",
         "Comment": "Insert to J-Event List : 20260728 03:59:24\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "rage_mode_chapter_2_tekken8_pik_2026",
         "location_address": "Jl. Pantai Indah Kapuk No.25, RT.3/RW.3, Kapuk Muara, Jkt Utara, Daerah Khusus Ibukota Jakarta 14460",
@@ -36351,7 +36351,7 @@
         "Location": "Double You Cafe, Jakarta Utara",
         "Comment": "Insert to J-Event List : 20260730 17:44:00\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "tekken8_hit_n_run_tournament_kcs_2026",
         "location_address": "Jl. Pademangan IV Gg. 27 No.12, RT.6/RW.1, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410",
@@ -36404,7 +36404,7 @@
         "Location": "Lippo Plaza Manado",
         "Comment": "Insert to J-Event List : 20260716 17:30:14\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "natsu_no_yoru_akari_manado_2026",
         "location_address": "Jl. A.A. Maramis, Kairagi Dua, Kec. Mapanget, Kota Manado, Sulawesi Utara",
@@ -36472,7 +36472,7 @@
         "Location": "Jakarta International Velodrome",
         "Comment": "Insert to J-Event List : 20260716 17:09:59\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "ajang_kreativitas_pemuda_jakarta_coswalk_2026",
         "location_address": "Jl. Balap Sepeda No.35, RT.11/RW.6, Jati, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
@@ -36552,7 +36552,7 @@
         "Location": "REVO Mall Bekasi",
         "Comment": "Insert to J-Event List : 20260713 17:19:14\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "migigawa_japan_festival_bekasi_2026",
         "location_address": "Jl. Ahmad Yani No.Kav. 1, RT.005/RW.002, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",
@@ -36612,7 +36612,7 @@
         "Location": "Bintang Carnival Beach Club, Badung, Bali",
         "Comment": "Insert to J-Event List : 20260731 04:02:56\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "vroom_and_voice_otaku_stage_carnival_bali_2026",
         "location_address": "Jl. Pantai Kelan No.99, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361",
@@ -36685,7 +36685,7 @@
         "Location": "Indogrosir Bandar Lampung",
         "Comment": "Insert to J-Event List : 20260807 16:59:37\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "gura_gura_fest_2026",
         "location_address": "Jl. Soekarno - Hatta No.RT.3, Kp. Baru, Labuhan Ratu, Kota Bandar Lampung, Lampung 35227",
@@ -36763,7 +36763,7 @@
         "Location": "Atrium Lippo Plaza Manado",
         "Comment": "Insert to J-Event List : 20260806 17:24:27\n",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "natsu_no_yoru_2026",
         "location_address": "Jl. A.A. Maramis, Kairagi Dua, Kec. Mapanget, Kota Manado, Sulawesi Utara",
@@ -36811,7 +36811,7 @@
         "Location": "Uncle A Urban, Bandung",
         "Comment": "Acara hiburan dan kompetisi permainan domino bertajuk 'Domino Idol \u00e2\u20ac\u201d Region West Java' yang diselenggarakan secara luring pada hari Sabtu, 8 Agustus 2026 mulai pukul 17.00 WIB bertempat di Uncle A Urban, Bandung, Jawa Barat. Acara ini gratis (Free Entry) dan menghadirkan aksi dari para idol lokal, games, serta kompetisi domino.",
         "Online/Offline": "Offline",
-        "status": "Scheduled",
+        "status": "Finished",
         "attended": "No",
         "_id": "domino_idol_west_java_2026",
         "location_address": "Jl. L. L. R.E. Martadinata No.47a, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
@@ -40003,6 +40003,102 @@
                     }
                 ],
                 "ticket_link": "https://heylink.me/sokoalassoundfest"
+            }
+        }
+    },
+    {
+        "Start Date": "20260912",
+        "Start Time": "",
+        "End Date": "20260912",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "UI Nihon Fair 2026",
+        "Location": "Area FIB UI, Depok",
+        "Comment": "Insert to J-Event List : 20260809 03:24:43\n",
+        "Online/Offline": "Hybrid",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "ui_nihon_fair_2026",
+        "location_address": "Universitas Indonesia, Jl. Prof. DR. Selo Soemardjan Kampus, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.36306033828578, 106.82815720209867",
+        "location_gmaps": "https://goo.gl/maps/2Zrht6s2cTKd3jp16",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18dyeq7uT9/",
+            "https://www.instagram.com/ui.nihonfair/p/DbdHuyevABY/",
+            "https://www.instagram.com/ui.nihonfair/p/DbdHO26PzwI/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Competition / Tournament",
+                "Education / Workshop"
+            ],
+            "organizer": "HIMAJA FIB UI (@ui.nihonfair)",
+            "description": "UI Nihon Fair 2026 merupakan ajang festival kebudayaan dan kompetisi bahasa serta seni Jepang untuk tingkat pelajar SMA/Sederajat dan Mahasiswa yang diselenggarakan oleh Himpunan Mahasiswa Jurusan Sastra Jepang Universitas Indonesia.",
+            "activities": [
+                "Nihon Bunka Class Workshop",
+                "Nihon E Manabimashou Seminar",
+                "Yukata Photobooth",
+                "Nihongo Shiken Competition",
+                "Rodoku Competition",
+                "Cerdas Cermat Competition",
+                "Kanji Competition",
+                "Digital Fanart Competition (Online)",
+                "Essay SMA Competition (Online)",
+                "Essay Mahasiswa Competition (Online)"
+            ],
+            "venue_partner": [
+                "Fakultas Ilmu Pengetahuan Budaya Universitas Indonesia"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Event & Workshop / HTM",
+                        "price": 0,
+                        "note": "Free Events & Booths (Nihon Bunka Class, Seminar, Yukata Photobooth)"
+                    },
+                    {
+                        "type": "Biaya Lomba - Nihongo Shiken",
+                        "price": 50001,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Rodoku",
+                        "price": 50002,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Cerdas Cermat (Per Tim)",
+                        "price": 150003,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Kanji Competition",
+                        "price": 50004,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Digital Fanart (Online)",
+                        "price": 60005,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Esai SMA (Online)",
+                        "price": 55006,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    },
+                    {
+                        "type": "Biaya Lomba - Essay Mahasiswa (Online)",
+                        "price": 60007,
+                        "note": "Batas pendaftaran 20 Agustus 2026"
+                    }
+                ]
             }
         }
     },

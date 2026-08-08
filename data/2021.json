@@ -276,6 +276,56 @@
         "source_status": "verified"
     },
     {
+        "Start Date": "20211024",
+        "Start Time": "10:00",
+        "End Date": "20211024",
+        "End Time": "11:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HICE Online Cross-Cultural Understanding Seminar Vol. 2: Yappari Daisuki Indonesia",
+        "Location": "Online via Zoom",
+        "Comment": "Seminar pemahaman lintas budaya daring bertajuk 'HICE \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd (Yappari Daisuki Indonesia!)' yang diselenggarakan oleh Hamamatsu International Exchange Association (HICE) bekerja sama dengan Lembaga Persahabatan Indonesia-Hamamatsu pada hari Minggu, 24 Oktober 2021 pukul 10.00 - 11.30 JST (08.00 - 09.30 WIB) secara online via Zoom. Acara ini gratis dengan kuota 50 peserta, menghadirkan pembicara Ibu Reni Kawagoe dan MC Hidehiro Kinoshita. Diskusi membahas kebudayaan, kuliner, pariwisata, dan kehidupan di Indonesia, dilengkapi sesi talkshow online bersama mahasiswa asal Bandung serta siaran langsung dari restoran Indonesia (Matahari Cafe) di Hamamatsu.",
+        "Online/Offline": "Online",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hice_online_yappari_daisuki_indonesia_2021",
+        "links": [
+            "https://web.facebook.com/share/p/1BcxSh1zGR/",
+            "https://forms.gle/2X3iz6Mn1WKiaPnh8",
+            "http://www.hi-hice.jp/j_fromhice_more.php?eid=00155"
+        ],
+        "Content": {
+            "category": [
+                "Education / Workshop",
+                "Cultural / Art Exhibition",
+                "Community / Hobby Gathering"
+            ],
+            "organizer": "Hamamatsu International Exchange Association (HICE) & Lembaga Persahabatan Indonesia-Hamamatsu",
+            "description": "Sesi seminar dan webinar interaktif daring mengenai pengenalan budaya, gaya hidup, kuliner, dan pariwisata Indonesia untuk masyarakat Hamamatsu, Jepang, termasuk koneksi lansung dengan mahasiswa di Bandung.",
+            "activities": [
+                "Online Cultural Talkshow",
+                "Live Streaming from Indonesian Restaurant in Hamamatsu (Matahari Cafe)",
+                "Student Interactive Discussion (Bandung x Hamamatsu)"
+            ],
+            "special_guests": [
+                "Ibu Reni Kawagoe - Speaker",
+                "Hidehiro Kinoshita - MC"
+            ],
+            "ticket_info": {
+                "currency": "JPY",
+                "pricing": [
+                    {
+                        "type": "General Admission / Participation",
+                        "price": 0,
+                        "note": "Gratis / Free (Kapasitas terbatas 50 peserta via Zoom)"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20211031",
         "Start Time": "08.00",
         "End Date": "20211031",

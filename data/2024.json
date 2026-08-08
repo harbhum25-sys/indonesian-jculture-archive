@@ -51870,6 +51870,60 @@
     },
     {
         "Start Date": "20240811",
+        "Start Time": "08:00",
+        "End Date": "20240811",
+        "End Time": "15:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bandung Hamamatsu Cultural Festival 2024",
+        "Location": "SMAN 1 Lembang, Bandung Barat",
+        "Comment": "Festival kebudayaan bertajuk 'Bandung Hamamatsu Cultural Festival 2024' yang diselenggarakan oleh Lembaga Persahabatan Indonesia-Hamamatsu bekerjasama dengan Nikko-Gaku Japanese Club SMAN 1 Lembang pada hari Minggu, 11 Agustus 2024 pukul 08.00 - 15.00 WIB bertempat di Kampus SMAN 1 Lembang. Acara ini mencakup penyerahan beasiswa untuk siswa SD & SMP, pertunjukan tari Jaipong, Pencak Silat, Angklung, Bon Odori, pameran/demonstrasi pembuatan Wagashi oleh Mr. Yusuke Suzuki dari Hamamatsu College of Culinary and Confectionery Arts, serta lomba cosplay, shodo/shuuji, dan permainan tradisional Indonesia.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_cultural_festival_2024",
+        "location_address": "Jl. Maribaya No.68, Kayuambon, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40791",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.8198045916698184, 107.6317241757511",
+        "location_gmaps": "https://maps.app.goo.gl/DaqJT8H7LUR8zh8m6",
+        "links": [
+            "https://web.facebook.com/share/p/1BXA2uCuPe/",
+            "https://web.facebook.com/share/v/1C62h9JTjs/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament",
+                "Cosplay Event"
+            ],
+            "organizer": "Lembaga Persahabatan Indonesia-Hamamatsu & Nikko-Gaku Japanese Club SMAN 1 Lembang",
+            "description": "Penyelenggaraan Bandung Hamamatsu Cultural Festival 2024 di SMAN 1 Lembang yang menampilkan perpaduan seni tradisional Sunda dan Jepang, kompetisi budaya, demonstrasi pembuatan manisan Jepang, serta penganugerahan beasiswa pelajar.",
+            "activities": [
+                "Pembukaan / Opening Ceremony",
+                "Selamat Datang / Welcome Dance (Tari Jaipong)",
+                "Pertunjukan Pencak Silat",
+                "Pertunjukan Angklung",
+                "Pertunjukan Bon Odori",
+                "Penghargaan Beasiswa (Siswa SD & SMP)",
+                "Demonstrasi Pembuatan Wagashi (oleh Mr. Yusuke Suzuki)",
+                "Lomba Cosplay",
+                "Lomba Shodo / Shuuji",
+                "Lomba Permainan Tradisional Indonesia"
+            ],
+            "special_guests": [
+                "Mr. Yusuke Suzuki - Sekolah Memasak dan Penganan Hamamatsu (Hamamatsu College of Culinary and Confectionery Arts)"
+            ],
+            "venue_partner": [
+                "SMAN 1 Lembang"
+            ]
+        }
+    },
+    {
+        "Start Date": "20240811",
         "Start Time": "15:00",
         "End Date": "20240811",
         "End Time": "",

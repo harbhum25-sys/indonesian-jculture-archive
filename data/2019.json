@@ -2805,6 +2805,59 @@
     },
     {
         "Start Date": "20190907",
+        "Start Time": "09:00",
+        "End Date": "20190907",
+        "End Time": "16:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bandung Hamamatsu Cultural Festival 2019",
+        "Location": "Pusat Studi Bahasa Jepang Universitas Padjadjaran, Jatinangor",
+        "Comment": "Festival kebudayaan Jepang bertajuk 'Bandung Hamamatsu Cultural Festival 2019' yang diselenggarakan oleh Lembaga Persahabatan Indonesia-Hamamatsu dan PERSADA JABAR pada hari Sabtu, 7 September 2019 pukul 09.00 - 16.00 WIB bertempat di Pusat Studi Bahasa Jepang (PSBJ) Universitas Padjadjaran, Jatinangor. Acara ini gratis (Free Entry) dan menghadirkan Speech Contest tingkat SMA & Mahasiswa berhadiah ke Jepang, stand makanan, stand permainan tradisional, serta lomba dan penampilan kesenian Jepang.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bandung_hamamatsu_cultural_festival_2019",
+        "location_address": "Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "location_city": "Sumedang",
+        "location_coordinate": "-6.927510188828021, 107.77620014417715",
+        "location_gmaps": "https://goo.gl/maps/S743WbswDmxuA22E9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18MwbSSs1J/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cultural / Art Exhibition",
+                "Competition / Tournament"
+            ],
+            "organizer": "Lembaga Persahabatan Indonesia-Hamamatsu & PERSADA JABAR",
+            "description": "Bandung Hamamatsu Cultural Festival 2019 merupakan festival pertukaran budaya tahunan yang menyajikan Speech Contest berhadiah perjalanan ke Jepang, bazar stand makanan, arena permainan tradisional, serta panggung pertunjukan kesenian Jepang.",
+            "activities": [
+                "Speech Contest (Tingkat SMA & Mahasiswa)",
+                "Stand Makanan (Food Bazaar)",
+                "Stand Permainan Tradisional",
+                "Lomba & Penampilan Kesenian Jepang"
+            ],
+            "venue_partner": [
+                "Pusat Studi Bahasa Jepang (PSBJ) Universitas Padjadjaran"
+            ],
+            "ticket_info": {
+                "currency": "IDR",
+                "pricing": [
+                    {
+                        "type": "General Admission / HTM",
+                        "price": 0,
+                        "note": "Gratis / Free Entry"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20190907",
         "Start Time": "",
         "End Date": "20190908",
         "End Time": "",
