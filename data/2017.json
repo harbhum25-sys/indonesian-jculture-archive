@@ -3700,6 +3700,62 @@
     },
     {
         "Start Date": "20170826",
+        "Start Time": "",
+        "End Date": "20170827",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BIJAC no Tanjoiwai 10",
+        "Location": "JWC Campus, Binus International University",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bijac_no_tanjoiwai_10_2017",
+        "location_address": "",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://www.instagram.com/p/BXPzUWPgqkp/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Anisong / Karaoke",
+                "Musik - Band / Live Performance",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "BIJAC (Binus International Japanese Art & Culture Club)",
+            "edition": "10",
+            "theme": "mouichido asobimashou",
+            "competition": [
+                "karaoke",
+                "takoyaki",
+                "fanart",
+                "cosplay"
+            ],
+            "ticket_info": {
+                "admission_fee": "Rp 30.000"
+            },
+            "social_media": {
+                "facebook": "bijaclub",
+                "twitter": "@bijac_tanjo10",
+                "instagram": "@bijac_tanjo10",
+                "youtube": "BIJAC Channel",
+                "website": "http://bijac-tanjo.id"
+            }
+        }
+    },
+    {
+        "Start Date": "20170826",
         "Start Time": "12:00 AM",
         "End Date": "20170827",
         "End Time": "12:00 AM",

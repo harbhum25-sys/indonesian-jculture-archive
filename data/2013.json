@@ -556,11 +556,73 @@
         "location_coordinate": "-6.219047415914627, 106.80040065226633",
         "location_gmaps": "https://goo.gl/maps/jtUK62MRETruv5LK6",
         "links": [
-            ""
+            "https://www.youtube.com/watch?v=grfBJUOH65c",
+            "https://www.youtube.com/watch?v=lhN-KXXh50A",
+            "https://www.youtube.com/watch?v=iY2BCFtccYk",
+            "https://www.youtube.com/watch?v=mXcNkv7XSro",
+            "https://www.youtube.com/watch?v=WywAghXOTKw",
+            "https://www.youtube.com/watch?v=Y897uNTjb38",
+            "https://www.youtube.com/watch?v=b33FVypzO50",
+            "https://www.youtube.com/watch?v=vdMmqnaeTl4",
+            "https://www.youtube.com/watch?v=m51X73Xp7YU",
+            "https://www.youtube.com/watch?v=Vr825vnZTjY",
+            "https://www.youtube.com/watch?v=GDTtDvKKZCE"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Music / Concert"
+            ],
+            "organizer": "Marygops Studios",
+            "theme": "SCANDAL Asia Tour 2013 / Live in Jakarta",
+            "edition": "2013",
+            "description": "Konser perdana dan satu-satunya dari band pop-rock asal Jepang, SCANDAL, di Jakarta dalam rangkaian tur Asia mereka.Fakta dan keseruan konser perdana SCANDAL di Jakarta, mulai dari interaksi bahasa Indonesia para personel, total 16 lagu yang dibawakan, hingga antusiasme penonton di Tennis Indoor Senayan.",
+            "dates_and_locations": [
+                {
+                    "date": "2013-03-13",
+                    "location": "Tennis Indoor Senayan, Jakarta"
+                }
+            ],
+            "performers": {
+                "main_act": [
+                    {
+                        "group": "SCANDAL",
+                        "members": [
+                            "Haruna Ono (Vokal/Gitar)",
+                            "Mami Sasazaki (Gitar/Vokal)",
+                            "Tomomi Ogawa (Bass/Vokal)",
+                            "Rina Suzuki (Drum/Vokal)"
+                        ]
+                    }
+                ],
+                "opening_act": [
+                    {
+                        "group": "Mosca",
+                        "origin": "Jakarta, Indonesia"
+                    }
+                ]
+            },
+            "setlist_highlights": {
+                "total_songs": 16,
+                "main_set": [
+                    "Harukaze",
+                    "Shunkan Sentimental",
+                    "Shoujo S",
+                    "DOLL",
+                    "Pride",
+                    "Space Ranger",
+                    "Taiyou Scandalous",
+                    "Everybody Say Yeah!"
+                ],
+                "encore": [
+                    "Taiyou to Kimi ga Egaku Story"
+                ]
+            },
+            "highlights_and_trivia": [
+                "Promotor Marygops Studios juga sukses memboyong L'Arc-en-Ciel ke Indonesia.",
+                "Personel fasih menyapa penonton dengan bahasa Indonesia saat sesi perkenalan.",
+                "Haruna terharu karena penonton hafal lagu-lagu SCANDAL dan bernyanyi bersama dari awal hingga akhir.",
+                "Jumlah penonton tidak memenuhi kapasitas penuh venue, tetapi suasana konser tetap terasa sangat meriah dan intim.",
+                "Para personel mengaku ketagihan dengan keramahan serta energi penonton di Indonesia dan berjanji ingin kembali."
             ]
         },
         "location_country": "Indonesia",
