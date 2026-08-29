@@ -40848,6 +40848,452 @@
         }
     },
     {
+      "Start Date": "20260913",
+      "Start Time": "",
+      "End Date": "20260913",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "J-SPARK POP CULTURE FEST",
+      "Location": "WTC Mangga Dua",
+      "Comment": "Insert to J-Event List : 20260829 11:20:38\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "j_spark_pop_culture_fest_2026",
+      "location_address": "Jl. Mangga Dua Raya No.8, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+      "location_city": "Jakarta Utara",
+      "location_coordinate": "-6.134010650676876, 106.83084932584083",
+      "location_gmaps": "https://maps.app.goo.gl/ZqJM7Ms6d4qEGAHQA",
+
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DcizXThEgtc/",
+        "https://www.instagram.com/casualculture.creative/",
+        "https://www.instagram.com/p/DcbC1C1j4ED/",
+        "https://www.instagram.com/p/DcbGirWj3kM/",
+        "https://www.instagram.com/p/DcdcLVSD6yl/",
+        "https://www.instagram.com/p/DcfaqtGjzjC/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Anisong / Karaoke",
+          "Musik - Idol / VTuber",
+          "Musik - Band / Live Performance"
+        ],
+        "organizer": "CASUAL CULTURE CREATIVE",
+        "co_organizer": "@wtcm2.official",
+        "theme": "Road to The Weekend Idol Fest 2027",
+        "guest_stars": {
+          "judge": [
+            "IAN (@ian07_)",
+            "Kak Cherry (@cherrytime21)"
+          ]
+        },
+        "competition": {
+          "coswalk": {
+            "registration_fee": "Rp 25.000",
+            "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSezjLh1Cj-T0DCiFQjv0_VRGqdDwLugC06t_4LvirzN_BPb6A/viewform?usp=dialog",
+            "contact": "08568205329 (Alfian)"
+          },
+          "anisong": {
+            "registration_fee": "Rp 20.000",
+            "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSddDgKW-uEgSawrRS6KMk2kWOYr5mTOnJ9AxO1MieTnDn6UQw/viewform?usp=header",
+            "contact": "0857-7620-7869 (Annas)"
+          }
+        },
+        "contact": {
+          "whatsapp": [
+            "0877-4121-6095 (Ajril - Tenant/Sponsor)",
+            "08568205329 (Alfian - Coswalk)",
+            "0857-7620-7869 (Annas - Anisong)"
+          ]
+        },
+        "sponsors": [
+          "@hereusmusic",
+          "@_sisikanan_"
+        ],
+        "social_media": {
+          "instagram": "@casualculture.creative"
+        }
+      }
+    },
+    {
+      "Start Date": "20260905",
+      "Start Time": "",
+      "End Date": "20260905",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "THE DIFF 2026: Cosplay Competition",
+      "Location": "Ligagame Esports Arena",
+      "Comment": "Insert to J-Event List : 20260829 11:20:38\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "the_diff_2026_jakarta",
+      "location_address": "9, Jl. Daan Mogot No.51, RT.9/RW.1, Kedoya Utara, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11520",
+      "location_city": "Jakarta Barat",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.161448431507798, 106.76998947815723",
+      "location_gmaps": "https://maps.app.goo.gl/fCvnKBe5WtLC1rgs6",
+      "links": [
+        "https://www.instagram.com/p/DclCMSTE0Op/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Game / Esports Tournament"
+        ],
+        "organizer": [
+          "DIFFARENZ",
+          "Kyuu Fest"
+        ],
+        "theme": "Beyond the League, Into the Peak",
+        "guest_stars": {
+          "judge": [
+            "@r.efeen",
+            "@princeingga"
+          ]
+        },
+        "competition": {
+          "cosplay": {
+            "prizepool": "Rp 5.000.000",
+            "registration_link": "BIT.LY/DIFFCOSPLAY"
+          }
+        },
+        "social_media": {
+          "youtube": "DIFFARENZ"
+        }
+      }
+    },
+    {
+      "Start Date": "20260912",
+      "Start Time": "15:00",
+      "End Date": "20260913",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Fantasia World 2026",
+      "Location": "23 Semarang Shopping Center (Dauntown Plaza)",
+      "Comment": "Insert to J-Event List : 20260829 11:20:38\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "fantasia_world_2026",
+      "location_address": "Area Taman Outdoor, 23 Semarang Shopping Center, Pearl of Java Avenue, POJ City No.Kav. 1, Tambakharjo, Kota Semarang, Jawa Tengah",
+      "location_city": "Semarang",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.953549149375947, 110.38120530875416",
+      "location_gmaps": "https://maps.app.goo.gl/CM4zjTLmvSYvz6ZQ7",
+      "links": [
+        "https://www.instagram.com/p/DcmJjuHyyRz/",
+        "https://www.instagram.com/fantasiaworld.id/",
+        "https://www.instagram.com/p/DcFer1dSXLZ/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Bazaar / Market",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / VTuber",
+          "Musik - Anisong / Karaoke",
+          "Talkshow / Seminar / Workshop"
+        ],
+        "theme": "J fashion POP-UP market",
+        "guest_stars": [
+          "Sorahana (@sorahana.idol)",
+          "DJ Moverave (@moverave_id)",
+          "Eurifessa (@eurifessa)",
+          "Komorebi (@komorebi.smg)",
+          "Eversweet (@realeversweet)",
+          "Equivalent (@equivalent.ofc)",
+          "Pandazzle",
+          "Persephone (@persephoneidol.ofc)",
+          "DJ Paripi Beatz (@ofc_paripibeatz)",
+          "Ryoneesan (@ryoneesan)"
+        ],
+        "judges": [
+          "Emji (@emji.kontoru)",
+          "Felice (@brokenblanc)",
+          "Hiru (@kuro_hiru)",
+          "Ry (@ryoneesan)",
+          "Pingpingu (@pingpingu789)"
+        ],
+        "mc": "El Capitano (@panggil_saja_alle)",
+        "ticket_info": {
+          "entry": "Free HTM"
+        },
+        "sponsors": [
+          "23 Semarang Shopping Center (@23semarang.id)",
+          "Madame Mary (@madamemary_ina)"
+        ],
+        "community_partners": [
+          "Lolita in wkwkland (@loland_id)",
+          "Lucky Moshi Moshi (@luckymoshimoshi)",
+          "WD rosano21",
+          "PANDAS (@pandas.smg)"
+        ],
+        "media_partners": [
+          "Cosma (@cosplay_semarang)",
+          "Kaiju (@kaiju_id)",
+          "Da Famira aloysius_kelvin",
+          "Idol Semarang (@idol.semarang)",
+          "Cohafu (@cohafu.id)",
+          "Wibufest ID (@wibufest.id, @wibufest.semarang)",
+          "Japanetz (@japanetz)",
+          "Sanity (@sanity.smg)",
+          "Kyodai Community (@kyodai.community)",
+          "Nekat48 Semarang (@nekat48semarang)",
+          "Keluh Kesah Wibu Pantura (@kkwp_kirro)",
+          "Akari (@akari_community, @akari.community_semarang)",
+          "Jepara Cosplay (@jepara.cosplay)",
+          "Collabox Creative Hub (@collabox.id)"
+        ]
+      }
+    },
+    {
+      "Start Date": "20260920",
+      "Start Time": "11:00",
+      "End Date": "20260920",
+      "End Time": "17:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "ANIME NOSTALGIA IDOL",
+      "Location": "Kuini Ballroom, Harper Banjarmasin",
+      "Comment": "Insert to J-Event List : 20260829 11:20:38\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "anime_nostalgia_idol_2026",
+      "location_address": "Jl. S. Parman No.175, Belitung Utara, Kec. Banjarmasin Bar., Kota Banjarmasin, Kalimantan Selatan 70123",
+      "location_city": "Banjarmasin",
+      "location_country": "Indonesia",
+      "location_coordinate": "-3.3082408546944784, 114.58849140793389",
+      "location_gmaps": "https://maps.app.goo.gl/Fst3z8swmeBZo9zAA",
+      "links": [
+        "https://www.instagram.com/p/DclCGRsBU8F/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Musik - Idol / VTuber",
+          "Cosplay - Competition / Coswalk",
+          "Festival / Matsuri",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "Harper Banjarmasin",
+          "Rozu Rage"
+        ],
+        "performers": {
+          "idol": [
+            "Rozu Rage"
+          ]
+        },
+        "ticket_info": {
+          "price": "Rp 50.000 / pax",
+          "includes": "Snack & Mineral Water"
+        },
+        "contact": {
+          "whatsapp": "+6282398013232 (Rustik Bistro)"
+        },
+        "social_media": {
+          "instagram": "@HarperBanjarmasin",
+          "tiktok": "@HarperBanjarmasin",
+          "facebook": "Harper Banjarmasin",
+          "website": "banjarmasin.Harperhotels.com"
+        }
+      }
+    },
+    {
+      "Start Date": "20260830",
+      "Start Time": "15:00",
+      "End Date": "20260830",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "GATHERING WIBUFEST BANDUNG",
+      "Location": "Surjoy Coffee",
+      "Comment": "Insert to J-Event List : 20260829 11:20:38\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "gathering_wibufest_bandung_2026",
+      "location_address": "Jl. Tata Surya No.104, Manjahlega, Kec. Rancasari, Kota Bandung, Jawa Barat 40286",
+      "location_city": "Bandung",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.949206380638457, 107.66614629114102",
+      "location_gmaps": "https://maps.app.goo.gl/TxFXpqbt3L6EiMdd9",
+      "links": [
+        "https://www.instagram.com/p/DclobnhJUuu/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Gathering / Komunitas",
+          "Musik - Anisong / Karaoke",
+          "Anime - Fan Event"
+        ],
+        "organizer": "Wibufest Bandung",
+        "co_organizer": "Surjoy Coffee",
+        "theme": "Satu Hobi, Satu Tujuan, SATU KOMUNITAS!",
+        "social_media": {
+          "instagram": "@wibufest.bandung",
+          "tiktok": "@wibufest.bandung"
+        }
+      }
+    },
+    {
+      "Start Date": "20260828",
+      "Start Time": "",
+      "End Date": "20260828",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Nihon Eventura Vol. 2: Natsu no Kiseki",
+      "Location": "Aula Joop Ave, Politeknik Pariwisata Bali",
+      "Comment": "Insert to J-Event List : 20260829 04:22:49\n",
+      "Online/Offline": "Offline",
+      "status": "Finished",
+      "attended": "No",
+      "_id": "nihon_eventura_vol_2_2026",
+      "location_address": "Jl. Dharmawangsa No.250, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",
+      "location_city": "Bali",
+      "location_country": "Indonesia",
+      "location_coordinate": "-8.812060078103508, 115.19254782466064",
+      "location_gmaps": "https://maps.app.goo.gl/SEcxqoaTnQjF47eSA",
+      "links": [
+        "https://www.instagram.com/p/DcXcL15JvaW/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Cosplay - Gathering / Parade / Casual",
+          "Musik - Anisong / Karaoke",
+          "Dance Cover Competition"
+        ],
+        "organizer": "Politeknik Pariwisata Bali",
+        "edition": "2",
+        "theme": "Natsu no Kiseki",
+        "performers": [
+          "atlantic fall",
+          "Yorinne"
+        ],
+        "competition": {
+          "japanese_singing": {
+            "registration_fee": "Rp 25.000"
+          },
+          "cosplay_walk": {
+            "registration_fee": "Rp 20.000"
+          },
+          "cosplay_street": {
+            "registration_fee": "OTS"
+          },
+          "cosplay_dance": {
+            "registration_fee": "Rp 25.000"
+          }
+        },
+        "social_media": {
+          "instagram": "@nihoneventura.ppb",
+          "tiktok": "@nhe.ppb"
+        }
+      }
+    },
+    {
+      "Start Date": "20260926",
+      "Start Time": "",
+      "End Date": "20260926",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "1st ANNIVERSARY L’ARC~JAM BANDUNG",
+      "Location": "Love Story Cafe",
+      "Comment": "Insert to J-Event List : 20260829 03:45:56\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "1st_anniversary_larc_jam_bandung_2026",
+      "location_address": "Jl. Gatot Subroto No.108, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40263",
+      "location_city": "Bandung",
+      "location_coordinate": "-6.925606652493114, 107.63098891115203",
+      "location_gmaps": "https://maps.app.goo.gl/EsRLQiY61dFwuJsk8",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DclvVeJkiii/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Musik - Band / Live Performance",
+          "Gathering / Komunitas"
+        ],
+        "organizer": "L’Arc~Jam Bandung",
+        "theme": "Tribute to L'Arc~en~Ciel",
+        "edition": "1",
+        "performers": {
+          "band": [
+            "@moa.inthesky",
+            "@chikazuki_",
+            "@official_thousandsunny",
+            "@supermarketfantasy__",
+            "@shiningover.id",
+            "@noxiraofficial",
+            "@heisei7",
+            "Enishi",
+            "Chill~en~Ciel",
+            "Moonlight Nexus",
+            "Enrei"
+          ],
+          "solo": [
+            "Enda L'Community",
+            "@agus_akbaryanto",
+            "@agah.syn",
+            "@muhgumi",
+            "@jouseinomelodyofficial.1",
+            "@heyitsmomokun",
+            "@hai.gin_ & @indira_swari77"
+          ]
+        },
+        "contact": {
+          "whatsapp": "0813-9420-8623 (Markus)"
+        },
+        "social_media": {
+          "instagram": "@larcenciel_bandung",
+          "youtube": "@larcjamIDN",
+          "tiktok": "@larcjam_indonesia"
+        }
+      }
+    },
+    {
         "Start Date": "20260829",
         "Start Time": "12:30",
         "End Date": "20260830",
