@@ -3212,7 +3212,7 @@
         "Importance": "Normal",
         "Subject": "Nihon No Matsuri vol 1",
         "Location": "Ciwalk",
-        "Comment": "",
+        "Comment": "Dilaporkan oleh panjie di AMAMIYA Magz Vol. 16 (Mar-Apr 2008)",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "Yes",
@@ -3313,7 +3313,26 @@
                 }
             ],
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Seminar / Workshop",
+                "Musik - Band / Live Performance",
+                "Bazaar / Market"
+            ],
+            "organizer": "Japan Genki Community (STT Telkom)",
+            "performers": [
+                "Wasabi",
+                "Akira Shock",
+                "Shiroi Hana",
+                "Moccachocollatta"
+            ],
+            "competition": {
+                "band": {
+                    "winner_1st": "Black Candle"
+                }
+            },
+            "rundown": [
+                "23-24 November 2007: Seminar 'Pendidikan dan Lowongan Kerja Jepang (Study Hard with Japanese Spirit)' & 'LIFESTYLE dan TEKNOLOGI JEPANG' di Gedung Serba Guna STT Telkom",
+                "1 Desember 2007: Festival Musik dan Kebudayaan Jepang di Ciwalk (Kompetisi Band Blast Kyosho, Bon Odori, Hanabi, Stand Hair Cutting ala Jepang, Stand Kuliner & Merchandise)"
             ]
         },
         "location_country": "Indonesia",
@@ -3482,6 +3501,46 @@
             "venue_partner": [
                 "Pasar Festival Kuningan"
             ]
+        }
+    },
+    {
+        "Start Date": "20071231",
+        "Start Time": "",
+        "End Date": "20080101",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Love Fan Tour Countdown 2007-2008",
+        "Location": "Bandung-Jakarta",
+        "Comment": "Dilaporkan oleh man-c di AMAMIYA Magz Vol. 16 (Mar-Apr 2008)",
+        "Online/Offline": "Offline",
+        "status": "Completed",
+        "attended": "No",
+        "_id": "love_fan_tour_countdown_2007_2008",
+        "location_address": "",
+        "location_city": "Bandung & Jakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance",
+                "Tour / Travel"
+            ],
+            "organizer": [
+                "Amamiya Magz",
+                "Shiroi Hana"
+            ],
+            "performers": [
+                "Shiroi Hana"
+            ],
+            "description": "Acara akhir tahun yang diadakan Amamiya Magz bareng band Shiroi Hana bertajuk 'Love Fan Tour'. Perjalanan Bandung-Jakarta menggunakan satu mini bus bareng, foto-foto, pembagian souvenir, nonton performance Shiroi Hana hingga menikmati perayaan tahun baru."
         }
     },
     {
