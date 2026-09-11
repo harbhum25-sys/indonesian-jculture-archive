@@ -707,7 +707,8 @@
         "location_coordinate": "-6.91693047857716, 107.60896289644823",
         "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
         "links": [
-            ""
+            "https://web.facebook.com/widjayayogga/videos/1433613039677/",
+            "https://web.facebook.com/sagarakurei/videos/1286156845788/"
         ],
         "Content": {
             "category": [
@@ -1465,13 +1466,22 @@
         "location_coordinate": "-6.91693047857716, 107.60896289644823",
         "location_gmaps": "https://goo.gl/maps/BCEznmpwGeeUiMcw7",
         "links": [
-            ""
+            "https://www.facebook.com/share/v/19B95RpbjS/",
+            "https://www.facebook.com/share/v/1DBi2h7EZg/",
+            "https://web.facebook.com/share/v/1dRQUWnwZm/"
         ],
         "Content": {
             "category": [
                 "Festival / Matsuri",
                 "Musik - Band / Live Performance"
-            ]
+            ],
+            "performers": {
+                "special_guests": "Himitsu",
+                "performer_mentioned": [
+                    "Meganeko",
+                    "Highpop Little Chocho"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

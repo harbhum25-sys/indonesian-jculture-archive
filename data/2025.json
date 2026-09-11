@@ -23890,7 +23890,8 @@
         "location_gmaps": "https://maps.app.goo.gl/tvkDDt3RrKLZHGfo9",
         "links": [
             "https://www.instagram.com/ankokufestival/p/DK_JgeOhWR2/",
-            "https://www.instagram.com/p/DPQabrKgKIM/"
+            "https://www.instagram.com/p/DPQabrKgKIM/",
+            "https://www.instagram.com/ankokufestival/p/DQrIDYuEozW/"
         ],
         "Content": {
             "presenter": "Ankoku Fest",
@@ -23904,7 +23905,62 @@
             },
             "category": [
                 "Gathering / Komunitas"
-            ]
+            ],
+            "rundown": {
+                "general_schedule": {
+                    "09:00": "PENUKARAN TICKET",
+                    "10:00": "OPEN GATE"
+                },
+                "riang_gembira_stage": {
+                    "11:30": "FREE MUSIC TIME",
+                    "12:00": "BREAK DZUHUR",
+                    "12:15": "TRADITIONAL DANCE",
+                    "12:45": "BMJT",
+                    "13:15": "D'AIDITS",
+                    "13:45": "ULTRA FLOW",
+                    "14:15": "KARAOKE TRAIN",
+                    "14:45": "VOCASTORY",
+                    "15:15": "BREAK ASHAR",
+                    "15:30": "BATORASHI",
+                    "16:00": "RPD",
+                    "16:30": "COSWALK",
+                    "17:00": "KARAKAMA",
+                    "17:30": "SECRET HOPE",
+                    "18:00": "BREAK MAGHRIB",
+                    "18:30": "TOMOAME",
+                    "19:00": "ANSR",
+                    "19:30": "CATTO BAND",
+                    "20:00": "HARVEST",
+                    "20:30": "CLOSING"
+                },
+                "taiga_faiya_stage": {
+                    "11:30": "FLEURINE",
+                    "12:00": "BREAK DZUHUR",
+                    "12:15": "HOSHIKO NO HIKARI",
+                    "12:45": "KARAFURU",
+                    "13:15": "REIRIN",
+                    "13:45": "CHORUSELLA",
+                    "14:15": "STELLAR LUNA",
+                    "14:45": "MELONIX",
+                    "15:15": "BREAK ASHAR",
+                    "15:30": "TOMOSHIBI",
+                    "16:00": "PRISM",
+                    "16:30": "AVENUE J",
+                    "17:00": "TWENTY NINE TEENS",
+                    "17:30": "SUMMER TIME",
+                    "18:00": "BREAK MAGHRIB",
+                    "18:30": "MUSES",
+                    "19:00": "AURORA DREAM",
+                    "19:30": "KIRIN DAY",
+                    "20:00": "KOHI SEKAI",
+                    "20:30": "CLOSING"
+                },
+                "other_activities": {
+                    "11:00 - 19:00": "COMMUNITY BOOTH ACTIVITY",
+                    "13:00 - 19:00": "BOOTH COSPLAY GUEST",
+                    "14:00 - 19:00": "MAID CAFE"
+                }
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

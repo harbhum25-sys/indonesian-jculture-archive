@@ -555,6 +555,9 @@
         "location_coordinate": "",
         "location_gmaps": "",
         "links": [
+            "https://www.instagram.com/bijacevent/",
+            "https://www.instagram.com/bijacnotanjoiwai/",
+            "https://www.instagram.com/p/pTzD9vN0dp/",
             "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
         ],
         "location_country": "Indonesia",
@@ -562,8 +565,33 @@
         "source_status": "contributed",
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Anime - Screening / Nobar",
+                "Gathering / Komunitas"
             ],
+            "organizer": "BIJAC (Binus International Japanese Culture Club)",
+            "theme": "Bijac no Tanjoiwai",
+            "edition": "7",
+            "description": "Cosuta Matsuri",
+            "activities": [
+                "Kawaiian Maid Cafe",
+                "Obake Yashiki",
+                "Movie Screening",
+                "Community Gathering",
+                "Cosplay Competition"
+            ],
+            "sponsors": [
+                "Pokka"
+            ],
+            "media_partners": [
+                "KAORI Nusantara"
+            ],
+            "social_media": {
+                "facebook": "BIJACnoTanjoiwai",
+                "twitter": "@BIJAC_Tanjo7",
+                "instagram": "@BIJACevent"
+            },
             "catatan_seri": "'BIJAC NO TANJOIWAI 6: CosUta Matsuri' tercatat 2013 di The Joseph Wibowo Center (JWC), bagian dari kompleks Binus (_id bijacn_1); pola tahunan (Feb 2013 -> Mar 2014) konsisten, namun edisi 7 ini sendiri belum tercatat sebelumnya.",
             "performer_mentioned": [
                 "Sekar Khatulistiwa"
