@@ -1,0 +1,43 @@
+[
+    {
+        "Start Date": "20270124",
+        "Start Time": "",
+        "End Date": "20270124",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "CELFEST 4TH STAGE",
+        "Location": "Bandung Indah Plaza",
+        "Comment": "Insert to J-Event List : 20261001 14:03:34\n",
+        "Online/Offline": "Offline",
+        "status": "Scheduled",
+        "attended": "No",
+        "_id": "celfest_4th_stage_2027_bandung",
+        "location_address": "Jl. Merdeka No.56, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.908325126495795, 107.6108120288354",
+        "location_gmaps": "https://g.page/bip_bdg",
+        "location_country": "Indonesia",
+        "links": [
+            "https://www.instagram.com/p/DdoKHwwSAv2/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Celestine Organizer",
+            "edition": "4th Stage",
+            "social_media": {
+                "instagram": [
+                    "#CelestineOrganizer"
+                ]
+            }
+        }
+    }
+]

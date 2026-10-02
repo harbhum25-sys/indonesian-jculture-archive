@@ -825,6 +825,127 @@
         }
     },
     {
+        "Start Date": "20110220",
+        "Start Time": "",
+        "End Date": "20110220",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-BLAST Vol. 1",
+        "Location": "Obekitchen Cafe",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "j_blast_vol_1_2011_jkt",
+        "location_address": "Jl. Balap Sepeda No.8 8, RT.12/RW.1, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.1904183859185, 106.89104411960425",
+        "location_gmaps": "-6.190420385845266, 106.89104411960425",
+        "links": [
+            "https://web.facebook.com/share/p/1CFqZcMCze/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Cosplay - Gathering / Parade / Casual",
+                "Dance Cover Competition"
+            ],
+            "organizer": "Kanji Production",
+            "co_organizer": "Sobat Indies",
+            "theme": "Japan Music And Fashion Soundrenaline",
+            "edition": "1",
+            "performers": {
+                "special_performance": [
+                    "Akatsuki",
+                    "Chicken Katsu"
+                ],
+                "band": [
+                    "Ju'on",
+                    "Shitake",
+                    "Kyosuu",
+                    "Mont D 'or",
+                    "Izanami",
+                    "Kaizen",
+                    "Uwabakhi",
+                    "Virtuellen",
+                    "Erato",
+                    "DT Boy",
+                    "Samusa Candy",
+                    "Volcanoes",
+                    "Froyo",
+                    "Remora",
+                    "UB",
+                    "Lastnote",
+                    "Ohayou",
+                    "Candid",
+                    "Zetsu",
+                    "Negura",
+                    "Lunartrax",
+                    "L'Heure"
+                ]
+            },
+            "events": [
+                "J-band Performance",
+                "Dance Performance",
+                "Harajuku Fashion Show"
+            ],
+            "competition": {
+                "harajuku_fashion_show": {
+                    "registration_deadline": "20 Februari 2011 jam 12.00"
+                }
+            },
+            "ticket_info": {
+                "htm": "Rp 5.000 / Orang",
+                "note": "Termasuk kupon doorprize"
+            },
+            "rundown": {
+                "11.15 - 11.30": "Pembukaan",
+                "11.30 - 11.45": "band JU'ON",
+                "11.45 - 12.15": "BRAEK ZHUHUR",
+                "12.15 - 12.30": "band SHITAKE",
+                "12.30 - 12.45": "band MOMIJI",
+                "12.45 - 13.00": "band KYOSUU",
+                "13.00 - 13.15": "band MONT D'OR",
+                "13.15 - 13.30": "band IZANAMI",
+                "13.30 - 13.45": "DOORPRIZE",
+                "13.45 - 14.00": "HARAJUKU FASHION SHOW 1",
+                "14.00 - 14.15": "Band KAIZEN",
+                "14.15 - 14.30": "band UWABAKHI",
+                "14.30 - 14.45": "band VIRTUELLEN",
+                "14.45 - 15.00": "band ERATO",
+                "15.00 - 15.15": "band DTBOY",
+                "15.15 - 15.30": "band ZETSU",
+                "15.30 - 15.45": "band SAMUSA CANDY",
+                "15.45 - 16.15": "BREAK ASHAR",
+                "16.15 - 16.30": "HARAJUKU FASHION SHOW 2",
+                "16.30 - 16.45": "DANCE by :: XNXD6 ::",
+                "16.45 - 17.00": "DOORPRIZE",
+                "17.00 - 17.15": "band VOLCANOES",
+                "17.15 - 17.30": "band L'HEURE",
+                "17.30 - 17.45": "band LUNARTRAX",
+                "17.45 - 18.30": "BREAK MAGRIB",
+                "18.30 - 19.00": "Spesial perform AKATSUKI",
+                "19.00 - 19.15": "DOORPRIZE",
+                "19.15 - 19.30": "band FROYO",
+                "19.30 - 19.45": "band NEGURA",
+                "19.45 - 20.00": "band REMORA",
+                "20.00 - 20.15": "band UB",
+                "20.15 - 20.30": "band LASTNOTE",
+                "20.30 - 20.45": "DOORPRIZE",
+                "20.45 - 21.00": "band OHAYOU",
+                "21.00 - 21.15": "band CANDID",
+                "21.15 - 21.45": "Spesial perform BY 6TH anniversarry CHICKEN KATSU",
+                "21.45 - selesai": "PENGUMUMAN THE BEST BAND,DANCE, dan THE BEST MODELS HARAJUKU FASHION SHOW !!!!!!"
+            }
+        }
+    },
+    {
         "Start Date": "20110227",
         "Start Time": "",
         "End Date": "20110227",
@@ -944,7 +1065,8 @@
         "location_gmaps": "https://goo.gl/maps/ntb1F1cQhnxvpN8J8",
         "links": [
             "https://web.facebook.com/photo/?fbid=10150150619531580&set=a.10150150613436580",
-            "https://web.facebook.com/photo/?fbid=1496237291374&set=p.1496237291374"
+            "https://web.facebook.com/photo/?fbid=1496237291374&set=p.1496237291374",
+            "https://web.facebook.com/share/p/1EmT2LAg9i/"
         ],
         "Content": {
             "category": [
@@ -1051,7 +1173,8 @@
         "location_gmaps": "https://g.page/ciwalk-bandung",
         "links": [
             "https://web.facebook.com/tanera.pro/posts/115326461879173",
-            "https://web.facebook.com/notes/769186840312745"
+            "https://web.facebook.com/notes/769186840312745",
+            "https://web.facebook.com/share/p/14zkWFyxhkM/"
         ],
         "Content": {
             "penilaian_acara": [
@@ -1070,6 +1193,63 @@
             ],
             "hierarki_acara": {
                 "bagian_dari": "IXPO 2011 (Informatics Explosion)",
+                "co_organizer": "COSPLAY BANDUNG, Tanerapro II",
+                "theme": "Cosplay Competition & Dota Tournament",
+                "edition": "2011",
+                "description": "Acara kompetisi cosplay dan turnamen Dota khusus rookie yang diselenggarakan di Cihampelas Walk, Bandung.",
+                "dates_and_locations": [
+                    {
+                        "date": "2011-04-09",
+                        "time": "11:00 - 20:00 WIB",
+                        "location": "Cihampelas Walk, Bandung"
+                    },
+                    {
+                        "event": "Kualifikasi Dota Tournament",
+                        "date": "2011-04-04 - 2011-04-07",
+                        "time": "11:00 - 17:00 WIB",
+                        "location": "GSG Unpar, Bandung"
+                    }
+                ],
+                "competition": {
+                    "categories": [
+                        {
+                            "name": "Cosplay Competition",
+                            "registration_period": "2011-03-07 - 2011-03-28",
+                            "registration_fee": {
+                                "individual": "Rp 15.000 / orang",
+                                "group": "Rp 50.000 / grup (max 5 orang/tim)"
+                            },
+                            "prizes": [
+                                "Juara 1: Rp 1.000.000",
+                                "Juara 2: Rp 750.000",
+                                "Juara 3: Rp 500.000",
+                                "Juara Favorit: Rp 250.000"
+                            ],
+                            "contact_person": [
+                                "Grace (085659331030)",
+                                "Christophorus (08997128943)"
+                            ]
+                        },
+                        {
+                            "name": "Dota Tournament (Khusus Rookie)",
+                            "registration_period": "2011-03-21 - 2011-03-28",
+                            "registration_fee": "Rp 150.000 / tim",
+                            "prizes": [
+                                "Juara 1: Rp 2.000.000 + Merchandise",
+                                "Juara 2: Rp 1.000.000 + Merchandise",
+                                "Juara 3: Rp 500.000 + Merchandise"
+                            ],
+                            "contact_person": [
+                                "Alvin (081809055086)",
+                                "Erick (08986023297)"
+                            ]
+                        }
+                    ]
+                },
+                "media_partners": [
+                    "Animonster",
+                    "Gamestation"
+                ],
                 "rangkaian_acara": [
                     "I-JET: Job fair, seminar, dan festival makanan",
                     "I-GECO: Kompetisi game online dan cosplay",
@@ -1085,7 +1265,9 @@
                 "GameStation Indonesia - Volume 188, June 2011, halaman 106"
             ],
             "category": [
-                "Musik - Band / Live Performance"
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament"
             ]
         },
         "location_country": "Indonesia",
@@ -2370,6 +2552,73 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20110528",
+        "Start Time": "10:00",
+        "End Date": "20110528",
+        "End Time": "19:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-MUP (Japan Music at Universitas Pancasila)",
+        "Location": "Lapangan Parkir Fakultas Teknik Universitas Pancasila",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "j_mup_japan_music_universitas_pancasila_2011_jakarta",
+        "location_address": "Jl. Lenteng Agung Raya No.56, RT.1/RW.3, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.339816006541813, 106.83325105291107",
+        "location_gmaps": "https://goo.gl/maps/6CtKq6EtVBfBPomG7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1GRqdxC5rJ/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "HME FTUP (Himpunan Mahasiswa Elektro Fakultas Teknik Universitas Pancasila)",
+            "ticket_info": {
+                "htm": "Free Entry / No HTM"
+            },
+            "guest_stars": [
+                "Obake",
+                "Honey Beat",
+                "Visual Band;it",
+                "Rosemary Marian"
+            ],
+            "featuring_performers": [
+                "Samusa Candy",
+                "Tokyo Lite",
+                "Circle of Dream"
+            ],
+            "events": [
+                "Live Band Performance",
+                "Cosplay Party"
+            ],
+            "competition": {
+                "band": {
+                    "registration_fee": "Rp 100.000 / band",
+                    "quota": "Limited"
+                }
+            },
+            "contact": {
+                "phone": [
+                    "085691115901 (Sora - Event)",
+                    "085691239203 (Bayu - Bazar)",
+                    "085692899832 (Hizu - Band)"
+                ]
+            }
+        }
+    },
+    {
         "Start Date": "20110529",
         "Start Time": "5:00 PM",
         "End Date": "20110529",
@@ -2778,6 +3027,89 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20110604",
+        "Start Time": "11:00",
+        "End Date": "20110605",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Groovy Comic Festival",
+        "Location": "Tribeca, Central Park Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "groovy_comic_festival_2011_jakarta",
+        "location_address": "Jl. Letjen S. Parman No.28, RT.3/RW.5, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.174933221381808, 106.79001078797182",
+        "location_gmaps": "https://goo.gl/maps/Q9NGGeztEBXqnJze8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/17oBnQxLQ2/",
+            "http://www.facebook.com/event.php?eid=212843165405020"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Convention / Expo / Comic Market",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Kabaret / Perform",
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri"
+            ],
+            "organizer": [
+                "MAKKO",
+                "HAI Magazine"
+            ],
+            "sponsors": [
+                "Toyota"
+            ],
+            "competition": {
+                "cosplay": {
+                    "date": "2011-06-04",
+                    "registration_fee": "Gratis (E-mail) / Rp 10.000 (OTS)",
+                    "categories": [
+                        "Tokusatsu",
+                        "Anime/Manga",
+                        "Original",
+                        "Games"
+                    ],
+                    "prizes": "Rp 1.000.000 / kategori"
+                },
+                "cosplay_cabaret": {
+                    "date": "2011-06-05",
+                    "registration_fee": "Gratis",
+                    "quota": "10 Group",
+                    "prizes": {
+                        "1st": "Rp 2.000.000",
+                        "2nd": "Rp 1.500.000",
+                        "3rd": "Rp 1.000.000"
+                    },
+                    "contact": [
+                        "085811116689 (Ryuuta)",
+                        "087878509335 (Verde-kun)"
+                    ]
+                },
+                "comic_competitions": [
+                    "Comic Character Battle",
+                    "Comic Strip Competition"
+                ]
+            },
+            "events": [
+                "15 Local Comic Artists Booth / Artist Convention",
+                "Comic Market",
+                "HAI Demos Music Stage / Band Performance",
+                "Talkshow",
+                "Cosplay & Cabaret Competition",
+                "Photo Session"
+            ]
+        }
+    },
+    {
         "Start Date": "20110607",
         "Start Time": "8:00 AM",
         "End Date": "20110608",
@@ -2808,6 +3140,274 @@
         "location_country": "United States",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20110611",
+        "Start Time": "15:00",
+        "End Date": "20110611",
+        "End Time": "22:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JIKAN CONCERT SAIGO NO MATSURI",
+        "Location": "Auditorium RRI Semarang",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jikan_concert_saigo_no_matsuri_2011_semarang",
+        "location_address": "Jl. Raya Purwodadi - Semarang No.1, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50136",
+        "location_city": "Semarang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.99229888331862, 110.42776478918978",
+        "location_gmaps": "https://maps.app.goo.gl/tC8ro7p2qvT1s2v28",
+        "links": [
+            "https://web.facebook.com/share/p/1DZSmb9vN1/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Cosplay - Kabaret / Perform",
+                "Cosplay - Competition / Coswalk",
+                "Festival / Matsuri",
+                "Gathering / Komunitas"
+            ],
+            "ticket_info": {
+                "htm": "Rp 15.000"
+            },
+            "competition": {
+                "band": {
+                    "name": "Battle Band Competition",
+                    "prizes": {
+                        "1st": "Rp 2.000.000",
+                        "2nd": "Rp 1.000.000"
+                    },
+                    "participants": [
+                        "Dalijo Death",
+                        "Extreme Babes",
+                        "Ultraman vs Godzilla",
+                        "Azumi",
+                        "Living Doll",
+                        "Aiden",
+                        "Ruins Arc",
+                        "Crows Saga"
+                    ]
+                },
+                "dance": {
+                    "name": "Battle Dance Competition",
+                    "prizes": {
+                        "1st": "Rp 1.000.000"
+                    },
+                    "participants": [
+                        "Cyborg",
+                        "Natural Skill Clan",
+                        "JStorm",
+                        "Mars Phoenix",
+                        "Glue",
+                        "High S",
+                        "SNSD",
+                        "Frozen Breeze",
+                        "G-Girls",
+                        "Key-U",
+                        "Double X Two",
+                        "Vanadium Angel"
+                    ]
+                },
+                "cosplay_cabaret": {
+                    "name": "Cosplay Cabaret Competition",
+                    "prizes": {
+                        "1st": "Rp 1.000.000"
+                    }
+                }
+            },
+            "guest_stars": [
+                "Shinbokyo",
+                "Strawberry Kiss"
+            ],
+            "events": [
+                "Battle Band Competition",
+                "Battle Dance Competition",
+                "Cosplay Cabaret Competition",
+                "Individual Cosplay (Special Gift)",
+                "Doorprize"
+            ],
+            "contact": {
+                "phone": [
+                    "081325629346 (Raya)"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20110611",
+        "Start Time": "10:00",
+        "End Date": "20110612",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Bunkasai SMA Labschool Jakarta 2011 - Japanesia",
+        "Location": "SMA Labschool Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bunkasai_sma_labschool_jakarta_japanesia_2011_jakarta",
+        "location_address": "Jl. Pemuda No.10, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.193215257511778, 106.88063777415772",
+        "location_gmaps": "https://maps.app.goo.gl/Quq68g26uUjC1DLF8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1EVaSRZCB2/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Kabaret / Perform",
+                "Musik - Band / Live Performance",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Ekstrakurikuler Bahasa Jepang SMA Labschool Jakarta",
+            "theme": "Japanesia",
+            "ticket_info": {
+                "htm": "Rp 5.000",
+                "rumah_hantu": "Rp 5.000"
+            },
+            "competition": {
+                "vocal_group": {
+                    "date": "2011-06-11",
+                    "time": "10.00 \u00e2\u20ac\u201c 12.00 WIB",
+                    "registration_fee": "Rp 15.000 / grup"
+                },
+                "shoudou": {
+                    "date": "2011-06-11",
+                    "time": "10.00 \u00e2\u20ac\u201c 12.00 WIB",
+                    "registration_fee": "Rp 15.000 / orang"
+                },
+                "doujinshi": {
+                    "date": "2011-06-11",
+                    "time": "13.00 \u00e2\u20ac\u201c 15.00 WIB",
+                    "registration_fee": "Rp 15.000 / orang"
+                },
+                "band": {
+                    "preliminary_date": "2011-06-11 (14.30 \u00e2\u20ac\u201c 16.30 WIB)",
+                    "final_date": "2011-06-12 (14.00 \u00e2\u20ac\u201c 15.00 WIB)",
+                    "registration_fee": "Rp 45.000 / grup"
+                },
+                "cosplay_individual": {
+                    "date": "2011-06-12",
+                    "time": "10.00 \u00e2\u20ac\u201c 11.00 WIB",
+                    "registration_fee": "Rp 15.000 / orang"
+                },
+                "cosplay_cabaret": {
+                    "date": "2011-06-12",
+                    "time": "13.30 \u00e2\u20ac\u201c 15.00 WIB",
+                    "registration_fee": "Rp 50.000 / grup"
+                },
+                "takoyaki_eating": {
+                    "registration": "On the spot (dibatasi 25 orang)"
+                }
+            },
+            "events": [
+                "Lomba Vocal Group",
+                "Lomba Shoudou (Kaligrafi)",
+                "Lomba Doujinshi",
+                "Lomba Band",
+                "Lomba Cosplay Perorangan",
+                "Lomba Cabaret",
+                "Takoyaki Eating Competition",
+                "Rumah Hantu",
+                "Bazaar"
+            ],
+            "contact": {
+                "phone": [
+                    "083870985253 (Tania)",
+                    "083893382106 (Indy)"
+                ],
+                "email": "labsbunkasai2011@yahoo.com"
+            }
+        }
+    },
+    {
+        "Start Date": "20110612",
+        "Start Time": "",
+        "End Date": "20110612",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "UNITOMO OMATSURI 2011 (Nihon Rashii Omatsuri)",
+        "Location": "Universitas DR. Soetomo (UNITOMO) Surabaya",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "unitomo_omatsuri_2011_surabaya",
+        "location_address": "Jl. Pumpungan II No.29, Menur Pumpungan, Kec. Sukolilo, Surabaya, Jawa Timur 60118",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.298419279542321, 112.76579371498362",
+        "location_gmaps": "https://maps.app.goo.gl/KmoZCpv1sKhE91ep8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1Bramyithj/",
+            "http://www.unitomo-omatsuri.com/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "Fakultas Sastra - Jurusan Sastra Jepang Universitas DR. Soetomo Surabaya",
+            "ticket_info": {
+                "htm": "GRATIS"
+            },
+            "competition": {
+                "sma": {
+                    "categories": [
+                        "Benrontaikai (Lomba Pidato Bahasa Jepang)",
+                        "Mading 3D",
+                        "Kawari mi no jutsu"
+                    ],
+                    "fee": "GRATIS"
+                },
+                "public": {
+                    "cosplay": {
+                        "registration_fee": "Rp 35.000"
+                    }
+                }
+            },
+            "events": [
+                "Festival Cultura (Yosakoi Odori, Taiko, Setsubun, Obon Matsuri, Tanabata, Kodomo no Hi, Himitsu Hanabi)",
+                "Arak-arakan Omikoshi",
+                "Mochizuki",
+                "Obake Yashiki",
+                "Tour Todai Tower (Photo Corner, Japan Education Corner)",
+                "Chibi Eigakan",
+                "Engi",
+                "Band Performance"
+            ],
+            "contact": {
+                "phone": [
+                    "08993662532 (Michiko)",
+                    "085231893055 (Reffi)"
+                ],
+                "email": "omatsuri2011@yahoo.com"
+            }
+        }
     },
     {
         "Start Date": "20110618",
@@ -2857,6 +3457,69 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20110619",
+        "Start Time": "",
+        "End Date": "20110619",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanism Music Fanatic / Jakarta Fair J-Fans Music",
+        "Location": "Arena PRJ Kemayoran",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "japanism_music_fanatic_2011_jakarta",
+        "location_address": "Jl. Benyamin Sueb No.12, RT.2, Pademangan Tim., Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14410",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.146943227986942, 106.84681185640488",
+        "location_gmaps": "https://goo.gl/maps/xS7djtgGtopDEHkR9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1EwmNqYNtW/",
+            "http://tiny.cc/9bhs9"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Festival / Matsuri",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Samurai Blue",
+            "part_of_event": "Jakarta Fair Kemayoran 2011",
+            "media_partners": [
+                "Animonster",
+                "JIExpo"
+            ],
+            "guest_stars": [
+                "JellyFish",
+                "Chick en Katsu",
+                "HoneybeaT",
+                "Samurai Blue feat kazu",
+                "Obake",
+                "Akatsuki",
+                "Zeal",
+                "Amakusa",
+                "Hachi",
+                "Foru band",
+                "Daishi"
+            ],
+            "events": [
+                "Tribute to YUI",
+                "Tribute to L'Arc-en-Ciel",
+                "YVS Esquire (Amazing Dance)",
+                "Solo Guitar From J-Fans United",
+                "Special Promo bring XJAPAN to INDONESIA! bXtI",
+                "Cover Idol: THE WONDERGIRLS 'nobody'",
+                "Cover Idol: KARA, SNSD"
+            ]
+        }
     },
     {
         "Start Date": "20110619",
@@ -3159,6 +3822,160 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20110715",
+        "Start Time": "",
+        "End Date": "20110715",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BEMMAGZ CHARITY 4 JAPAN (Rangkaian Indienation Charity Tour 2011)",
+        "Location": "Tangcity Mall - Atrium",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bemmagz_charity_4_japan_2011_tangerang",
+        "location_address": "Tangcity Mall, Jl. Perintis Kemerdekaan No.1, RT.001/RW.005, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15117",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.193405049910561, 106.63283410400662",
+        "location_gmaps": "https://goo.gl/maps/SSHGA4diVoMwvhxC7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1DVtmHc54Z/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance",
+                "Cosplay - Gathering / Parade / Casual",
+                "Bazaar / Market"
+            ],
+            "organizer": [
+                "Close 2 U Management",
+                "BEMMAGZ"
+            ],
+            "part_of_tour": "Indienation Charity Tour 2011",
+            "mc": [
+                "Okindie"
+            ],
+            "ticket_info": {
+                "htm": "NO HTM (Free)"
+            },
+            "events": [
+                "Paduan Suara Anak-anak Jepang",
+                "Sambutan Perwakilan Kedubes Jepang",
+                "Origami Workshop / Performance",
+                "Band Performance",
+                "Dance Performance",
+                "Cosplay",
+                "Anime Screening / Exhibition",
+                "Bazaar"
+            ],
+            "notable_details": {
+                "tour_scope": [
+                    "Indienation Charity Tour 2011 (Sumatera, Kalimantan, Sulawesi, Bali)",
+                    "Indienation World Tour 2011 (Jepang: Tokyo, Osaka, Yokohama)"
+                ]
+            },
+            "contact": {
+                "phone": [
+                    "021-99087674 / 08999357520 (Joey)",
+                    "021-83474966 (Walter)"
+                ],
+                "email": "bemmagz2@yahoo.com"
+            }
+        }
+    },
+    {
+        "Start Date": "20110716",
+        "Start Time": "",
+        "End Date": "20110717",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Festival Budaya Universitas Darma Persada (25th Unsada)",
+        "Location": "Universitas Darma Persada",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "festival_budaya_unsada_25th_2011_jakarta",
+        "location_address": "Jl. Taman Malaka Selatan No.8, RT.8/RW.6, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.230056049479367, 106.92413023066698",
+        "location_gmaps": "https://maps.app.goo.gl/FXPq5M1qeqjuXvXQ7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1CF7Fe5jWS/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas",
+                "Cosplay - Gathering / Parade / Casual",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "Fakultas Sastra Universitas Darma Persada (Jepang, Cina, Inggris, Diploma 3)",
+            "co_organizer": "Perhimpunan Alumni Persada dari Jepang",
+            "edition": "25th Unsada Anniversary",
+            "media_partners": [
+                "Rakyat Merdeka",
+                "101.4 Trax FM"
+            ],
+            "rundown": {
+                "2011-07-16": [
+                    "Fashion Show",
+                    "Marching Band",
+                    "Carnaval",
+                    "Maypole Dance",
+                    "Scotland Dance",
+                    "Angklung",
+                    "Pencak Silat",
+                    "Tari Bali",
+                    "Tari Ngarojeng",
+                    "Tari Lenggang Nyai",
+                    "Karaoke",
+                    "Teater Semut",
+                    "Games & Quiz",
+                    "Sepeda Tandem",
+                    "Tari Payung",
+                    "Tari Kipas",
+                    "Pesta Kostum",
+                    "Barongsai",
+                    "Wushu Shaolin",
+                    "Paduan Suara"
+                ],
+                "2011-07-17": [
+                    "Chanoyu",
+                    "Yosakoi Soran",
+                    "Ikebana",
+                    "Yukata no Kiakata",
+                    "Furoshiki",
+                    "Ooedo Sukarutaiko",
+                    "Okinawa Eisa",
+                    "Yosakoi Soran Tokyo",
+                    "Parade Omikoshi",
+                    "Bon Odori",
+                    "Tosa Yosakoi",
+                    "Guest Star Performance",
+                    "Rumah Hantu"
+                ]
+            },
+            "contact": {
+                "phone": "081932200555 (Dery)"
+            }
+        }
+    },
+    {
         "Start Date": "20110716",
         "Start Time": "16:00",
         "End Date": "20110716",
@@ -3368,7 +4185,84 @@
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Musik - Idol / VTuber",
+                "Dance Cover Competition",
+                "Cosplay - Competition / Coswalk",
+                "Kuliner / Cooking Competition",
+                "Game / Esports Tournament",
+                "Budaya Jepang - Seni Tradisional",
+                "Bazaar / Market"
+            ],
+            "organizer": "Ngguyu Entertainment",
+            "theme": "Semarang King Chef & Japan Matsuri 2011",
+            "edition": "2011",
+            "description": "Festival kebudayaan Jepang dan kompetisi memasak bergengsi yang diselenggarakan dalam rangka Anniversary Sri Ratu di Semarang.",
+            "dates_and_locations": [
+                {
+                    "date": "2011-07-23 - 2011-07-24",
+                    "time": "23 July at 3:00 PM \u00e2\u20ac\u201c 24 July at 9:00 PM",
+                    "location": "Parking Lot & Main Hall Sri Ratu Pemuda, Semarang"
+                }
+            ],
+            "guest_stars": [
+                "Strawberry Kiss JPOP",
+                "Scarlet",
+                "Chef Ragil (Celebrity Chef)"
+            ],
+            "performers": [
+                "MIST",
+                "\u00e7\u00b4\u2026-EVE-"
+            ],
+            "competition": {
+                "japan_matsuri": [
+                    "J-Band Competition",
+                    "Dance Competition",
+                    "Cosplay Competition",
+                    "Red Hot Ramen Competition",
+                    "Beyblade Competition"
+                ],
+                "cooking_competition": {
+                    "name": "Semarang King Chef (The Most Prestigious Cooking Competition in Semarang)",
+                    "location": "Main Hall Sri Ratu Pemuda",
+                    "prize_pool": "IDR 5.500.000",
+                    "categories": [
+                        {
+                            "level": "Amateur Level",
+                            "registration_fee": "IDR 125.000"
+                        },
+                        {
+                            "level": "Professional Level",
+                            "registration_fee": "IDR 250.000"
+                        }
+                    ]
+                }
+            },
+            "activities": [
+                "Taiko Performance",
+                "Soranboshi",
+                "Para-Para Dance",
+                "Kimono no Kikata",
+                "Stand Photobooth",
+                "Bazaar",
+                "Hanabi"
+            ],
+            "ticket_info": {
+                "price": "IDR 10.000"
+            },
+            "contact": {
+                "phone": [
+                    "081914592915",
+                    "081901633264",
+                    "081904482872 (For Registration)"
+                ],
+                "registration_box": "Ngguyu Entertainment (a.k.a Kedai Dhahar), Jl. Kelud Raya 150, Semarang"
+            },
+            "sponsors_and_supports": [
+                "Sri Ratu",
+                "Ngguyu Entertainment",
+                "Irodori"
             ]
         },
         "location_country": "Indonesia",
@@ -3399,14 +4293,88 @@
             "https://web.facebook.com/photo/?fbid=226197820754986&set=a.390990062403239",
             "https://web.facebook.com/photo/?fbid=313403048692375&set=a.313402938692386",
             "https://web.facebook.com/notes/1309944476023703/",
-            "https://web.facebook.com/media/set/?set=oa.10150266015083836&type=3"
+            "https://web.facebook.com/media/set/?set=oa.10150266015083836&type=3",
+            "https://web.facebook.com/share/p/1DpaQMRQ1Z/"
         ],
         "Content": {
             "event_type": "Cosplay Event",
-            "theme": "Cosplay Live Action Show Hybrid",
+            "theme": "CLAS:H - Cosplay Live Action Show: Hybrid",
             "category": [
-                "Cosplay - Competition / Coswalk"
-            ]
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Performance / Cabaret",
+                "Pop Culture Convention / Comic Con"
+            ],
+            "organizer": "Ennichisai Committee",
+            "co_organizer": "3N Production",
+            "edition": "2011",
+            "description": "Kompetisi cosplay nasional pertama di Indonesia (Indonesian Cosplay Championship) yang dinilai oleh juri cosplayer dan aktor internasional ternama, dilengkapi pertunjukan kabaret cosplay.",
+            "dates_and_locations": [
+                {
+                    "date": "2011-07-24",
+                    "time": "10:00 AM - End",
+                    "location": "Nusa Indah Theater - Balai Kartini, Jakarta - Indonesia"
+                }
+            ],
+            "judges": [
+                "KANAME (Cosplay Celebrity from Japan)",
+                "MARK MUSASHI (Actor & Stunt Man from USA)",
+                "ALODIA GOSIENGFIAO (Model, Cosplay Celebrity, Animax Asia Ambassador from The Philippines)",
+                "NAOKI DRACHEN (AFAX Champion from Thailand)",
+                "OROCHI-X (Cosplay Celebrity from Indonesia)",
+                "PINKY LU XUN (Cosplay Celebrity from Indonesia)"
+            ],
+            "performers": [
+                {
+                    "group": "DRACHEN",
+                    "type": "Featured Cosplay Cabaret (AFAX Champion Monster Hunter)"
+                },
+                {
+                    "group": "SAT KOMUTOKU",
+                    "type": "Featured Cosplay Cabaret (Stunt Actor Team Tokusatsu Heroes)"
+                }
+            ],
+            "mc": [
+                "Choky Sitohang"
+            ],
+            "activities": [
+                "Indonesian Cosplay Championship",
+                "Meet and Greet the Panel of Judges (VIP Only)",
+                "Featured Cosplay Cabaret Performances"
+            ],
+            "ticket_info": {
+                "pricing": [
+                    {
+                        "type": "VIP",
+                        "price": "Rp 350.000"
+                    },
+                    {
+                        "type": "K1",
+                        "price": "Rp 250.000"
+                    },
+                    {
+                        "type": "Tribune",
+                        "price": "Rp 150.000"
+                    }
+                ]
+            },
+            "contact": {
+                "phone": "Richie 08128147759 (SMS Only)"
+            },
+            "sponsors_and_supports": [
+                "ANA (A Star Alliance Member)",
+                "Ramen 38",
+                "Bank BNP",
+                "Aston Rasuna"
+            ],
+            "media_partners": [
+                "Animonster",
+                "Animax",
+                "GEN FM",
+                "Janna",
+                "Harian Republika",
+                "Jpopasia"
+            ],
+            "website": "www.clashcosplay.com"
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -3529,6 +4497,248 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20110729",
+        "Start Time": "",
+        "End Date": "20110729",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "L'arc en Ciel Nite",
+        "Location": "Shooter Plago",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "larc_en_ciel_nite_2011_bdg",
+        "location_address": "Jl. Purnawarman No.25, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "location_city": "Bandung",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.906398815906519, 107.61028943890675",
+        "location_gmaps": "https://maps.app.goo.gl/gJ8ye96MpcGeiWLz9",
+        "links": [
+            "https://web.facebook.com/share/p/1DEk7zFgfR/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas"
+            ],
+            "performers": {
+                "band": [
+                    "Chikazuki",
+                    "L'heure",
+                    "Kaze",
+                    "Littletrees",
+                    "Veints",
+                    "Fakestar"
+                ]
+            }
+        }
+    },
+    {
+        "Start Date": "20110730",
+        "Start Time": "",
+        "End Date": "20110731",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "SEN YUUREI NO MATSURI 2011",
+        "Location": "Pluit Village Mall",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "sen_yuurei_no_matsuri_2011_jakarta",
+        "location_address": "Jl. Pluit Indah No.12, RW.4, Pluit, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",
+        "location_city": "Jakarta Utara",
+        "location_coordinate": "-6.116351959329845, 106.78964039644276",
+        "location_gmaps": "https://goo.gl/maps/2pmEf5PHtcXj8c8F9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1Dps18LtfR/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Cosplay - Kabaret / Perform",
+                "Musik - Band / Live Performance",
+                "Convention / Expo / Comic Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Nippon Club BINUS",
+            "supported_by": "BINUS University",
+            "guest_stars": [
+                "Amakusa",
+                "Obake",
+                "HoneybeaT",
+                "Shuriken",
+                "Samurai Blue",
+                "Jakarta Keion Club"
+            ],
+            "competition": [
+                "Cosplay Competition",
+                "Cosplay Cabaret",
+                "J-Idol Look A Like",
+                "Horror Character Drawing",
+                "Takoyaki Eating Competition",
+                "Dorayaki Eating Competition",
+                "Karaoke Competition",
+                "Otaku Competition",
+                "Seiyuu Competition",
+                "Gothic Design Competition"
+            ],
+            "workshops": [
+                "Washi",
+                "Igo",
+                "Paper Craft",
+                "Sushi",
+                "Shodo",
+                "Himozukai (Flanel & Promise Ring)"
+            ],
+            "events": [
+                "Pameran Sejarah Hantu Jepang",
+                "Obake Yashiki",
+                "The King of Ghosts (Best Ghost Costume Prize)",
+                "Seni Beladiri Jepang by Bansai Dojo",
+                "Band Performance",
+                "Taiko",
+                "Haunted Theatre by ST Manis BINUS",
+                "Singing Performance by Paramabira BINUS",
+                "Dance Performance by Jessica's Stage",
+                "FlashMob",
+                "Hanabi",
+                "Yukata PhotoBooth",
+                "Bon Odori",
+                "Floating Lantern",
+                "Mini Comicet (Comic Market)"
+            ],
+            "social_media": {
+                "twitter": "@senyuum_nc"
+            }
+        }
+    },
+    {
+        "Start Date": "20110814",
+        "Start Time": "15:00",
+        "End Date": "20110814",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Buka Bareng Cosplay Bandung",
+        "Location": "Balai Kota",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "buka_bareng_cosplay_bandung_2011_bdg",
+        "location_address": "Jl. Wastukencana No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.911538486310211, 107.60980041178988",
+        "location_gmaps": "https://goo.gl/maps/EqERAy5hT1ZH37jG7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1FEMxCZ4tp/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Buka Bersama / Ramadan",
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Cosplay Bandung",
+            "ticket_info": {
+                "biaya_pendaftaran_makan": "Rp 15.000"
+            },
+            "contact": {
+                "kiki": "085722710190",
+                "uci": "085723120993"
+            }
+        }
+    },
+    {
+        "Start Date": "20110814",
+        "Start Time": "14:00",
+        "End Date": "20110814",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "BUKBER with Community Of L'Arc~en~Ciel Indonesia 2011",
+        "Location": "Panti Asuhan Muslimin - Senen, Jakarta Pusat",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "bukber_community_of_larc_en_ciel_indonesia_2011_jakarta",
+        "location_address": "RT.4/RW.2, Kramat, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10450",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.179615008826066, 106.84277358592745",
+        "location_gmaps": "https://maps.app.goo.gl/8raE9tPkEWRoYxjq8",
+        "links": [
+            "https://web.facebook.com/share/p/18yz2Xx7HC/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance",
+                "Charity / Buka Bersama"
+            ],
+            "organizer": "Community Of L'Arc~en~Ciel Indonesia (Cielers)",
+            "ticket_info": {
+                "htm": "Rp 30.000",
+                "inclusions": "Makanan, Takjil, Minuman, serta Sumbangan untuk anak panti",
+                "payment_account": "BCA 7600388953 a/n Dennis Michael Washington"
+            },
+            "performers": [
+                "Obake",
+                "HaChi",
+                "Last Exile",
+                "Shirushi",
+                "Movearly"
+            ],
+            "social_activities": {
+                "charity_donation": [
+                    "Pakaian bekas layak pakai",
+                    "Alat tulis",
+                    "Buku bacaan",
+                    "Sembako / Makanan",
+                    "Dana cash"
+                ]
+            },
+            "contact": {
+                "info_ticket": [
+                    "08568857728 (Risca)",
+                    "08176402087 (Kiranie)"
+                ],
+                "regional_coordinators": {
+                    "depok": "08568857728 (Risca)",
+                    "bogor": "085719828939 (Linda)",
+                    "bekasi": "081808339363 (Johan)",
+                    "jak_ut": "08176402087 (Kiranie)",
+                    "jak_sel": "085695492218 (Dyaz)",
+                    "jak_tim": "083897273772 (Mach)"
+                }
+            }
+        }
     },
     {
         "Start Date": "20110817",
@@ -3888,6 +5098,60 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20111001",
+        "Start Time": "",
+        "End Date": "20111002",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cosplay Matsuri",
+        "Location": "Bogor Trade Mall, Lantai 4",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "cosplay_matsuri_2011_bogor",
+        "location_address": "Jl. Ir. H. Juanda No.68, RT.01/RW.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+        "location_city": "Bogor",
+        "location_coordinate": "-6.604591458820669, 106.79618241756523",
+        "location_gmaps": "https://goo.gl/maps/nk1sQWGejPTjyVEJ9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1CN4A4YGuk/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Musik - Band / Live Performance",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "organizer": "Bogor Trade Mall",
+            "competition": {
+                "categories": [
+                    "Cosplay Competition",
+                    "Modern Dance Competition"
+                ]
+            },
+            "events": [
+                "Band Performs",
+                "Kursus Singkat Bahasa Jepang (Gratis)",
+                "Manga Workshop (Gratis)",
+                "Sushi Class (Gratis)"
+            ],
+            "contact": {
+                "atunk_dance_and_band": "08989796102",
+                "yelni_cosplay_and_stand": "081317816442"
+            }
+        }
+    },
+    {
         "Start Date": "20111002",
         "Start Time": "",
         "End Date": "20111002",
@@ -3922,6 +5186,65 @@
         },
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20111009",
+        "Start Time": "11:00",
+        "End Date": "20111009",
+        "End Time": "16:30",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mangaloid Arigatou",
+        "Location": "SMA Negeri 32 Jakarta - Ruang Audio Visual",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "mangaloid_arigatou_2011_jakarta",
+        "location_address": "Komp. Setneg Baru, Jl. Cidodol Raya Jl. Panjang Cidodol, RT.3/RW.05, Grogol Sel., Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12220",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.232074364190102, 106.77427170422908",
+        "location_gmaps": "https://maps.app.goo.gl/JZuq3FYg9iQRpGS18",
+        "links": [
+            "https://web.facebook.com/share/p/1HpbLnaSYb/",
+            "http://www.facebook.com/event.php?eid=225926717461666"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Gathering / Komunitas",
+                "Convention / Expo / Comic Market",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "Manga Brigade SMAN 32 Jakarta",
+            "speakers": [
+                "Li Julian (Komikus / Ilustrator Animonster, komik 'Archi & Meidy')"
+            ],
+            "ticket_info": {
+                "htm": "Rp 5.000",
+                "inclusions": [
+                    "Free Onigiri",
+                    "Merchandise Mangaloid"
+                ],
+                "quota": "120 Kursi (SMP/SMA/Mahasiswa/i)"
+            },
+            "events": [
+                "Seminar Manga/Komik bersama Li Julian ('Character Building')",
+                "Band Performance",
+                "Dance Performance by 32"
+            ],
+            "contact": {
+                "registration": "08561525692 (Format: Mangaloid <Nama> <Asal Sekolah>)",
+                "phone": [
+                    "083892017302 (Michelle)",
+                    "083870976795 (Kahfi)"
+                ]
+            }
+        }
     },
     {
         "Start Date": "20111016",
@@ -4279,6 +5602,235 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20111112",
+        "Start Time": "09:00",
+        "End Date": "20111112",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Natsu No Hi 2011 Fakultas Psikologi UI",
+        "Location": "Fakultas Psikologi Universitas Indonesia",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "natsu_no_hi_2011_fakultas_psikologi_ui_depok",
+        "location_address": "Jl. Lkr. Kampus Raya Jl. Prof. DR. R Slamet Iman Santoso, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+        "location_city": "Depok",
+        "location_coordinate": "-6.362684107014814, 106.83051725683049",
+        "location_gmaps": "https://maps.app.goo.gl/yy6GmShthSSp6mZp9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1Lyd32SVQj/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Fakultas Psikologi Universitas Indonesia",
+            "events": [
+                "Lomba",
+                "Workshop",
+                "Band Performance (J-Music)",
+                "Bazar Makanan & Pernak-Pernik Jepang",
+                "Rumah Hantu",
+                "Bon Odori",
+                "Kuis Berhadiah"
+            ],
+            "rundown": {
+                "10:15 - 10:30": "Pembukaan MC Pengumuman lomba n alat utk karaoke",
+                "10:30 - 12:00": "Lomba Sudoku & Origami maks 7'' lagu, 3'' preparation dgn MC",
+                "12:00 - 12:02": "MC Cosplay preparation (sound)",
+                "12:02 - 12:19": "Senichiya",
+                "12:19 - 12:21": "MC",
+                "12:21 - 12:38": "Dark rose",
+                "12:38 - 12:40": "MC",
+                "12:40 - 14:48": "Lomba Karaoke",
+                "14:48 - 14:50": "MC",
+                "14:50 - 15:07": "Giribangun",
+                "15:07 - 15:10": "MC Band preparation",
+                "15:10 - 15:27": "Fukai Mori",
+                "15:27 - 15:30": "MC",
+                "15:30 - 15:47": "Tokyo Lite",
+                "15:47 - 15:50": "MC",
+                "15:50 - 16:00": "Cover Dance",
+                "16:00 - 16:03": "MC",
+                "16:03 - 16:20": "Mea",
+                "16:20 - 16:23": "MC Penutupan vote karaoke 16.30",
+                "16:23 - 16:45": "Honey Beat",
+                "16:45 - 16:55": "MC kuis Pengumuman Lomba komik & karaoke",
+                "16:55 - 17:17": "Seize",
+                "17:17 - 17:20": "MC",
+                "17:20 - 17:42": "Kikai Choosi",
+                "17:42 - 18:05": "Istirahat Magrib MC: 20 menit",
+                "18:05 - 18:10": "MC Band preparation",
+                "18:10 - 18:40": "Hachi",
+                "18:40 - 18:45": "MC",
+                "18:45 - 19:15": "Obake",
+                "19:15 - 19:20": "MC Bon Odori Preparation",
+                "19:20 - 19:35": "Bon Odori",
+                "19:35 - 19:40": "MC penutup"
+            }
+        }
+    },
+    {
+        "Start Date": "20111112",
+        "Start Time": "",
+        "End Date": "20111126",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JGTC Competition: The 34th Jazz Goes To Campus Exhibition",
+        "Location": "Grand Indonesia Shopping Town",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jgtc_competition_34th_2011_jkt",
+        "location_address": "Jl. M.H. Thamrin No.1, Kb. Melati, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+        "location_city": "Jakarta Pusat",
+        "location_coordinate": "-6.1949774380573075, 106.82047338294954",
+        "location_gmaps": "https://goo.gl/maps/ybgT6tAYA3bScf3J7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1EX6x8TWs4/",
+            "http://www.jgtcfestival.com"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Education - School Event",
+                "Music - Concert / Tour"
+            ],
+            "organizer": "The 34th Jazz Goes To Campus (FEB UI)",
+            "edition": "34",
+            "description": "Kompetisi musik jazz rangkaian acara The 34th Jazz Goes To Campus yang dilengkapi dengan klinik musik gratis, babak kualifikasi, dan babak final di Grand Indonesia[cite: 19].",
+            "rounds": [
+                {
+                    "stage": "Qualification Round",
+                    "date": "12-13 November 2011",
+                    "location": "Blitz Atrium, Grand Indonesia"
+                },
+                {
+                    "stage": "Final Round",
+                    "date": "26 November 2011",
+                    "location": "Fountain Atrium, Grand Indonesia"
+                }
+            ],
+            "judges": [
+                "Benny Likumahuwa",
+                "Sandy Winarta",
+                "Denny Sakrie"
+            ],
+            "guest_stars": [
+                "Adithia Sofyan",
+                "Andre Harihandoyo and Sonicpeople"
+            ],
+            "clinicians": [
+                "Oele Pattiselanno (Guitar)",
+                "Dimas Aditya Pradipta (Drum)",
+                "Fajar Adi Nugroho (Bass)",
+                "Donny Jusran (Keyboard)"
+            ],
+            "competition_info": {
+                "registration_period": "26 September - 4 November 2011",
+                "registration_fees": [
+                    {
+                        "period": "26 September - 9 Oktober 2011",
+                        "fee": "Rp 175.000"
+                    },
+                    {
+                        "period": "10 Oktober - 4 November 2011",
+                        "fee": "Rp 200.000"
+                    }
+                ],
+                "prizes": "Total hadiah hingga 9 juta rupiah"
+            },
+            "contact": {
+                "contact_person": [
+                    {
+                        "name": "Todo",
+                        "phone": "081282220042"
+                    },
+                    {
+                        "name": "Ninda",
+                        "phone": "0816888413"
+                    }
+                ],
+                "twitter": "@JGTCfestival"
+            }
+        }
+    },
+    {
+        "Start Date": "20111113",
+        "Start Time": "09:00",
+        "End Date": "20111113",
+        "End Time": "17:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "JASUN'FEST - MATSURI 2011 (Japan Sunda Festival)",
+        "Location": "Mayasari Plaza Tasikmalaya",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jasun_fest_matsuri_2011_tasikmalaya",
+        "location_address": "Komplek. Mayasari Arcade, Jl. Pasar Wetan, Argasari, Kec. Cihideung, Kab. Tasikmalaya, Jawa Barat 46122",
+        "location_city": "Tasikmalaya",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.327524856817166, 108.21562595878135",
+        "location_gmaps": "https://maps.app.goo.gl/Ep48cps4ZTbs2Dey5",
+        "links": [
+            "https://web.facebook.com/share/p/1DuK8NKmLe/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "J-FANTASY (Japan Fans Tasikmalaya)",
+            "theme": "Japan Sunda Festival (Ja-Sun)",
+            "guest_stars": [
+                "JellyFish"
+            ],
+            "competition": [
+                "Cosplay Competition",
+                "Manga (Design Character)"
+            ],
+            "events": [
+                "Parade Band",
+                "Silang Budaya (Ja-Sun)",
+                "Games Doorprize",
+                "Bazaar"
+            ],
+            "contact": {
+                "phone": [
+                    "087826619689 (Ryan)",
+                    "083874466442 (Amy)",
+                    "085223522522 (Chiw)"
+                ],
+                "email": "jft_sakuratsuki@yahoo.com"
+            }
+        }
+    },
+    {
         "Start Date": "20111119",
         "Start Time": "",
         "End Date": "20111120",
@@ -4301,16 +5853,119 @@
         "links": [
             "https://web.facebook.com/groups/251875943835/posts/10150331306363836/",
             "https://jimat-unj.blogspot.com/",
-            "https://web.facebook.com/groups/251875943835/posts/10150330639428836/"
+            "https://web.facebook.com/groups/251875943835/posts/10150330639428836/",
+            "https://web.facebook.com/share/p/18UxtcvvJq/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar",
+                "Bazaar / Market"
+            ],
+            "organizer": "Pendidikan Bahasa Jepang Universitas Negeri Jakarta (UNJ)",
+            "theme": "Jiyuu Matsuri 2011: 2 Dunia 2 Budaya 1 Cinta - When Gatot Kaca and Kamen Rider Say Go Green",
+            "edition": "2011",
+            "description": "Festival kebudayaan Jepang tahunan yang diselenggarakan oleh Program Studi Pendidikan Bahasa Jepang Universitas Negeri Jakarta dengan mengusung tema ramah lingkungan (Go Green) dan perpaduan budaya.",
+            "dates_and_locations": [
+                {
+                    "date": "2011-11-19 - 2011-11-20",
+                    "location": "Lapangan Perpustakaan Kampus A Universitas Negeri Jakarta"
+                }
+            ],
+            "activities": [
+                "Lomba Tingkat SMA",
+                "Lomba Umum",
+                "Lomba Outdoor",
+                "Band Performance / Festival Band",
+                "Seminar",
+                "Bazaar"
+            ],
+            "ticket_info": {
+                "price": "FREE HTM"
+            },
+            "contact": {
+                "ketua_pelaksana": "Djuani (085711161976)",
+                "lomba_sma": "Lyra (085780088303)",
+                "lomba_umum": "Neno (083871498731)",
+                "lomba_outdoor": "Dea (083870640717)",
+                "band": "Rie (08176423907)",
+                "seminar": "Anggun (085780650634)",
+                "sponsorship": "Rangga (085711285329)",
+                "media_partner": "Nifa (08568653098)",
+                "bazaar": "Santi (08561403446)"
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20111120",
+        "Start Time": "13:00",
+        "End Date": "20111120",
+        "End Time": "18:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ganbatte Cosplay Competition & Gathering Penggemar Jepang II",
+        "Location": "Mall Balcony Balikpapan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ganbatte_cosplay_competition_gathering_ii_2011_balikpapan",
+        "location_address": "Jl. Jenderal Sudirman, Pasar Baru, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur",
+        "location_city": "Balikpapan",
+        "location_coordinate": "-1.2777839600345369, 116.84144407347694",
+        "location_gmaps": "https://goo.gl/maps/p4DpXyyXq3Yk2ygH6",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1K4EMWPqu5/",
+            "http://www.mediafire.com/?7a91qp50c996tsc",
+            "http://www.mediafire.com/?aoqct2bs29dds2q"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Cosplay - Competition / Coswalk",
+                "Gathering / Komunitas",
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "Cosplay Unity Balikpapan",
+            "edition": "II",
+            "competition": {
+                "cosplay": {
+                    "categories": [
+                        "Based from Anime, Manga, Tokusatsu dan Game",
+                        "Original"
+                    ],
+                    "registration_period": "28 September s/d 10 November 2011",
+                    "registration_fee": {
+                        "individuu": "Rp 35.000",
+                        "team": "Rp 200.000 / team"
+                    }
+                }
+            },
+            "events": [
+                "Cosplay Competition",
+                "Band Performance",
+                "Gathering Penggemar Jepang"
+            ],
+            "contact": {
+                "phone": [
+                    "085247691154 (Wendy)",
+                    "08565316881 (Mashiro)"
+                ]
+            },
+            "social_media": {
+                "facebook": "Cosplay Unity Balikpapan"
+            }
+        }
     },
     {
         "Start Date": "20111122",
@@ -4343,6 +5998,176 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20111125",
+        "Start Time": "",
+        "End Date": "20111126",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Seni Taman XII - Bento Box",
+        "Location": "Universitas Pancasila - Lenteng Agung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "seni_taman_xii_bento_box_2011_jakarta",
+        "location_address": "Jl. Lenteng Agung Raya No.56, RT.1/RW.3, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.339816006541813, 106.83325105291107",
+        "location_gmaps": "https://goo.gl/maps/6CtKq6EtVBfBPomG7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/17aAvZM2HQ/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Cosplay - Gathering / Parade / Casual",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Pancasila Economic Art Division",
+            "edition": "XII",
+            "guest_stars": [
+                "Jelly Fish",
+                "Obake",
+                "Honey Beat"
+            ],
+            "competition": {
+                "band": {
+                    "name": "Band Competition Se-Jabodetabek (Piala Gubernur DKI Jakarta)",
+                    "registration_fee": "Rp 150.000",
+                    "prize_pool": "Jutaan Rupiah + Sertifikat",
+                    "registration_deadline": "18 November 2011",
+                    "song_requirements": [
+                        "Tradisional",
+                        "Jepang"
+                    ],
+                    "quota": "Maksimal 15 Band"
+                }
+            },
+            "events": [
+                "Dance Performances",
+                "Cosplay Party",
+                "Pementasan Teater \"Kleng\"",
+                "Teater Perform \"Enzuku\"",
+                "Workshop & Coaching Clinic (Farabi Course)",
+                "Beatbox",
+                "Taiko (D'Geprax)",
+                "Hanabi",
+                "Bon Odori",
+                "Stand Art",
+                "Bazaar"
+            ],
+            "contact": {
+                "band": "085697658390 (Haru) / 085710003152 (Ryu)",
+                "dance": "083819962106 (Olive) / 085217227381 (Emon)",
+                "bazaar": "08567106580 (Galah)"
+            }
+        }
+    },
+    {
+        "Start Date": "20111126",
+        "Start Time": "",
+        "End Date": "20111127",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japan Pop Culture 2011 ~Chou Moe~",
+        "Location": "GP Sawunggaling, Fakultas Bahasa dan Seni UNESA Lidah Wetan",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "japan_pop_culture_chou_moe_2011_surabaya",
+        "location_address": "Jl. Pakuwon Indah, Lidah Wetan, Kec. Lakarsantri, Surabaya, Jawa Timur 60213",
+        "location_city": "Surabaya",
+        "location_coordinate": "-7.295549688684576, 112.67466381890077",
+        "location_gmaps": "https://maps.app.goo.gl/HwujTnuj88mKPByL7",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1HqFS13nMM/",
+            "http://twitter.com/#!/jpc_unesa",
+            "http://japanpopculture.multiply.com"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Convention / Expo / Comic Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "BEMPS Pendidikan Bahasa Jepang Fakultas Bahasa dan Seni UNESA",
+            "edition": "Ke-4",
+            "theme": "\u00e8\u00b6\u2026\u00e3\u0192\u00a2\u00e3\u201a\u00a8 ~Chou Moe~",
+            "tagline": "Asimilasi Budaya untuk Pendidikan Berkarakter di Indonesia",
+            "ticket_info": {
+                "htm": "Rp 15.000"
+            },
+            "guest_stars": [
+                "Otaku In Deep",
+                "Akiba",
+                "Atsui"
+            ],
+            "competition": {
+                "cosplay": {
+                    "registration_deadline": "27 November 2011 (1 jam sebelum acara)",
+                    "registration_fee": {
+                        "individu": "Rp 25.000",
+                        "team": "Rp 60.000"
+                    }
+                },
+                "public": [
+                    "Karaoke",
+                    "Design Chara",
+                    "Chiisai Manga",
+                    "Mi.Pho.Kon (Mi. Pho. Kon.)",
+                    "Cosplay",
+                    "Seiyuu & Dubbing Contest",
+                    "Rodoku"
+                ],
+                "sma": [
+                    "Lomba SMA (Pendaftaran s/d 14 Oktober 2011)"
+                ]
+            },
+            "events": [
+                "Seminar (Hari Pertama)",
+                "Acara Puncak (Hari Kedua)",
+                "Parade Band",
+                "Taiko",
+                "Dorama",
+                "Yosakoi",
+                "Vocal Group",
+                "Sakura Odori",
+                "Tari Tradisional",
+                "Bon Odori",
+                "Hanabi"
+            ],
+            "contact": {
+                "phone": [
+                    "085746481987 / 085645190550 (Bidari / Becky - Lomba)",
+                    "085649337576 (Ardian - Band)",
+                    "085655188115 (Kiki - Humas/Sponsor)",
+                    "085235081265 (Ika - Seminar)"
+                ],
+                "email": "japanpopculture@yahoo.com"
+            },
+            "social_media": {
+                "twitter": "@jpc_unesa"
+            }
+        }
     },
     {
         "Start Date": "20111126",
@@ -4504,11 +6329,37 @@
         "location_country": "Indonesia",
         "location_coordinate": "-7.827447237373781, 111.99732337730886",
         "location_gmaps": "https://maps.app.goo.gl/o8qH5zy7uRVCitKC6",
-        "links": [],
+        "links": [
+            "https://web.facebook.com/share/p/1BhAnd4bmu/",
+            "http://s299.photobucket.com/albums/mm315/xiao_mao13/?action=view&current=PamfletBloodBath-Ketentuan.jpg"
+        ],
         "Content": {
             "category": [
-                "Anime - Convention / Fan Event"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Game / Esports Tournament",
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas"
             ],
+            "organizer": "Radio FM Bonansa",
+            "theme": "Blood Bath",
+            "events": [
+                "Yugi Oh! Card Tournament",
+                "Drawing Competition",
+                "Cosplay Competition",
+                "Dance Competition",
+                "Band Performance",
+                "KPA Let's Talk",
+                "Nonton Bareng"
+            ],
+            "contact": {
+                "phone": [
+                    "089679345776 (Xiao)",
+                    "085655628556 (Jimi)",
+                    "085655782555 (Meilinda)",
+                    "085736341571 (Andika)"
+                ]
+            },
             "location_province": "Jawa Timur",
             "source": "AMH Magz! #4"
         },
@@ -4536,12 +6387,59 @@
         "location_country": "Indonesia",
         "location_coordinate": "-6.592720784712318, 106.8036176574264",
         "location_gmaps": "https://maps.app.goo.gl/Kbz17wGgPDATP1Ku6",
-        "links": [],
+        "links": [
+            "https://web.facebook.com/share/p/1BgYiyjHn8/"
+        ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
             ],
+            "organizer": "Jamanlo (Jepang Manggarai Lovers)",
+            "theme": "Ame No Matsuri 1.5 - Road To The 2nd Season",
             "edition": "1.5",
+            "description": "Festival musik dan cosplay yang diselenggarakan di Pro2FM RRI Bogor dengan berbagai kompetisi, bazaar makanan & merchandise, serta pertunjukan spesial.",
+            "dates_and_locations": [
+                {
+                    "date": "2011-12-04",
+                    "location": "Pro2FM RRI Bogor, Jl. Pangrango No. 34 Bogor"
+                }
+            ],
+            "competition": {
+                "categories": [
+                    {
+                        "name": "Band Festival",
+                        "registration_fee": "Rp 50.000 / Band",
+                        "contact_person": "Lazz (0857 1950 4626)"
+                    },
+                    {
+                        "name": "Cosplay Competition",
+                        "registration_fee": "Rp 15.000 / Orang",
+                        "contact_person": "Abuto (0856 9553 8005)"
+                    }
+                ]
+            },
+            "activities": [
+                "Band Festival",
+                "Cosplay Competition",
+                "Merchandise & Food Bazaar",
+                "Special Perform"
+            ],
+            "ticket_info": {
+                "price": "FREE HTM"
+            },
+            "contact": {
+                "bazaar": "Redy (0838 1934 7979)"
+            },
+            "sponsors_and_supports": [
+                "Pro2FM 106.8 FM RRI Bogor"
+            ],
+            "social_media": {
+                "twitter": "jamanlo",
+                "facebook": "/Groups/jamanlo"
+            },
             "source": "AMH Magz! #4"
         },
         "date_precision": "day",
@@ -4635,12 +6533,58 @@
         "location_country": "Indonesia",
         "location_coordinate": "-6.5944559544065795, 106.79404159084525",
         "location_gmaps": "https://maps.app.goo.gl/cFqFFszRkjE48Tut7",
-        "links": [],
+        "links": [
+            "https://web.facebook.com/share/p/1GnQLWFqgP/"
+        ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Dance Cover Competition",
+                "Budaya Jepang - Seni Tradisional",
+                "Cosplay - Performance / Cabaret",
+                "Bazaar / Market",
+                "Anime - Screening / Nobar"
             ],
+            "organizer": null,
+            "theme": "Bonenkai Festival",
             "edition": "6",
+            "description": "Festival kebudayaan dan hiburan Jepang yang diselenggarakan di Hotel Salak The Heritage Bogor dengan menghadirkan kompetisi, pertunjukan musik, tarian, kebudayaan tradisional, bazaar, hingga kembang api (hanabi).",
+            "dates_and_locations": [
+                {
+                    "date": "2011-12-17 - 2011-12-18",
+                    "location": "Hotel Salak The Heritage Bogor"
+                }
+            ],
+            "activities": [
+                "Cosplay Competition",
+                "Japan Band Performance",
+                "Japindo Dance Competition",
+                "Japanese Food",
+                "Cabaret Performance",
+                "Taiko",
+                "Ninjitsu",
+                "Chanoyu",
+                "Manga",
+                "Dorama",
+                "Koto",
+                "Yukata",
+                "Shodo",
+                "Bazaar",
+                "Movie",
+                "Bon Odori",
+                "Hanabi"
+            ],
+            "ticket_info": {
+                "price": "Rp 15.000"
+            },
+            "contact": {
+                "phone": [
+                    "M. Sofarudin (081380773146)",
+                    "Meilia (085715225174)"
+                ]
+            },
             "source": "AMH Magz! #4"
         },
         "date_precision": "day",
@@ -4698,7 +6642,8 @@
         "location_coordinate": "-6.888967570246753, 107.60351241363773",
         "location_gmaps": "https://g.page/sman2bandung",
         "links": [
-            ""
+            "https://web.facebook.com/watch/?v=2502014429817",
+            "https://web.facebook.com/share/p/1MAdkLoL7Q/"
         ],
         "Content": {
             "category": [

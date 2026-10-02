@@ -400,6 +400,78 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20120311",
+        "Start Time": "13:00",
+        "End Date": "20120311",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "J-Blast Vol.2 The Gazette Night",
+        "Location": "Chic's Musik",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "j_blast_vol_2_the_gazette_night_2012_jkt",
+        "location_address": "Jl. Pemuda No.65, RT.1/RW.8, Jati, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+        "location_city": "Jakarta Timur",
+        "location_coordinate": "-6.193864866900822, 106.89445069342825",
+        "location_gmaps": "https://g.page/EastSquare",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1C6k95KiGE/",
+            "https://web.facebook.com/share/p/1DeKB9P1V1/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Dance Cover Competition",
+                "Bazaar / Market",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "J-Blast Vol. 2",
+            "co_organizer": "Gazerock Indonesia (GI)",
+            "edition": "2",
+            "performers": {
+                "tribute_band": [
+                    "Fukai Mori",
+                    "Black Moral",
+                    "Thirteen Stairs",
+                    "Movearly",
+                    "Ube",
+                    "Meyza",
+                    "Chizu",
+                    "D'Ark Rose",
+                    "Movi",
+                    "Shitake",
+                    "Uwabaki",
+                    "Sennichiya Revolution",
+                    "So Long Gravity",
+                    "Sakura Symphonia",
+                    "Kyoto Krad",
+                    "Zanrokku",
+                    "Gosei"
+                ],
+                "dance_perform": [
+                    "Summerlady",
+                    "She Create",
+                    "Ren Ai"
+                ]
+            },
+            "ticket_info": {
+                "presale": "Rp 5.000",
+                "ots": "Rp 7.500"
+            },
+            "contact": {
+                "takochi": "089652234024"
+            }
+        }
+    },
+    {
         "Start Date": "20120318",
         "Start Time": "9:00 AM",
         "End Date": "20120318",
@@ -420,7 +492,7 @@
         "location_coordinate": "-6.899305216434625, 107.61110849644825",
         "location_gmaps": "https://goo.gl/maps/FjcnpXvdhA6sL2kx5",
         "links": [
-            ""
+            "https://web.facebook.com/share/v/1DjvcCAUdY/"
         ],
         "Content": {
             "category": [
@@ -512,9 +584,9 @@
         }
     },
     {
-        "Start Date": "20120427",
+        "Start Date": "20120428",
         "Start Time": "11:00 AM",
-        "End Date": "20120427",
+        "End Date": "20120428",
         "End Time": "11:30 AM",
         "Reminder On/Off": "Yes",
         "Reminder Date": "20120427",
@@ -532,7 +604,8 @@
         "location_coordinate": "-6.897720164368746, 107.64543348295432",
         "location_gmaps": "https://g.page/universitas-widyatama",
         "links": [
-            ""
+            "https://web.facebook.com/share/v/1DGt5kCUG7/",
+            "https://web.facebook.com/share/1957DuoTx6/"
         ],
         "Content": {
             "category": [

@@ -20,12 +20,76 @@
         "location_coordinate": "-6.911944369256297, 107.61552869644652",
         "location_gmaps": "https://goo.gl/maps/SPHRdLNtVkGTz7638",
         "links": [
-            ""
+            "https://web.facebook.com/share/14q1GBbGxTF/"
         ],
         "Content": {
             "category": [
-                "Musik - Band / Live Performance"
-            ]
+                "Festival / Matsuri",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Musik - Band / Live Performance",
+                "Desain / Lomba Kreatif",
+                "Cosplay - Performance / Cabaret"
+            ],
+            "organizer": "SMAN 5 Bandung",
+            "theme": "TAMAGOCHI",
+            "edition": "2010",
+            "dates_and_locations": [
+                {
+                    "date": "2010-01-16 - 2010-01-17",
+                    "location": "SMAN 5 Bandung"
+                }
+            ],
+            "activities": [
+                "Kana Kontesuto",
+                "Shuji",
+                "Rodoku",
+                "Supiichi Kontesuto",
+                "Manga Kontesuto",
+                "Para-Para",
+                "Battle Band",
+                "Costume Player Cabaret"
+            ],
+            "registration": {
+                "period": [
+                    {
+                        "date": "2009-01-04 - 2009-01-10",
+                        "time": "08.00-13.00 WIB",
+                        "location": "SMAN 5 Bandung"
+                    },
+                    {
+                        "date": "2009-01-11 - 2009-01-13",
+                        "time": "14.00-16.00 WIB",
+                        "location": "SMAN 5 Bandung",
+                        "note": "Konfirmasi ke CP dulu"
+                    }
+                ],
+                "battle_band_selection": {
+                    "date": "2009-01-06",
+                    "time": "12.30-15.00 WIB",
+                    "location": "Hole Music, Jl. Suryalaya, Komplek Pengairan, Buah Batu",
+                    "requirement": "Membawakan satu lagu untuk masing-masing band"
+                },
+                "technical_meeting": [
+                    {
+                        "for": "Band & Cosukaba",
+                        "date": "2009-01-11",
+                        "time": "14.00-16.00 WIB",
+                        "location": "SMAN 5 Bandung"
+                    },
+                    {
+                        "for": "Lomba Lain",
+                        "date": "2009-01-12",
+                        "time": "14.00-16.00 WIB",
+                        "location": "SMAN 5 Bandung"
+                    }
+                ]
+            },
+            "contact": {
+                "phone": [
+                    "Zegha (085720207070)",
+                    "Ganis (081322097958)"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -95,6 +159,56 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20100131",
+        "Start Time": "07:30",
+        "End Date": "20100131",
+        "End Time": "20:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Animaku no Hibi 2 Hatsuyume",
+        "Location": "Lapangan A Kampus STAN",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "animaku_no_hibi_2_hatsuyume_2010_bintaro",
+        "location_address": "Jl. Bintaro Utama 3A Sektor V, Jurang Manggu Tim., Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15222",
+        "location_city": "Tangerang Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.267959443059422, 106.73285404737656",
+        "location_gmaps": "https://maps.app.goo.gl/kM2LZFbjA1cUicTp7",
+        "links": [
+            "https://web.facebook.com/share/p/1PpJcduEm4/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Bazaar / Market",
+                "Musik - Band / Live Performance",
+                "Cosplay - Gathering / Parade / Casual",
+                "Budaya Jepang - Seni Tradisional"
+            ],
+            "organizer": "Animaku",
+            "edition": "2",
+            "events": [
+                "Bazaar",
+                "Band",
+                "Taiko",
+                "Aikido",
+                "Para2",
+                "Cosplay"
+            ],
+            "ticket_info": {
+                "htm": "Rp 5.000",
+                "note": "Free for mahasiswa STAN (show ur KTM)"
+            }
+        }
     },
     {
         "Start Date": "20100213",
@@ -521,6 +635,63 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20100501",
+        "Start Time": "19:00",
+        "End Date": "20100501",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Japanese Night",
+        "Location": "Shisa Lou Cafe",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "japanese_night_2010_bekasi",
+        "location_address": "Taman Galaxy, Bekasi",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18QNBeCvoz/",
+            "https://web.facebook.com/share/p/1HMLf6dG3k/",
+            "https://web.facebook.com/share/p/1JyzsHc56L/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Party / Night Event"
+            ],
+            "organizer": "Shisa Lou Cafe",
+            "performers": {
+                "band": [
+                    "Make Them Horny",
+                    "Zuminon",
+                    "Akatsuki",
+                    "Murasaki",
+                    "Keizta",
+                    "Sakana",
+                    "Yajirobe",
+                    "Kikai Choosi",
+                    "Me & Myfriends",
+                    "Black Lavender",
+                    "Honey Beat"
+                ],
+                "collaboration": [
+                    "Jaiko & Shuriken"
+                ]
+            },
+            "ticket_info": {
+                "htm": "Free"
+            }
+        }
+    },
+    {
         "Start Date": "20100502",
         "Start Time": "11:00 AM",
         "End Date": "20100502",
@@ -541,7 +712,12 @@
         "location_coordinate": "-6.913956275482468, 107.61355835411912",
         "location_gmaps": "https://goo.gl/maps/Nb4pcQkcBrCk6pba8",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/1KCBmCaMtz/",
+            "https://web.facebook.com/share/p/1CGkcUgkN4/",
+            "https://web.facebook.com/share/p/1DYjh1kGwz/",
+            "https://web.facebook.com/share/1Bmfcn9XmG/",
+            "https://web.facebook.com/share/p/1FfxF7qBtc/",
+            "https://web.facebook.com/share/p/1JiZbBYVQk/"
         ],
         "Content": {
             "category": [
@@ -658,17 +834,17 @@
         "Reminder Date": "",
         "Reminder Time": "",
         "Importance": "",
-        "Subject": "Inobu 4, Midori Shogun no Bunkasai",
-        "Location": "SMA 1, Bekasi",
+        "Subject": "Inobu 4 : Midori Shogun no Bunkasai",
+        "Location": "SMAN 1, Bekasi",
         "Comment": "Insert to J-Event List : 20260728 04:12:49\ndiambil dari url",
         "Online/Offline": "Offline",
         "status": "Finished",
         "attended": "",
         "_id": "inobu_4_midori_shogun_sma1_bekasi_2010",
-        "location_address": "",
+        "location_address": "Jl. KH. Agus Salim No.181, RT.010/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",
         "location_city": "Bekasi",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_coordinate": "-6.226749684728223, 107.01129542343095",
+        "location_gmaps": "https://goo.gl/maps/ru7ESXtrKsR6PGWn6",
         "links": [
             "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
         ],
@@ -684,6 +860,52 @@
                 "Sekar Khatulistiwa"
             ],
             "catatan_verifikasi": "Entri disisipkan berdasarkan satu sumber sekunder (profil/wawancara Sekar Khatulistiwa di Japanese Station) dan BELUM diverifikasi silang dengan sumber primer (flyer/poster asli, rundown panitia, atau liputan majalah komunitas). Statusnya masih perlu dikonfirmasi lebih lanjut sebelum dianggap pasti."
+        }
+    },
+    {
+        "Start Date": "20100530",
+        "Start Time": "",
+        "End Date": "20100530",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pre-Event Gomu-Gomu no Matsuri Live Audition",
+        "Location": "SMA Negeri 2 Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "preevent_gomu_gomu_no_matsuri_2010_bdg",
+        "location_address": "Jl. Cihampelas No.173, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.888967570246753, 107.60351241363773",
+        "location_gmaps": "https://g.page/sman2bandung",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1CYEVPriMY/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "SMA Negeri 2 Bandung",
+            "competition": {
+                "live_audition": {
+                    "registration_fee": "Rp 75.000"
+                }
+            },
+            "registration": {
+                "technical_meeting": "28 Mei 2010"
+            },
+            "contact": {
+                "cha2": "085659260100",
+                "lulu": "085724024241"
+            }
         }
     },
     {
@@ -794,6 +1016,100 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20100702",
+        "Start Time": "09:00",
+        "End Date": "20100703",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2010 \"SOUL, SOUND, SPIRIT\"",
+        "Location": "STBA LIA Jakarta",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nihon_bunka_no_hi_2010_stba_lia_jkt",
+        "location_address": "Jl. Pengadegan Timur Raya No.3, RT.5/RW.2, Pengadegan, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12770",
+        "location_city": "Jakarta Selatan",
+        "location_coordinate": "-6.24779544903706, 106.86023126945615",
+        "location_gmaps": "https://g.page/STBA-LIA",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/1H3GGGeA3N/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Budaya Jepang - Seni Tradisional",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Talkshow / Seminar / Workshop"
+            ],
+            "organizer": "STBA LIA",
+            "theme": "SOUL, SOUND, SPIRIT",
+            "performers": {
+                "special_performances": [
+                    "ENJUKU Theatre",
+                    "Bon Odori + Hanabi",
+                    "Obake Yashiki"
+                ],
+                "featuring_bands": [
+                    "Amakusa",
+                    "Obake",
+                    "X-Shibuya",
+                    "Wyvern"
+                ],
+                "general_performances": [
+                    "Arumba Pelangi",
+                    "Saman Dance",
+                    "Cha No Yu",
+                    "Cheers",
+                    "10 nin Matsuri-Dance",
+                    "Demo Masak",
+                    "Beladiri",
+                    "Taiko",
+                    "Southern Cross Choir",
+                    "MiniMoni Dance"
+                ]
+            },
+            "competition": {
+                "categories": [
+                    "Fashion Cosplay & Cosplay Cabaret",
+                    "Idol Cover",
+                    "Audition Bands' Performance"
+                ]
+            },
+            "events": [
+                {
+                    "type": "Seminar",
+                    "title": "Japanese Language as Survival Kit in Global Competition",
+                    "speaker": "Rahman R. Salam, B.Eng., M.Eng., S.H.",
+                    "date": "2010-07-02",
+                    "time": "13:00"
+                }
+            ],
+            "supported_by": [
+                "Indosat",
+                "Japan Foundation",
+                "Hoka Hoka Bento",
+                "Sosro",
+                "LIA",
+                "Kinokuniya",
+                "Cita Cinta",
+                "Bank Bukopin"
+            ],
+            "contact": {
+                "echii": "08999813325",
+                "nuna": "081808884088",
+                "suko": "085697729400"
+            }
+        }
+    },
+    {
         "Start Date": "20100704",
         "Start Time": "11:00",
         "End Date": "20100704",
@@ -893,11 +1209,84 @@
         "location_coordinate": "-6.856796992633288, 107.49046865411867",
         "location_gmaps": "https://g.page/baleparekotabaruparahyangan",
         "links": [
-            "https://web.facebook.com/photo/?fbid=1149179545896&set=a.1147240097411"
+            "https://web.facebook.com/photo/?fbid=1149179545896&set=a.1147240097411",
+            "https://web.facebook.com/share/1DPuKdJQy4/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Fotografi / Photo Session",
+                "Desain / Lomba Kreatif",
+                "Workshop / Seminar",
+                "Musik - Band / Live Performance",
+                "Dance Cover Competition",
+                "Bazaar / Market"
+            ],
+            "organizer": "Tanerapro II",
+            "theme": "Anime Festival 2010",
+            "edition": "2010",
+            "dates_and_locations": [
+                {
+                    "date": "2010-07-04",
+                    "time": "10.00 AM - End",
+                    "location": "Kota Baru Parahyangan, Jl. Raya Padalarang no. 427, Bandung"
+                }
+            ],
+            "competition": {
+                "prize_pool": "10 juta",
+                "categories": [
+                    {
+                        "name": "Cosplay Team (performance)",
+                        "sub_categories": [
+                            "Anime/Game",
+                            "Tokusatsu/Sentai"
+                        ],
+                        "registration_fee": "Rp 50.000 (3 - 10 orang/team)",
+                        "benefits": "1 paket pemotretan 1 CD + Foto 8R"
+                    },
+                    {
+                        "name": "Photo Cosplay Idol (individual)",
+                        "registration_fee": "Rp 30.000",
+                        "benefits": "1 paket pemotretan 1 CD + Foto 4R"
+                    },
+                    {
+                        "name": "Cosplay Photography",
+                        "registration_fee": "Rp 30.000",
+                        "benefits": "Voucher cetak photo"
+                    },
+                    {
+                        "name": "Drawing Manga : Create your own character",
+                        "registration_fee": "Rp 20.000",
+                        "benefits": "Produk sponsor"
+                    }
+                ]
+            },
+            "activities": [
+                "Workshop Art Performance",
+                "J-Band & Dance",
+                "Manga / Comic Demo",
+                "Papercraft (workshop with Ramz Gallery)",
+                "Bazaar Exhibition (Japanese Art and Food, Photo Cosplay and Manga Exhibition, Anime products, comic, etc)"
+            ],
+            "contact": {
+                "email": "animefestival_tanera@yahoo.com",
+                "phone": [
+                    "Nicky (085720036270)",
+                    "Aryo (085624256910)"
+                ],
+                "registration_places": [
+                    "SENI ABADI : Jl. Wastu Kencana no. 87, Bandung",
+                    "GONZO : Jl. Cihampelas no. 42, Bandung",
+                    "RAMZ GALLERY : Jl. Gandawijaya no. 3, Cimahi & Jl. Jend. Sudirman no 312, Bandung"
+                ]
+            },
+            "sponsors_and_supports": [
+                "Seni Abadi Digital Photo Center",
+                "Bale Pare",
+                "Ram'z Gallery",
+                "Gonzo",
+                "Kota Baru Parahyangan"
             ]
         },
         "location_country": "Indonesia",
@@ -967,6 +1356,109 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20100718",
+        "Start Time": "09:00",
+        "End Date": "20100718",
+        "End Time": "21:00",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Ai No Matsuri 2010",
+        "Location": "Majesty Ballroom Gajah Mada",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "ai_no_matsuri_2010_smg",
+        "location_address": "Jl. Gajahmada No.74 \ufffd\ufffd\ufffd 76, Jawa Tengah, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50138",
+        "location_city": "Semarang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.977242662831675, 110.4212725283396",
+        "location_gmaps": "https://maps.app.goo.gl/hiXCHPsRZ5io8m5p7",
+        "links": [
+            "https://web.facebook.com/share/1CRDTfe3JF/",
+            "https://web.facebook.com/share/14rNuQGv8XG/",
+            "http://www.ainomatsuri.co.cc"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Musik - Band / Live Performance",
+                "Cosplay - Competition / Coswalk",
+                "Bazaar / Market"
+            ],
+            "organizer": "Harmony Japanese Festival",
+            "presented_by": [
+                "FlickArt",
+                "Retro Creative House",
+                "Gigaprint"
+            ],
+            "supported_by": [
+                "Japan Foundation"
+            ],
+            "media_partners": [
+                "90.2 Trax FM Semarang"
+            ],
+            "performers": {
+                "guest_star": [
+                    "Bondan ft Fade2Black"
+                ],
+                "special_artist": [
+                    "Julia",
+                    "Kyushensi",
+                    "Loly Candy",
+                    "The Lemonade",
+                    "Waza",
+                    "Zanrokku"
+                ],
+                "orchestra": [
+                    "Orchestra Harmony by The Concerto"
+                ],
+                "dj": [
+                    "DJ Aeesha"
+                ],
+                "dance": [
+                    "WE PRO"
+                ],
+                "magic_show": [
+                    "Valentino"
+                ],
+                "other_performances": [
+                    "Gamelan Funky",
+                    "Semarang Percussion feat Tya Chocolate Dream Berry"
+                ]
+            },
+            "competition": {
+                "categories": [
+                    "J-Band Audition",
+                    "Cosplay Act",
+                    "Manga Creation"
+                ]
+            },
+            "ticket_info": {
+                "presale": "Rp 25.000",
+                "ots": "Rp 35.000",
+                "promo": "10 tiket free 1"
+            },
+            "prizes": {
+                "doorprize": [
+                    "1 Pcs Blackberry",
+                    "10 Pcs Handphone",
+                    "Laptop",
+                    "1 Set Alat Drum"
+                ]
+            },
+            "contact": {
+                "shine": "+08882546775",
+                "ipank": "+081390088336",
+                "icha": "+085727165987"
+            }
+        }
     },
     {
         "Start Date": "20100724",
@@ -1218,10 +1710,10 @@
         "status": "Finished",
         "attended": "",
         "_id": "nippon_club_no_hatsuyuki_centralpark_2010",
-        "location_address": "",
-        "location_city": "Jakarta",
-        "location_coordinate": "",
-        "location_gmaps": "",
+        "location_address": "Jl. Letjen S. Parman No.28, RT.3/RW.5, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_coordinate": "-6.174933221381808, 106.79001078797182",
+        "location_gmaps": "https://goo.gl/maps/Q9NGGeztEBXqnJze8",
         "links": [
             "https://japanesestation.com/community/local-profiles/sekar-khatulistiwa-solois-indonesia-yang-terinspirasi-oleh-yui"
         ],
@@ -1293,12 +1785,51 @@
         "location_gmaps": "https://goo.gl/maps/y4eYFECjSyjg9ojK7",
         "links": [
             "https://web.facebook.com/photo/?fbid=426522604005&set=a.391419359005",
-            "https://web.facebook.com/photo.php?fbid=155078534506015&set=t.1715801691&type=3"
+            "https://web.facebook.com/photo.php?fbid=155078534506015&set=t.1715801691&type=3",
+            "https://web.facebook.com/share/1dUudhkV9A/"
         ],
         "Content": {
             "category": [
+                "Gathering / Komunitas",
                 "Musik - Band / Live Performance"
-            ]
+            ],
+            "organizer": "Bikkuri!! (Japanese Minimagz)",
+            "theme": "Ngabuburit Bareng Bikkuri!!",
+            "edition": "2010",
+            "description": "Acara ngabuburit, buka puasa bersama, dan silaturahmi komunitas dengan hiburan live musik.",
+            "dates_and_locations": [
+                {
+                    "date": "2010-08-29",
+                    "time": "15.00 - 19.00 WIB",
+                    "location": "Cafe Prefere, Jl. Ir. H. Juanda No. 72 (Dago 72), Bandung"
+                }
+            ],
+            "performers": [
+                "Voice Of June",
+                "Urbanee",
+                "HIMITSU",
+                "XYZO",
+                "Raven",
+                "Belle d'Art"
+            ],
+            "activities": [
+                "Live Performance / Musik",
+                "Ngabuburit & Buka Puasa Bersama",
+                "Silaturahmi Komunitas"
+            ],
+            "ticket_info": {
+                "pricing": [
+                    {
+                        "type": "HTM Pertama (50 porsi pertama)",
+                        "price": "Rp 17.500",
+                        "benefits": "Menu berbuka puasa berupa takjil, makanan utama, dan minuman"
+                    },
+                    {
+                        "type": "HTM Porsi Selanjutnya",
+                        "price": "Rp 22.500"
+                    }
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -1572,12 +2103,45 @@
         "location_coordinate": "-6.892377412545588, 107.58180491178983",
         "location_gmaps": "https://goo.gl/maps/JsQLjWAaGPuxP9WN6",
         "links": [
-            ""
+            "https://web.facebook.com/share/19S2Y1QghD/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
-            ]
+                "Festival / Matsuri",
+                "Budaya Jepang - Bahasa / Akademik",
+                "Cosplay - Competition / Coswalk",
+                "Musik - Band / Live Performance",
+                "Desain / Lomba Kreatif",
+                "Talkshow / Seminar",
+                "Bazaar / Market"
+            ],
+            "organizer": "Universitas Nasional Pasim",
+            "theme": "J'Fest (Japan Culture Festival for Teens)",
+            "edition": "2",
+            "dates_and_locations": [
+                {
+                    "date": "2010-10-30",
+                    "location": "Universitas Nasional Pasim, Jl. Dr. Djundjunan No. 167 Bandung"
+                }
+            ],
+            "activities": [
+                "Shuji Contest",
+                "Manga Contest",
+                "Kana Contest",
+                "Rodoku Contest",
+                "Cosplay",
+                "Audition Band Perform",
+                "Gratis Seminar Nihon Bunka Untuk Guru Pembimbing (Narasumber: Ai Sensei)",
+                "Tradisional Game",
+                "Food Bazaar"
+            ],
+            "contact": {
+                "phone": [
+                    "Reza (085722612438)",
+                    "Dede (085223687399)",
+                    "Melati (085294410969)"
+                ]
+            }
         },
         "location_country": "Indonesia",
         "date_precision": "day",

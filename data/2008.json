@@ -905,6 +905,50 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20080629",
+        "Start Time": "",
+        "End Date": "20080629",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sosialisasi Budaya Jepang - Demo Tameshigiri Tatami",
+        "Location": "Gedung KNPI Sragen",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "sosialisasi_budaya_jepang_tameshigiri_2008_sragen",
+        "location_address": "",
+        "location_city": "Sragen",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/v/18zAMDbaHx/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Gathering / Komunitas"
+            ],
+            "events": [
+                "Demo Tameshigiri Tatami",
+                "Sosialisasi Budaya Jepang"
+            ],
+            "performers": [
+                "Fandy"
+            ],
+            "notable_details": {
+                "weapon_used": "Blue Inunk Katana",
+                "swordsmith": "Ir. Sulistyo (Inunk)"
+            }
+        }
+    },
+    {
         "Start Date": "20080704",
         "Start Time": "",
         "End Date": "20080706",

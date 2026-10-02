@@ -1936,6 +1936,46 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20160902",
+        "Start Time": "",
+        "End Date": "20160904",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Orange Japanese Festival",
+        "Location": "Supermall Karawaci",
+        "Comment": "Festival kebudayaan Jepang bertajuk 'Orange Japanese Festival' yang berlangsung selama tiga hari dari tanggal 2 hingga 4 September 2016 di Supermall Karawaci, Tangerang.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "orange_japanese_festival_karawaci_2016",
+        "location_address": "Jl. Boulevard Diponegoro No.105, Bencongan, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810",
+        "location_city": "Tangerang",
+        "location_coordinate": "-6.226796084190017, 106.60702285250953",
+        "location_gmaps": "https://maps.app.goo.gl/B6Wkk9PUgyyBCzfs8",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event"
+            ],
+            "organizer": "",
+            "description": "Festival kebudayaan Jepang dan panggung hiburan di Supermall Karawaci.",
+            "activities": [
+                "Japanese Cultural Festival",
+                "Cosplay Showcase"
+            ],
+            "venue_partner": [
+                "Supermall Karawaci"
+            ]
+        }
+    },
+    {
         "Start Date": "20160903",
         "Start Time": "12:00 AM",
         "End Date": "20160905",
@@ -1956,11 +1996,24 @@
         "location_coordinate": "-6.219246747376081, 106.80810142527882",
         "location_gmaps": "https://goo.gl/maps/zvmqYLcDH4rtiNp18",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/18XQrurAyi/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Performance / Concert",
+                "Cultural Exchange"
+            ],
+            "organizer": "Jak Japan Matsuri Steering Committee",
+            "description": "Festival tahunan pertukaran budaya Indonesia dan Jepang yang menampilkan pertunjukan seni budaya, bazaar makanan Jepang, panggung musik, serta cosplay.",
+            "activities": [
+                "Cultural Performance",
+                "Mikoshi Parade",
+                "Live Music Performance",
+                "Culinary Bazaar"
+            ],
+            "venue_partner": [
+                "Parkir Timur Senayan"
             ]
         },
         "location_country": "Indonesia",
@@ -1992,12 +2045,112 @@
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 7 Bogor",
+            "description": "Festival budaya Jepang tahunan di SMAN 7 Bogor yang menghadirkan Lomba Kebudayaan, Cosplay, dan Pertunjukan Musik.",
+            "activities": [
+                "Japanese Contest",
+                "Cosplay Competition",
+                "Live Performance"
+            ],
+            "venue_partner": [
+                "SMAN 7 Bogor"
             ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20160911",
+        "Start Time": "",
+        "End Date": "20160911",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "No Idol No Jump: Ren-Ai & BKS48 Anniversary",
+        "Location": "GP Mall Bekasi",
+        "Comment": "Acara perayaan ulang tahun kelompok idol Ren-Ai dan BKS48 bertajuk 'No Idol No Jump' yang berlangsung pada hari Minggu, 11 September 2016 di GP Mall Bekasi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "no_idol_no_jump_bekasi_2016",
+        "location_address": "GP Mall Bekasi, Jl. Raya Pengasinan No.1, Rawalumbu, Kota Bekasi, Jawa Barat 17115",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Performance / Concert",
+                "Community Gathering",
+                "Idol Performance"
+            ],
+            "organizer": "Ren-Ai & BKS48",
+            "description": "Gathering perayaan anniversary idol group lokal Ren-Ai dan BKS48 yang diisi dengan live idol performance.",
+            "activities": [
+                "Idol Live Performance",
+                "Anniversary Celebration",
+                "Wota Party / Idol Gathering"
+            ],
+            "performers": [
+                "Ren-Ai",
+                "BKS48"
+            ],
+            "venue_partner": [
+                "GP Mall Bekasi"
+            ]
+        }
+    },
+    {
+        "Start Date": "20160916",
+        "Start Time": "",
+        "End Date": "20160918",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Cool Japan Travel Fair 2016",
+        "Location": "Mall Taman Anggrek, Jakarta",
+        "Comment": "Pameran pariwisata dan kebudayaan Jepang 'Cool Japan Travel Fair 2016' yang berlangsung pada 16\u00e2\u20ac\u201c18 September 2016 di Mall Taman Anggrek, Jakarta.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "cool_japan_travel_fair_2016",
+        "location_address": "Mall Taman Anggrek, Jl. Letjen S. Parman No.21, Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Jakarta Barat, DKI Jakarta 11470",
+        "location_city": "Jakarta Barat",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Pop-Up Market / Exhibition",
+                "Cultural Exchange"
+            ],
+            "organizer": "HIS Travel Indonesia",
+            "description": "Travel fair khusus destinasi pariwisata Jepang yang disertai booth eksibisi budaya dan promosi destinasi wisata Jepang.",
+            "activities": [
+                "Travel Fair & Tourism Booth",
+                "Japanese Culture Presentation"
+            ],
+            "venue_partner": [
+                "Mall Taman Anggrek"
+            ]
+        }
     },
     {
         "Start Date": "20160916",
@@ -2020,16 +2173,404 @@
         "location_coordinate": "-6.14461995164399, 106.84872266945547",
         "location_gmaps": "https://goo.gl/maps/YN8m7sqWV6NhnCc97",
         "links": [
-            "https://gigsplay.com/anime-festival-asia-indonesia-2016-afaid16/"
+            "https://gigsplay.com/anime-festival-asia-indonesia-2016-afaid16/",
+            "https://web.facebook.com/share/p/18XQrurAyi/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Pop-Up Market / Exhibition",
+                "Cosplay Event",
+                "Performance / Concert"
+            ],
+            "organizer": "SOZO x Elvostak",
+            "description": "Eksibisi pop kultur Jepang berskala regional terkemuka dengan menghadirkan pameran anime, Creator Hub, Anisong Concert, dan Guest Cosplayer Internasional.",
+            "activities": [
+                "Anisong Concert",
+                "Creator & Corporate Exhibition",
+                "Cosplay Single & Team Competition",
+                "Stage Talkshow & Screening"
+            ],
+            "venue_partner": [
+                "JIEXPO Kemayoran"
             ]
-        },
+        }
+    },
+    {
+        "Start Date": "20160918",
+        "Start Time": "",
+        "End Date": "20160918",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yukatsu Matsuri 2016",
+        "Location": "SMKN 2 Cikarang Barat",
+        "Comment": "Festival Jepang tingkat sekolah menengah bertajuk 'Yukatsu Matsuri' yang diadakan pada hari Minggu, 18 September 2016 di SMKN 2 Cikarang Barat, Kabupaten Bekasi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "yukatsu_matsuri_smkn2_cikarang_2016",
+        "location_address": "SMKN 2 Cikarang Barat, Jl. Fatahillah No.1, Kalijaya, Kec. Cikarang Barat, Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Bekasi",
         "location_country": "Indonesia",
-        "date_precision": "day",
-        "source_status": "archived"
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMKN 2 Cikarang Barat",
+            "description": "Festival kebudayaan Jepang sekolah dengan rangkaian kompetisi dan panggung pertunjukan.",
+            "activities": [
+                "Cosplay Competition",
+                "Band Performance",
+                "Cultural Contest"
+            ],
+            "venue_partner": [
+                "SMKN 2 Cikarang Barat"
+            ]
+        }
+    },
+    {
+        "Start Date": "20160919",
+        "Start Time": "",
+        "End Date": "20160925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Toys Week Emporium Pluit Cosplay Competition",
+        "Location": "Emporium Pluit Mall",
+        "Comment": "Rangkaian acara Toys Week yang dimeriahkan dengan Cosplay Competition pada 19-25 September 2016 di Emporium Pluit Mall, Jakarta Utara.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "toys_week_emporium_pluit_2016",
+        "location_address": "Emporium Pluit Mall, Jl. Pluit Selatan Raya No.1, Pluit, Kec. Penjaringan, Kota Jakarta Utara, DKI Jakarta 14440",
+        "location_city": "Jakarta Utara",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Pop-Up Market / Exhibition",
+                "Cosplay Event",
+                "Competition / Tournament"
+            ],
+            "organizer": "",
+            "description": "Pameran mainan tahunan yang dikombinasikan dengan perlombaan cosplay di Emporium Pluit Mall.",
+            "activities": [
+                "Toys Exhibition",
+                "Cosplay Competition"
+            ],
+            "venue_partner": [
+                "Emporium Pluit Mall"
+            ]
+        }
+    },
+    {
+        "Start Date": "20160924",
+        "Start Time": "",
+        "End Date": "20160925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HelloFest 2016",
+        "Location": "Plenary Hall JCC Jakarta",
+        "Comment": "Festival seni kreatif, pop culture, animasi, dan kostum (Kostumasa) bertajuk 'HelloFest 2016' yang berlangsung pada 24\u00e2\u20ac\u201c25 September 2016 di Plenary Hall, Jakarta Convention Center (JCC).",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hellofest_2016_jcc",
+        "location_address": "Plenary Hall JCC, Jl. Gatot Subroto No.1, Gelora, Kec. Tanah Abang, Kota Jakarta Pusat, DKI Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Pop-Up Market / Exhibition"
+            ],
+            "organizer": "HelloMotion",
+            "description": "Festival industri kreatif animasi, bioskop pop, pasar karya visual, dan ajang parade kostum (Kostumasa) terbesar di Indonesia.",
+            "activities": [
+                "Kostumasa (Cosplay Parade)",
+                "Short Movie Screening",
+                "Creative Market"
+            ],
+            "venue_partner": [
+                "Jakarta Convention Center (JCC)"
+            ]
+        }
+    },
+    {
+        "Start Date": "20160925",
+        "Start Time": "",
+        "End Date": "20160925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "ReJPOP 4: The Lost Memory of 90's",
+        "Location": "D'Mall Depok",
+        "Comment": "Acara musik nostalgia lagu-lagu anime dan J-Pop era 90-an bertajuk 'ReJPOP 4 The Lost Memory of 90's' yang berlangsung pada hari Minggu, 25 September 2016 di D'Mall Depok.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "rejpop_4_depok_2016",
+        "location_address": "D'Mall Depok, Jl. Margonda No.88, Kemirimuka, Kec. Beji, Kota Depok, Jawa Barat 16423",
+        "location_city": "Depok",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Performance / Concert",
+                "Community Gathering",
+                "Music Event"
+            ],
+            "organizer": "",
+            "description": "Event musik dan ajang kumpul komunitas J-Pop yang membawakan lagu-lagu hits anime, tokusatsu, dan J-Music era 90-an.",
+            "activities": [
+                "J-Music Live Band Performance",
+                "Nostalgia Karaoke",
+                "Community Gathering"
+            ],
+            "venue_partner": [
+                "D'Mall Depok"
+            ]
+        }
+    },
+    {
+        "Start Date": "20160925",
+        "Start Time": "",
+        "End Date": "20160925",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Gathering Tobikko Indonesia",
+        "Location": "Loop Station Mahakam, Jakarta",
+        "Comment": "Gathering komunitas penggemar Hey! Say! JUMP (Tobikko Indonesia) yang dilaksanakan pada Minggu, 25 September 2016 di Loop Station Mahakam, Bulungan, Jakarta Selatan.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "gathering_tobikko_indonesia_2016",
+        "location_address": "Loop Station, Jl. Mahakam No.3, Kramat Pela, Kec. Kebayoran Baru, Kota Jakarta Selatan, DKI Jakarta 12130",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Community Gathering"
+            ],
+            "organizer": "Tobikko Indonesia",
+            "description": "Ajang kumpul dan silaturahmi penggemar boyband asal Jepang Hey! Say! JUMP di Jakarta.",
+            "activities": [
+                "Community Gathering",
+                "Screening & Sharing Session"
+            ],
+            "venue_partner": [
+                "Loop Station Bulungan"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161001",
+        "Start Time": "",
+        "End Date": "20161001",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Pre Event JIMAT UNJ 2016 (Drop Off)",
+        "Location": "Mangga Dua Square, Jakarta",
+        "Comment": "Acara pra-event Jelajah Otaku dan Kebudayaan Jepang Universitas Negeri Jakarta (JIMAT UNJ) yang berlangsung pada Sabtu, 1 Oktober 2016 bertempat di Drop Off Mangga Dua Square, Jakarta.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "pre_event_jimat_unj_2016",
+        "location_address": "Mangga Dua Square, Jl. Gunung Sahari No.1, Ancol, Kec. Pademangan, Kota Jakarta Utara, DKI Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Campus Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Koma Unj / Panitia JIMAT UNJ 2016",
+            "description": "Acara pembuka (roadshow/pre-event) menuju gelaran utama festival budaya Jepang JIMAT UNJ 2016.",
+            "activities": [
+                "Cosplay Walk / Mini Contest",
+                "Acoustic / Dance Performance",
+                "Promotional Roadshow"
+            ],
+            "venue_partner": [
+                "Mangga Dua Square"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161001",
+        "Start Time": "",
+        "End Date": "20161001",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mangaka no Matsuri (Manoma) 2016",
+        "Location": "SMAN 5 Depok",
+        "Comment": "Festival Jepang tingkat sekolah bertajuk 'Mangaka no Matsuri (Manoma)' yang bertempat di SMAN 5 Depok pada Sabtu, 1 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "manoma_sman5_depok_2016",
+        "location_address": "SMAN 5 Depok, Jl. Bukit Rivaria Sawangan, Bedahan, Kec. Sawangan, Kota Depok, Jawa Barat 16519",
+        "location_city": "Depok",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Competition / Tournament"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 5 Depok",
+            "description": "Festival Jepang sekolah yang berfokus pada lomba menggambar manga, cosplay, dan kebudayaan Jepang.",
+            "activities": [
+                "Manga Competition",
+                "Cosplay Performance",
+                "Band Performance"
+            ],
+            "venue_partner": [
+                "SMAN 5 Depok"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161001",
+        "Start Time": "",
+        "End Date": "20161001",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hikari no Matsuri (Hinotsu) 2016",
+        "Location": "SMAN 44 Jakarta",
+        "Comment": "Festival kebudayaan Jepang 'Hikari no Matsuri (Hinotsu)' yang diselenggarakan oleh SMAN 44 Jakarta pada Sabtu, 1 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hinotsu_sman44_jakarta_2016",
+        "location_address": "SMAN 44 Jakarta, Jl. Delima IV No.1, Malaka Sari, Kec. Duren Sawit, Kota Jakarta Timur, DKI Jakarta 13460",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 44 Jakarta",
+            "description": "Festival kebudayaan Jepang antarsekolah menengah dengan sajian lomba akademis, panggung pertunjukan, dan cosplay.",
+            "activities": [
+                "Japanese Culture Contest",
+                "Cosplay Competition",
+                "Live Band Performance"
+            ],
+            "venue_partner": [
+                "SMAN 44 Jakarta"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161001",
+        "Start Time": "",
+        "End Date": "20161002",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Indonesia Comic Con 2016",
+        "Location": "Jakarta Convention Center (JCC)",
+        "Comment": "Konvensi budaya pop gabungan komik, film, mainan, gim, dan cosplay terbesar 'Indonesia Comic Con 2016' yang berlangsung pada 1\u00e2\u20ac\u201c2 Oktober 2016 di Jakarta Convention Center (JCC).",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "indonesia_comic_con_2016",
+        "location_address": "Jakarta Convention Center (JCC), Jl. Gatot Subroto No.1, Gelora, Kec. Tanah Abang, Kota Jakarta Pusat, DKI Jakarta 10270",
+        "location_city": "Jakarta Pusat",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Pop-Up Market / Exhibition",
+                "Cosplay Event",
+                "Competition / Tournament"
+            ],
+            "organizer": "Reed Panorama Exhibitions",
+            "description": "Konvensi akbar pop kultur Barat dan Timur yang menghadirkan bintang tamu Hollywood, cosplayer dunia, komikus internasional, serta eksibisi game dan mainan.",
+            "activities": [
+                "Championship of Cosplay",
+                "Guest Talkshow & Autograph Session",
+                "Exhibition Booth",
+                "Artist Alley"
+            ],
+            "venue_partner": [
+                "Jakarta Convention Center (JCC)"
+            ]
+        }
     },
     {
         "Start Date": "20161001",
@@ -2052,11 +2593,22 @@
         "location_coordinate": "-6.184482501255504, 106.75318518664552",
         "location_gmaps": "https://goo.gl/maps/H3M6C2a9TvYFrEq47",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/18XQrurAyi/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Pop-Up Market / Exhibition"
+            ],
+            "organizer": "Lippo Mall Puri",
+            "description": "Eksibisi dan festival budaya Jepang di dalam pusat perbelanjaan Lippo Mall Puri selama bulan Oktober.",
+            "activities": [
+                "Japanese Food Festival",
+                "Cultural Workshop & Showcase",
+                "Cosplay Parade"
+            ],
+            "venue_partner": [
+                "Lippo Mall Puri"
             ]
         },
         "location_country": "Indonesia",
@@ -2101,10 +2653,60 @@
             "activities": [
                 "Speech Contest (Tingkat Universitas Regional Jawa Barat)",
                 "Manga Contest",
-                "Kanji Contest"
+                "Kanji Contest",
+                "Live Music Band Performance",
+                "Cosplay Competition",
+                "Japanese Traditional Dance (Yosakoi)",
+                "Food & Merchandise Bazaar"
+            ],
+            "performers": [
+                "Honey Beat",
+                "The Grgtz"
             ],
             "venue_partner": [
                 "Pusat Studi Bahasa Jepang (PSBJ) FIB Universitas Padjadjaran"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161008",
+        "Start Time": "",
+        "End Date": "20161008",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Hitochuu Matsuri 2016",
+        "Location": "SMAN 5 Tambun Selatan, Bekasi",
+        "Comment": "Festival Jepang tingkat SMA 'Hitochuu Matsuri' yang diselenggarakan oleh SMAN 5 Tambun Selatan, Bekasi pada Sabtu, 8 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hitochuu_matsuri_sman5_tambun_2016",
+        "location_address": "SMAN 5 Tambun Selatan, Jl. Sunset Boulevard, Tridaya Sakti, Kec. Tambun Selatan, Kabupaten Bekasi, Jawa Barat 17510",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 5 Tambun Selatan",
+            "description": "Festival budaya Jepang tingkat SMA di Bekasi yang dimeriahkan dengan kompetisi, obake yashiki (rumah hantu), dan panggung musik.",
+            "activities": [
+                "Cosplay Competition",
+                "Band Performance",
+                "Japanese Education Competition"
+            ],
+            "venue_partner": [
+                "SMAN 5 Tambun Selatan"
             ]
         }
     },
@@ -2234,6 +2836,174 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20161015",
+        "Start Time": "",
+        "End Date": "20161015",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Feature of Jam (FOJ) 2016",
+        "Location": "SMAN 42 Jakarta",
+        "Comment": "Festival kebudayaan Jepang 'Feature of Jam (FOJ)' yang diadakan di SMAN 42 Jakarta pada Sabtu, 15 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "feature_of_jam_sman42_2016",
+        "location_address": "SMAN 42 Jakarta, Jl. Rajawali No.8, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur, DKI Jakarta 13610",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Performance / Concert"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 42 Jakarta",
+            "description": "Festival budaya Jepang dan panggung musik band antar-sekolah di SMAN 42 Jakarta.",
+            "activities": [
+                "Band Competition & Showcase",
+                "Cosplay Competition",
+                "Japanese Culture Contest"
+            ],
+            "venue_partner": [
+                "SMAN 42 Jakarta"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161015",
+        "Start Time": "",
+        "End Date": "20161016",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Sportaction Mangafest UGM 2016",
+        "Location": "GOR Pemuda Klenengan, Yogyakarta",
+        "Comment": "Bagian dari rangkaian Mangafest UGM yang menggelar acara Sportaction pada 15\u00e2\u20ac\u201c16 Oktober 2016 di GOR Pemuda Klenengan, Yogyakarta. Menampilkan guest performer MEA (asal Jabodetabek).",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "mangafest_ugm_sportaction_2016",
+        "location_address": "GOR Pemuda Klenengan, Jl. Klenengan Buatan, Panembahan, Kec. Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Campus Event",
+                "Performance / Concert"
+            ],
+            "organizer": "Mangafest UGM / Sastra Jepang UGM",
+            "description": "Ajang kegiatan olahraga dan hiburan pra-event Mangafest UGM yang mengundang pengisi acara musik.",
+            "activities": [
+                "Sports Competition",
+                "Live Music Performance"
+            ],
+            "performers": [
+                "MEA"
+            ],
+            "venue_partner": [
+                "GOR Pemuda Klenengan"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161016",
+        "Start Time": "",
+        "End Date": "20161016",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Dance Cover Festival 2016",
+        "Location": "GP Mall Bekasi",
+        "Comment": "Kompetisi dan festival tari peniruan (Dance Cover) J-Pop & K-Pop yang diadakan di GP Mall Bekasi pada Minggu, 16 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "dance_cover_festival_bekasi_2016",
+        "location_address": "GP Mall Bekasi, Jl. Raya Pengasinan No.1, Rawalumbu, Kota Bekasi, Jawa Barat 17115",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Competition / Tournament",
+                "Performance / Concert"
+            ],
+            "organizer": "",
+            "description": "Ajang kompetisi tari cover bagi grup dance pemuda di area Bekasi dan sekitarnya.",
+            "activities": [
+                "Dance Cover Competition",
+                "Guest Star Performance"
+            ],
+            "venue_partner": [
+                "GP Mall Bekasi"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161023",
+        "Start Time": "",
+        "End Date": "20161023",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Jakusai 2016",
+        "Location": "SMAN 2 Bekasi",
+        "Comment": "Festival Jepang sekolah menengah 'Jakusai' yang diselenggarakan oleh SMAN 2 Bekasi pada Minggu, 23 Oktober 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "jakusai_sman2_bekasi_2016",
+        "location_address": "SMAN 2 Bekasi, Jl. Tangkuban Perahu No.1, Kayuringin Jaya, Kec. Bekasi Selatan, Kota Bekasi, Jawa Barat 17144",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 2 Bekasi",
+            "description": "Festival budaya Jepang tahunan di SMAN 2 Bekasi menyajikan berbagai lomba akademik budaya Jepang, cosplay, serta penampilan musik.",
+            "activities": [
+                "Japanese Academic Contest",
+                "Cosplay Competition",
+                "Music Performance"
+            ],
+            "venue_partner": [
+                "SMAN 2 Bekasi"
+            ]
+        }
+    },
+    {
         "Start Date": "20161029",
         "Start Time": "12:00 AM",
         "End Date": "20161030",
@@ -2338,7 +3108,10 @@
                 "twitter": "@rochinori",
                 "blog": "rochinohori.blogspot.com",
                 "line_oa": "@saa5619x"
-            }
+            },
+            "venue_partner": [
+                "SMAN 67 Jakarta Timur"
+            ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
@@ -2378,6 +3151,48 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20161029",
+        "Start Time": "",
+        "End Date": "20161030",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Momiji Matsuri 2016 by CJA & Tamago",
+        "Location": "Hollywood Junction Jababeka, Cikarang",
+        "Comment": "Festival musim gugur Jepang 'Momiji Matsuri' yang diselenggarakan oleh CJA & Tamago pada 29\u00e2\u20ac\u201c30 Oktober 2016 di Hollywood Junction Jababeka, Cikarang, Kabupaten Bekasi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "momiji_matsuri_jababeka_2016",
+        "location_address": "Hollywood Junction Jababeka, Jl. Delima Rosa No.1, Mekarmukti, Kec. Cikarang Utara, Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Performance / Concert"
+            ],
+            "organizer": "CJA & Tamago",
+            "description": "Festival perayaan budaya Jepang musim gugur di area Cikarang dengan panggung hiburan cosplay dan kuliner Jepang.",
+            "activities": [
+                "Cosplay Parade & Competition",
+                "Band Performance",
+                "Japanese Food Stalls"
+            ],
+            "venue_partner": [
+                "Hollywood Junction Jababeka"
+            ]
+        }
+    },
+    {
         "Start Date": "20161030",
         "Start Time": "12:00 AM",
         "End Date": "20161031",
@@ -2386,7 +3201,7 @@
         "Reminder Date": "20161029",
         "Reminder Time": "11:30 PM",
         "Importance": "Normal",
-        "Subject": "Wickendween",
+        "Subject": "Wickedween",
         "Location": "Mall Alam Sutera, Jakarta",
         "Comment": "foto tempat acara :\n\n",
         "Online/Offline": "Offline",
@@ -2398,11 +3213,23 @@
         "location_coordinate": "-6.221465682586498, 106.6541313964435",
         "location_gmaps": "https://goo.gl/maps/Vn2UmfCcfTtKCEqW8",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/18XQrurAyi/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Pop-Up Market / Exhibition"
+            ],
+            "organizer": "Mall Alam Sutera",
+            "description": "Festival tematik Halloween di mall dengan dekorasi horor, parade kostum, dan wahana Trick or Treat.",
+            "activities": [
+                "Costume Competition",
+                "Trick or Treat Activity",
+                "Halloween Horror Exhibition"
+            ],
+            "venue_partner": [
+                "Mall Alam Sutera"
             ]
         },
         "location_country": "Indonesia",
@@ -2430,16 +3257,70 @@
         "location_coordinate": "-6.248301632908085, 106.99067805582283",
         "location_gmaps": "https://goo.gl/maps/PHFhCH9UXGSXekFB9",
         "links": [
-            ""
+            "https://web.facebook.com/share/p/18XQrurAyi/"
         ],
         "Content": {
             "category": [
-                "Festival / Matsuri"
+                "Festival / Matsuri",
+                "Cosplay Event"
+            ],
+            "organizer": "",
+            "description": "Festival kebudayaan tematik dengan panggung atraksi budaya, cosplay, serta hiburan musik di Bekasi.",
+            "activities": [
+                "Cultural Parade",
+                "Cosplay Competition",
+                "Live Performance"
+            ],
+            "venue_partner": [
+                "Hotel Horison MM Bekasi"
             ]
         },
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161105",
+        "Start Time": "",
+        "End Date": "20161105",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "A Nite with Tokyolite & Friends",
+        "Location": "Suar Artspace, Lebak Bulus, Jakarta",
+        "Comment": "Pertunjukan musik intim yang menampilkan band Tokyolite beserta rekan-rekan musikus bertajuk 'A Nite with Tokyolite & Friends' pada Sabtu, 5 November 2016 di Suar Artspace, Lebak Bulus, Jakarta Selatan.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tokyolite_and_friends_2016",
+        "location_address": "Suar Artspace, Jl. Lebak Bulus I No.55, Cilandak Barat, Kec. Cilandak, Kota Jakarta Selatan, DKI Jakarta 12430",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Performance / Concert",
+                "Music Event"
+            ],
+            "organizer": "Tokyolite",
+            "description": "Showcase musik dan penampilan band indie J-Funk/Pop asal Jakarta, Tokyolite.",
+            "activities": [
+                "Indie Live Band Performance",
+                "Meet & Greet"
+            ],
+            "performers": [
+                "Tokyolite"
+            ],
+            "venue_partner": [
+                "Suar Artspace Lebak Bulus"
+            ]
+        }
     },
     {
         "Start Date": "20161106",
@@ -2538,6 +3419,90 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161106",
+        "Start Time": "",
+        "End Date": "20161106",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "1st Anniversary SGDC & Fumiko Dance Team",
+        "Location": "Mangga Dua Square, Jakarta",
+        "Comment": "Perayaan ulang tahun ke-1 komunitas SGDC dan Fumiko Dance Team yang digelar pada hari Minggu, 6 November 2016 bertempat di Mangga Dua Square, Jakarta.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "anniversary_sgdc_fumiko_2016",
+        "location_address": "Mangga Dua Square, Jl. Gunung Sahari No.1, Ancol, Kec. Pademangan, Kota Jakarta Utara, DKI Jakarta 14430",
+        "location_city": "Jakarta Utara",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Community Gathering",
+                "Performance / Concert"
+            ],
+            "organizer": "SGDC & Fumiko Dance Team",
+            "description": "Ajang gathering dan showcase penampil tari cover perayaan 1 tahun SGDC dan Fumiko Dance Team.",
+            "activities": [
+                "Dance Cover Showcase",
+                "Anniversary Celebration",
+                "Community Gathering"
+            ],
+            "performers": [
+                "Fumiko Dance Team",
+                "SGDC"
+            ],
+            "venue_partner": [
+                "Mangga Dua Square"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161112",
+        "Start Time": "",
+        "End Date": "20161210",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "HERICON 2016 Event Series",
+        "Location": "Jabodetabek",
+        "Comment": "Rangkaian event berkala HERICON yang dilaksanakan pada beberapa tanggal akhir pekan (12, 13, 19, 26, 27 November & 3, 4, 10 Desember 2016) di wilayah Jabodetabek.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "hericon_event_series_2016",
+        "location_address": "Jabodetabek",
+        "location_city": "Jakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Pop-Up Market / Exhibition",
+                "Cosplay Event"
+            ],
+            "organizer": "HERICON",
+            "description": "Rangkaian tur konvensi hobi dan pop kultur Jepang yang diselenggarakan marathon tiap akhir pekan dari November hingga awal Desember 2016.",
+            "activities": [
+                "Pop Culture Exhibition",
+                "Cosplay Event",
+                "Community Gathering"
+            ]
+        }
     },
     {
         "Start Date": "20161113",
@@ -2726,6 +3691,48 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20161113",
+        "Start Time": "",
+        "End Date": "20161113",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Seishun Matsuri 2016",
+        "Location": "UNINDRA Pasar Rebo, Jakarta",
+        "Comment": "Festival kebudayaan Jepang universitas bertajuk 'Seishun Matsuri' yang diselenggarakan oleh Universitas Indraprasta PGRI (UNINDRA) Kampus Pasar Rebo pada Minggu, 13 November 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "seishun_matsuri_unindra_2016",
+        "location_address": "Kampus A UNINDRA, Jl. Nangka No.58, Gedong, Kec. Pasar Rebo, Kota Jakarta Timur, DKI Jakarta 13760",
+        "location_city": "Jakarta Timur",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Campus Event",
+                "Cosplay Event"
+            ],
+            "organizer": "UKM / Himpunan UNINDRA",
+            "description": "Festival budaya Jepang Kampus Unindra dengan pertunjukan seni budaya, band J-Music, serta ajang perlombaan cosplay.",
+            "activities": [
+                "Cosplay Competition",
+                "Japanese Cultural Exhibition",
+                "Band Performance"
+            ],
+            "venue_partner": [
+                "UNINDRA Kampus Pasar Rebo"
+            ]
+        }
+    },
+    {
         "Start Date": "20161119",
         "Start Time": "12:00 AM",
         "End Date": "20161120",
@@ -2756,6 +3763,48 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161119",
+        "Start Time": "",
+        "End Date": "20161119",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nanotenri 2016",
+        "Location": "SMAN Labschool Cibubur",
+        "Comment": "Festival Jepang tingkat sekolah bertajuk 'Nanotenri' yang diselenggarakan di SMAN Labschool Cibubur pada Sabtu, 19 November 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nanotenri_labschool_cibubur_2016",
+        "location_address": "SMAN Labschool Cibubur, Jl. Raya Raya Kampus Labschool No.1, Jatiranggon, Kec. Jatisampurna, Kota Bekasi, Jawa Barat 17432",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN Labschool Cibubur",
+            "description": "Festival budaya dan edukasi Jepang di lingkungan sekolah Labschool Cibubur.",
+            "activities": [
+                "Cosplay Contest",
+                "Cultural Workshop",
+                "Live Music Performance"
+            ],
+            "venue_partner": [
+                "SMAN Labschool Cibubur"
+            ]
+        }
     },
     {
         "Start Date": "20161120",
@@ -2904,6 +3953,90 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161120",
+        "Start Time": "",
+        "End Date": "20161120",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Yujitsu Matsuri 2016",
+        "Location": "SMKN 1 Cikarang Barat",
+        "Comment": "Festival kebudayaan Jepang 'Yujitsu Matsuri' yang diselenggarakan di SMKN 1 Cikarang Barat, Kabupaten Bekasi pada Minggu, 20 November 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "yujitsu_matsuri_smkn1_cikarang_2016",
+        "location_address": "SMKN 1 Cikarang Barat, Jl. Teuku Umar KM. 29, Telaga Asih, Kec. Cikarang Barat, Kabupaten Bekasi, Jawa Barat 17530",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMKN 1 Cikarang Barat",
+            "description": "Festival Jepang tahunan di SMKN 1 Cikarang Barat menyajikan panggung cosplay dan parade seni budaya.",
+            "activities": [
+                "Cosplay Competition",
+                "Band Showcase",
+                "Japanese Game Stalls"
+            ],
+            "venue_partner": [
+                "SMKN 1 Cikarang Barat"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161120",
+        "Start Time": "",
+        "End Date": "20161120",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Tribute To L'Arc~en~Ciel 2016",
+        "Location": "Loop Station Bulungan (Blok M), Jakarta",
+        "Comment": "Pertunjukan musik tribute untuk grup band rock Jepang L'Arc~en~Ciel yang diselenggarakan pada Minggu, 20 November 2016 bertempat di Loop Station Bulungan, Jakarta Selatan.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "tribute_to_larcenciel_2016",
+        "location_address": "Loop Station, Jl. Mahakam No.3, Kramat Pela, Kec. Kebayoran Baru, Kota Jakarta Selatan, DKI Jakarta 12130",
+        "location_city": "Jakarta Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Performance / Concert",
+                "Community Gathering",
+                "Music Event"
+            ],
+            "organizer": "Komunitas L'Arc~en~Ciel Indonesia",
+            "description": "Acara konser tribute membawakan lagu-lagu legendaris L'Arc~en~Ciel bersama band-band pemuda setempat.",
+            "activities": [
+                "Tribute Band Performance",
+                "Sing Along / Jamming Session",
+                "Fans Gathering"
+            ],
+            "venue_partner": [
+                "Loop Station Bulungan"
+            ]
+        }
     },
     {
         "Start Date": "20161125",
@@ -3128,6 +4261,49 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161125",
+        "Start Time": "",
+        "End Date": "20161127",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Moshi Moshi 2: Authentic Japan Festival",
+        "Location": "Summarecon Mall Bekasi",
+        "Comment": "Festival kebudayaan dan kuliner Jepang bertajuk 'Moshi Moshi 2' yang diselenggarakan selama tiga hari dari 25 hingga 27 November 2016 di Summarecon Mall Bekasi.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "moshi_moshi_2_smb_2016",
+        "location_address": "Summarecon Mall Bekasi, Jl. Bulevar Ahmad Yani, Marga Mulya, Kec. Bekasi Utara, Kota Bekasi, Jawa Barat 17142",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay Event",
+                "Pop-Up Market / Exhibition"
+            ],
+            "organizer": "Summarecon Mall Bekasi",
+            "description": "Festival kuliner dan pop kultur Jepang di Summarecon Mall Bekasi yang menampilkan artis J-Music, bazaar bazaar Jepang, dan kompetisi cosplay.",
+            "activities": [
+                "Culinary Bazaar",
+                "Cosplay Competition",
+                "J-Music Guest Star Performance",
+                "Taiko & Yosakoi Performance"
+            ],
+            "venue_partner": [
+                "Summarecon Mall Bekasi"
+            ]
+        }
     },
     {
         "Start Date": "20161127",
@@ -3397,6 +4573,89 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20161204",
+        "Start Time": "",
+        "End Date": "20161204",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Animaku no Hibi 2016",
+        "Location": "STAN Bintaro, Tangerang Selatan",
+        "Comment": "Festival budaya pop Jepang perguruan tinggi 'Animaku no Hibi' yang bertempat di Kampus STAN Bintaro pada Minggu, 4 Desember 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "animaku_no_hibi_stan_2016",
+        "location_address": "Politeknik Keuangan Negara STAN, Jl. Bintaro Utama Sektor V, Jurang Manggu Timur, Kec. Pondok Aren, Kota Tangerang Selatan, Banten 15222",
+        "location_city": "Tangerang Selatan",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Campus Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Keluarga Mahasiswa STAN",
+            "description": "Festival budaya dan karya otaku tahunan yang diadakan di Politeknik Keuangan Negara STAN Bintaro.",
+            "activities": [
+                "Cosplay Competition",
+                "Anisong Band Performance",
+                "Cultural Contest"
+            ],
+            "venue_partner": [
+                "PKN STAN Bintaro"
+            ]
+        }
+    },
+    {
+        "Start Date": "20161216",
+        "Start Time": "",
+        "End Date": "20161217",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Nihon Bungaku Days 2016",
+        "Location": "Gedung Pascasarjana Universitas Pakuan (Unpak), Bogor",
+        "Comment": "Acara apresiasi sastra dan festival Jepang 'Nihon Bungaku Days' yang bertempat di Gedung Pascasarjana Universitas Pakuan (Unpak) Bogor pada 16\u00e2\u20ac\u201c17 Desember 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "nihon_bungaku_days_unpak_2016",
+        "location_address": "Gedung Pascasarjana Universitas Pakuan, Jl. Pakuan No.1, Tegallega, Kec. Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+        "location_city": "Bogor",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Campus Event"
+            ],
+            "organizer": "Sastra Jepang Universitas Pakuan",
+            "description": "Peringatan hari sastra dan festival kebudayaan Jepang yang diadakan oleh Program Studi Sastra Jepang Universitas Pakuan Bogor.",
+            "activities": [
+                "Japanese Literature Seminar / Talkshow",
+                "Cultural Contest",
+                "Performance Showcase"
+            ],
+            "venue_partner": [
+                "Universitas Pakuan Bogor"
+            ]
+        }
+    },
+    {
         "Start Date": "20161218",
         "Start Time": "12:00 AM",
         "End Date": "20161219",
@@ -3427,5 +4686,47 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20161218",
+        "Start Time": "",
+        "End Date": "20161218",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Musashi 2016",
+        "Location": "SMAN 10 Bekasi",
+        "Comment": "Festival Jepang tingkat SMA bertajuk 'Musashi' yang diselenggarakan di SMAN 10 Bekasi pada Minggu, 18 Desember 2016.",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "musashi_sman10_bekasi_2016",
+        "location_address": "SMAN 10 Bekasi, Jl. Flamboyan Raya, Harapan Indah, Pejuang, Kec. Medan Satria, Kota Bekasi, Jawa Barat 17131",
+        "location_city": "Bekasi",
+        "location_country": "Indonesia",
+        "location_coordinate": "",
+        "location_gmaps": "",
+        "links": [
+            "https://web.facebook.com/share/p/18XQrurAyi/"
+        ],
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "School Event",
+                "Cosplay Event"
+            ],
+            "organizer": "Ekstrakurikuler Jepang SMAN 10 Bekasi",
+            "description": "Festival kebudayaan Jepang sekolah menengah di Bekasi dengan pentas seni, perlombaan cosplay, dan bazaar.",
+            "activities": [
+                "Cosplay Competition",
+                "Live Band Performance",
+                "Japanese Culture Contest"
+            ],
+            "venue_partner": [
+                "SMAN 10 Bekasi"
+            ]
+        }
     }
 ]

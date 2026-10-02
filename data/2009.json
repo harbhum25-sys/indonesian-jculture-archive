@@ -668,6 +668,58 @@
     },
     {
         "Start Date": "20090301",
+        "Start Time": "10:00",
+        "End Date": "20090301",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Agitated Scream of Beauty (Dir en Grey vs the GazettE Tribute)",
+        "Location": "Universitas Kristen Duta Wacana (UKDW) - Auditorium Koinonia",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "agitated_scream_of_beauty_2009_yogyakarta",
+        "location_address": "Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+        "location_city": "Yogyakarta",
+        "location_country": "Indonesia",
+        "location_coordinate": "-7.785934197352136, 110.37830359057166",
+        "location_gmaps": "https://maps.app.goo.gl/bStfdry38nFBmYhn9",
+        "links": [
+            "https://web.facebook.com/share/1FTtLKocB6/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Musik - Band / Live Performance",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "BDC",
+            "theme": "Dir en Grey vs the GazettE Tribute",
+            "featured_performers": [
+                "Julia",
+                "Watershield"
+            ],
+            "performers": [
+                "Pochi Monchi (BDG)",
+                "Leech:Killer Loops",
+                "Corpse Voice",
+                "Skynami Project",
+                "Qiraku",
+                "The Agony",
+                "Hitokiri",
+                "Zetsume"
+            ],
+            "ticket_info": {
+                "htm": "Rp 15.000 (Softdrink + Sticker)"
+            }
+        }
+    },
+    {
+        "Start Date": "20090301",
         "Start Time": "",
         "End Date": "20090315",
         "End Time": "",
@@ -2199,6 +2251,54 @@
         "location_country": "Indonesia",
         "date_precision": "day",
         "source_status": "archived"
+    },
+    {
+        "Start Date": "20091107",
+        "Start Time": "09:00",
+        "End Date": "20091107",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "G.O.T.H (Geotropism of The Halloween)",
+        "Location": "SMAN 20 Bandung",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "goth_geotropism_of_the_halloween_2009_bandung",
+        "location_address": "Jl. Citarum No.23, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "location_city": "Bandung",
+        "location_coordinate": "-6.904429594218588, 107.62230182165223",
+        "location_gmaps": "https://maps.app.goo.gl/jXgAS4k5Tz6oR56X9",
+        "location_country": "Indonesia",
+        "links": [
+            "https://web.facebook.com/share/1KKR9pCT3F/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Gathering / Parade / Casual",
+                "Gathering / Komunitas",
+                "Musik - Band / Live Performance"
+            ],
+            "organizer": "SMAN 20 Bandung",
+            "theme": "Geotropism of The Halloween",
+            "events": [
+                "Para Para Dance",
+                "Cosplay",
+                "Games",
+                "Bon Odori"
+            ],
+            "performers": [
+                "Pochi Monchi",
+                "Kabuki",
+                "Death Rhapsody"
+            ]
+        }
     },
     {
         "Start Date": "20091114",

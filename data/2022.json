@@ -7693,6 +7693,86 @@
         "source_status": "archived"
     },
     {
+        "Start Date": "20220820",
+        "Start Time": "",
+        "End Date": "20220821",
+        "End Time": "",
+        "Reminder On/Off": "No",
+        "Reminder Date": "",
+        "Reminder Time": "",
+        "Importance": "",
+        "Subject": "Mukashi Junbi Festival",
+        "Location": "Metropolis Town Square",
+        "Comment": "",
+        "Online/Offline": "Offline",
+        "status": "Finished",
+        "attended": "No",
+        "_id": "mukashi_junbi_festival_2022_tangerang",
+        "location_address": "Jl. Hartono Raya No.3, RT.003/RW.006, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15118",
+        "location_city": "Tangerang",
+        "location_country": "Indonesia",
+        "location_coordinate": "-6.197514154797355, 106.63710592920405",
+        "location_gmaps": "https://maps.app.goo.gl/ZQaPQTDvzg6TTEcz5",
+        "links": [
+            "https://www.instagram.com/p/Cgx5aHRBfQV/",
+            "https://goers.co/mukashijunbi",
+            "https://www.facebook.com/mukashid/"
+        ],
+        "date_precision": "day",
+        "source_status": "archived",
+        "Content": {
+            "category": [
+                "Festival / Matsuri",
+                "Cosplay - Competition / Coswalk",
+                "Dance Cover Competition",
+                "Party / Night Event",
+                "Gathering / Komunitas"
+            ],
+            "organizer": "Mukashi.id",
+            "guest_stars": [
+                "Refeen",
+                "Fera Jelita",
+                "Biyaa",
+                "Zhuge Kamiya"
+            ],
+            "mc": [
+                "Tidar",
+                "Naocchi"
+            ],
+            "performers": {
+                "dance": [
+                    "DDM X MONOLITE",
+                    "KURESSHENDO",
+                    "AMAI MONOGATARI",
+                    "HOSHI METAL",
+                    "NEXTANANTIVE"
+                ],
+                "dj": [
+                    "DJ H.L.D.N",
+                    "KAZUSA",
+                    "ANIFUNKOT INDONESIA",
+                    "FERUALF",
+                    "FURTIMIND"
+                ]
+            },
+            "competition": {
+                "cosplay": {
+                    "registration_link": "https://wa.me/message/2POXVTLPC4FSD1"
+                }
+            },
+            "ticket_info": {
+                "presale_1": "SOLD OUT",
+                "presale_2": "Rp 60.000 / 2 HARI (1000 Ticket)",
+                "presale_3": "Rp 40.000 / 1 HARI (5000 Ticket)",
+                "ticket_link": "https://goers.co/mukashijunbi"
+            },
+            "social_media": {
+                "instagram": "@mukashifestival.id",
+                "facebook": "Mukashi.id"
+            }
+        }
+    },
+    {
         "Start Date": "20220821",
         "Start Time": "6:00 PM",
         "End Date": "20220821",
