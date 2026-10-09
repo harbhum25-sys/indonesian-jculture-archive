@@ -23666,6 +23666,208 @@
         }
     },
     {
+      "Start Date": "20261009",
+      "Start Time": "",
+      "End Date": "20261011",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Cosplay & Superhero Cabaret Event @ 23 Semarang Shopping Center",
+      "Location": "Atrium 23 Semarang Shopping Center",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "semarang_shopping_center_cosplay_cabaret_2026",
+      "location_address": "Pearl of Java Avenue, POJ City No.Kav. 1, Tambakharjo, Kota Semarang, Jawa Tengah",
+      "location_city": "Semarang",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.953674708241513, 110.38056535420165",
+      "location_gmaps": "https://maps.app.goo.gl/tfLx1oawzBo28gnj8",
+      "location_country": "Indonesia",
+      "links": [
+        "https://www.instagram.com/p/DeMIiQmlALe/",
+        "https://forms.gle/zGWXXynQLhnZ2BTL9",
+        "https://forms.gle/DHWVS4EuueCXuPRr5",
+        "https://forms.gle/i9frjxhTbzyEYqpQ8",
+        "https://forms.gle/keUowjU9xiV5YgWt5"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Cosplay - Kabaret / Perform",
+          "Musik - Dance / Cover",
+          "Festival / Matsuri"
+        ],
+        "ticket_info": {
+          "htm": "FREE / Gratis"
+        },
+        "competition": {
+          "cosplay": {
+            "name": "Cosplay Competition (Coscom)",
+            "registration_link": "https://forms.gle/zGWXXynQLhnZ2BTL9"
+          },
+          "coswalk": {
+            "name": "Coswalk Competition",
+            "registration_link": "https://forms.gle/DHWVS4EuueCXuPRr5"
+          },
+          "j_song": {
+            "name": "J-Song Contest",
+            "registration_link": "https://forms.gle/i9frjxhTbzyEYqpQ8",
+            "note": "Pemenang berkesempatan tampil di acara cosplay hari Minggu"
+          },
+          "j_dance": {
+            "name": "J-Dance Contest",
+            "registration_link": "https://forms.gle/keUowjU9xiV5YgWt5",
+            "note": "Pemenang berkesempatan tampil di acara cosplay hari Minggu"
+          }
+        },
+        "events": [
+          "Cosplay Competition",
+          "Coswalk Competition",
+          "J-Song Contest",
+          "J-Dance Contest",
+          "Kabaret Superhero",
+          "Open Perform"
+        ],
+        "rundown" : {
+  "friday_9_october_2026": {
+    "16:00": "OPENING MUSIC",
+    "16:30": "OPEN PERFORM",
+    "17:00": "SUPERHERO SHOW",
+    "17:15": "OPEN PERFORM",
+    "17:30": "BREAK",
+    "18:00": "GAMES & CHALLENGE",
+    "18:15": "DJ MOVERAVE",
+    "19:00": "SUPERHERO SHOW",
+    "19:15": "RPD WITH JUST LABEL",
+    "20:15": "CLOSING"
+  },
+  "saturday_10_october_2026": {
+    "15:00": "OPENING MUSIC",
+    "15:30": "OPEN PERFORM",
+    "16:00": "J-SONG CONTEST",
+    "17:00": "SUPERHERO SHOW",
+    "17:15": "GAMES",
+    "17:30": "BREAK",
+    "18:00": "J-DANCE CONTEST",
+    "19:00": "SUPERHERO SHOW",
+    "19:15": "DANCE IDOL EQUIVALENT",
+    "20:00": "AWARDING",
+    "21:15": "CLOSING"
+  },
+  "sunday_11_october_2026": {
+    "14:00": "OPENING MUSIC",
+    "14:30": "OPEN PERFORM",
+    "15:30": "COSPLAY COMPETITION",
+    "16:30": "COSWALK COMPETITION",
+    "17:00": "SUPERHERO SHOW",
+    "17:15": "GAMES & CHALENGE",
+    "17:30": "BREAK",
+    "18:00": "OPEN PERFORM",
+    "18:30": "SING WITH ERRIVO DUA SERUPA",
+    "19:00": "SUPERHERO SHOW",
+    "19:15": "SPECIAL PERFORM EURIFESSA",
+    "20:15": "AWARDING",
+    "20:30": "CLOSING"
+  }
+}
+      }
+    },
+    {
+      "Start Date": "20261031",
+      "Start Time": "12:00",
+      "End Date": "20261031",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "AUTUMN REVERIE",
+      "Location": "Jawir Creative Communal Space",
+      "Comment": "",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "autumn_reverie_2026_yogyakarta",
+      "location_address": "Jl. Suryodiningratan No.26, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141",
+      "location_city": "Yogyakarta",
+      "location_country": "Indonesia",
+      "location_coordinate": "-7.817769070659895, 110.35994972446638",
+      "location_gmaps": "https://maps.app.goo.gl/3xMxy7W1nHy6dJTg7",
+      "links": [
+        "https://www.instagram.com/p/DeLfhbgTsPu/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Band / Live Performance",
+          "Musik - DJ / Anisong",
+          "Musik - Idol / Dance Cover",
+          "Bazaar / Market",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "Tokusatsu Yogyakarta",
+          "MY Organizer",
+          "Jawir Creative Communal Space",
+          "Kasabi Jogja"
+        ],
+        "competition": {
+          "coswalk": {
+            "name": "Coswalk Competition"
+          },
+          "j_song": {
+            "name": "JSong / J-Song"
+          }
+        },
+        "open_calls": {
+          "open_tenant": [
+            "Aksesoris",
+            "Diecast",
+            "Merchandise",
+            "Thrift",
+            "Nail Art",
+            "Face Painting"
+          ],
+          "open_talent": [
+            "Dance",
+            "DJ",
+            "Idol",
+            "Band"
+          ]
+        },
+        "events": [
+          "JSong",
+          "DJ Performance",
+          "Band Performance",
+          "Idol Performance",
+          "Coswalk Competition",
+          "Bazaar / Stand Non-Food"
+        ],
+        "contact": {
+          "phone": [
+            "088216369249"
+          ]
+        },
+        "social_media": {
+          "instagram": [
+            "@tokusatsu_yogyakarta",
+            "@myorganizer.official",
+            "@jawirspace",
+            "@kasabi.jogja"
+          ]
+        }
+      }
+    },
+    {
         "Start Date": "20260607",
         "Start Time": "15:00",
         "End Date": "20260607",
@@ -49117,7 +49319,8 @@
         "location_gmaps": "https://g.page/ciwalk-bandung",
         "location_country": "Indonesia",
         "links": [
-            "https://www.instagram.com/p/Dd58DTHElZo/"
+            "https://www.instagram.com/p/Dd58DTHElZo/",
+            "https://www.instagram.com/p/DePrVPLkswz/"
         ],
         "date_precision": "day",
         "source_status": "archived",
@@ -49128,7 +49331,39 @@
                 "Gathering / Komunitas"
             ],
             "organizer": "Kyuufest",
-            "edition": "2"
+            "edition": "2",
+            "rundown" : {
+  "sabtu_10_oktober_2026": {
+    "12.00": "OPEN GATE",
+    "13.00-14.00": "KARAOKE PARTY",
+    "14.00-14.30": "VANNY",
+    "14.30-15.00": "ACELIA",
+    "15.00-15.30": "BREAK ASHAR",
+    "15.30-16.30": "DOMINO COSPLAY TURNAMEN",
+    "16.30-17.00": "AOMI COSU",
+    "17.00-17.30": "RIKA",
+    "17.30-18.00": "VELAMASC",
+    "18.00-18.30": "BREAK MAGHRIB",
+    "18.30-19.00": "NAIRA",
+    "19.00-19.30": "AURORA DREAM",
+    "19.30-20.00": "DJ COPICAT SUNDAY"
+  },
+  "minggu_11_oktober_2026": {
+    "12.00": "OPEN GATE",
+    "13.00-13.30": "KARAOKE PARTY",
+    "13.30-14.00": "YASRIL",
+    "14.00-14.30": "KAZUKI",
+    "14.30-15.00": "ROYALE PROMISE",
+    "15.00-15.30": "BREAK ASHAR",
+    "15.30-16.00": "OTAOKE",
+    "16.00-17.00": "DOMINO IDOL TURNAMEN",
+    "17.00-17.30": "MERORA",
+    "17.30-18.00": "break",
+    "18.00-18.30": "SIRENE STAR",
+    "18.30-19.00": "CHORUSELLA",
+    "19.00-19.30": "DJ OGAWA"
+  }
+}
         }
     },
     {
