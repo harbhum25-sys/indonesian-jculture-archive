@@ -4464,6 +4464,130 @@
     },
     {
       "Start Date": "20261017",
+      "Start Time": "20:00",
+      "End Date": "20261017",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Virtual Visual Kei Live Showcase Night",
+      "Location": "Secret Base ROBLOX Experience / Server (@secretbaseroblox)",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
+      "Online/Offline": "Online",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "virtual_visual_kei_live_showcase_night_2026_roblox",
+      "location_address": "",
+      "location_city": "",
+      "location_country": "Online",
+      "location_coordinate": "",
+      "location_gmaps": "",
+      "links": [
+        "https://www.instagram.com/p/Def9sTsyXGO/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Musik - Band / Live Performance",
+          "Virtual / Roblox Event",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "La'vierre",
+          "Secret Base Roblox (@secretbaseroblox)"
+        ],
+        "theme": "Visual Kei Virtual Live Showcase",
+        "opening_act": [
+          "Mul",
+          "Vierre"
+        ],
+        "guest_stars": [
+          "Ony Godfrey (@onygodfrey)",
+          "Nameless Crown (@namelesscrown.id)"
+        ],
+        "ticket_info": {
+          "htm": "FREE / Online Gathering"
+        },
+        "events": [
+          "Virtual Visual Kei Live Showcase",
+          "Opening Act Performance",
+          "Special Guest Performance",
+          "Roblox Avatar Gathering"
+        ],
+        "social_media": {
+          "instagram": [
+            "@secretbaseroblox",
+            "@onygodfrey",
+            "@namelesscrown.id"
+          ]
+        }
+      }
+    },
+    {
+      "Start Date": "20261106",
+      "Start Time": "",
+      "End Date": "20261128",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Nusantara Got Talent 2026 x Save A Lot Market - Bazaar Gen-Z",
+      "Location": "Blok M Hub (Blokhub Blok M)",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "nusantara_got_talent_2026_blok_m_hub",
+      "location_address": "Jl. Sultan Hasanudin, RT.3/RW.1, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160",
+      "location_city": "Jakarta Selatan",
+      "location_country": "Indonesia",
+      "location_coordinate": "-6.243670182866871, 106.79944300772488",
+      "location_gmaps": "https://maps.app.goo.gl/GmqsXfySNC9kqAHm7",
+      "links": [
+        "https://www.instagram.com/p/Dek87GpTVD4/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Musik - Idol / Dance Cover",
+          "Bazaar / Market",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "Nusantara Festival (@nusantarafest2026)",
+          "Save A Lot Market"
+        ],
+        "tagline": "Unleash Your Talent, Show Your Identity!",
+        "performers": [
+          "Akemi ID"
+        ],
+        "ticket_info": {
+          "htm": "FREE ENTRY / Gratis"
+        },
+        "events": [
+          "Nusantara Got Talent / Talent Hunt",
+          "Bazaar Gen-Z",
+          "Special Idol Performance (Akemi ID)"
+        ],
+        "contact": {
+          "phone": [
+            "081410078792"
+          ]
+        },
+        "social_media": {
+          "instagram": [
+            "@nusantarafest2026"
+          ]
+        }
+      }
+    },
+    {
+      "Start Date": "20261017",
       "Start Time": "10:30",
       "End Date": "20261017",
       "End Time": "",
@@ -4471,7 +4595,7 @@
       "Reminder Date": "",
       "Reminder Time": "",
       "Importance": "",
-      "Subject": "SONOBE 2026 (Part 1)",
+      "Subject": "SONOBE 2026 (Insight Budaya)",
       "Location": "Harajuku District Lt. 2, Istana BEC Mall",
       "Comment": "Insert to J-Event List : 20261015 17:08:59\n",
       "Online/Offline": "Offline",
@@ -4530,7 +4654,7 @@
       "Reminder Date": "",
       "Reminder Time": "",
       "Importance": "",
-      "Subject": "SONOBE 2026 (Part 2)",
+      "Subject": "SONOBE 2026 (Insight Cosplay)",
       "Location": "Bandung Creative Hub",
       "Comment": "Insert to J-Event List : 20261015 17:08:59\n",
       "Online/Offline": "Offline",
@@ -11022,7 +11146,7 @@
       "Importance": "",
       "Subject": "ONI FEST - Anime & Cosplay Festival",
       "Location": "Malang City Point",
-      "Comment": "",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
       "Online/Offline": "Offline",
       "status": "Scheduled",
       "attended": "No",
@@ -18458,6 +18582,90 @@
                 "instagram": "@wibufest.surabaya"
             }
         }
+    },
+    {
+      "Start Date": "20261031",
+      "Start Time": "14:00",
+      "End Date": "20261031",
+      "End Time": "18:00",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "AERIS MATSURI 2026 — NIGHT OF THE YOKAI",
+      "Location": "Elysium Bistro – Aeris Hotel Banjarbaru",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "aeris_matsuri_night_of_the_yokai_2026_banjarbaru",
+      "location_address": "Jl. Panglima Batur No.Ujung, Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan 70714",
+      "location_city": "Banjarbaru",
+      "location_country": "Indonesia",
+      "location_coordinate": "-3.439212984857145, 114.82208299551102",
+      "location_gmaps": "https://maps.app.goo.gl/UtEmy8EuLNiR2gTd6",
+      "links": [
+        "https://www.instagram.com/p/DeeOjiYkuY5/",
+        "https://www.instagram.com/aerishotels/p/Dd-eDiRE-UL/",
+        "https://www.instagram.com/aerishotels/p/DeL08yRE4ri/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Festival / Matsuri",
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / Dance Cover",
+          "Musik - J-Pop / Karaoke",
+          "Bazaar / Market",
+          "Gathering / Komunitas"
+        ],
+        "organizer": "Aeris Hotel Banjarbaru",
+        "theme": "Night of the Yokai / Halloween Matsuri",
+        "mc": [
+          "Miclau"
+        ],
+        "guest_stars": [
+          "Lluvia",
+          "Majid Vincent"
+        ],
+        "ticket_info": {
+          "htm": "Rp 35.000 NETT/PAX (Termasuk Beverage Selection Menu & All-In Contest)"
+        },
+        "competition": {
+          "coswalk": {
+            "name": "Coswalk Competition",
+            "prizes": {
+              "best_performance": "IDR 250K + Voucher F&B 200K + Piala",
+              "favorite": "IDR 100K + Voucher F&B 100K + Piala",
+              "best_female": "IDR 150K + Voucher F&B 100K + Piala",
+              "best_male": "IDR 150K + Voucher F&B 100K + Piala",
+              "best_costume": "Voucher F&B 150K + Piala"
+            }
+          },
+          "photo_contest": {
+            "name": "Photo Contest"
+          }
+        },
+        "events": [
+          "Idol Performance",
+          "Coswalk Competition",
+          "Photo Contest",
+          "Games & Best Costume",
+          "Food Bazaar",
+          "Noraebang on Big Screen"
+        ],
+        "contact": {
+          "phone": [
+            "0811-500-1616 (Elysium Bistro)"
+          ]
+        },
+        "social_media": {
+          "instagram": [
+            "@aerishotels"
+          ]
+        }
+      }
     },
     {
         "Start Date": "20260517",
@@ -34559,6 +34767,195 @@
                 "pricing": []
             }
         }
+    },
+    {
+      "Start Date": "20261030",
+      "Start Time": "16:00",
+      "End Date": "20261030",
+      "End Time": "18:15",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "Cosplay Horror Competition - Perayaan Jumat Spooky GIK UGM",
+      "Location": "Spiral Deck Zona D, Gelanggang Inovasi dan Kreativitas (GIK) UGM",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "cosplay_horror_competition_gik_ugm_2026",
+      "location_address": "Jl. Persatuan, Sendowo, Sinduadi, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+      "location_city": "Yogyakarta",
+      "location_country": "Indonesia",
+      "location_coordinate": "-7.774466960252868, 110.37509968623077",
+      "location_gmaps": "https://maps.app.goo.gl/eTboMdoDjpYQiz4JA",
+      "links": [
+        "https://www.instagram.com/p/DeZBIbWJX6b/",
+        "http://ugm.id/CosplayHorrorPJS"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Festival / Matsuri",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "GIK UGM",
+          "Perayaan Jumat Spooky GIK UGM (GIK PJS)",
+          "Gamabunta UGM"
+        ],
+        "supported_by": [
+          "Bank Rakyat Indonesia (BRI)"
+        ],
+        "theme": "Halloween / Horror Spooky Look",
+        "ticket_info": {
+          "htm": "FREE / Gratis 100%"
+        },
+        "competition": {
+          "cosplay_horror": {
+            "name": "Cosplay Horror Competition",
+            "registration_fee": "Gratis 100% (Online & OTS)",
+            "registration_link": "http://ugm.id/CosplayHorrorPJS",
+            "registration_time": "16.00 – 17.30 WIB",
+            "announcement_time": "18.15 WIB",
+            "rules": "Kostum tidak boleh melanggar norma kesopanan / menjaga aurat",
+            "prizes": {
+              "1st": "E-Money Brizzi Rp 300.000",
+              "2nd": "E-Money Brizzi Rp 200.000",
+              "lucky_draw": "E-Money Brizzi Rp 150.000 (untuk 3 cosplayer terpilih)"
+            }
+          }
+        },
+        "events": [
+          "Cosplay Horror Competition",
+          "Perayaan Jumat Spooky GIK UGM",
+          "Lucky Draw Brizzi"
+        ]
+      }
+    },
+    {
+      "Start Date": "20261018",
+      "Start Time": "",
+      "End Date": "20261018",
+      "End Time": "",
+      "Reminder On/Off": "No",
+      "Reminder Date": "",
+      "Reminder Time": "",
+      "Importance": "",
+      "Subject": "MCL II 2026 (Manado Cosplay League)",
+      "Location": "Atrium Manado Town Square 3 (MANTOS 3)",
+      "Comment": "Insert to J-Event List : 20261017 20:47:57\n",
+      "Online/Offline": "Offline",
+      "status": "Scheduled",
+      "attended": "No",
+      "_id": "mcl_ii_2026_manado_town_square_3",
+      "location_address": "Jl. Piere Tendean, Sario Utara, Kec. Sario, Kota Manado, Sulawesi Utara 95114",
+      "location_city": "Manado",
+      "location_country": "Indonesia",
+      "location_coordinate": "1.4695968393882297, 124.83072646629094",
+      "location_gmaps": "https://maps.app.goo.gl/jSnKknjVmbutTsDu5",
+      "links": [
+        "https://www.instagram.com/p/DegHbt8TXtr/"
+      ],
+      "date_precision": "day",
+      "source_status": "archived",
+      "Content": {
+        "category": [
+          "Cosplay - Competition / Coswalk",
+          "Musik - Idol / Dance Cover",
+          "Bazaar / Market",
+          "Gathering / Komunitas"
+        ],
+        "organizer": [
+          "Manado Cosplay League (MCL)"
+        ],
+        "collaboration_with": "Manado High Street Market (MHSM) at Manado Town Square 3",
+        "supported_by": [
+          "IMA (Indonesia Marketing Association Sulawesi Utara)"
+        ],
+        "mc": [
+          "Kirika (@kirikakheyyy)",
+          "Yazaa"
+        ],
+        "judges": {
+          "cosplay": [
+            "Rama (@redzedoart)",
+            "Jecklyneee (@kinekinnnnn)",
+            "Kaz / Kazuto Watanabe (@kazutowatanabecosplay)"
+          ]
+        },
+        "performers": [
+          "Gedict (@gedictcv)",
+          "Hikari (@hikaridc.id)",
+          "Go Hoshi (@gohoshi_)",
+          "Honoo Rize (@honoo.rize)",
+          "Puzzle (@puzzl3dc)"
+        ],
+        "competition": {
+          "categories": [
+            "Coswalk Competition",
+            "Cosplay Competition"
+          ]
+        },
+        "events": [
+          "Coswalk Competition",
+          "Cosplay Competition",
+          "Idol Performance",
+          "Bazaar"
+        ],
+        "sponsors": [
+          "Lyla Projects",
+          "Lyla Cosrent",
+          "Hanae Treats",
+          "Hanae Cosrent",
+          "Broadway Manado",
+          "Grab"
+        ],
+        "media_partners": [
+          "Cosplay Manado",
+          "Cosplay Sulut",
+          "Manevecos",
+          "Wibufest Manado",
+          "Chuadesu",
+          "East Asian Culture"
+        ],
+        "community_partners": [
+          "Animerz Manado (@animerz_mdo)",
+          "Momoshiroi (@momoshiroi.official)",
+          "Immersia",
+          "Kosuken Team"
+        ],
+        "social_media": {
+          "instagram": [
+            "@redzedoart",
+            "@kinekinnnnn",
+            "@kazutowatanabecosplay",
+            "@gedictcv",
+            "@hikaridc.id",
+            "@gohoshi_",
+            "@honoo.rize",
+            "@puzzl3dc",
+            "@kirikakheyyy",
+            "@manado_town_square",
+            "@ima_manado",
+            "@lylaprojects",
+            "@lylacosrent",
+            "@hanaetreats",
+            "@hanae.cosrent",
+            "@broadwaymanado",
+            "@official.cosplaymanado",
+            "@cosplaysulut",
+            "@manevecos",
+            "@wibufest.manado",
+            "@chuadesu",
+            "@eastasian.culture",
+            "@animerz_mdo",
+            "@momoshiroi.official"
+          ]
+        }
+      }
     },
     {
         "Start Date": "20260725",
