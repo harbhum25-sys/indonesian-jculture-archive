@@ -1,43 +1,162 @@
 [
-    {
-        "Start Date": "20270124",
-        "Start Time": "",
-        "End Date": "20270124",
-        "End Time": "",
-        "Reminder On/Off": "No",
-        "Reminder Date": "",
-        "Reminder Time": "",
-        "Importance": "",
-        "Subject": "CELFEST 4TH STAGE",
-        "Location": "Bandung Indah Plaza",
-        "Comment": "Insert to J-Event List : 20261001 14:03:34\n",
-        "Online/Offline": "Offline",
-        "status": "Scheduled",
-        "attended": "No",
-        "_id": "celfest_4th_stage_2027_bandung",
-        "location_address": "Jl. Merdeka No.56, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
-        "location_city": "Bandung",
-        "location_coordinate": "-6.908325126495795, 107.6108120288354",
-        "location_gmaps": "https://g.page/bip_bdg",
-        "location_country": "Indonesia",
-        "links": [
-            "https://www.instagram.com/p/DdoKHwwSAv2/"
-        ],
-        "date_precision": "day",
-        "source_status": "archived",
-        "Content": {
-            "category": [
-                "Festival / Matsuri",
-                "Cosplay - Gathering / Parade / Casual",
-                "Gathering / Komunitas"
-            ],
-            "organizer": "Celestine Organizer",
-            "edition": "4th Stage",
-            "social_media": {
-                "instagram": [
-                    "#CelestineOrganizer"
-                ]
-            }
-        }
+  {
+    "Start Date": "20270124",
+    "Start Time": "",
+    "End Date": "20270124",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "CELFEST 4TH STAGE",
+    "Location": "Bandung Indah Plaza",
+    "Comment": "Insert to J-Event List : 20261001 14:03:34\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "celfest_4th_stage_2027_bandung",
+    "location_address": "Jl. Merdeka No.56, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+    "location_city": "Bandung",
+    "location_coordinate": "-6.908325126495795, 107.6108120288354",
+    "location_gmaps": "https://g.page/bip_bdg",
+    "location_country": "Indonesia",
+    "links": [
+      "https://www.instagram.com/p/DdoKHwwSAv2/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Festival / Matsuri",
+        "Cosplay - Gathering / Parade / Casual",
+        "Gathering / Komunitas"
+      ],
+      "organizer": "Celestine Organizer",
+      "edition": "4th Stage",
+      "social_media": {
+        "instagram": [
+          "#CelestineOrganizer"
+        ]
+      }
     }
+  },
+  {
+    "Start Date": "20270320",
+    "Start Time": "",
+    "End Date": "20270321",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "KOISURU: THE REUNION",
+    "Location": "Lagoon Avenue Mall Sungkono Surabaya",
+    "Comment": "Insert to J-Event List : 20261111 17:18:01\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "koisuru_the_reunion_2027_lagoon_avenue_surabaya",
+    "location_address": "Blok RA No. Kav 9-10, Jl. KH Abdul Wahab Siamin Surabaya, Putat Gede, Kec. Dukuhpakis, Kota SBY, Jawa Timur 60225",
+    "location_city": "Surabaya",
+    "location_coordinate": "-7.289459625961954, 112.70674186946235",
+    "location_gmaps": "https://g.page/lagoon-avenue-mall-sungkono",
+    "location_country": "Indonesia",
+    "links": [
+      "https://www.instagram.com/p/DewhSCDkod2/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Festival / Matsuri",
+        "Cosplay - Gathering / Parade / Casual",
+        "Gathering / Komunitas",
+        "Kebudayaan / Workshop"
+      ],
+      "organizer": [
+        "Octaverse (@octaverse)"
+      ],
+      "venue_partner": "Lagoon Avenue Mall Sungkono Surabaya",
+      "theme": "Koisuru: The Reunion",
+      "ticket_info": {
+        "htm": "TBA / Informasi HTM menyusul"
+      },
+      "roadshow_events": [
+        "Cake Art Date (25 Oktober 2026)",
+        "Blind Date Surabaya (08 November 2026)",
+        "Centyl Flower Workshop (22 November 2026)",
+        "KOISURU Pop-Up! (26–27 Desember 2026)",
+        "Blind Date Malang (10 Januari 2027)",
+        "Chunky Bag Date (24 Januari 2027)",
+        "Kajian: 'Love yourself' (27 Februari 2027)"
+      ],
+      "events": [
+        "Koisuru: The Reunion Main Event",
+        "Cosplay Event & Gathering",
+        "Roadshow Series"
+      ],
+      "social_media": {
+        "hashtags": [
+          "#Koisuru",
+          "#eventcosplay",
+          "#cosplaysurabaya",
+          "#eventjatim",
+          "#anime"
+        ]
+      }
+    }
+  },
+  {
+    "Start Date": "20270515",
+    "Start Time": "",
+    "End Date": "20270516",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "Comic Frontier 24 (Comifuro 24)",
+    "Location": "ICE BSD City",
+    "Comment": "Insert to J-Event List : 20261105 16:58:39\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "comic_frontier_24_comifuro_24_2027_ice_bsd",
+    "location_address": "Jl. BSD Grand Boulevard No.1, Pagedangan",
+    "location_city": "Tangerang Kabupaten",
+    "location_country": "Indonesia",
+    "location_coordinate": "",
+    "location_gmaps": "",
+    "links": [
+      "https://www.instagram.com/p/DfMhcwQmK0T/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Comic Market / Doujinshi Fair",
+        "Artist Alley / Creator Market",
+        "Cosplay - Gathering / Parade / Casual",
+        "Festival / Matsuri",
+        "Gathering / Komunitas"
+      ],
+      "organizer": [
+        "Comic Frontier Committee"
+      ],
+      "edition": "Comifuro 24",
+      "events": [
+        "Doujinshi & Fanwork Exhibition",
+        "Creator & Circle Market",
+        "Corporate & Publisher Exhibition",
+        "Cosplay Gathering & Showcase",
+        "Stage Performance"
+      ],
+      "social_media": {
+        "hashtags": [
+          "#Comifuro23",
+          "#Comifuro24"
+        ]
+      }
+    }
+  }
 ]
