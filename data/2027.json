@@ -1,5 +1,45 @@
 [
   {
+    "Start Date": "20270110",
+    "Start Time": "",
+    "End Date": "20270110",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "KOISURU Roadshow: Blind Date Malang",
+    "Location": "Malang",
+    "Comment": "Insert to J-Event List : 20261111 17:18:01\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "koisuru_roadshow_blind_date_2027_malang",
+    "location_address": "",
+    "location_city": "Malang",
+    "location_country": "Indonesia",
+    "location_coordinate": "",
+    "location_gmaps": "",
+    "links": [
+      "https://www.instagram.com/p/DewhSCDkod2/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Gathering / Komunitas"
+      ],
+      "organizer": [
+        "Octaverse (@octaverse)"
+      ],
+      "theme": "Blind Date - Malang",
+      "events": [
+        "Social Gathering",
+        "Blind Dating Activity"
+      ]
+    }
+  },
+  {
     "Start Date": "20270124",
     "Start Time": "",
     "End Date": "20270124",
@@ -10,7 +50,7 @@
     "Importance": "",
     "Subject": "CELFEST 4TH STAGE",
     "Location": "Bandung Indah Plaza",
-    "Comment": "Insert to J-Event List : 20261001 14:03:34\n",
+    "Comment": "Insert to J-Event List : 20261118 17:23:16\n",
     "Online/Offline": "Offline",
     "status": "Scheduled",
     "attended": "No",
@@ -41,6 +81,88 @@
     }
   },
   {
+    "Start Date": "20270124",
+    "Start Time": "",
+    "End Date": "20270124",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "KOISURU Roadshow: Chunky Bag Date",
+    "Location": "Surabaya",
+    "Comment": "Insert to J-Event List : 20261111 17:18:01\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "koisuru_roadshow_chunky_bag_date_2027_surabaya",
+    "location_address": "",
+    "location_city": "Surabaya",
+    "location_country": "Indonesia",
+    "location_coordinate": "",
+    "location_gmaps": "",
+    "links": [
+      "https://www.instagram.com/p/DewhSCDkod2/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Kebudayaan / Workshop",
+        "Gathering / Komunitas"
+      ],
+      "organizer": [
+        "Octaverse (@octaverse)"
+      ],
+      "theme": "Chunky Bag Date",
+      "events": [
+        "Chunky Bag Crafting Workshop",
+        "Community Gathering"
+      ]
+    }
+  },
+  {
+    "Start Date": "20270227",
+    "Start Time": "",
+    "End Date": "20270227",
+    "End Time": "",
+    "Reminder On/Off": "No",
+    "Reminder Date": "",
+    "Reminder Time": "",
+    "Importance": "",
+    "Subject": "KOISURU Roadshow: Kajian 'Love Yourself'",
+    "Location": "Surabaya",
+    "Comment": "Insert to J-Event List : 20261111 17:18:01\n",
+    "Online/Offline": "Offline",
+    "status": "Scheduled",
+    "attended": "No",
+    "_id": "koisuru_roadshow_kajian_love_yourself_2027_surabaya",
+    "location_address": "",
+    "location_city": "Surabaya",
+    "location_country": "Indonesia",
+    "location_coordinate": "",
+    "location_gmaps": "",
+    "links": [
+      "https://www.instagram.com/p/DewhSCDkod2/"
+    ],
+    "date_precision": "day",
+    "source_status": "archived",
+    "Content": {
+      "category": [
+        "Kebudayaan / Workshop",
+        "Gathering / Komunitas"
+      ],
+      "organizer": [
+        "Octaverse (@octaverse)"
+      ],
+      "theme": "Kajian: Love Yourself",
+      "events": [
+        "Kajian / Talkshow",
+        "Community Gathering"
+      ]
+    }
+  },
+  {
     "Start Date": "20270320",
     "Start Time": "",
     "End Date": "20270321",
@@ -51,7 +173,7 @@
     "Importance": "",
     "Subject": "KOISURU: THE REUNION",
     "Location": "Lagoon Avenue Mall Sungkono Surabaya",
-    "Comment": "Insert to J-Event List : 20261111 17:18:01\n",
+    "Comment": "Insert to J-Event List : 20261118 17:23:16\n",
     "Online/Offline": "Offline",
     "status": "Scheduled",
     "attended": "No",
@@ -117,7 +239,7 @@
     "Importance": "",
     "Subject": "Comic Frontier 24 (Comifuro 24)",
     "Location": "ICE BSD City",
-    "Comment": "Insert to J-Event List : 20261105 16:58:39\n",
+    "Comment": "Insert to J-Event List : 20261118 17:23:16\n",
     "Online/Offline": "Offline",
     "status": "Scheduled",
     "attended": "No",

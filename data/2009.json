@@ -55,7 +55,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090116",
@@ -87,7 +87,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090118",
@@ -120,7 +120,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090201",
@@ -153,7 +153,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090206",
@@ -198,7 +198,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090219",
@@ -213,7 +213,7 @@
     "Location": "Taman Budaya Surakarta",
     "Comment": "Source: Animonster 121 - April 2009, halaman 064",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "Not Specified",
     "_id": "ztfcpp_6",
     "location_address": "Jl. Ir. Sutami No.57, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57731",
@@ -252,7 +252,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090227",
@@ -267,7 +267,7 @@
     "Location": "CCCL Surabaya dan C2O",
     "Comment": "Acara festival komik yang mencakup pameran, workshop, dan forum.",
     "Online/Offline": "Offline",
-    "status": "Past Event",
+    "status": "Pending",
     "attended": "",
     "_id": "nildng_6",
     "location_address": "Jl. Darmokali No.10, Keputran, Kec. Tegalsari, Surabaya, Jawa Timur 60265",
@@ -331,7 +331,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090301",
@@ -376,7 +376,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090301",
@@ -403,7 +403,7 @@
       "https://web.facebook.com/share/1FTtLKocB6/"
     ],
     "date_precision": "day",
-    "source_status": "archived",
+    "source_status": "Finished",
     "Content": {
       "category": [
         "Musik - Band / Live Performance",
@@ -461,7 +461,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090312",
@@ -510,7 +510,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090314",
@@ -546,7 +546,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090321",
@@ -607,7 +607,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090321",
@@ -702,7 +702,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090411",
@@ -750,7 +750,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090419",
@@ -820,7 +820,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090510",
@@ -852,7 +852,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090524",
@@ -919,7 +919,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090530",
@@ -963,7 +963,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090530",
@@ -1032,7 +1032,7 @@
     },
     "location_country": "United States",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090606",
@@ -1088,7 +1088,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090613",
@@ -1157,7 +1157,7 @@
       ]
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090619",
@@ -1202,7 +1202,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090701",
@@ -1252,7 +1252,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090703",
@@ -1325,7 +1325,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090704",
@@ -1357,7 +1357,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090715",
@@ -1442,7 +1442,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090719",
@@ -1503,7 +1503,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090725",
@@ -1535,7 +1535,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090809",
@@ -1604,7 +1604,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090830",
@@ -1636,7 +1636,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090904",
@@ -1668,7 +1668,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20090927",
@@ -1700,7 +1700,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091003",
@@ -1781,7 +1781,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091017",
@@ -1848,7 +1848,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091101",
@@ -1917,7 +1917,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091107",
@@ -1944,7 +1944,7 @@
       "https://web.facebook.com/share/1KKR9pCT3F/"
     ],
     "date_precision": "day",
-    "source_status": "archived",
+    "source_status": "Finished",
     "Content": {
       "category": [
         "Festival / Matsuri",
@@ -1997,7 +1997,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091122",
@@ -2027,7 +2027,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091122",
@@ -2060,7 +2060,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091129",
@@ -2092,7 +2092,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091213",
@@ -2124,7 +2124,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091226",
@@ -2157,7 +2157,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20091231",

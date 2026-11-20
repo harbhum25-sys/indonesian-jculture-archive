@@ -35,7 +35,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030308",
@@ -73,7 +73,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030309",
@@ -112,7 +112,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030511",
@@ -170,7 +170,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030517",
@@ -232,7 +232,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030612",
@@ -295,7 +295,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030701",
@@ -338,7 +338,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030705",
@@ -407,7 +407,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20030915",
@@ -422,7 +422,7 @@
     "Location": "Jepang (Tokyo, Kyoto, Hiroshima, Fukuoka)",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "Yes",
     "_id": "FPC-2003-JL",
     "location_address": "Berbagai lokasi di Jepang",
@@ -501,7 +501,7 @@
     },
     "location_country": "Japan",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20031022",
@@ -556,7 +556,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20031024",
@@ -571,7 +571,7 @@
     "Location": "SD Bethel, SD Mawar Sharon, Kidz Station Pondok Indah Mall, Metro Plaza Senayan",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "jvtwmr_8",
     "location_address": "Jl. Swasembada Timur XI No.36 38, RT.12/RW.10, Kebon Bawang, Tanjung Priok, North Jakarta City, Jakarta 14320",
@@ -599,7 +599,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20031122",
@@ -614,7 +614,7 @@
     "Location": "Aula Timur ITB",
     "Comment": "Implementasi praktis telaah kritis visual manga/anime.",
     "Online/Offline": "Offline",
-    "status": "Past Event",
+    "status": "Finished",
     "attended": "",
     "_id": "ctxxgq_9",
     "location_address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
@@ -705,7 +705,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20031214",
@@ -720,7 +720,7 @@
     "Location": "Pusat Perfilman Usmar Ismail",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Past",
+    "status": "Pending",
     "attended": "",
     "_id": "nyyipr_9",
     "location_address": "Jl. H. R. Rasuna Said, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
@@ -782,7 +782,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20031215",
@@ -840,6 +840,6 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   }
 ]

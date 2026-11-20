@@ -43,7 +43,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020301",
@@ -87,7 +87,7 @@
       "notes": "Dilaksanakan bulan Maret 2002 (bulan lalu dari terbitan majalah)."
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020320",
@@ -129,7 +129,7 @@
       "duration": "2 jam"
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020417",
@@ -191,7 +191,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020501",
@@ -301,7 +301,7 @@
       }
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020501",
@@ -351,7 +351,7 @@
       "source": "Animonster 28 - Juni 2001"
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020502",
@@ -402,7 +402,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020529",
@@ -453,7 +453,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020605",
@@ -504,7 +504,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020727",
@@ -519,7 +519,7 @@
     "Location": "Planet Hollywood",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Past",
+    "status": "Pending",
     "attended": "",
     "_id": "xxarjp_1",
     "location_address": "Jl. Gatot Subroto No.Kav. 19, RT.8/RW.2, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190",
@@ -554,7 +554,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020810",
@@ -569,7 +569,7 @@
     "Location": "Matahari Taman Anggrek dan Toy City Pondok Indah",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "eaeaew_6",
     "location_address": "Mall Taman Anggrek, Jl. S. Parman No.Kav 21, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11420",
@@ -601,7 +601,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20020810",
@@ -616,7 +616,7 @@
     "Location": "Vega Ranggamalela dan Vega BSM",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "rndtpv_6",
     "location_address": "Jl. Ranggamalela No.3, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116",
@@ -643,7 +643,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20021102",
@@ -694,7 +694,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20021102",
@@ -709,7 +709,7 @@
     "Location": "Audiatorium Dinas Kebudayaan & Permuseuman DKI Jakarta",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "vlazyz_9",
     "location_address": "Gedung Nyi Ageng Serang, Jl. H. R. Rasuna Said No.22, RT.2/RW.5, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
@@ -745,6 +745,6 @@
     "source": "Animonster 44 - November 2002",
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   }
 ]

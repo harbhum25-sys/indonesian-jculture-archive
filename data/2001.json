@@ -60,7 +60,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010605",
@@ -132,7 +132,7 @@
     "source": "Animonster 29 - Juli 2001",
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010630",
@@ -147,7 +147,7 @@
     "Location": "Atrium Plaza Senayan",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Success",
+    "status": "Finished",
     "attended": "Yes",
     "_id": "fijcwk_3",
     "location_address": "Jl. Asia Afrika No.8, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
@@ -193,7 +193,7 @@
     "source": "Animonster 30 - Agustus 2001",
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010722",
@@ -267,7 +267,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010729",
@@ -338,7 +338,7 @@
     },
     "location_country": "Japan",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010805",
@@ -393,7 +393,7 @@
     },
     "location_country": "Japan",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010910",
@@ -408,7 +408,7 @@
     "Location": "Auditorium Gedung IX Fakultas Sastra UI",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "qiboam_5",
     "location_address": "JRPH+C5C, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
@@ -454,7 +454,7 @@
     "source": "Animonster 32 - Oktober 2001",
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20010912",
@@ -510,7 +510,7 @@
     "source": "Animonster 32 - Oktober 2001",
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20011001",
@@ -557,6 +557,6 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   }
 ]

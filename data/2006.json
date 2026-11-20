@@ -40,7 +40,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060211",
@@ -55,7 +55,7 @@
     "Location": "Benteng Vredeburg",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "Yes",
     "_id": "002",
     "location_address": "Jl. Margo Mulyo No.6, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
@@ -114,7 +114,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060213",
@@ -206,7 +206,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060218",
@@ -485,7 +485,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060222",
@@ -548,7 +548,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060222",
@@ -563,7 +563,7 @@
     "Location": "Graha Bhakti Budaya TIM",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "Yes",
     "_id": "001",
     "location_address": "Taman Ismail Marzuki, No. 73, Jl. Cikini IX, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",
@@ -617,7 +617,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060304",
@@ -666,7 +666,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060308",
@@ -714,7 +714,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060331",
@@ -756,7 +756,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060406",
@@ -807,7 +807,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060415",
@@ -848,7 +848,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060423",
@@ -943,7 +943,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060428",
@@ -992,7 +992,7 @@
     },
     "location_country": "USA",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060505",
@@ -1029,7 +1029,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060506",
@@ -1071,7 +1071,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060511",
@@ -1086,7 +1086,7 @@
     "Location": "Pusat Studi Jepang dan Lapangan Parkir FIB UI",
     "Comment": "Acara tahunan bertema Experience the Colorful Spirit of Japan yang diselenggarakan oleh HIMAJA UI.",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "vqmhxg_7",
     "location_address": "Universitas Indonesia, Pusat Studi Jepang Universitas Indonesia (PSJ UI, Jl. Prof. DR. Selo Soemardjan, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
@@ -1184,7 +1184,7 @@
       ]
     },
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060513",
@@ -1199,7 +1199,7 @@
     "Location": "Hotel Nikko Jakarta",
     "Comment": "Festival kebudayaan Jepang yang menampilkan perpaduan seni tradisional, musik pop (J-Pop), dan kuliner khas Jepang.",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "ltchge_9",
     "location_address": "Jl. M.H. Thamrin No.59 9, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
@@ -1269,7 +1269,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060514",
@@ -1309,7 +1309,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060519",
@@ -1374,7 +1374,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060520",
@@ -1428,7 +1428,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060520",
@@ -1483,7 +1483,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060521",
@@ -1524,7 +1524,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060603",
@@ -1568,7 +1568,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060604",
@@ -1612,7 +1612,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060604",
@@ -1650,7 +1650,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060607",
@@ -1699,7 +1699,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060611",
@@ -1740,7 +1740,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060616",
@@ -1843,7 +1843,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060618",
@@ -1884,7 +1884,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060625",
@@ -1925,7 +1925,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060625",
@@ -1975,7 +1975,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060627",
@@ -1990,7 +1990,7 @@
     "Location": "Palais Omnisports of Paris Bercy, France",
     "Comment": "Final round of the Indonesian qualification series for the global PES 5 tournament.",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "",
     "_id": "jccast_7",
     "location_address": "8 Bd de Bercy, 75012 Paris, Prancis",
@@ -2025,7 +2025,7 @@
     },
     "location_country": "France",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060701",
@@ -2069,7 +2069,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060708",
@@ -2113,7 +2113,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060709",
@@ -2153,7 +2153,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060709",
@@ -2211,7 +2211,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060715",
@@ -2282,7 +2282,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060716",
@@ -2323,7 +2323,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060716",
@@ -2464,7 +2464,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060718",
@@ -2509,7 +2509,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060722",
@@ -2553,7 +2553,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060722",
@@ -2612,7 +2612,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060728",
@@ -2664,7 +2664,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060729",
@@ -2876,7 +2876,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060813",
@@ -2923,7 +2923,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060818",
@@ -3063,7 +3063,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060901",
@@ -3104,7 +3104,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20060902",
@@ -3167,7 +3167,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20061106",
@@ -3233,7 +3233,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20061206",
@@ -3280,7 +3280,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20061207",
@@ -3329,7 +3329,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20061214",
@@ -3389,7 +3389,7 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   },
   {
     "Start Date": "20061230",
@@ -3404,7 +3404,7 @@
     "Location": "Hotel Ciputra",
     "Comment": "",
     "Online/Offline": "Offline",
-    "status": "Completed",
+    "status": "Finished",
     "attended": "Yes",
     "_id": "cxztgs_9",
     "location_address": "Jl. Letjen S. Parman, RT.11/RW.1, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
@@ -3443,6 +3443,6 @@
     },
     "location_country": "Indonesia",
     "date_precision": "day",
-    "source_status": "archived"
+    "source_status": "Finished"
   }
 ]
